@@ -76,6 +76,99 @@
     return v2
 .end method
 
+.method private static isNoisy(Ljava/lang/String;Ljava/lang/String;)Z
+    .locals 3
+
+    const-string v0, "T"
+
+    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    const/4 v1, 0x1
+
+    if-eqz v0, :cond_0
+
+    invoke-virtual {p1}, Ljava/lang/String;->trim()Ljava/lang/String;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Ljava/lang/String;->length()I
+
+    move-result v0
+
+    const/4 v2, 0x4
+
+    if-ge v0, v2, :cond_0
+
+    return v1
+
+    :cond_0
+    const-string v0, "\u3010World\u3011"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
+
+    move-result v0
+
+    if-nez v0, :cond_1
+
+    const-string v0, "\u3010Nation\u3011"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
+
+    move-result v0
+
+    if-nez v0, :cond_1
+
+    const-string v0, "\u3010Team\u3011"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
+
+    move-result v0
+
+    if-nez v0, :cond_1
+
+    const-string v0, "\u3010Khu\u3011"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
+
+    move-result v0
+
+    if-nez v0, :cond_1
+
+    const-string v0, "\u3010LSV\u3011"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
+
+    move-result v0
+
+    if-nez v0, :cond_1
+
+    const-string v0, "\u3010Private\u3011"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
+
+    move-result v0
+
+    if-nez v0, :cond_1
+
+    const-string v0, "\u3010Guild\u3011"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_2
+
+    :cond_1
+    return v1
+
+    :cond_2
+    const/4 v0, 0x0
+
+    return v0
+.end method
+
 .method public static queue(Ljava/lang/String;Ljava/lang/String;)V
     .locals 5
 
@@ -102,6 +195,15 @@
     return-void
 
     :cond_1
+    invoke-static {p0, p1}, Lcom/hz/en/MissReporter;->isNoisy(Ljava/lang/String;Ljava/lang/String;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_5
+
+    return-void
+
+    :cond_5
     const-string v0, "\n"
 
     const-string v1, "\\n"
