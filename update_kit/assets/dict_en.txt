@@ -6630,3 +6630,35 @@ T	Đám Lính Khô Lâu cản đường chúng ta, hãy tiêu diệt chúng!	Tho
 T	Đám người mình ưng này thật khó đối phó	These hawk-bodied creatures are really tough to deal with.
 T	Đáng ghét.	Damn it.
 T	Grừ...	Grrr...
+T	Đánh bại Yêu Tôn Giả	Defeat Demon Venerable
+T	Summary: Đánh bại Yêu Tôn Giả	Summary: Defeat Demon Venerable
+T	Hạ Ưng Nhân Giận Dữ	Defeat Furious Hawkmen
+T	Phá địch	Break the Enemy
+T	Đường đi	Path
+T	Đang phát triển	In Development
+T	Thành của Raclette	Raclette's City
+T	Kỳ Phong Sư Thứu	Gale Griffin
+T	Thời Trang Ma Kết (Tụ Linh Giai)	Capricorn Outfit (Spirit Gathering)
+T	1CấpThành	Lv 1 City
+T	bán xích	Sell Chains
+T	Abandon quest </cff0000Ưng Nhân Giận Dữ/p>?	Abandon quest </cff0000Furious Hawkman/p>?
+T	Accepted quest </cffff00Viện trợ/p>\nUse auto-pathfinding?	Accepted quest </cffff00Reinforcements/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Ưng Nhân Giận Dữ/p>\nUse auto-pathfinding?	Completed quest </cffff00Furious Hawkman/p>\nUse auto-pathfinding?
+T	Demolish/cffff00Yêu Tôn Giả/p/cff00000/1/p	Defeat /cffff00Demon Venerable/p /cff00000/1/p
+T	Demolish/cffff00Yêu Tôn Giả/p/cff00001/1/p	Defeat /cffff00Demon Venerable/p /cff00001/1/p
+T	Demolish/cffff00Ưng Nhân Giận Dữ/p/cff00003/12/p	Defeat /cffff00Furious Hawkman/p /cff00003/12/p
+T	Demolish/cffff00Ưng Nhân Giận Dữ/p/cff000012/12/p	Defeat /cffff00Furious Hawkman/p /cff000012/12/p
+T	(/c00FF00Nguyệt Lang Tôn Chủ rất bình tĩnh./p)Cùng đánh bại /cFF0000Yêu Tôn Giả/p đi!\n\n/cffff00Objective: /pDemolish/cffff00Yêu Tôn Giả/p/cff00000/1/p\n/cffff00Reward:/pExp 2500  Silver800  \n	(/c00FF00The Moon Wolf Lord is very calm./p) Let's defeat /cFF0000Demon Venerable/p together!\n\n/cffff00Objective: /pDefeat /cffff00Demon Venerable/p /cff00000/1/p\n/cffff00Reward:/pExp 2500  Silver 800  \n
+T	Nguyệt Lang Tôn Chủ rất bình tĩnh.	The Moon Wolf Lord is very calm.
+T	(Sau lưng Yêu Tôn Giả xuất hiện 1 /c00ff00con đường/p, không biết nối tới đâu) Đi, chúng ta vào thử xem!	(Behind Demon Venerable, a /c00ff00path/p appears—who knows where it leads.) Come on, let's check it out!
+T	/c00ff00Raclette/p, đừng cậy hơn người, hợp lực đánh bại Yêu Tôn Giả mới là thượng sách\n/cffff00Reward:/pExp 100  \n	/c00ff00Raclette/p, don't get cocky—joining forces to defeat the Demon Venerable is the best plan.\n/cffff00Reward:/pExp 100  \n
+T	/cFF0000Yêu Tôn Giả/p ở phía trước, hãy đánh bại y!	/cFF0000Demon Venerable/p is right ahead—defeat him!
+T	Cẩn thận, phía trước hình như có yêu quái	Careful, there seems to be a monster ahead.
+T	Xem ra mi có trợ thủ rồi! Cùng lên đi!\n\n/cffff00Reward:/pExp 100  \n	Looks like you've got backup! Come at me together!\n\n/cffff00Reward:/pExp 100  \n
+T	Yêu Vương sẽ không tha cho bọn mi…	The Demon King won't spare any of you…
+T	Cho mi nếm mùi lợi hại của Nguyệt Thạch. (Yêu Tôn Giả để /cFF0000Ưng Nhân/p nuốt Nguyệt Thạch……)\n(/cffff00Hạ Ưng Nhân Giận Dữ/p)\n\n/cffff00Objective: /pDemolish/cffff00Ưng Nhân Giận Dữ/p/cff00003/12/p\n/cffff00Reward:/pExp 2100  Silver700  \n	Taste the power of the Moonstone! (Demon Venerable feeds Moonstone to /cFF0000Hawkmen/p……)\n(/cffff00Defeat Furious Hawkmen/p)\n\n/cffff00Objective: /pDefeat /cffff00Furious Hawkman/p /cff00003/12/p\n/cffff00Reward:/pExp 2100  Silver 700  \n
+T	Cho mi nếm mùi lợi hại của Nguyệt Thạch. (Yêu Tôn Giả để /cFF0000Ưng Nhân/p nuốt Nguyệt Thạch……)\n(/cffff00Hạ Ưng Nhân Giận Dữ/p)\n\n/cffff00Objective: /pDemolish/cffff00Ưng Nhân Giận Dữ/p/cff00006/12/p\n/cffff00Reward:/pExp 2100  Silver700  \n	Taste the power of the Moonstone! (Demon Venerable feeds Moonstone to /cFF0000Hawkmen/p……)\n(/cffff00Defeat Furious Hawkmen/p)\n\n/cffff00Objective: /pDefeat /cffff00Furious Hawkman/p /cff00006/12/p\n/cffff00Reward:/pExp 2100  Silver 700  \n
+T	Nếu mi chết bởi /cFF0000Ưng Nhân Giận Dữ/p sẽ tốt hơn nhiều! Không cần ta đích thân ra tay.\n/cffff00Done: /pDemolish/cffff00Ưng Nhân Giận Dữ/p/cff000012/12/p\n/cffff00Reward:/pExp 2100  Silver700  \n	It'd be much better if you died to the /cFF0000Furious Hawkmen/p! Saves me the trouble of acting myself.\n/cffff00Done: /pDefeat /cffff00Furious Hawkman/p /cff000012/12/p\n/cffff00Reward:/pExp 2100  Silver 700  \n
+T	Through this quest, exchange Knight Badges for Hero Badges to save bag space. Hero Badges yield more Gold Leaf: 34 Knight Badges = 34 Gold Leaf or 1 Hero Badge. 10 Hero Badges = 500 Gold Leaf (+47% bonus).(Nhiệm vụ này mỗi ngày có thể làm 1 lần)\n\n/cffff00Objective: /pReceived/cffff00Knight Badge/p/cff00001/34/p\n/cffff00Reward:/pExp 3000  \n/i00204/cffa500Hero Badge/p	Through this quest, exchange Knight Badges for Hero Badges to save bag space. Hero Badges yield more Gold Leaf: 34 Knight Badges = 34 Gold Leaf or 1 Hero Badge. 10 Hero Badges = 500 Gold Leaf (+47% bonus). (Daily quest, 1x/day)\n\n/cffff00Objective: /pReceived /cffff00Knight Badge/p /cff00001/34/p\n/cffff00Reward:/pExp 3000  \n/i00204/cffa500Hero Badge/p
+T	Knight Badges for Hero Badges to save bag space. Hero Badges yield more Gold Leaf: 34 Knight Badges = 34 Gold Leaf or 1 Hero Badge. 10 Hero Badges = 500 Gold Leaf (+47% bonus).(Nhiệm vụ này mỗi ngày có thể làm 1 lần)	Knight Badges for Hero Badges to save bag space. Hero Badges yield more Gold Leaf: 34 Knight Badges = 34 Gold Leaf or 1 Hero Badge. 10 Hero Badges = 500 Gold Leaf (+47% bonus). (Daily quest, 1x/day)
+T	(Nhiệm vụ này mỗi ngày có thể làm 1 lần)	(Daily quest, 1x/day)
