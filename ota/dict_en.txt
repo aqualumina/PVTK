@@ -6020,10 +6020,10 @@ I	700	Little Demon Claw
 I	474	Supreme Intelligence Potion (2 Hours)
 I	30015	Maid Egg
 T	©2011 Good Game	©2011 Good Game
-T	PHỤNG THIÊN	Phung Thien
-T	Chín Tầng Mây	Nine Cloud Layers
-T	Kỳ Thương	Merchant
-T	Tuyệt Vô Thần	Tuyet Vo Than
+T	PHỤNG THIÊN	PHỤNG THIÊN
+T	Chín Tầng Mây	Chín Tầng Mây
+T	Kỳ Thương	Kỳ Thương
+T	Tuyệt Vô Thần	Tuyệt Vô Thần
 T	【Merchant】	[Merchant]
 T	Giáp Bình Tuyết	Snow-Calm Armor
 T	Mũ Bình Tuyết	Snow-Calm Helm
