@@ -6525,3 +6525,108 @@ T	Đã diệt được /cFF0000Người Sói/p, chúng ta hãy nhanh chóng ti�
 T	Người Sói trợn mắt, xem ra nó đã chết rồi!	The Werewolf's eyes go wide—looks like it's dead!
 T	Ta sẽ nuốt sống bọn mi/f12	I'll swallow you whole!/f12
 T	Dám tới đây à/f09/f09	How dare you come here!/f09/f09
+T	Ưng Nhân	Hawkman
+T	Ưng Nhân Giận Dữ	Furious Hawkman
+T	Nguyệt Lang	Moon Wolf
+T	Nữ Nguyệt Lang	Female Moon Wolf
+T	Lính Khô Lâu	Skeleton Soldier
+T	Yêu Tôn Giả	Demon Venerable
+T	Vạn Thú Tôn Chủ	Beast Lord
+T	Nguyệt Lang Tôn Chủ	Moon Wolf Lord
+T	Trộm Hoa Tiểu Tân	Flower Thief Xiao Xin
+T	Chân Núi Nguyệt Nha	Crescent Mountain Foot
+T	Ngoài Động Nguyệt Nha	Outside Crescent Cave
+T	Núi Ngũ Xà	Five-Snake Mountain
+T	Thành Cá Nhân	Personal City
+T	Tộc Nguyệt Lang	Moon Wolf Tribe
+T	Tộc Vạn Thú	Beast Tribe
+T	Nguyệt Thạch	Moonstone
+T	Găng Hắc Thiết	Black Iron Gloves
+T	Găng Hắc Thiết x 1	Black Iron Gloves x 1
+T	Mũ Quảng Thành	Guangcheng Hat
+T	Mũ Quảng Thành x 1	Guangcheng Hat x 1
+T	Quần Mãnh Phong	Fierce Wind Pants
+T	Nạm Vạn Thú	Beast Inlay
+T	Hộp Phòng Cụ Cấp 20 x 1	Lv 20 Armor Box x 1
+T	Thưởng Núi Nguyệt Nha I	Crescent Mountain Reward I
+T	Khoáng Vụn Cấp 2	Crushed Ore Lv 2
+T	Đá Vụn Cấp 2	Crushed Stone Lv 2
+T	Lông Hủ Ưng	Rotten Hawk Feather
+T	Giận Dữ	Furious
+T	/i00011/ce5e5e5Găng Hắc Thiết/p x 1  /i020201000\nUnlocked    Gloves    /ce5e5e5Common/p\n/c00ff00Max HP+147/p           \nArmor:   Slash 203  Pierce 151  MP 39\nRequirement: Lv 20/cff0000  20 Strength/p  6 Constitution\nDurability: 130/130\nEquipment suitable for /c00FF00Warriors/p\n	/i00011/ce5e5e5Black Iron Gloves/p x 1  /i020201000\nUnlocked    Gloves    /ce5e5e5Common/p\n/c00ff00Max HP+147/p           \nArmor:   Slash 203  Pierce 151  MP 39\nRequirement: Lv 20/cff0000  20 Strength/p  6 Constitution\nDurability: 130/130\nEquipment suitable for /c00FF00Warriors/p\n
+T	/i00071/ce5e5e5Material Chest I (Wood)/p x 1  /i02020100\nAuto-lock    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nĐựng 1 chút vật liệu kiến trúc\n	/i00071/ce5e5e5Material Chest I (Wood)/p x 1  /i02020100\nAuto-lock    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nContains a few building materials.\n
+T	/i00211/ce5e5e5Mũ Quảng Thành/p x 1  /i020201000\nUnlocked    Head    /ce5e5e5Common/p\n/c00ff00Mana Shield+55/p    /c00ff00Max MP+55/p\nArmor:   Slash 66  Pierce 66  MP 151\nRequirement: Lv 20  4 Constitution/cff0000  40 Wisdom/p\nDurability: 130/130\nEquipment suitable for /c00FF00Cultivators/p\n	/i00211/ce5e5e5Guangcheng Hat/p x 1  /i020201000\nUnlocked    Head    /ce5e5e5Common/p\n/c00ff00Mana Shield+55/p    /c00ff00Max MP+55/p\nArmor:   Slash 66  Pierce 66  MP 151\nRequirement: Lv 20  4 Constitution/cff0000  40 Wisdom/p\nDurability: 130/130\nEquipment suitable for /c00FF00Cultivators/p\n
+T	/i00094/cffa500{}Ủng Tử Vân/p 450	/i00094/cffa500{}Purple Cloud Boots/p 450
+T	/i00234/cffa500{}Áo Tùy Táng/p	/i00234/cffa500{}Burial Robe/p
+T	/cff0000【System】/pĐã nhận đồ giám quái vật Ưng Nhân Giận Dữ	/cff0000【System】/pObtained Furious Hawkman Monster Codex
+T	Đã nhận đồ giám quái vật Ưng Nhân Giận Dữ	Obtained Furious Hawkman Monster Codex
+T	Đã nhận đồ giám quái vật Lính Khô Lâu	Obtained Skeleton Soldier Monster Codex
+T	Đã nhận đồ giám quái vật Nguyệt Lang	Obtained Moon Wolf Monster Codex
+T	Lỗi kiểm chứng chiến đấu, kết thúc chiến đấu hp không đồng bộ	Battle verification error: HP out of sync at battle end
+T	Xác nhận đăng nhập thất bại, vui lòng thử lại sau!	Login verification failed, please try again later!
+T	Đi cộng điểm	Allocate Stats
+T	【System】	[System]
+T	Nguyệt Lang xuất hiện	Moon Wolf Appears
+T	Nguyệt Lang ủy thác	Moon Wolf's Request
+T	Âm mưu Yêu Tôn Giả	Demon Venerable's Plot
+T	Viện trợ	Reinforcements
+T	Accepted quest </cffff00Nguyệt Lang xuất hiện/p>\nUse auto-pathfinding?	Accepted quest </cffff00Moon Wolf Appears/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Lính Khô Lâu/p>\nUse auto-pathfinding?	Completed quest </cffff00Skeleton Soldier/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Nguyệt Lang ủy thác/p>\nUse auto-pathfinding?	Completed quest </cffff00Moon Wolf's Request/p>\nUse auto-pathfinding?
+T	Tìm /cFF0000Yêu Tôn Giả/p\nUse auto-pathfinding?	Find /cFF0000Demon Venerable/p\nUse auto-pathfinding?
+T	Tìm Vạn Thú Tôn Chủ\nUse auto-pathfinding?	Find Beast Lord\nUse auto-pathfinding?
+T	Summary: Tìm Vạn Thú Tôn Chủ	Summary: Find Beast Lord
+T	Hạ 15 Ưng Nhân	Defeat 15 Hawkmen
+T	Summary: Hạ 15 Ưng Nhân	Summary: Defeat 15 Hawkmen
+T	Hạ 20 Nguyệt Lang	Defeat 20 Moon Wolves
+T	Summary: Hạ 20 Nguyệt Lang	Summary: Defeat 20 Moon Wolves
+T	Summary: Hạ Ưng Nhân Giận Dữ	Summary: Defeat Furious Hawkmen
+T	Diệt 20 Lính Khô Lâu	Defeat 20 Skeleton Soldiers
+T	Diệt Lính Khô Lâu!	Defeat the Skeleton Soldiers!
+T	Tiêu diệt Yêu Tôn Giả	Defeat Demon Venerable
+T	Đánh bại Trộm Hoa Tiểu Tân	Defeat Flower Thief Xiao Xin
+T	Hạ 20 Nguyệt Lang\n/cffff00Objective: /pDemolish/cffff00Nguyệt Lang/p/cff00000/20/p\nUse auto-pathfinding?	Defeat 20 Moon Wolves\n/cffff00Objective: /pDefeat /cffff00Moon Wolf/p /cff00000/20/p\nUse auto-pathfinding?
+T	Hạ Ưng Nhân Giận Dữ\n/cffff00Objective: /pDemolish/cffff00Ưng Nhân Giận Dữ/p/cff00000/12/p\nUse auto-pathfinding?	Defeat Furious Hawkmen\n/cffff00Objective: /pDefeat /cffff00Furious Hawkman/p /cff00000/12/p\nUse auto-pathfinding?
+T	/cffff00Objective: /pDemolish/cffff00Lính Khô Lâu/p/cff000018/20/p\nDiệt Lính Khô Lâu!\n	/cffff00Objective: /pDefeat /cffff00Skeleton Soldier/p /cff000018/20/p\nDefeat the Skeleton Soldiers!\n
+T	/cffff00Objective: /pDemolish/cffff00Nguyệt Lang/p/cff000018/20/p\nTa phải tiêu diệt /cFF0000Nguyệt Lang/p!\n	/cffff00Objective: /pDefeat /cffff00Moon Wolf/p /cff000018/20/p\nI must defeat /cFF0000Moon Wolf/p!\n
+T	/cffff00Objective: /pDemolish/cffff00Ưng Nhân Giận Dữ/p/cff00006/12/p\nMi hãy chơi với đám /cFF0000Ưng Nhân Giận Dữ/p trước.\n	/cffff00Objective: /pDefeat /cffff00Furious Hawkman/p /cff00006/12/p\nPlay with these /cFF0000Furious Hawkmen/p first.\n
+T	/c00FF00Raclette/p mau giúp chúng ta! Đây đều là người tộc ta… Nhưng họ đều đã biến thành Người Sói, mất đi tâm trí.\n/cffff00Reward:/pExp 100  \n	/c00FF00Raclette/p, help us quickly! These are all my tribesmen… But they've turned into Werewolves and lost their minds.\n/cffff00Reward:/pExp 100  \n
+T	/c00ff00Raclette/p, đừng cậy hơn người, hợp lực đánh bại Yêu Tôn Giả mới là thượng sách	/c00ff00Raclette/p, don't get cocky—joining forces to defeat the Demon Venerable is the best plan.
+T	/c00ff00Vì chút yêu lực mà tàn bạo vậy sao?/p	/c00ff00All this cruelty just for a bit of demonic power?/p
+T	Vì chút yêu lực mà tàn bạo vậy sao?	All this cruelty just for a bit of demonic power?
+T	/cFF0000Ưng Nhân/p tấn công chúng ta, ta không có cách nào tấn công chúng!\n/cffff00Reward:/pExp 100  \n	/cFF0000Hawkmen/p are attacking us, and I have no way to strike back!\n/cffff00Reward:/pExp 100  \n
+T	Cho mi nếm mùi lợi hại của Nguyệt Thạch. (Yêu Tôn Giả để /cFF0000Ưng Nhân/p nuốt Nguyệt Thạch……)\n\n/cffff00Objective: /pDemolish/cffff00Ưng Nhân Giận Dữ/p/cff00000/12/p\n/cffff00Reward:/pExp 2100  Silver700  \n	Taste the power of the Moonstone! (Demon Venerable feeds Moonstone to /cFF0000Hawkmen/p……)\n\n/cffff00Objective: /pDefeat /cffff00Furious Hawkman/p /cff00000/12/p\n/cffff00Reward:/pExp 2100  Silver 700  \n
+T	Cuối cùng đã đuổi được Ưng Nhân.\n/cffff00Done: /pDemolish/cffff00Ưng Nhân/p/cff000015/15/p\n/cffff00Reward:/pExp 2500  Silver800  \n	Finally drove the Hawkmen away.\n/cffff00Done: /pDefeat /cffff00Hawkman/p /cff000015/15/p\n/cffff00Reward:/pExp 2500  Silver 800  \n
+T	Hãy để /cFFFF00Nguyệt Thạch/p hấp thụ nhiều pháp lực! (/c00FF00Là mi giở trò?/p)/cFF0000Yêu Tôn Giả/p cười nhạt\n\n/cffff00Reward:/pExp 100  \n	Let the /cFFFF00Moonstone/p absorb more magic! (/c00FF00Was this your doing?/p) /cFF0000Demon Venerable/p smirks.\n\n/cffff00Reward:/pExp 100  \n
+T	Khi tộc Nguyệt Lang hóa thành sói, trong người sẽ sinh ra /cFFFF00Nguyệt Thạch/p, để lấy được nhiều /cFFFF00Nguyệt Thạch/p, ta đành phải mổ ngực chúng ra….!	When the Moon Wolf Tribe transforms into wolves, a /cFFFF00Moonstone/p forms inside them. To harvest more /cFFFF00Moonstones/p, I had no choice but to cut open their chests….!
+T	Không ngờ mi dám đuổi tới đây.\n/cffff00Reward:/pExp 100  \n	I didn't expect you to dare chase me all the way here.\n/cffff00Reward:/pExp 100  \n
+T	Lính Khô Lâu không chịu nổi 1 đòn, sau này ai dám ức hiếp Tộc Nguyệt Lang!\n/cffff00Done: /pDemolish/cffff00Lính Khô Lâu/p/cff000020/20/p\n/cffff00Reward:/pExp 2600  Silver800  \n	Those Skeleton Soldiers couldn't even take one hit! Who'd dare bully the Moon Wolf Tribe now?\n/cffff00Done: /pDefeat /cffff00Skeleton Soldier/p /cff000020/20/p\n/cffff00Reward:/pExp 2600  Silver 800  \n
+T	Mấy kẻ của tộc Vạn Thú rơi vào khổ chiến, mi hãy tới giúp họ Lính Khô Lâu để ta đối phó.\n\n/cffff00Reward:/pExp 100  \n	Some Beast Tribe warriors are in a tough fight—go help them, I'll handle the Skeleton Soldiers.\n\n/cffff00Reward:/pExp 100  \n
+T	Nguyệt Lang Tôn Chủ bị /cFF0000người tộc Nguyệt Lang/p phục kích, Mi hãy tới giúp người!!\n\n/cffff00Reward:/pExp 100  \n	The Moon Wolf Lord was ambushed by /cFF0000Moon Wolf tribesmen/p! Go help them!!\n\n/cffff00Reward:/pExp 100  \n
+T	Nếu mi chết bởi /cFF0000Ưng Nhân Giận Dữ/p sẽ tốt hơn nhiều! Không cần ta đích thân ra tay.	It'd be much better if you died to the /cFF0000Furious Hawkmen/p! Saves me the trouble of acting myself.
+T	Ta không thể để ngời cùng tộc tương tàn. Nhưng họ đã trở nên điên cuồng, nếu không thể cản họ, ta phải tiêu diệt họ!\n\n/cffff00Objective: /pDemolish/cffff00Nguyệt Lang/p/cff00000/20/p\n/cffff00Reward:/pExp 2600  Silver800  \n	I can't let my kin slaughter each other. But they've gone mad—if I can't stop them, I must destroy them!\n\n/cffff00Objective: /pDefeat /cffff00Moon Wolf/p /cff00000/20/p\n/cffff00Reward:/pExp 2600  Silver 800  \n
+T	Tộc Vạn Thú chúng ta không có cách đối phó với /cFF0000Ưng Nhân/p trên trời!/c00ff00Raclette/p, mi có thể giúp chúng ta không?\n\n/cffff00Objective: /pDemolish/cffff00Ưng Nhân/p/cff00000/15/p\n/cffff00Reward:/pExp 2500  Silver800  \n	Our Beast Tribe has no way to fight /cFF0000Hawkmen/p in the sky! /c00ff00Raclette/p, can you help us?\n\n/cffff00Objective: /pDefeat /cffff00Hawkman/p /cff00000/15/p\n/cffff00Reward:/pExp 2500  Silver 800  \n
+T	Để ta bình tĩnh lại!\n/cffff00Done: /pDemolish/cffff00Nguyệt Lang/p/cff000020/20/p\n/cffff00Reward:/pExp 2600  Silver800  \n	Let me calm down!\n/cffff00Done: /pDefeat /cffff00Moon Wolf/p /cff000020/20/p\n/cffff00Reward:/pExp 2600  Silver 800  \n
+T	Anh hùng khó qua ải mĩ nhân. Nói không sai.	Even a hero can't resist a beauty. That saying is true.
+T	Chưa thấy mĩ nữ bao giờ sao?	Never seen a beauty before?
+T	Cùng đánh bại Ưng Nhân! Ta cần sự giúp đỡ của mi!	Let's defeat the Hawkmen together! I need your help!
+T	Hiệu quả chiến đấu cao của tôi, nhưng oh! Có thể giúp bạn nhanh chóng đánh bại kẻ thù, oh!	My combat efficiency is super high—I can help you defeat enemies quickly!
+T	Không thể để yêu quái hại người!	We can't let monsters harm innocent people!
+T	Không trừ Yêu Vương khó hả mối hận trong lòng ta	My hatred won't be appeased until the Demon King is destroyed.
+T	Là mi giở trò?	Was this your doing?
+T	Lính Khô Lâu để ta đối phó.	Leave the Skeleton Soldiers to me.
+T	Mi hãy chơi với đám /cFF0000Ưng Nhân Giận Dữ/p trước.	Play with these /cFF0000Furious Hawkmen/p first.
+T	Nghe nói Vạn Thú Tôn Chủ thích tôn chủ của chúng ta...	I heard the Beast Lord has a crush on our lord...
+T	Ta là Yêu Tôn Giả	I am the Demon Venerable.
+T	Ta phải báo thù cho tộc Nguyệt Lang	I must avenge the Moon Wolf Tribe.
+T	Ta phải tiêu diệt /cFF0000Nguyệt Lang/p!	I must defeat /cFF0000Moon Wolf/p!
+T	Ta và yêu vương không có ân oán, nhưng y đi đâu ta sẽ đi đó...	I have no grudge with the Demon King, but wherever he goes, I follow...
+T	Trước khi Yêu Vương tụ tập thuộc hạ, hãy khống chế tình hình	Before the Demon King gathers his minions, let's get the situation under control.
+T	Trước khi đám lính xương này tập hợp lại, hãy tiêu diệt chúng	Before these skeleton soldiers regroup, destroy them!
+T	Tộc Nguyệt Lang biến thành người sói sẽ mất đi lý trí...	When the Moon Wolf Tribe turns into werewolves, they lose their minds...
+T	Xem ra mi có trợ thủ rồi! Cùng lên đi!	Looks like you've got backup! Come at me together!
+T	Xác 1 nữ binh.	The corpse of a female soldier.
+T	Đám Lính Khô Lâu cản đường chúng ta, hãy tiêu diệt chúng!	Those Skeleton Soldiers are blocking our path—destroy them!
+T	Đám người mình ưng này thật khó đối phó	These hawk-bodied creatures are really tough to deal with.
+T	Đáng ghét.	Damn it.
+T	Grừ...	Grrr...
