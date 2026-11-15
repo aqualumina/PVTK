@@ -130,16 +130,20 @@ def main():
         os.path.join(KIT_DIR, "assets", "ota_url.txt"),
         os.path.join(assets_dir, "ota_url.txt"),
     )
-    print("Copied assets/dict_en.txt and assets/ota_url.txt.")
+    shutil.copy2(
+        os.path.join(KIT_DIR, "assets", "report_url.txt"),
+        os.path.join(assets_dir, "report_url.txt"),
+    )
+    print("Copied assets/dict_en.txt, ota_url.txt, and report_url.txt.")
 
     en_dir = os.path.join(smali_root, "com", "hz", "en")
     os.makedirs(en_dir, exist_ok=True)
-    for cls_file in ("Translator.smali", "OtaPatcher.smali"):
+    for cls_file in ("Translator.smali", "OtaPatcher.smali", "MissReporter.smali"):
         shutil.copy2(
             os.path.join(KIT_DIR, "smali", "com", "hz", "en", cls_file),
             os.path.join(en_dir, cls_file),
         )
-    print("Copied Translator.smali and OtaPatcher.smali.")
+    print("Copied Translator.smali, OtaPatcher.smali, and MissReporter.smali.")
 
     unknown_src = os.path.join(KIT_DIR, "unknown")
     if os.path.isdir(unknown_src):

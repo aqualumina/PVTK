@@ -321,6 +321,8 @@
 
     invoke-virtual {v0, p1}, Ljava/util/HashSet;->add(Ljava/lang/Object;)Z
 
+    invoke-static {p0, p1}, Lcom/hz/en/MissReporter;->queue(Ljava/lang/String;Ljava/lang/String;)V
+
     const-string v0, "PVTK_TR_MISS"
 
     new-instance v1, Ljava/lang/StringBuilder;
