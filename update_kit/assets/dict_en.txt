@@ -1,6 +1,3 @@
-I	0	Sun Commander (Reborn)
-I	1	Equipment Merchant
-I	10	Taoist Meng Long
 I	10006	Refined Robe
 I	10043	MJ Shirt (Memorial Edition)
 I	10100	Warrior Armor
@@ -19,8 +16,6 @@ I	10736	Shadow Pants
 I	10802	Pine Green Pants
 I	10806	Cold River Pants
 I	10838	MJ Pants (Memorial Edition)
-I	11	Huyen Chan
-I	110	Civilian
 I	1100	Enter The World  1
 I	11006	Refined Spaulders
 I	1101	Enter The World  2
@@ -47,7 +42,6 @@ I	11648	MJ Ring
 I	11706	Broken Wind Helm
 I	11806	Cold River Helm
 I	11835	Dragon Saint Helm
-I	12	Zi Yan
 I	12006	Refined Gloves
 I	1202	Ancient Spirit Stone
 I	12106	Buddha Music Gloves
@@ -63,7 +57,6 @@ I	12706	Broken Wind Belt
 I	12806	Cold River Belt
 I	12831	Cloud Soar Belt
 I	12835	Dragon Saint Belt
-I	13	Rotting Corpse
 I	13006	Refined Boots
 I	13104	Silver Cyan Boots
 I	13106	Buddha Music Boots
@@ -82,43 +75,9 @@ I	14593	Wolf King Ring
 I	14597	Funerary Ring
 I	14833	Shining Silver Moon Talisman
 I	14835	Sparkling Thanksgiving Talisman
-I	15	Vile Evil Spirit
-I	1500	Evil Spirit Soldier
-I	1501	Imp
 I	15044	Divine Sacred Robe
-I	1505	Lu Ni
-I	1512	Leopard
-I	1513	Corrupted Leopard
 I	15130	Saint Gladiator Suit (2 Days)
-I	1514	Wild Wolf
-I	1515	Corrupted Wild Wolf
-I	1517	Walking Corpse
 I	15182	Taurus Costume (Spirit Phase)
-I	1519	Raging Leon
-I	1520	Rotting Corpse
-I	1521	Bone Warrior
-I	1522	Vile Evil Spirit
-I	1523	Evil Spirit Priest
-I	1524	Evil Assassin
-I	1525	Dread Walking Corpse
-I	1526	Dread Bone Warrior
-I	1528	Jennie
-I	1529	Lily
-I	1530	Brother Jun
-I	1531	Forest Guard - Thuy Nha
-I	1532	Forest Guard
-I	1533	Forest Guard
-I	1534	Special Ops Chief Shi Gang
-I	1535	Commando
-I	1536	Evil Spirit Envoy
-I	1537	Evil Assassin
-I	1538	Vile Evil Spirit
-I	16	Pet Master
-I	17	Forest Guard - Thuy Nha
-I	18	Corrupted Wild Wolf
-I	19	Login Rewards
-I	2	Elder
-I	20	Escort Quest
 I	20003	Broad Staff
 I	20008	Frost Staff
 I	20108	Albatross Crossbow
@@ -137,15 +96,10 @@ I	20808	Flying Feather Spear
 I	20842	Array Breaker Spear
 I	20847	Soul Chasing Shadow
 I	20848	Thunder King Spear
-I	21	Convoy Raider
-I	22	Jennie
 I	2201	Garrison Armor
 I	22022	Sparkling Heart
 I	2225	Garrison Helm
-I	23	Forest Guard - Thuy Nha
 I	2360	Novice Guardian Ring
-I	24	Forest Guard - Thuy Nha
-I	25	Jennie
 I	2500	God's Chosen
 I	2501	Repel Evil Spirit Cultists
 I	2502	Jennie's Tactics!
@@ -194,15 +148,10 @@ I	2546	Join the Sun City Army
 I	2547	[Mercenary] Raid on Elf Forest
 I	2552	How to enter your city
 I	2555	[Mercenary] Investigate Sealed Tomb
-I	26	Commando
-I	27	Special Ops Chief Shi Gang
 I	2776	Sorrowful Guy's Blessing
 I	2782	Fat Donghai's Blessing
-I	28	Skeleton Warrior
 I	2853	Event Log
 I	2976	PVTK VIP Token
-I	3	Forest Guard - Thuy Nha
-I	30	Event Gift Code
 I	3001	City Management Knowledge
 I	3002	Upgrade to Lv 2 City
 I	3003	Upgrade to Lv 3 City
@@ -218,21 +167,11 @@ I	3063	Han King Tomb (Novice)
 I	3090	Exchange Knight Badge
 I	3091	Exchange Hero Badge
 I	3092	Combine Badges
-I	31	Sorrowful A Kiet
 I	3100	Team Cargo Escort
 I	3101	Cargo Escort
 I	31099	Nameless Hero Sword
 I	31123	Sacred Gryphon
 I	31180	Dream Chaser Wings (Blazing)
-I	32	Raging Leon
-I	33	Jennie (Mercenary)
-I	34	Skill Master
-I	35	Forest Guard - Thuy Nha
-I	37	Evil Spirit Cult Leader
-I	38	Forest Guard - Thuy Nha
-I	39	God of Wealth
-I	4	Fat Donghai Sells Salt
-I	40	Grand Celebration
 I	4000	Common Morph Card Chest
 I	40001	Appraisal Scroll (Bound)
 I	40006	Pet EXP Ticket (30000)
@@ -251,38 +190,20 @@ I	41133	Iron Golem (Bound)
 I	41134	Demon Beast (Bound)
 I	41135	Dragon Knight (Bound)
 I	41138	Master Key (Bound) (10)
-I	42	Claim New City
 I	42016	Cross-Server Megaphone
 I	466	Agility Potion (2 Hours)
-I	47	Jennie
 I	471	Hyper Strength Potion (2 Hours)
 I	472	Hyper Stamina Potion (2 Hours)
-I	48	Forest Guard - Thuy Nha
-I	49	Leave Evil Spirit Temple
-I	5	Lu Jia
 I	50004	King Hung Gift Pack (Advanced)
-I	53	Level Up Event
-I	55	Rollback Compensation
-I	57	VIP Online Rewards
-I	59	Spring Festival Rewards
-I	6	Skill Master
-I	60	Monster
 I	615	Vitality Herb
-I	7	Exchange
 I	701	Fresh Hide
 I	702	Rotten Hide
 I	703	Anti-Rot Potion
 I	716	Knight Badge
 I	717	Hero Badge
-I	8	Flight Station
-I	80	Jennie
-I	85	Level-Up Event Rewards
-I	88	Novice Guide
-I	9	Evil Spirit Butcher
 I	9139	Frost Witch Gloves
 I	9140	Frost Witch Spaulders
 I	9143	Frost Witch Boots
-I	99	Civilian
 ID	1001	Essential material for kingdom buildings. Can sell to players or donate to the kingdom.
 ID	10043	Suitable for Magic classes
 ID	10100	Gear suited for /c00FF00Warriors/p, cannot be dismantled
