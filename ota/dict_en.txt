@@ -5792,3 +5792,229 @@ T	Tử Cấm Thành (Trung lập)	Forbidden City (Neutral)
 T	Núi Tử Vân (Nhiệm vụ cấp 40)	Purple Cloud Mtn (Lv 40 Quest)
 T	Sa Mạc Thất Hồn (Nhiệm vụ cấp 30)	Soul-Lost Desert (Lv 30 Quest)
 T	Maya (Thành Trung Lập)	Maya (Neutral City)
+
+T	Hoàn thành xong tới chỗ ta lĩnh thưởng	Once done, return to me to claim rewards
+T	Mau tới giúp đi!!! Hạ 20 Tà Thích Khách.	Hurry and help!!! Slay 20 Evil Assassins.
+T	Tiểu Ác Ma rất hung dữ, hãy cẩn thận!	Imps are very fierce, be careful!
+T	Tà Linh Đồ Phu vẫn chưa bị tiêu diệt!	Evil Spirit Butcher has not been slain yet!
+T	Cấp và độ mạnh yếu của thành sẽ ảnh hưởng tới thực lực tổ chức quốc quốc gia mi trực thuộc. Nhiệm vụ chủ tuyến sẽ kích phát theo việc cấp thành tăng. Với lựa chọn phương hướng khác nhau, thành cũng sẽ có những thay đổi khác nhau	City level and strength affect your nation's power. Main quests unlock as city level rises. Different choices will develop the city in unique ways
+T	Hãy dốc toàn lực hạ gục tên thủ lĩnh!	Give your all to defeat the leader!
+T	Làm tốt lắm! Quần ma đã rối loạn rồi.	Well done! The evil hordes are in disarray.
+T	Cũng nhanh đấy! Đám Hành Thi này quá đông.	Quick work! These Walking Corpses were too numerous.
+T	Hoàn thành  nhiệm vụ Rừng Tinh Linh sơ cấp	Complete Novice Spirit Forest Quest
+T	Hoàn thành nhiệm vụ sơ cấp Mộ Hán Vương	Complete Novice Han King Tomb Quest
+T	Tiền không đủ, đợi đủ tiền rồi tới.	Not enough coins, return when you have enough.
+T	Hoàn thành nhiệm vụ Núi Nguyệt Nha sơ cấp	Complete Novice Crescent Mountain Quest
+T	Hoàn thành nhiệm vụ Núi Nguyệt Nha sơ cấp 	Complete Novice Crescent Mountain Quest
+T	Ta là Quân Ca. May mà có ngươi tới kịp lúc!	I am Quan Ca. Good thing you arrived just in time!
+T	Toàn lực đột kích! Hạ đại quân vong giả!	All-out assault! Defeat the undead army!
+T	Tới chỗ /c00ff00Vân Thường/p xem có việc gì	Go to /c00ff00Van Thuong/p to see what is needed
+T	Chúng ta hãy tiêu diệt những Tà Linh xung quanh!	Let us destroy the surrounding Evil Spirits!
+T	Làm rất tốt! Tới lúc xử lý giáo chủ rồi.	Splendid job! Time to deal with the High Priest.
+T	Trên cấp 15 mới có thể nhận nhiệm vụ này.	Must be above Lv 15 to accept this quest.
+T	Hạ Thủ Vệ Pháp Trận, xem ra pháp trận đã bị phá.	Defeat Magic Array Guardians; looks like the array is broken.
+T	Mi thấp hơn cấp 10. Không thể làm nhiệm vụ ở đây?	You are below Lv 10. Cannot quest here?
+T	Ta thích mi rồi đấy. /cFFDE00(Nàng ta vỗ mạnh vai mi)/p.	I like you already. /cFFDE00(She pats your shoulder hard)/p.
+T	Hạ 20 Hành Thi Ghê Sợ. Gác Rừng sẽ giúp mi chiến đấu.	Slay 20 Dread Walking Corpses. Forest Guard will fight alongside you.
+T	Hãy tới dạy bảo Chó Con tinh nghịch chứng minh thực lực.	Go discipline the Playful Pup to prove your strength.
+T	Hãy tìm Quân Ca tại (13, 23) để nắm tình hình tiền tuyến.	Find Quan Ca at (13, 23) to assess frontline situation.
+T	Rất tốt! Mục tiêu cuối cùng là tên Tà Linh Đồ Phu Lỗ Ni!	Very good! Final target is Evil Spirit Butcher Lu Ni!
+T	Rừng Tinh Linh là loạt nhiệm vụ hàng ngày, giai đoạn sơ cấp chia thành 2 bản đồ Rừng Cổ Thụ, Rừng Tinh Linh. Nhiệm vụ bắt đầu từ /c00FF00Thành Thái Dương/p. Mi có thể đi qua Trạm Phi Hành. Hoàn thành nhiệm vụ sơ cấp sẽ nhận được phần thưởng tương ứng.	Spirit Forest is a daily quest series; novice phase spans Ancient Tree Forest and Spirit Forest. Begins from /c00FF00Sun City/p via Flight Station. Complete to earn rewards.
+T	Kết thúc rồi sao! Tới lúc cho Tà Linh nếm mùi đau khổ rồi!	Is it over? Time to make the Evil Spirits taste bitter defeat!
+T	Đã phòng thủ xong rồi ư? Tốt. Đã tới lúc phản kích rồi!	Defense finished? Good. Time to launch our counterattack!
+T	Chiến đấu với bằng hữu thế nào? Rất thú vị phải không?	How was fighting with friends? Thrilling, wasn't it?
+T	Hãy tới gặp Tiểu Lý để chuẩn bị cho đợt tổng tấn công.	Meet Tieu Ly to prepare for the general assault.
+T	Nhân vật cấp 12 trở lên mới có thể hoàn thành nhiệm vụ này	Characters of Lv 12+ can complete this quest
+T	Làm nhiệm vụ offline không phải trả /c00FF00phí/p. Nhiệm vụ offline sẽ được mở dần phụ thuộc vào việc thăng cấp của mi và việc hoàn thành nhiệm vụ. Hàng ngày, mi có thể làm mới 5 nhiệm vụ offline trong bảng nhiệm vụ. Mi có thể hoàn thành tối đa 3 trong số đó.	Offline quests have no /c00FF00fee/p and unlock as you level up. Refresh up to 5 offline quests daily; complete up to 3.
+T	Nhanh dấy! Bên ta không vấn đề gì, mi hãy xem các đội khác đi.	Fast work! All good on our side, go check other teams.
+T	Chỉ có thành chủ và đạt cấp 14 mới có thể làm nhiệm vụ này.	Only City Lord of Lv 14+ can undertake this quest.
+T	Hãy tới dạy bảo /cFF0000Chó Con/p tinh nghịch, chứng minh thực lực	Discipline the /cFF0000Playful Pup/p to prove your strength
+T	Đây là chỗ dược phẩm ta chế hàng ngày, sau này mi sẽ dùng tới.	Here are medicines I brew daily, you'll need them later.
+T	Nếu mi cần rời game 1 thời gian, hãy để nhân vật làm nhiệm vụ offline. Nhiệm vụ offline cần 3 - 8 giờ để làm. Sau khi chết thúc, có thể vào/c00FF00thư thưởng nhiệm vụ/p xem kết quả làm nhiệm vụ. Trong thời gian làm nhiệm vụ, nếu mi đăng nhập, sẽ huỷ nhiệm vụ này	If stepping away, send your character on offline quests (3-8 hours). Check /c00FF00Quest Mail/p for rewards upon completion. Logging in early cancels it
+T	Ta sẽ giúp mi mở Cửa Dịch Chuyển! !/c00FF00(Mở Cửa Dịch Chuyển)/p	I will open the Teleport Gate for you! /c00FF00(Open Teleport Gate)/p
+T	Chuẩn bị xong chưa? /c00ff00Chạm Cửa Dịch Chuyển để dịch chuyển/p!	Are you ready? /c00ff00Touch Teleport Gate to warp/p!
+T	Mi thấp hơn cấp 6, nơi này nguy hiểm hãy về Cổng Làng làm nhiệm vụ	You are below Lv 6; return to Village Gate for safety
+T	Hãy tới gặp Lợi Lợi tại (18, 24) báo tin phòng tuyến phía tây đã ổn.	Meet Loi Loi at (18, 24) and report that the western defense is secured.
+T	Ta chính là Đông Hải đại danh lẫy lừng, là Vân Thường bảo mi tới à?	I am the renowned Dong Hai; did Van Thuong send you?
+T	Nếu mi muốn rời nơi này hãy tới tìm /c00ff00Hiên Tỷ/p, nàng ta ở phía tây nam.	If you wish to depart, find /c00ff00Sister Hien/p to the southwest.
+T	Tiểu Ác Ma ở phía nam Cổng Làng đang nổi điên. Hãy tiêu diệt thêm 5 tên nữa!	Imps south of Village Gate are enraged. Slay 5 more!
+T	Đúng rồi đồ của mi vẫn đang ở chỗ Đông Hải, /c00FF00hãy đi lấy về đi!/p	By the way, your gear is still with Dong Hai, /c00FF00go fetch it!/p
+T	Tiểu Ác Ma quá nhiều, nhưng lực công kích thấp. Cẩn thận sẽ đối phó được!	Imps are numerous but strike weakly. Stay cautious and you'll prevail!
+T	Trên cấp 15 và hoàn thành nhiệm vụ anh hùng ra đời mới có thể nhận thành mới	Must be Lv 15+ and complete 'A Hero is Born' to claim a new city
+T	Tà Linh Giáo Chủ đang bỏ chạy! Mi và Trân Ni tiên phong, ta và Sử Cương yểm hộ.	High Priest is fleeing! You and Jenny spearhead the chase, Su Cuong and I will support.
+T	Bọn mi chiến đấu vì cái gì? Cổng Làng? Rừng Phong? Hay là Khu Vong Giả? Ngu ngốc.	What do you fight for? Village Gate? Maple Forest? Undead Realm? Fools.
+T	Chúng ta sẽ ở bên giúp mi chiến đấu. Tới lúc kết thúc trận hỗn loạn này rồi.	We stand by your side. Time to end this turmoil.
+T	Xuất sắc! Cổng Làng đã được giải vây. Ngươi có thể tiến vào Rừng Phong rồi!	Splendid! Village Gate is relieved. You may enter Maple Forest!
+T	Hủ Thuật Sư khiến mọi sinh vật biến dị. Chúng ta phải tiêu diệt dã thú hủ hóa.	Corruption Shaman mutates all creatures. We must cull corrupted beasts.
+T	Ở ngoài thôn có nhiều vong giả lởn vởn, mi hãy đi làm giảm số lượng của chúng.	Many undead wander outside the village; cull their numbers.
+T	Giúp tộc Nộ Phong phòng thủ và tấn công. Tìm các quan chỉ huy xem có gì cần giúp đỡ	Help Wrathwind clan defend and counterattack. Consult commanders to assist
+T	Đồ của mi đã rách, ta đã giao cho /c00FF00Tiểu Duyệt/p vá lại, mi tới tìm nàng ta đi!	Your clothes are torn; I gave them to /c00FF00Tieu Duyet/p to mend. Go find her!
+T	Bên ngoài thôn toàn /cff0000Xác Thối/p và /cff0000Cốt Chiến Sĩ/p. Tiêu diệt hết chúng đi.	Outside is swarming with /cff0000Rotting Corpses/p and /cff0000Skeleton Warriors/p. Slay them all.
+T	Hãy tiêu diệt Tà Linh Đồ Phu tại (12, 30), sau đó báo cáo Lôi Ân Trưởng Lão ở (14, 29).	Defeat Evil Spirit Butcher at (12, 30), then report to Elder Leon at (14, 29).
+T	Tà Linh Giáo Chủ đã chết, pháp sư ở Cổng Làng đã mở cổng dịch chuyển, hãy rời đi	High Priest has fallen; Village Gate mages opened the warp portal, depart now
+T	Mi là /c00FF00người thần chọn mà trưởng thôn nói sao?/p Hãy để ta thấy thực lực của mi	Are you the /c00FF00chosen one mentioned by Chief/p? Show me your might
+T	Tới Thành Thái Dương,  đối thoại với thủ thành. Hoàn thành loạt nhiệm vụ Mộ Phong Ấn.	Go to Sun City, speak with Guard. Complete Sealed Tomb series.
+T	Hạ /cff0000Tà Linh Tế Tư/p, có cơ hội nhận /cFFDE00Thuốc Chống Thối/p. Hãy mang 5 bình cho ta!	Slay /cff0000Priests/p for /cFFDE00Anti-Rot Potion/p. Bring 5 vials to me!
+T	Ta đã nói với Trưởng Thôn rồi, khi mi tỉnh hãy thông báo. Không ngờ mi tỉnh lại sớm vậy.	I told Chief to inform me upon your waking. Didn't expect you to wake so soon.
+T	Thông qua Trạm Phi Hành tới Tân Nguyệt Trấn, hoàn thành loạt nhiệm vụ /c00FF00Núi Nguyệt Nha/p	Travel to Crescent Town via Flight Station and complete /c00FF00Crescent Mountain/p series
+T	Một nhóm  Thủ Vệ tà linh vừa được triệu hồi. Nếu muốn phá pháp trận phải đánh bại chúng!	A group of Spirit Guardians was summoned. Slay them to break the array!
+T	Dùng thùng gỗ bên Giếng múc 1 thùng nước. /c00FF00(Nước giếng đã lấy mau giao cho Trưởng Thôn.)/p	Draw a bucket of water from the Well. /c00FF00(Deliver water to Village Chief.)/p
+T	Tới Hạ /cff0000Tà Linh Tà Ác/p. Đây là nhiệm vụ tinh anh, quái có lực công kích cao. Hãy cẩn thận	Defeat /cff0000Malicious Evil Spirits/p. Elite quest: monsters deal heavy damage, be careful
+T	 Kị Binh Sói đã hi sinh, đây là thú cưỡi y để lại. Tặng cho  mi!	The Wolf Rider has fallen; here is his mount. A gift for you!
+T	( /cff0000Lợi Lợi đang bị bầy tạp binh tấn công/p), mi vào tham gia chiến đấu	( /cff0000Loi Loi is under attack by enemy mobs/p), join the battle!
+T	/c00FF00Sức mạnh của Hủ Thuật SưSức Mạnh dần mất đi, vong giả xung quanh cũng ngã xuống./p	/c00FF00The Shaman's power fades, and the surrounding undead collapse./p
+T	/c00FF00Ta là Nữ Thợ Săn Vân Thường!/p　　　　　　　　　　　　　　　　	/c00FF00I am Huntress Van Thuong!/p
+T	/c00FF00Trân Ni/p đang tổ chức quân đội, hãy tới tìm nàng ấy.	/c00FF00Jenny/p is assembling troops, go find her.
+T	/c00FF00Trân Ni/p đang tổ chức đội ngũ, mi hãy tới bàn bạc.	/c00FF00Jenny/p is organizing the squad, go confer with her.
+T	/c00FF00{1}/p! Còn nhớ lần đầu chúng ta hợp tác không? Chính là !/cFFFFFFchiến thuật Trân Ni/p!! Xung phong!! (/cFFDE00Mi mỉm cười. Có đội hữu tin cậy bên cạnh, còn sợ gì?)/p 	/c00FF00{1}/p! Remember our first team-up? It's /cFFFFFFJenny's Tactics/p!! Charge!! (/cFFDE00You smile. With a trusted ally by your side, what's to fear?)/p 
+T	/c00FF00{1}/p! Rừng Phong và Cổng Làng đã bị tập kích! Các anh hùng đã tới chi viện Khu Vong Giả, chúng ta cần ứng phó tình hình hiện tại./cff0000(Ta phải hiến linh hồn bọn mi cho chủ nhân)/p. /c00FF00Tà Linh Giáo Chủ gầm lên, quanh thánh điện xất hiện nhiều kẻ địch./p Ta tới viện trợ.	/c00FF00{1}/p! Maple Forest and Village Gate are ambushed! Heroes reinforced Undead Realm; we must handle this crisis./cff0000(I shall offer your souls to the Master)/p. /c00FF00High Priest roars as enemies surround the hall./p I'm here to help.
+T	/c00FF00{1}/p! Trước khi hủ hóa hắc ám xuất hiện ở Cổng Làng, hãy giúp chúng ta!	/c00FF00{1}/p! Help us before dark corruption reaches Village Gate!
+T	/c00FF00{1}/p, hãy để đội quân của ta tới phá trận hình của chúng, mi quét sạch tàn quân.	/c00FF00{1}/p, let my army break their ranks while you sweep the remnants.
+T	/cFF0000Trộm/p nhân lúc ta không chú ý cowps Khăn của mi rồi. Mau đuổi theo!	/cFF0000Thief/p snatched your Scarf while I wasn't looking. Chase him down!
+T	/cFFDE00(Đây là 1 nhiệm vụ tinh anh, hãy tổ đội, hoặc chiêu mộ Lính Làm Thuê.) /pHạ Thực Ma Tướng Ghê Sợ	/cFFDE00(Elite Quest: party up or hire Mercenaries.) /pDefeat Dread Devourer General
+T	/cFFDE00Trảo Tiểu Ác Ma/p là nguyên liệu tốt, khi chiến đấu hãy thu thập 1 ít cho ta.	/cFFDE00Imp Claws/p are fine materials; gather some while fighting.
+T	/cff0000Gần cho mi có nhiều Hành Thi/p. Hãy cùng ta tiêu diệt chúng.	/cff0000Many Walking Corpses nearby/p. Slay them with me.
+T	Báo cáo tình hình với Tiểu Lý tại (20, 27).	Report the situation to Tieu Ly at (20, 27).
+T	Bên ta giải quyết xong rồi! Tới lúc đối phó với tên mập rồi!	We've cleared our side! Time to deal with the fat one!
+T	Chuyển tin của Quân Ca tới Lợi Lợi.	Deliver Quan Ca's message to Loi Loi.
+T	Diệt 18 Hành Thi. Lực chiến đấu của Hành Thi rất yếu. Nhưng số lượng quá đông, hãy cẩn thận.	Slay 18 Walking Corpses. They are weak individually, but numerous—be careful.
+T	Diệt Hủ Thuật Sư	Slay Corruption Shaman
+T	Diệt Tà Linh xung quanh	Slay surrounding Evil Spirits
+T	Giải cứu Quân Ca	Rescue Quan Ca
+T	Gặp Trân Ni ở (16, 28) nhận lệnh tổng tấn công.	Meet Jenny at (16, 28) to receive the all-out assault order.
+T	Hoàn thành các nhiệm vụ trong thành, tăng độ phồn vinh lên 1400. Thành sẽ có thể thăng cấp.	Complete city quests and raise Prosperity to 1400 to upgrade the city.
+T	Hoàn thành các nhiệm vụ trong thành, tăng độ phồn vinh lên 200. Thành sẽ có thể thăng cấp.	Complete city quests and raise Prosperity to 200 to upgrade the city.
+T	Hoàn thành các nhiệm vụ trong thành, tăng độ phồn vinh lên 2500. Thành sẽ có thể thăng cấp.	Complete city quests and raise Prosperity to 2500 to upgrade the city.
+T	Hoàn thành nhiệm vụ hạ Tà Linh Giáo Chủ, Thủy Nhã và các anh hùng sẽ giúp mi trong chiến đấu. Đây là nhiệm vụ tinh anh, nếu chưa hoàn thành có thể tổ đội thực hiện	Defeat High Priest; Thuy Nha and the heroes will assist you. Elite quest—party up if needed.
+T	Hãy tìm các quan chỉ huy, xem có thể giúp được gì!	Seek out the commanders and see how you can help!
+T	Hạ /cff0000Tà Linh Tế Tư/p, có cơ hội nhận /cFFDE00pThuốc Chống Thối/p. Mang 5 bình giao cho Trưởng Trị Liệu-Tuyết Ly.	Slay /cff0000Evil Priests/p for /cFFDE00Anti-Rot Potion/p. Deliver 5 vials to Chief Healer Tuyet Ly.
+T	Hạ 20 Tà Thích Khách. Quân đội Cổng Làng sẽ giúp mi!	Slay 20 Evil Assassins. The Village Gate army will assist you!
+T	Hạ 3 /cff0000Hủ Dã Lang/p và 3 /cff0000Hủ Liệp Báo/p	Slay 3 /cff0000Corrupted Wild Wolves/p and 3 /cff0000Corrupted Leopards/p
+T	Hạ 4 Lính Tà Linh. Trân Ni sẽ giúp mi (Không là mi giúp nàng ta)	Slay 4 Evil Spirit Soldiers. Jenny will help you (or you help her).
+T	Hạ 5 Tiểu Ác Ma! Do Ác Ma đông, Lỗ Ni phải chiến đấu 1 mình, không thể giúp mi.	Slay 5 Imps! There are too many demons, so Lu Ni must fight alone and cannot assist you.
+T	Hạ Hủ Thuật Sư.	Defeat Corruption Shaman.
+T	Hạ Thủ Vệ Pháp Trận	Defeat Magic Array Guardians
+T	Hạ Thủ Vệ Pháp Trận.	Defeat Magic Array Guardians.
+T	Hạ Tiểu Ác Ma, có cơ hội rớt /cFFDE00Trảo Tiểu Ác Ma/p	Slay Imps for a chance to drop /cFFDE00Imp Claws/p
+T	Hạ Tiểu Ác Ma,có cơ hội rớt /cFFDE00Trảo Tiểu Ác Ma/p	Slay Imps for a chance to drop /cFFDE00Imp Claws/p
+T	Hạ Tà Linh Giáo Chủ, nếu chiến bại có thể đối thoại lại để kích hoạt khiêu chiến cho tới khi thắng!	Defeat Evil Spirit High Priest; if defeated, talk again to retry until victorious!
+T	Hạ Tà Linh Đồ Phu, các chiến sĩ sẽ giúp mi chiến đấu	Defeat Evil Spirit Butcher; the warriors will fight alongside you
+T	Hạ tạp binh tấn công Quân Ca	Defeat mobs attacking Quan Ca
+T	Không thể để y trở về! Hãy hạ y! Nếu mi không tổ đội với người chơi khác cũng đừng sợ, bọn ta sẽ giúp mi!	Don't let him escape! Take him down! Even without a party, we will help you!
+T	Lính Vây Quân Ca	Soldiers Besieging Quan Ca
+T	Mi tìm được /cff0000Trộm/p chưa?	Have you found the /cff0000Thief/p yet?
+T	Người thần chọn ư? Xem ra mi cũng có năng lực để xứng với danh hiệu này.	The Chosen One? It seems you have the strength worthy of that title.
+T	Nói chuyện với Nộ Phong Lang	Speak with Wrathwind Wolf
+T	Nói chuyện với Tà Linh Giáo Chủ.	Speak with Evil Spirit High Priest.
+T	Phái chiến sĩ nên chọn Kiếm Cuồng Bạo, pháp sư nên chọn Trượng.	Warriors should choose Berserk Blade; Mages should choose Staff.
+T	Ra ngoài thôn hạ /cff0000Xác Thối/p và /cff0000Cốt Chiến Sĩ/p.	Go outside the village and slay /cff0000Rotting Corpses/p and /cff0000Skeleton Warriors/p.
+T	Sơ lược: Đây là áp tiêu đoàn đội, cần 30000 Đồng	Summary: This is a party escort quest, requires 30,000 Copper
+T	Sổ tay của Tam Thạch	Tam Thach's Handbook
+T	Thu thập 3 /c00ff00Da Thối/p của /cff0000Hủ Dã Lang/p và /cff0000Hủ Liệp Báo/p; 5 /c00ff00Da Chưa Thối/p của /cff0000Dã Lang/p và /cff0000Liệp Báo/p	Collect 3 /c00ff00Rotten Pelts/p from /cff0000Corrupted Wolves/p & /cff0000Leopards/p; 5 /c00ff00Fresh Pelts/p from /cff0000Wild Wolves/p & /cff0000Leopards/p
+T	Thông qua Trạm Phi Hành tới Thành Thái Dương, gặp mặt thủ thành, xem có thể nói chuyện với Lãnh Chủ không.	Travel to Sun City via Flight Station, meet the City Guard, and see if you can speak with the Lord.
+T	Thông qua Trạm Phi Hành tới Thành Thái Dương, hoàn thành nhiệm vụ /c00FF00Rừng Tinh Linh/p. Hoàn thành xong loạt nhiệm vụ này hãy về thành trả nhiệm vụ.	Travel to Sun City via Flight Station and complete the /c00FF00Spirit Forest/p quest. Return to the city once finished to turn in.
+T	Thông qua Trạm Phi Hành tới Tân Nguyệt Trấn, hoàn thành nhiệm vụ /c00FF00Núi Nguyệt Nha/p. Hoàn thành xong loạt nhiệm vụ này hãy về thành trả nhiệm vụ.	Travel to Crescent Town via Flight Station and complete the /c00FF00Crescent Mountain/p quest. Return to the city once finished to turn in.
+T	Thông qua bản đồ nhỏ tìm Gác Rừng	Use the minimap to find the Forest Guard
+T	Thăng lên thành cấp 5, điều kiện đầu tiên là  độ phồn vinh của thành đạt 3500 , các NPC trong thành đều có nhiệm vụ tăng độ phồn vinh. Lưu ý biểu tượng nhiệm vụ trên đầu họ /cFFDE00(!)/p, hãy đối 	To upgrade City to Lv 5, Prosperity must reach 3500. City NPCs offer Prosperity quests; look for /cFFDE00(!)/p above their heads and talk 
+T	Tiêu diệt 5 Tiểu Ác Ma rồi báo cho Trân Ni.	Slay 5 Imps and report back to Jenny.
+T	Toàn lực xung phong! Hạ đại quân vong giả! Diệt 20 Cốt Chiến Sĩ Ghê Sợ.	Charge at full force! Defeat the undead army! Slay 20 Dread Skeleton Warriors.
+T	Trong thôn còn 1 vài chiến sĩ bị vây khốn, hãy giúp họ giải vây!	Some warriors in the village are still surrounded; help rescue them!
+T	Tìm Trảo Tiểu Ác Ma	Find Imp Claws
+T	Tập hợp binh lực	Rally the Troops
+T	Tới Thành Thái Dương,  đối thoại với thủ thành. Hoàn thành loạt nhiệm vụ Mộ Phong Ấn. Hoàn thành xong loạt nhiệm vụ này hãy về thành trả nhiệm vụ.	Go to Sun City, speak with the Guard, and complete the Sealed Tomb quest series. Return to the city once done to turn in.
+T	Từ Khu Vong Giả đi về phía bắc, tới nơi đáng sợ tập hợp với quân đội của Sử Cương	Head north from Undead Realm to the Dread Grounds and regroup with Su Cuong's army
+T	Y là 1 Tà Linh Đồ Phu, hãy cẩn thận, hãy giúp các chiến sĩ quanh đây xử lý tạp binh.	He is an Evil Spirit Butcher—be careful! Help the nearby warriors clear the mobs.
+T	\Hủ Thuật Sư từng tấn công tộc Nộ Phong, bùa chú của y rất lợi hại. Mi hãy cẩn thận.	Corruption Shaman attacked Wrathwind clan; his curses are lethal. Beware.
+T	Đa tạ sự giúp đỡ của mi!	Thank you for your help!
+T	Đa tạ, đã tới lúc phản kích rồi.	Many thanks, it is time to counterattack.
+T	Đi tìm Quân Ca ở phía nam Cổng Làng.	Go find Quan Ca south of Village Gate.
+T	Đi về phía tây, tới /cFFFFFFRừng Phong/p liên hệ với /c00FF0Gác Rừng/p	Head west to /cFFFFFFMaple Forest/p and contact the /c00FF00Forest Guard/p
+T	Đuổi theo phương hướng kẻ địch. Ở góc trái bên dưới bản đồ tìm biểu tượng /cFFDE00?/p.	Pursue the fleeing enemy. Check the bottom-left corner of the map for the /cFFDE00?/p icon.
+T	Đánh bại Tà Linh Đồ Phu và báo cho Lôi Ân Trưởng Lão.	Defeat Evil Spirit Butcher and report to Elder Leon.
+T	Đây là /cFFFFFFLàng Diệu Kỳ/p, ta là Trưởng Thôn. Mấy hôm trước mi bị thương, mọi người đều rất lo lắng. /c00FF00Vân Thường hình như tìm mi có việc đấy/p  	This is /cFFFFFFWonder Village/p, I am the Village Chief. You were injured days ago and everyone worried. /c00FF00Van Thuong seems to be looking for you/p  
+T	ĐÃ diệt đủ 5 Tiểu Ác Ma chưa?	Have you slain 5 Imps yet?
+T	Đã diệt đủ 5 Tiểu Ác Ma chưa?	Have you slain 5 Imps yet?
+T	Để bằng hữu được an nghỉ.	Let our fallen comrades rest in peace.
+T	Đối thoại với Feidong	Speak with Feidong
+T	Summary: Thông qua Trạm Phi Hành tới Thành Thái Dương, hoàn thành nhiệm vụ /c00FF00Rừng Tinh Linh/p. Hoàn thành xong loạt nhiệm vụ này hãy về thành trả nhiệm vụ.	Summary: Travel to Sun City via Flight Station and complete /c00FF00Spirit Forest/p quest. Return to the city to turn in.
+T	Summary: Thông qua Trạm Phi Hành tới Thành Thái Dương, hoàn thành nhiệm vụ 	Summary: Travel to Sun City via Flight Station and complete 
+T	Summary: Thông qua Trạm Phi Hành tới Tân Nguyệt Trấn, hoàn thành nhiệm vụ /c00FF00Núi Nguyệt Nha/p. Hoàn thành xong loạt nhiệm vụ này hãy về thành trả nhiệm vụ.	Summary: Travel to Crescent Town via Flight Station and complete /c00FF00Crescent Mountain/p quest. Return to the city to turn in.
+T	Summary: Thông qua Trạm Phi Hành tới Tân Nguyệt Trấn, hoàn thành nhiệm vụ 	Summary: Travel to Crescent Town via Flight Station and complete 
+T	Summary: Thông qua Trạm Phi Hành tới Tân Nguyệt Trấn, hoàn thành loạt nhiệm vụ /c00FF00Núi Nguyệt Nha/p	Summary: Travel to Crescent Town via Flight Station and complete /c00FF00Crescent Mountain/p series
+T	Summary: Thông qua Trạm Phi Hành tới Tân Nguyệt Trấn, hoàn thành loạt nhiệm vụ 	Summary: Travel to Crescent Town via Flight Station and complete 
+T	Summary: Tới Thành Thái Dương,  đối thoại với thủ thành. Hoàn thành loạt nhiệm vụ Mộ Phong Ấn. Hoàn thành xong loạt nhiệm vụ này hãy về thành trả nhiệm vụ.	Summary: Go to Sun City, speak with the Guard, and complete the Sealed Tomb quest series. Return to the city to turn in.
+T	Summary: Tới Thành Thái Dương,  đối thoại với thủ thành. Hoàn thành loạt nhiệm vụ Mộ Phong Ấn.	Summary: Go to Sun City, speak with Guard. Complete Sealed Tomb series.
+T	. Hoàn thành xong loạt nhiệm vụ này hãy về thành trả nhiệm vụ.	. Return to the city once done to turn in.
+T	Rừng Tinh Linh là loạt nhiệm vụ hàng ngày, giai đoạn sơ cấp chia thành 2 bản đồ Rừng Cổ Thụ, Rừng Tinh Linh. Nhiệm vụ bắt đầu từ 	Spirit Forest is a daily quest series; novice phase spans Ancient Tree Forest and Spirit Forest. Begins from 
+T	. Mi có thể đi qua Trạm Phi Hành. Hoàn thành nhiệm vụ sơ cấp sẽ nhận được phần thưởng tương ứng.	. Travel via Flight Station. Complete novice quests to earn rewards.
+T	Chủ thành rất biếng, không để lại gì.../f10	The City Lord is too lazy to leave a note.../f10
+T	Chủ thành rất biếng, không để lại gì...	The City Lord is too lazy to leave a note...
+T	Mỗi lần Pet thăng cấp có thể lĩnh hội hoặc tăng kĩ năng thiên phú	Each time a Pet levels up, it can learn or upgrade an innate skill
+T	Vũ khí đôi, mỗi khi liên kích sẽ luân lưu sử dụng 2 vũ khí, kết quả tính không phải tổng sát thương vũ khí	Dual weapons alternate on combo strikes; damage is not summed
+T	Thuốc Nhanh Nhẹn Cực Hiệu (2 Giờ)	Supreme AGI Potion (2 Hr)
+T	Thuốc Cảm Trí Cực Hiệu (2 Giờ)	Supreme WIS Potion (2 Hr)
+T	Nhà phát hành không đòi tài khoản, mật mã của mi, không gửi tin trúng thưởng, cũng không yêu cầu mi đăng nhập website lĩnh thưởng, đề phòng lừa gạt	Staff will never ask for your account/password, send prize notices, or ask you to log into reward sites. Beware of scams.
+ID	24	Increases Attack Power
+I	20405	Windbreaker Sword
+I	2217	Army-Guard Spaulders
+I	14805	Torn Life Talisman
+ID	14805	/c00FF00The talisman is broken and cannot be repaired/p
+I	31000	White Wolf
+ID	31000	Wolf Cavalry Mount
+I	2226	Heroic Helm
+I	2203	Golden Pillar Armor
+I	2202	Heroic Armor
+I	2209	Army-Guard Pants
+I	2211	Golden Pillar Pants
+I	2210	Heroic Pants
+I	2219	Golden Pillar Spaulders
+I	2218	Heroic Spaulders
+I	12004	Sky Blue Gloves
+ID	12004	Equipment suitable for /c00FF00Mage/p, cannot be dismantled
+I	15101	Silver-Blue Robe (2 Days)
+I	2256	Berserk Sword
+ID	2256	Cannot be dismantled
+I	20404	Dark Night Sword [Shadow]
+I	20005	Pearwood Staff
+I	20006	Youth Staff
+I	20004	Dominion Staff
+I	20806	Ice Fang Spear
+I	20103	Silver Crossbow
+I	20107	Dread Crossbow
+I	20203	Steel Eagle Crossbow
+I	20503	Nightwalker Bow
+I	20507	Eagle Horn Bow
+ID	701	Quest item. Excess items after completing the quest can be sold
+ID	703	Quest item. Can cure corrupted wounds.
+I	350	Healing Potion
+ID	350	Use in battle to restore HP
+I	374	Revival Potion
+ID	374	Revives the target
+I	351	Mana Potion
+ID	351	Use in battle to restore MP
+I	455	Extra MP Potion (1 Hour)
+ID	455	Temporarily boosts stats; only 1 stat boost effect can be active at a time
+I	456	Extra HP Potion (1 Hour)
+I	465	Vitality Potion (2 Hours)
+I	464	Strength Potion (2 Hours)
+I	1350	Secret Treasure Chest (Bound)
+ID	1350	Use to receive /c00FF00rare/p equipment
+I	414	Vitality +1 Gem (Bound)
+ID	414	Socket into equipment to increase the corresponding stat
+I	431	HP +50 Gem (Bound)
+I	432	MP +20 Gem (Bound)
+I	11304	Wuwei Spaulders
+ID	11304	Equipment suitable for /c00FF00Cultivator/p, cannot be dismantled
+I	20810	Overlord Halberd
+I	40048	Newbie Gift Pack
+I	31014	White Tiger (5 Days)
+ID	31014	Rare white-furred beast
+I	10104	Silver-Blue Armor
+I	10704	Overlord Pants
+ID	10704	Equipment suitable for /c00FF00Swordsman/p, cannot be dismantled
+I	10804	Wuwei Pants
+I	12604	Silver-Blue Belt
+I	12804	Wuwei Belt
+I	20606	Blazing Fury Blade
+I	700	Little Demon Claw
+I	474	Supreme Intelligence Potion (2 Hours)
