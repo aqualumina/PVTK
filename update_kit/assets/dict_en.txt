@@ -6018,3 +6018,91 @@ I	12804	Wuwei Belt
 I	20606	Blazing Fury Blade
 I	700	Little Demon Claw
 I	474	Supreme Intelligence Potion (2 Hours)
+I	30015	Maid Egg
+T	©2011 Good Game	©2011 Good Game
+T	PHỤNG THIÊN	Phung Thien
+T	Chín Tầng Mây	Nine Cloud Layers
+T	Kỳ Thương	Merchant
+T	Tuyệt Vô Thần	Tuyet Vo Than
+T	【Merchant】	[Merchant]
+T	Giáp Bình Tuyết	Snow-Calm Armor
+T	Mũ Bình Tuyết	Snow-Calm Helm
+T	Hộ Vai Bình Tuyết	Snow-Calm Spaulders
+T	Kiến Hàn Thiết	Cold Iron Armor
+T	Quần Bình Tung	Ping Zong Pants
+T	Mũ Bình Tung	Ping Zong Helm
+T	Giáp Bình Tung	Ping Zong Armor
+T	Hộ Vai Bình Tung	Ping Zong Spaulders
+T	Giáp Hiệp Nghĩa	Chivalrous Armor
+T	Quần Hiệp Nghĩa	Chivalrous Pants
+T	Kiếm Thanh Bạc	Silver-Blue Sword
+T	Vũ khí. Không Tách	Weapon. Cannot be dismantled
+T	Hộp Bí Bảo	Secret Treasure Box
+T	Dùng có thể nhận được phần thưởng cấp tinh chế	Use to receive refinement-tier rewards
+T	Giáp Ân Trạch	Graceful Armor
+T	Hộ Vai Ân Trạch	Graceful Spaulders
+T	Kiếm Chu Tước	Vermilion Bird Sword
+T	Quần Ân Trạch	Graceful Pants
+T	Ủng Ân Trạch	Graceful Boots
+T	Gỗ Vụn Cấp 1	Lv 1 Scrap Wood
+T	Vật liệu kiến trúc quý hợp thành tại Xưởng Gỗ quốc gia	Rare building material crafted at the National Lumber Mill
+T	Đá Vụn Cấp 1	Lv 1 Scrap Stone
+T	Vật liệu kiến trúc quý hợp thành tại Xưởng Đá quốc gia	Rare building material crafted at the National Quarry
+T	Nỏ Tấn Ảnh	Swift Shadow Crossbow
+T	Tiêu Dao Kiếm	Carefree Sword
+T	Cuồng Phong Kiếm	Gale Sword
+T	Đai Bạch Nhai	White Cliff Belt
+T	Găng Bạch Nhai	White Cliff Gloves
+T	Nỏ Hoang Dã	Wilderness Crossbow
+T	Đổi Huy Hiệu Nạp Tiền	Exchange Top-Up Badge
+T	Dùng 50 KNB nạp thẻ, sẽ nhận được Huy Hiệu Nạp Tiền, thu thập, 2 huy hiệu có thể đội được phần thưởng thẻ nạp.	Top up 50 Gold to receive a Top-Up Badge. Collect 2 badges to exchange for a top-up reward.
+T	Trong thời gian sự kiện, sử dủng 50 RMB nạp thẻ, sẽ nhận được Huy Hiệu Nạp Tiền, thu thập 2 huy hiệu có thể nhận được phần thưởng thẻ nạp. Có thể nhận /c00FF00Vé Đổi Trân Thú/p, miễn phí đổ trân thú cường lực. Cách nạp: Hệ thống-Nạp thẻ	During the event, top up 50 RMB to receive a Top-Up Badge. Collect 2 badges to claim a top-up reward, including a /c00FF00Rare Pet Exchange Ticket/p for a powerful pet. Top-up path: System -> Top-Up
+T	Trong thời gian sự kiện, sử dụng 50 KNB nạp thẻ, sẽ nhận được Huy Hiệu Nạp Tiền, thu thập 2 huy hiệu có thể nhận được phần thưởng thẻ n ạp. Có thể nhận /c00FF00Vé Đổi Trân Thú/p, miễn phí đổi Chiến Sĩ Gấu, Nữ Bộc Thủ Hộ, Dung Nham Nguyên T. Còn có cơ hội nhận được thú cưỡi vĩnh viễn Viêm Linh và Kỳ Lân. Cuối cùng còn có 100% nhận được/c00FF00Vé EXP Trân Thú/p và /c00FF00Cuốn Nhiệm Vụ Vô Song/p. Cách nạp thẻ: Hệ thống-Nạp thẻ	During the event, top up 50 Gold to receive a Top-Up Badge. Collect 2 badges to claim a /c00FF00Rare Pet Exchange Ticket/p (Bear Warrior, Guardian Maid, Lava Elemental), plus a chance at permanent Flame Spirit or Qilin mounts, and 100% guaranteed /c00FF00Pet EXP Ticket/p & /c00FF00Peerless Quest Scroll/p. Top-up path: System -> Top-Up
+T	Mi thu thập đủ 2 Huy Hiệu Nạp Tiền rồi! Đây là phần thưởng thẻ nạp!	You've collected 2 Top-Up Badges! Here is your top-up reward!
+T	trận Maid	Maid Formation
+T	Bạn sẽ là chủ nhân của tôi làm gì? Hiệu quả chiến đấu cao của tôi, nhưng oh! Có thể giúp bạn nhanh chóng đánh bại kẻ thù, oh!	Will you be my master? My combat efficiency is high—I can help you defeat enemies quickly!
+T	Thạc sĩ, tôi sẽ không cho phép bạn xuống yo! Nhìn mạnh mẽ của tôi nó!	Master, I won't let you down! Watch my strength!
+T	Quốc gia cần /cff0000kích hoạt/p mới có tể chiêu mộ	Nation must be /cff0000activated/p before recruiting
+T	Mi phải nghe theo ta	You must obey me
+T	Nếu không đủ Vàng Lá mua vật phẩm, Vàng có thể thay thế Vàng Lá.	If you don't have enough Leaf Gold to buy items, Gold can be used instead.
+T	Lỗi kiểm chứng chiến đấu, kết thúc chiến đấu hp không đồng bộ, error code -3	Battle verification error: end-of-battle HP desync, error code -3
+T	/cff0000【System】/pĐã nhận đồ giám quái vật Đao Cường Tinh Anh	/cff0000[System]/p Obtained Monster Codex: Elite Dao Qiang
+T	Đốt Đạn Hiệu	Fire Signal Flare
+T	Đội Dung Binh-Phi Nhĩ	Mercenary Squad - Fei Er
+T	Cướp Canh Gác	Bandit Sentry
+T	Sói Thuần Hóa	Tamed Wolf
+T	Dung Binh Chiến Đấu	Fighting Mercenary
+T	Cướp Tinh Anh	Elite Bandit
+T	Thủ Vệ Cướp	Bandit Guard
+T	Cướp Quái Dị	Bizarre Bandit
+T	Kiệt Sâm	Jie Sen
+T	Thực Nhân Quỷ	Cannibal Demon
+T	Trộm Bỏ Trốn	Fleeing Thief
+T	Cướp Đi Tuần	Patrolling Bandit
+T	Tiêu diệt chướng ngại	Clear the Obstacles
+T	Điều tra địch tình	Scout Enemy Situation
+T	Tiêu diệt Tướng Cướp	Defeat the Bandit General
+T	Vào Góc Rừng Tinh Linh	Enter Elf Forest Corner
+T	Lãnh địa của Cướp	Bandit Territory
+T	Cổng Lớn đóng chặt	The Main Gate is tightly shut
+T	Diệt /cff0000Đao Cường/p và /cff0000Cướp Râu Đen/p , rồi đánh bại đầu lĩnh/cff0000Đao Cường Tinh Anh/p, mở đường cho dung binh	Defeat /cff0000Dao Qiang/p and /cff0000Blackbeard Bandit/p, then defeat their leader /cff0000Elite Dao Qiang/p to clear the way for the mercenaries
+T	Khu rừng này đã bị cướp chiếm cứ	This forest has been occupied by bandits
+T	Vào từ đây, chúng ta sẽ đánh tan bọn cướp.	Enter from here, and we will crush the bandits.
+T	Quân đội đang ở ngoài cổng lớn sơn trại	The troops are outside the mountain stronghold's main gate
+T	Cửa vừa mở, người chúng ta sẽ vào tiêu diệt cướp	As soon as the gate opens, our troops will rush in to wipe out the bandits
+T	Đây là địa bàn của ta, kẻ nào dám cản ta?	This is my turf—who dares stand in my way?
+T	Nhiệm vụ của chúng ta là tiêu diệt cướp.	Our mission is to wipe out the bandits.
+T	Cổng lớn sơn trại vô cùng kiên cố khó phá.	The stronghold's main gate is extremely sturdy and hard to breach.
+T	Dung binh đang chiến đấu với cướp	Mercenaries are fighting the bandits
+T	Ở đây đã có ta, mi vào tìm trùm cướp.	I've got things covered here—go inside and find the bandit boss.
+T	Lời của cướp là thật hay giả?	Are the bandit's words true or false?
+T	Cổng lớn sơn trại đang mở	The stronghold's main gate is opening
+T	Tiếp tục nói chuyện với /cff0000Đội Trưởng-Hạo Khắc/p	Continue talking to /cff0000Captain Hao Ke/p
+T	Cướp làm hại  nơi này. Rừng Tinh Linh vốn là nơi ở của Tinh Linh, không ngờ đã thành sào huyệt của Cướp. Không biết những Tinh Linh đã đi đâu?	Bandits have ruined this place. Elf Forest was once home to the Elves, yet now it's a bandit lair. Where have all the Elves gone?
+T	Cửa vào sơn trại ở phía dưới, nhưng xung quanh có nhiều Cướp đi tuần, chúng ta không thể tiến lại gần	The stronghold entrance is below, but there are many patrolling bandits around—we can't get close
+T	Nói chuyện với /cff0000Trộm Bỏ Trốn/p	Talk to /cff000Fleeing Thief/p
+T	Vừa có 1 /cff0000Cướp/p nghe thấy chúng ta nói chuyện. Giờ hắn chạy trốn ở  /cFFFFFFrừng phía tây/p, mau đuổi theo.	A /cff0000Bandit/p just overheard us talking. He's fleeing toward the /cFFFFFFwestern forest/p—chase him down!
+T	Đừng giết ta, ta sẽ nói cho các người một bí mật.	Don't kill me! I'll tell you guys a secret.
+T	Diệt 15 	Defeat 15 
+T	Summary: Diệt 15 	Summary: Defeat 15 
+T	Summary: Tới	Summary: Go to
