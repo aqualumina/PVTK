@@ -6106,3 +6106,68 @@ T	Đừng giết ta, ta sẽ nói cho các người một bí mật.	Don't kill 
 T	Diệt 15 	Defeat 15 
 T	Summary: Diệt 15 	Summary: Defeat 15 
 T	Summary: Tới	Summary: Go to
+T	Gỗ Vụn Cấp 2	Lv 2 Scrap Wood
+T	Áo Chân Quân	True Lord Robe
+T	Kiếm Lang Gia	Langya Sword
+T	Đã nhận đồ giám quái vật Cướp Đi Tuần	Obtained Monster Codex: Patrolling Bandit
+T	Đã nhận đồ giám quái vật Sói Thuần Hóa	Obtained Monster Codex: Tamed Wolf
+T	Đã nhận đồ giám quái vật Cướp Canh Gác	Obtained Monster Codex: Bandit Sentry
+T	/cff0000【System】/pĐã nhận đồ giám quái vật Đao Cường	/cff0000[System]/p Obtained Monster Codex: Dao Qiang
+T	Phá Cổng Lớn	Break the Main Gate
+T	Mở Cổng Lớn	Open the Main Gate
+T	Đường bí mật	Secret Path
+T	Cửa vào phía tây	Western Entrance
+T	Thật? Giả?	True or False?
+T	Địa bàn của Cướp	Bandit Turf
+T	Dung binh tăng viện	Mercenary Reinforcements
+T	Góc Rừng Tinh Linh	Elf Forest Corner
+T	Cứ điểm khó tấn công	Hard-to-Assault Stronghold
+T	Trong ứng ngoài hợp	Inside and Outside Attack
+T	Ác ma mê hoặc	Demonic Enchantment
+T	Tham Linh	Greedy Spirit
+T	Lợi Nhẫn	Sharp Blade
+T	Summary: Về nói chuyện với	Summary: Return and talk to
+T	Summary: Nói chuyện với	Summary: Talk to
+T	Summary: Đánh bại	Summary: Defeat
+T	Summary: Diệt 14	Summary: Defeat 14
+T	Summary: Phá	Summary: Break
+T	Summary: Vào trong sơn trại nói chuyện với	Summary: Enter the stronghold and talk to
+T	Nói chuyện với /cff0000Đội Dung Binh-Phi Nhĩ/p	Talk to /cff0000Mercenary Squad - Fei Er/p
+T	Tiếp tục nói chuyện /cff0000Đội Dung Binh-Phi Nhĩ/p	Continue talking to /cff0000Mercenary Squad - Fei Er/p
+T	Về nói chuyện với /cff0000Đội Trưởng-Hạo Khắc/p	Return and talk to /cff0000Captain Hao Ke/p
+T	Nói chuyện với /cff0000Đội Trưởng-Hạo Khắc/p	Talk to /cff0000Captain Hao Ke/p
+T	Tiếp tục nói chuyện với /cff0000Trộm Bỏ Trốn/p	Continue talking to /cff000Fleeing Thief/p
+T	Đập khóa và mở Cổng Lớn, Đội Dung Binh sau cửa ngay lập tức xông vào.	Smash the lock and open the Main Gate; the Mercenary Squad behind it immediately rushes in.
+T	Người của ta tới đủ rồi.	All of my men have arrived.
+T	Cổng Lớn đang đóng, không thấy tình hình bên trong, hãy về báo với /cff0000Đội Trưởng-Hạo Khắc/p.	The Main Gate is closed and we can't see inside—report back to /cff0000Captain Hao Ke/p.
+T	Mi về rất đúng lúc, ta vừa phát hiện ra cướp	You're back just in time—I just spotted the bandits
+T	Nếu như các người tha cho ta, ta sẽ nói cho các người 1 /cFFFFFFđường bí mật/p, ta đảm bảo có thể vào sơn trại	If you spare me, I'll tell you a /cFFFFFFsecret path/p—I guarantee it leads into the stronghold
+T	/cFFFFFFMiên theo vòng ngoài sơn trại đi về phía tây/p, ở đó có bờ rào cần gỡ. Các người đi vào sơn trại bằng lối đó sẽ không bị phát hiện. Ta đã nói hết rồi, hãy tha cho ta.	/cFFFFFFFollow the outer wall of the stronghold west/p; there's a fence you can remove. Sneak in that way and you won't be spotted. I've told you everything—please spare me!
+T	Lời của Cướp có đáng tin không?	Can the bandit's words be trusted?
+T	Tuy nhiên giờ mi không có cách nào tốt hơn để vào sơn trại, /cFFFFFFmen theo vòng ngoài sơn trại đi về phía tây/p tới xem sao, hi vọng Cướp nói đúng.	Still, you have no better way into the stronghold right now. /cFFFFFFFollow the outer wall west/p and check it out—let's hope the bandit wasn't lying.
+T	/cFFFFFFMen theo vòng ngoài sơn trại đi về phía tây/p nói chuyện với /cff0000Đội Trưởng-Hạo Khắc/p	/cFFFFFFFollow the outer wall west/p and talk to /cff0000Captain Hao Ke/p
+T	Với sức mạnh của 2 người chúng ta thì khó mà đánh được chúng.	With just the two of us, it'll be tough to defeat them.
+T	Là/cff0000Đội Dung Binh-Phi Nhĩ/p. Tăng viện của Đội Dung Binh tới rồi	It's /cff0000Mercenary Squad - Fei Er/p! Mercenary reinforcements have arrived!
+T	Không ngờ Cướp không lừa chúng ta. Ở đây quả vào được sơn trại.	Turns out the bandit didn't lie—this really does lead into the stronghold.
+T	Đánh bại /cff0000Thủ Vệ Cướp/p	Defeat /cff0000Bandit Guard/p
+T	Đội Dung Binh đã tập hợp ngoài Cổng Lớn của sơn trại. Nhưng Cướp chỉ thủ không công. Lẽ nào không làm gì được đám Cướp bên trong	The Mercenary Squad has gathered outside the stronghold's Main Gate, but the bandits are only defending. Is there really no way to deal with them?
+T	Từ đây có thể vào sơn trại sao?	Can we enter the stronghold from here?
+T	Tiêu diệt /cff0000Cướp Canh Gác/p và /cff0000Sói Thuần Hóa/p, mở Cổng Lớn sơn trại cho quân đội tiến vào.	Defeat /cff0000Bandit Sentry/p and /cff0000Tamed Wolf/p, and open the stronghold's Main Gate for the troops to advance.
+T	Khóa Cổng Lớn đang khóa.	The Main Gate lock is locked.
+T	Phá /cff0000Cổng Lớn sơn trại/p để dung binh vào	Break the /cff0000Stronghold Main Gate/p so the mercenaries can enter
+T	Vào trong sơn trại nói chuyện với /cff0000Tướng Cướp/p	Enter the stronghold and talk to /cff0000Bandit General/p
+T	Diệt /cff0000Cướp Tinh Anh/p xung quanh	Defeat the surrounding /cff0000Elite Bandits/p
+T	Dựa vào bọn mi thì có thể làm được gì, ở đây ta có cả đám /cff0000Cướp Tinh Anh/p, các huynh đệ xông lên!	What can the likes of you do? I've got a whole pack of /cff0000Elite Bandits/p here—brothers, charge!
+T	/cff0000Cướp Tinh Anh/p lên, tiêu diệt chúng	/cff0000Elite Bandits/p, attack! Wipe them out!
+T	Sao thế này?	What's going on?
+T	Đánh bại Tướng Cướp	Defeat Bandit General
+T	Đánh bại /cff0000Tướng Cướp/p	Defeat /cff0000Bandit General/p
+T	Ta là vua ở đây, vua Cướp, tất cả đều là của ta, hãy xem sự lợi hại của!!!(/cFFFF00Đối thoại xong lập tức vào chiến đấu/p)	I am the king here—the Bandit King! Everything belongs to me! Taste my power! (/cFFFF00Battle starts right after dialog/p)
+T	Ta là vua ở đây, vua Cướp, tất cả đều là của ta, muốn lấy đồ, hãy đánh bại ta trước!!!	I am the king here—the Bandit King! Everything belongs to me! If you want the loot, defeat me first!
+T	Không kẻ nào cướp được đồ của ta.	No one can steal what's mine.
+T	Diệt /cff0000Tham Linh/p Nói chuyện với /cff0000Đội Trưởng-Hạo Khắc/p	Defeat /cff0000Greedy Spirit/p and talk to /cff0000Captain Hao Ke/p
+T	Bọn mi không thể ngăn cản y	You cannot stop him!
+T	Tên đó là Ác Ma? /cff0000Lợi Nhẫn/p mà y nói là ai?	Is he a Demon? Who is this /cff0000Sharp Blade/p he mentioned?
+T	Ta là vua!	I am the king!
+T	Đừng hòng cướp của ta!	Don't even think about stealing from me!
+T	Không kẻ nào cản được!	No one can stop me!
