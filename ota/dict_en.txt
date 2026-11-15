@@ -6171,3 +6171,86 @@ T	Tên đó là Ác Ma? /cff0000Lợi Nhẫn/p mà y nói là ai?	Is he a Demon?
 T	Ta là vua!	I am the king!
 T	Đừng hòng cướp của ta!	Don't even think about stealing from me!
 T	Không kẻ nào cản được!	No one can stop me!
+I	1404	100-Day Celebration Reward
+I	490	Supreme Extra MP Potion (3 Hours)
+T	Quần Mạch Sơn	Moshan Pants
+T	Ly Thương	Sorrowful Spear
+T	Ủng Tử Vân	Purple Cloud Boots
+T	Tân Nguyệt Trấn	Crescent Town
+T	Thương Nhân Vũ Khí+Phòng Cụ	Weapon & Armor Merchant
+T	Chỗ ta có nhiều đồ, chọn đi!	I've got plenty of gear—take your pick!
+T	Mua trang bị hệ vật lý	Buy Physical Gear
+T	Mua trang bị hệ ma pháp	Buy Magic Gear
+T	Mua vũ Khí	Buy Weapons
+T	Tử Đông Hải Bán Diêm	Match-Seller Zi Donghai
+T	Ta bán rất nhiều đồ!!	I sell all kinds of goods!!
+T	Xem có gì không	See what's in stock
+T	Hiện mi có thể học kĩ năng cấp 10. Kĩ năng cấp cao hơn phải học ở quốc gia. Mi có thể mở danh sách quốc gia, tìm nơi huấn luyện phái tương ứng.	You can currently learn Lv 10 skills here. Higher-level skills must be learned in a Nation—open the Nation list to find your class trainer.
+T	Hứa Tổng	Chief Xu
+T	Chào!	Hello!
+T	Nơi thuê dụng binh	Mercenary Hiring Hall
+T	 Chào mừng tới Sở G.Dịch	 Welcome to the Trading Post
+T	Xem Sở G.Dịch (Bản cũ)	View Trading Post (Legacy)
+T	Thành Quản(Đổi Túi Quà)	City Steward (Gift Pack Exchange)
+T	Tới đây dùng mã đổi thưởng!	Redeem gift codes here!
+T	Ở chỗ ta có thể thiết lập điểm trùng sinh và dùng mã đổi thưởng	You can set your respawn point and redeem gift codes here
+T	Thiết lập điểm trùng sinh	Set Respawn Point
+T	Thẩm Mĩ Viện	Beauty Salon
+T	Nếu muốn đổi hiệu ứng trang bị, hãy gỡ bỏ thời trang của mi mới có thể xem trước nhân vật ở trên. Kiểm tra hiệu ứng khi thay đổi.	To preview equipment effects, remove your fashion outfit first. Check the preview above when switching.
+T	Kiểu tóc mới	New Hairstyles
+T	Đổi kiểu tóc	Change Hairstyle
+T	Đổi kiểu mặt	Change Face
+T	Hợp thành thời trang	Fashion Synthesis
+T	Bảng cáo thị Nguyệt Nha Trấn, có thể có 1 số nhiệm vụ đáng giá	Crescent Town Notice Board—there might be some worthwhile quests
+T	Chỗ ta có thể tới Núi Nguyệt Nha và Sa Mạc Thất Hồn, nhưng phải nhận nhiệm vụ tương ứng thì khu vực dịch chuyển mới mở	I can send you to Crescent Mountain and Lost Soul Desert, but you must accept the corresponding quest to unlock the teleport
+T	Tới khu vực Núi Nguyệt Nha (Cấp 16)	Go to Crescent Mountain (Lv 16)
+T	Tới khu vực Sa Mạc Thất Hồn (Cấp 34)	Go to Lost Soul Desert (Lv 34)
+T	 Tới Mộ Hán Vương (Cấp 18)	 Go to Han King's Tomb (Lv 18)
+T	Tới Nhiệm vụ Thích Khách Hành Động (Cấp 40)	Go to Assassin Operation Quest (Lv 40)
+T	Nguyệt Nha Bộ Khoái	Crescent Constable
+T	Ta đang kêu gọi người có thực lực tới Núi Nguyệt Nha thảo phạt yêu quái. Ngoài ra, Mộ Hán Vương cũng có rất nhiều chuyện	I'm recruiting strong warriors to clear monsters on Crescent Mountain. Also, there's a lot happening at Han King's Tomb
+T	Đào Ca	Tao Ge
+T	Đỗ Tiểu Đoái	Du Xiao Dui
+T	Trên người y có mùi hương quái dị...	There's a strange scent on him...
+T	Đánh bại Sát Thủ Tây Vực	Defeat the Western Regions Assassin
+T	Tầm Bảo Tạp Lợi	Treasure Hunter Ka Li
+T	Ta có tầm bảo đồ... lấy không?	I have a treasure map... want it?
+T	Sau khi nhận nhiệm vụ, có thể dùng Trạm Phi Hành để đi	After accepting the quest, you can travel via the Flight Station
+T	Sở G.Dịch Nhân Vật	Character Trading Post
+T	Nhân vật cấp 50 trở lên mới vào được Sở Giao Dịch. Sở Giao Dịch sẽ thu phí thủ tục 3%. Sau khi giao dịch, trong 10 ngày mới có thể bán lại. Treo bán 3 ngày nếu không bán được sẽ tự động hạ xuống, người chơi có thể tự hủy hạ xuống	Characters Lv 50+ can enter the Trading Post. A 3% fee applies. After a trade, there is a 10-day cooldown before reselling. Listings expire after 3 days if unsold, or can be canceled manually
+T	Treo bán nhân vật	List Character for Sale
+T	Tới Quảng Trường Tân Nguyệt	Go to Crescent Plaza
+T	Tú tài Đỗ Thời Vũ	Scholar Du Shiyu
+T	Tới bản đồ sự kiện Thanh Minh	Go to Qingming Event Map
+T	 Tới chỗ ta để huấn luyện pet	 Come to me for pet training
+T	skill pet nhạy bén	Agile Pet Skill
+T	Không phải tên nhóc này	Not this kid
+T	Cứu mạng!	Help!
+T	Tai họa của Sa Mạc Thất Hồn	Calamity of Lost Soul Desert
+T	Tới sa mac, giúp đại diện du dân giải quyết vấn đề	Go to the desert and help the nomad representative
+T	Ta là dân du mục sống ở /c00ff00Sa Mạc Xích Viêm/p. Gần đây trong sa mạc xuất hiện nhiều quái vậy, liên tục tấn công khiến tộc ta tổn thất nghiêm trọng. Chúng ta cầu viện Lôi Châu, bị cự tuyệt, đã hết cách. Hi vọng mi có thể giúp tiêu diệt quái vật	I'm a nomad from /c00ff00Crimson Flame Desert/p. Monsters have been swarming the desert and attacking our tribe. Leizhou refused our plea for help—please help us defeat these monsters!
+T	Nhân vật cấp 34 trở lên mới có thể nhận nhiệm vụ này	Characters Lv 34+ can accept this quest
+T	Thảo phạt Núi Nguyệt Nha	Crescent Mountain Expedition
+T	Mi tới khiêu chiến /cff0000Yêu Vương/p sao. Ta sẽ đưa mi tới /cFFFFFFNúi Nguyệt Nha/p, việc còn lại mi tự lo liệu.	So you're here to challenge the /cff0000Demon King/p? I'll take you to /cFFFFFFCrescent Mountain/p—the rest is up to you.
+T	Tới Chân Núi Nguyệt Nha tìm Huyền Kiếm Khách	Go to Crescent Mountain Foot and find Mysterious Swordsman
+T	Summary: Tới Chân Núi Nguyệt Nha tìm Huyền Kiếm Khách	Summary: Go to Crescent Mountain Foot and find Mysterious Swordsman
+T	Huyền Kiếm Khách	Mysterious Swordsman
+T	Tới Mộ Hán Vương giải quyết vấn đề Trộm Mộ	Go to Han King's Tomb and stop the Tomb Raiders
+T	Nghe nói /cFFFFFFMộ Hán Vương/p xuất hiện Đào Mộ, ta đã phái người tới điều tra, nếu mi đồng ý ta sẽ đưa mi tới Mộ Hán Vương. Nếu sau này mi vẫn muốn tới, có thể đi qua Trạm Phi Hành	I heard tomb raiders appeared at /cFFFFFFHan King's Tomb/p. I've sent scouts to investigate—if you're willing, I'll send you there. Later, you can also use the Flight Station.
+T	Cần đạt cấp 18 mới có thể mở nhiệm vụ ở đây	Requires Lv 18 to unlock quests here
+T	Dò đường thất bại-Không tìm được điểm dẫn đường của nhiệm vụ này	Pathfinding failed - No waypoint found for this quest
+T	Thưởng nhận được khi hoàn thànhđoạn nhiệm vụ	Reward for completing this quest stage
+T	Dư đảng Cướp	Bandit Remnants
+T	Kết bè kéo cánh	Forming a Gang
+T	Phong ấn bị mở	The Broken Seal
+T	Summary: Diệt 16	Summary: Defeat 16
+T	Summary: Diệt 20	Summary: Defeat 20
+T	Diệt /cff0000Cướp Canh Gác/p và /cff0000Sói Thuần Hóa/p, đuổi chúng ra khỏi rừng.	Defeat /cff0000Bandit Sentry/p and /cff0000Tamed Wolf/p, and drive them out of the forest.
+T	Tướng Cướp đã chết, đám Cướp còn lại đang bỏ trốn	The Bandit General is dead, and the remaining bandits are fleeing
+T	Hãy tận hưởng sự tung hô của dân chúng với anh hùng, thật tuyệt!	Enjoy the cheers of the townsfolk for their hero—what a feeling!
+T	英雄挑戦第5試合開始!	Hero Challenge Match 5 Begins!
+T	英雄の挑戦試合が始まります!私を通じてあなたを挑戦試合の会場のまでワープします.	The Hero Challenge Match is starting! Speak to me to warp to the arena.
+T	また行きたいなら私のところへ来て下さい.	Come back to me if you want to enter again.
+T	百日ｲﾍﾞﾝﾄ任務	100-Day Event Quest
+T	各位のプレーヤーの支持に感謝して, ガイアゲートは百日イベントを発表しました.この百日イベントを行う時, 3人の悪人が潜伏してガイアの中でごたごたを起こします.あなた達の実行する3つの任務, この3つをクリアします.彼らを打ち負かして, あなた達は奨励を獲得する.チームの状態で任務を完成しないでください, さもなくば奨励する事が出来ない.	Thank you for your support! Gaia Gate presents the 100-Day Event: 3 villains are causing trouble across Gaia. Complete the 3 quests and defeat them to earn rewards. Do NOT complete them while in a party, or you won't receive rewards.
+T	Lv35以上のプレーヤーがこのイベントを受けられます.	Players Lv 35+ can accept this event.
