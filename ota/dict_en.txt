@@ -6175,3 +6175,353 @@ T	また行きたいなら私のところへ来て下さい.	Come back to me if 
 T	百日ｲﾍﾞﾝﾄ任務	100-Day Event Quest
 T	各位のプレーヤーの支持に感謝して, ガイアゲートは百日イベントを発表しました.この百日イベントを行う時, 3人の悪人が潜伏してガイアの中でごたごたを起こします.あなた達の実行する3つの任務, この3つをクリアします.彼らを打ち負かして, あなた達は奨励を獲得する.チームの状態で任務を完成しないでください, さもなくば奨励する事が出来ない.	Thank you for your support! Gaia Gate presents the 100-Day Event: 3 villains are causing trouble across Gaia. Complete the 3 quests and defeat them to earn rewards. Do NOT complete them while in a party, or you won't receive rewards.
 T	Lv35以上のプレーヤーがこのイベントを受けられます.	Players Lv 35+ can accept this event.
+T	Thiên Tường Long	Soaring Sky Dragon
+T	Thiên Tường Long(Overstep rank)	Soaring Sky Dragon (Overstep)
+T	Phục Ma Đao	Demon-Subduing Blade
+T	Phục Ma Đao(Overstep rank)	Demon-Subduing Blade (Overstep)
+T	Thiên Ma Đao	Heavenly Demon Blade
+T	Thiên Ma Đao(Overstep rank)	Heavenly Demon Blade (Overstep)
+T	Huyết Quang Đao	Bloodlight Blade
+T	Huyết Quang Đao(Overstep rank)	Bloodlight Blade (Overstep)
+T	Tuyệt Tình Nhị Đao	Heartless Twin Blades
+T	Tuyệt Tình Nhị Đao(Overstep rank)	Heartless Twin Blades (Overstep)
+T	Chưởng Pháp Cơ Bản	Basic Palm Art
+T	Chưởng Pháp Cơ Bản(Overstep rank)	Basic Palm Art (Overstep)
+T	Bát Quái Chưởng	Eight Trigrams Palm
+T	Bát Quái Chưởng(Overstep rank)	Eight Trigrams Palm (Overstep)
+T	Đao Pháp Cơ Bản	Basic Blade Art
+T	Đao Pháp Cơ Bản(Overstep rank)	Basic Blade Art (Overstep)
+T	Ngự Kiếm	Sword Mastery
+T	Ngự Kiếm(Overstep rank)	Sword Mastery (Overstep)
+T	Kiếm Pháp Cơ Bản	Basic Sword Art
+T	Kiếm Pháp Cơ Bản(Overstep rank)	Basic Sword Art (Overstep)
+T	Tiêu Dao Kiếm(Overstep rank)	Carefree Sword (Overstep)
+T	Tử Điện Công	Purple Lightning Art
+T	Tử Điện Công(Overstep rank)	Purple Lightning Art (Overstep)
+T	Quỷ Ảnh	Ghost Shadow
+T	Quỷ Ảnh(Overstep rank)	Ghost Shadow (Overstep)
+T	Hùng Tượng Lực	Bear-Elephant Might
+T	Hùng Tượng Lực(Overstep rank)	Bear-Elephant Might (Overstep)
+T	Dịch Cân Kinh	Tendon-Changing Sutra
+T	Dịch Cân Kinh(Overstep rank)	Tendon-Changing Sutra (Overstep)
+T	Cửu Tiêu Kinh	Nine Heavens Sutra
+T	Cửu Tiêu Kinh(Overstep rank)	Nine Heavens Sutra (Overstep)
+T	Bàn Nhược Quyết	Prajna Mantra
+T	Bàn Nhược Quyết(Overstep rank)	Prajna Mantra (Overstep)
+T	Tiên Thiên Khí	Innate Qi
+T	Tiên Thiên Khí(Overstep rank)	Innate Qi (Overstep)
+T	Tiên Vô Công	Immortal Void Art
+T	Tiên Vô Công(Overstep rank)	Immortal Void Art (Overstep)
+T	Thiên Tàm Công	Heavenly Silkworm Art
+T	Thiên Tàm Công(Overstep rank)	Heavenly Silkworm Art (Overstep)
+T	Cửu Thần Công	Nine Spirits Art
+T	Cửu Thần Công(Overstep rank)	Nine Spirits Art (Overstep)
+T	Long Tượng Công	Dragon-Elephant Art
+T	Long Tượng Công(Overstep rank)	Dragon-Elephant Art (Overstep)
+T	Kim Cang Công	Vajra Art
+T	Kim Cang Công(Overstep rank)	Vajra Art (Overstep)
+T	Kim Cang Thể	Vajra Body
+T	Kim Cang Thể(Overstep rank)	Vajra Body (Overstep)
+T	Càn Khôn Di	Heaven-Earth Shift
+T	Càn Khôn Di(Overstep rank)	Heaven-Earth Shift (Overstep)
+T	Cửu Tự Quyết	Nine-Word Mantra
+T	Cửu Tự Quyết(Overstep rank)	Nine-Word Mantra (Overstep)
+T	Hổ Phục Thế	Crouching Tiger Stance
+T	Hổ Phục Thế(Overstep rank)	Crouching Tiger Stance (Overstep)
+T	Thiên Địa Thế	Heaven-Earth Stance
+T	Thiên Địa Thế(Overstep rank)	Heaven-Earth Stance (Overstep)
+T	Giáng Long	Dragon-Subduing
+T	Giáng Long(Overstep rank)	Dragon-Subduing (Overstep)
+T	Tiên Phong Thuật	Immortal Wind Art
+T	Tiên Phong Thuật(Overstep rank)	Immortal Wind Art (Overstep)
+T	Túy Quyền	Drunken Fist
+T	Túy Quyền(Overstep rank)	Drunken Fist (Overstep)
+T	"Không Thiền"	"Empty Zen"
+T	"Không Thiền"(Overstep rank)	"Empty Zen" (Overstep)
+T	Bát Quái Bộ	Eight Trigrams Steps
+T	Bát Quái Bộ(Overstep rank)	Eight Trigrams Steps (Overstep)
+T	Vô Cực Công	Limitless Art
+T	Vô Cực Công(Overstep rank)	Limitless Art (Overstep)
+T	Tam Nguyên Kình	Three-Origin Force
+T	Tam Nguyên Kình(Overstep rank)	Three-Origin Force (Overstep)
+T	Toái Cốt Kình	Bone-Shattering Force
+T	Toái Cốt Kình(Overstep rank)	Bone-Shattering Force (Overstep)
+T	Cửu Dương Khí	Nine Yang Qi
+T	Cửu Dương Khí(Overstep rank)	Nine Yang Qi (Overstep)
+T	Cuồng Bạo Thuật	Berserk Spell
+T	Cuồng Bạo Thuật(Overstep rank)	Berserk Spell (Overstep)
+T	Hỏa Cầu Thuật	Fireball
+T	Hỏa Cầu Thuật(Overstep rank)	Fireball (Overstep)
+T	Nhiên Thiêu Thủ	Burning Hand
+T	Nhiên Thiêu Thủ(Overstep rank)	Burning Hand (Overstep)
+T	Lưu Tinh Bão	Meteor Storm
+T	Lưu Tinh Bão(Overstep rank)	Meteor Storm (Overstep)
+T	Liên Hoàn Điện	Chain Lightning
+T	Liên Hoàn Điện(Overstep rank)	Chain Lightning (Overstep)
+T	Băng Phong Bạo	Blizzard
+T	Băng Phong Bạo(Overstep rank)	Blizzard (Overstep)
+T	Tử Vong Trận	Death Array
+T	Tử Vong Trận(Overstep rank)	Death Array (Overstep)
+T	Tử Vong Chỉ	Death Finger
+T	Tử Vong Chỉ(Overstep rank)	Death Finger (Overstep)
+T	Nữ Yêu Hào	Banshee Wail
+T	Nữ Yêu Hào(Overstep rank)	Banshee Wail (Overstep)
+T	Phá Long Trảm	Dragon-Breaker Slash
+T	Phá Long Trảm(Overstep rank)	Dragon-Breaker Slash (Overstep)
+T	Ngưng Thời Gian	Time Freeze
+T	Ngưng Thời Gian(Overstep rank)	Time Freeze (Overstep)
+T	Đốt Pháp Lực	Mana Burn
+T	Đốt Pháp Lực(Overstep rank)	Mana Burn (Overstep)
+T	Thạch Phu Thuật	Stone Skin
+T	Thạch Phu Thuật(Overstep rank)	Stone Skin (Overstep)
+T	Giải Ma Pháp	Dispel Magic
+T	Giải Ma Pháp(Overstep rank)	Dispel Magic (Overstep)
+T	Ảo Pháp Cầu	Illusion Orb
+T	Ảo Pháp Cầu(Overstep rank)	Illusion Orb (Overstep)
+T	Phản Ma Lực	Magic Reflect
+T	Phản Ma Lực(Overstep rank)	Magic Reflect (Overstep)
+T	Hấp Huyết Quỷ	Vampiric Drain
+T	Hấp Huyết Quỷ(Overstep rank)	Vampiric Drain (Overstep)
+T	Kiếm Bích	Sword Barrier
+T	Kiếm Bích(Overstep rank)	Sword Barrier (Overstep)
+T	Cấm Ngôn Thuật	Silence Spell
+T	Cấm Ngôn Thuật(Overstep rank)	Silence Spell (Overstep)
+T	Hỗn Loạn Thuật	Chaos Spell
+T	Hỗn Loạn Thuật(Overstep rank)	Chaos Spell (Overstep)
+T	Định Thân Thuật	Immobilize Spell
+T	Định Thân Thuật(Overstep rank)	Immobilize Spell (Overstep)
+T	Ma Pháp Thủ	Magic Guard
+T	Ma Pháp Thủ(Overstep rank)	Magic Guard (Overstep)
+T	Ma Pháp Học	Arcane Lore
+T	Ma Pháp Học(Overstep rank)	Arcane Lore (Overstep)
+T	Pháp Sư Chiến Đấu	Battle Mage
+T	Pháp Sư Chiến Đấu(Overstep rank)	Battle Mage (Overstep)
+T	Thấu Ma Pháp	Magic Penetration
+T	Thấu Ma Pháp(Overstep rank)	Magic Penetration (Overstep)
+T	Pháp Thuật Thức	Spell Awareness
+T	Pháp Thuật Thức(Overstep rank)	Spell Awareness (Overstep)
+T	Hồi Ma Pháp	Mana Recovery
+T	Hồi Ma Pháp(Overstep rank)	Mana Recovery (Overstep)
+T	Pháp Thuật Xuyên	Spell Pierce
+T	Pháp Thuật Xuyên(Overstep rank)	Spell Pierce (Overstep)
+T	Pháp Thuật Cực Hiệu	Extreme Spell
+T	Pháp Thuật Cực Hiệu(Overstep rank)	Extreme Spell (Overstep)
+T	Sủng Khế Ước	Pet Pact
+T	Sủng Khế Ước(Overstep rank)	Pet Pact (Overstep)
+T	Sủng Hiệp Thủ (Phù chú)	Pet Guard (Talisman)
+T	Sủng Hiệp Thủ (Phù chú)(Overstep rank)	Pet Guard (Talisman) (Overstep)
+T	Ma Vũ Khí	Enchanted Weapon
+T	Ma Vũ Khí(Overstep rank)	Enchanted Weapon (Overstep)
+T	Thuật Gia Tốc	Haste
+T	Thuật Gia Tốc(Overstep rank)	Haste (Overstep)
+T	Hoãn Mạn Thuật	Slow
+T	Hoãn Mạn Thuật(Overstep rank)	Slow (Overstep)
+T	Thiểm Quang Thuật	Flash
+T	Thiểm Quang Thuật(Overstep rank)	Flash (Overstep)
+T	Ma Pháp Kiếm	Magic Sword
+T	Ma Pháp Kiếm(Overstep rank)	Magic Sword (Overstep)
+T	Ma Lực Tăng	Mana Boost
+T	Ma Lực Tăng(Overstep rank)	Mana Boost (Overstep)
+T	Pháp Thuật Vô Hiệu	Magic Immunity
+T	Pháp Thuật Vô Hiệu(Overstep rank)	Magic Immunity (Overstep)
+T	Hộ Thuẫn Thuật	Shield Spell
+T	Hộ Thuẫn Thuật(Overstep rank)	Shield Spell (Overstep)
+T	Hư Nhược Thuật	Weaken
+T	Hư Nhược Thuật(Overstep rank)	Weaken (Overstep)
+T	Ảo Ảnh Thuật	Mirage
+T	Ảo Ảnh Thuật(Overstep rank)	Mirage (Overstep)
+T	Thiên Lôi Phá	Heavenly Thunder
+T	Thiên Lôi Phá(Overstep rank)	Heavenly Thunder (Overstep)
+T	Thủy Liệu Thuật	Water Heal
+T	Thủy Liệu Thuật(Overstep rank)	Water Heal (Overstep)
+T	Thổ Linh Chiến Khí	Earth Spirit Aura
+T	Thổ Linh Chiến Khí(Overstep rank)	Earth Spirit Aura (Overstep)
+T	Phong Vân Thể	Wind-Cloud Body
+T	Phong Vân Thể(Overstep rank)	Wind-Cloud Body (Overstep)
+T	Cấm Ngôn Chú	Silence Curse
+T	Cấm Ngôn Chú(Overstep rank)	Silence Curse (Overstep)
+T	Cấm Kỹ Chú	Skill-Seal Curse
+T	Cấm Kỹ Chú(Overstep rank)	Skill-Seal Curse (Overstep)
+T	Phong Linh Chú	Wind Spirit Curse
+T	Phong Linh Chú(Overstep rank)	Wind Spirit Curse (Overstep)
+T	Định Thân Chú	Bind Curse
+T	Định Thân Chú(Overstep rank)	Bind Curse (Overstep)
+T	Diệu Liên Hoa	Sacred Lotus
+T	Diệu Liên Hoa(Overstep rank)	Sacred Lotus (Overstep)
+T	Quy Tâm Thuật	Heart-Return Art
+T	Quy Tâm Thuật(Overstep rank)	Heart-Return Art (Overstep)
+T	Thủy Linh Chú	Water Spirit Curse
+T	Thủy Linh Chú(Overstep rank)	Water Spirit Curse (Overstep)
+T	Lôi Linh Chú	Thunder Spirit Curse
+T	Lôi Linh Chú(Overstep rank)	Thunder Spirit Curse (Overstep)
+T	Hỏa Linh Chú	Fire Spirit Curse
+T	Hỏa Linh Chú(Overstep rank)	Fire Spirit Curse (Overstep)
+T	Thiên Cang Khí	Heavenly Dipper Qi
+T	Thiên Cang Khí(Overstep rank)	Heavenly Dipper Qi (Overstep)
+T	Phá Vân Kiếm	Cloud-Piercing Sword
+T	Phá Vân Kiếm(Overstep rank)	Cloud-Piercing Sword (Overstep)
+T	Thiên Sư Trận	Celestial Master Array
+T	Thiên Sư Trận(Overstep rank)	Celestial Master Array (Overstep)
+T	Kim Cang Trận	Vajra Array
+T	Kim Cang Trận(Overstep rank)	Vajra Array (Overstep)
+T	Phá Ma Chú	Demon-Breaking Mantra
+T	Phá Ma Chú(Overstep rank)	Demon-Breaking Mantra (Overstep)
+T	Vô Cực Thuẫn	Limitless Shield
+T	Vô Cực Thuẫn(Overstep rank)	Limitless Shield (Overstep)
+T	Hoàn Hồn Chú	Soul-Reviving Mantra
+T	Hoàn Hồn Chú(Overstep rank)	Soul-Reviving Mantra (Overstep)
+T	Dưỡng Sinh Đạo	Vitality Dao
+T	Dưỡng Sinh Đạo(Overstep rank)	Vitality Dao (Overstep)
+T	Linh Tính Căn Cơ	Spiritual Foundation
+T	Linh Tính Căn Cơ(Overstep rank)	Spiritual Foundation (Overstep)
+T	Đạo Tự Nhiên	Natural Dao
+T	Đạo Tự Nhiên(Overstep rank)	Natural Dao (Overstep)
+T	Luyện Khí Thuật	Qi Refining
+T	Luyện Khí Thuật(Overstep rank)	Qi Refining (Overstep)
+T	Ngũ Hành Thuật	Five Elements Art
+T	Ngũ Hành Thuật(Overstep rank)	Five Elements Art (Overstep)
+T	Khí Ngũ Hành	Five Elements Qi
+T	Khí Ngũ Hành(Overstep rank)	Five Elements Qi (Overstep)
+T	Nguyên Quy Nhất	Origin Unity
+T	Nguyên Quy Nhất(Overstep rank)	Origin Unity (Overstep)
+T	Nguyên Hộ Thể	Origin Body Guard
+T	Nguyên Hộ Thể(Overstep rank)	Origin Body Guard (Overstep)
+T	Thần Quy Nguyên	Spirit Return
+T	Thần Quy Nguyên(Overstep rank)	Spirit Return (Overstep)
+T	Khí Triều Nguyên	Qi Convergence
+T	Khí Triều Nguyên(Overstep rank)	Qi Convergence (Overstep)
+T	Thuật Trường Sinh	Longevity Art
+T	Thuật Trường Sinh(Overstep rank)	Longevity Art (Overstep)
+T	Âm Dương Hợp	Yin-Yang Harmony
+T	Âm Dương Hợp(Overstep rank)	Yin-Yang Harmony (Overstep)
+T	Lực Ngũ Hành	Five Elements Power
+T	Lực Ngũ Hành(Overstep rank)	Five Elements Power (Overstep)
+T	Du Long Pháp	Wandering Dragon Art
+T	Du Long Pháp(Overstep rank)	Wandering Dragon Art (Overstep)
+T	Hỏa Luyện	Fire Mastery
+T	Hỏa Luyện(Overstep rank)	Fire Mastery (Overstep)
+T	Thủy Luyện	Water Mastery
+T	Thủy Luyện(Overstep rank)	Water Mastery (Overstep)
+T	Phong Luyện	Wind Mastery
+T	Phong Luyện(Overstep rank)	Wind Mastery (Overstep)
+T	Thổ Luyện	Earth Mastery
+T	Thổ Luyện(Overstep rank)	Earth Mastery (Overstep)
+T	Lôi Luyện	Thunder Mastery
+T	Lôi Luyện(Overstep rank)	Thunder Mastery (Overstep)
+T	Linh Thú Chiến Đấu	Spirit Beast Combat
+T	Linh Thú Chiến Đấu(Overstep rank)	Spirit Beast Combat (Overstep)
+T	Linh Thú Sinh Tồn	Spirit Beast Survival
+T	Linh Thú Sinh Tồn(Overstep rank)	Spirit Beast Survival (Overstep)
+T	Điều Tức	Breath Control
+T	Điều Tức(Overstep rank)	Breath Control (Overstep)
+T	Băng Tâm Quyết	Ice Heart Mantra
+T	Băng Tâm Quyết(Overstep rank)	Ice Heart Mantra (Overstep)
+T	Thần Tụ Khí	Spirit Qi Gathering
+T	Thần Tụ Khí(Overstep rank)	Spirit Qi Gathering (Overstep)
+T	Tam Hoa Tụ	Three Flowers Gathering
+T	Tam Hoa Tụ(Overstep rank)	Three Flowers Gathering (Overstep)
+T	Linh Phụ Thể	Spirit Possession
+T	Linh Phụ Thể(Overstep rank)	Spirit Possession (Overstep)
+T	Ma Phụ Thể	Demon Possession
+T	Ma Phụ Thể(Overstep rank)	Demon Possession (Overstep)
+T	Hỏa Trận Thuật	Fire Array
+T	Hỏa Trận Thuật(Overstep rank)	Fire Array (Overstep)
+T	Lôi Trận Thuật	Thunder Array
+T	Lôi Trận Thuật(Overstep rank)	Thunder Array (Overstep)
+T	Phong Trận Thuật	Wind Array
+T	Phong Trận Thuật(Overstep rank)	Wind Array (Overstep)
+T	Thủy Trận Thuật	Water Array
+T	Thủy Trận Thuật(Overstep rank)	Water Array (Overstep)
+T	Thổ Trận Thuật	Earth Array
+T	Thổ Trận Thuật(Overstep rank)	Earth Array (Overstep)
+T	Nguyệt Hoa Kiếm	Moonlight Sword
+T	Nguyệt Hàn Kiếm	Cold Moon Sword
+T	Minh Thần Công	Nether Spirit Art
+T	Hàn Băng Chưởng	Frost Palm
+T	Xích Luyện Chưởng	Crimson Refinement Palm
+T	Thập Bát Chưởng	Eighteen Palms
+T	Xuyên Vân Chưởng	Cloud-Piercing Palm
+T	Lạc Anh Chưởng	Falling Petal Palm
+T	Hỏa Vân Chưởng	Fire Cloud Palm
+T	Thôi Tâm Chưởng	Heart-Shattering Palm
+T	Kinh Thần Chỉ	Spirit-Shock Finger
+T	Kim Cang Chỉ	Vajra Finger
+T	Cửu Dương Kiếm	Nine Yang Sword
+T	Lục Mạch Kiếm	Six Meridians Sword
+T	Nhất Dương Chỉ	One Yang Finger
+T	Hấp Tinh Pháp	Star-Absorbing Art
+T	Hóa Công Pháp	Power-Dissolving Art
+T	Vấn Lưu Kiếm	Flowing Stream Sword
+T	Ngự Kiếm Thuật	Sword-Control Art
+T	Thập Tự Kiếm	Cross Sword
+T	Vô Hình Kiếm	Formless Sword
+T	Vạn Kiếm Quyết	Ten-Thousand Swords
+T	Hồi Thiên Kiếm	Heaven-Turning Sword
+T	Saukhimụctiêucấmngôn,khôngthểsửdụngtấncôngmapháp,tựđộngbiếnthànhcôngthường.	While Silenced, magic attacks cannot be used and turn into normal attacks.
+T	MụctiêuSuyYếu,mọisátthương+20%	Target is Weakened: all damage taken +20%
+T	TrạngtháiẢoẢnh,khôngchịusátthươngtấncôngphạmvivậtlý(Tậpthể)	Mirage state: immune to AoE physical attacks (Party)
+T	TrạngtháiTrúngĐộc,hồiMP,hútMPvôhiệu	Poisoned: MP recovery and MP drain are nullified
+T	SaukhimụctiêuPhongMa,khôngthểdùngkĩnăng	While Magic-Sealed, skills cannot be used
+T	SaukhimụctiêuPhongKĩ,khôngthểthitriểnkĩnăngchém,đâm.Tựđộngbiếnthànhtấncôngthường	While Skill-Sealed, slash/pierce skills cannot be used and turn into normal attacks
+T	SaukhimụctiêuPhongKĩ,khôngthểtấncôngkĩnăngchém,đâm,tựđộngchuyểnthànhtấncôngthường.	While Skill-Sealed, slash/pierce skills cannot be used and turn into normal attacks.
+T	Nhânvậttrạngtháimấtmáu,tựhồihpởmỗihiệpvôhiệu,sátthươngphảichịutăng10%	Bleeding: per-turn HP regen is nullified and damage taken +10%
+T	NhânvậtSuyNhượcsẽchịuthêm20%sátthương	Weakened characters take 20% extra damage
+T	TrongtrạngtháiẢoẢnhkhôngchịusátthươngtấncôngphạmvivậtlý	In Mirage state, immune to AoE physical attacks
+T	TrongtrạngtháiSuyYếu,chịuthêm20%sátthương	In Weakened state, take 20% extra damage
+T	Saukhimụctiêuhỗnloạn,sẽngẫunhiêncôngkích1mụctiêu	While Confused, attacks a random target
+T	Mụctiêuđịnhthân,khôngthểtấncông	Target is Immobilized and cannot attack
+T	Khoáng Vụn Cấp 1	Lv 1 Scrap Ore
+T	Vật liệu kiến trúc quý hợp thành tại Xưởng Sắt quốc gia	Rare building material crafted at the National Ironworks
+T	Rương Thẻ Biến Hình Hiếm	Rare Transform Card Chest
+T	Rương Thẻ Biến Hình Sử Thi	Epic Transform Card Chest
+T	Vé EXP pet (99)	Pet EXP Ticket (99)
+T	Sau khi mở sẽ nhận 99 Vé EXP pet khoá	Open to receive 99 Bound Pet EXP Tickets
+T	Cuộn Giám Định (khoá) (10)	Appraisal Scroll (Bound) (10)
+T	Sau khi mở sẽ nhận 10 Cuộn Giám Định khoá	Open to receive 10 Bound Appraisal Scrolls
+T	Hộp Đá Tẩy Tủy (10)	Reset Stone Box (10)
+T	Sau khi mở ra sẽ nhận được 10 đá tẩy tủy	Open to receive 10 Reset Stones
+T	Vé Cường Hóa (khoá) (10)	Enhance Ticket (Bound) (10)
+T	Sau khi mở sẽ nhận 10 Vé Cường Hoá khoá	Open to receive 10 Bound Enhance Tickets
+T	Hộp Đá Trùng Sinh (10)	Rebirth Stone Box (10)
+T	Sau khi mở ra sẽ nhận được 10 đá trùng sinh	Open to receive 10 Rebirth Stones
+T	Hộp Đá Tiềm Năng (10)	Potential Stone Box (10)
+T	Sau khi mở ra sẽ nhận được 10 đá tiềm năng.	Open to receive 10 Potential Stones.
+T	Sau khi mở ra sẽ nhận được 50 vé giám định(khóa)	Open to receive 50 Bound Appraisal Scrolls
+T	Hộp Vé Cường Hóa (Khóa) (50)	Enhance Ticket Box (Bound) (50)
+T	Sau khi mở ra sẽ nhận được 50 vé cường hóa (khóa)	Open to receive 50 Bound Enhance Tickets
+T	Khóa Vạn Năng (Khóa) (50)	Master Key (Bound) (50)
+T	Sau khi mở sẽ nhận 50 Khóa Vạn Năng khoá	Open to receive 50 Bound Master Keys
+T	Thưởng Rừng Tinh Linh I	Elf Forest Reward I
+T	Hộp Phòng Cụ Cấp 20	Lv 20 Armor Box
+T	Mộc Nguyên Tố	Wood Element
+T	Có thể nhận được phòng cụ Chiến Sĩ, Hiệp Khách thích hợp cấp 15-25. Có cơ hội nhận được trang bị sử thi.	Grants Warrior or Swordsman armor for Lv 15-25, with a chance at Epic gear.
+T	Đựng 1 chút vật liệu kiến trúc	Contains some building materials
+T	Nguyên tố tự nhiên của Rừng Tinh Linh. Dùng để hợp thành.	Natural element of Elf Forest. Used for synthesis.
+T	Huy hiệu kị sĩ đại diện cống hiến của mi, có thể vào Thành Cá Nhân đổi thưởng Lá.	Knight Badge representing your contribution; exchange it for Leaf rewards in your Personal City.
+T	Akatsuki (2 ngày)	Akatsuki (2 Days)
+T	Đấu trường sẽ mở lúc 20:00, đánh bại đối thủ sẽ nhận được Điểm Thi Đấu để đổi thưởng!	The Arena opens at 20:00! Defeat opponents to earn Arena Points for rewards!
+T	Đấu trường đã mở, mọi người hãy tới khiêu chiến nhận điểm!	The Arena is now open! Challenge opponents to earn points!
+T	Sói đói bao vây	Surrounded by Hungry Wolves
+T	Diệt 12 Yêu Lang	Defeat 12 Demon Wolves
+T	Summary: Diệt 12 Yêu Lang	Summary: Defeat 12 Demon Wolves
+T	Đã nhận đồ giám quái vật Yêu Lang	Obtained Monster Codex: Demon Wolf
+T	Đường đi nguy hiểm	Dangerous Road
+T	Yêu Lang	Demon Wolf
+T	Người Sói	Werewolf
+T	Người Sói phục kích	Werewolf Ambush
+T	Hạ Người Sói	Defeat the Werewolves
+T	Summary: Hạ Người Sói	Summary: Defeat the Werewolves
+T	Ma Ưng Sơn	Demon Eagle Mountain
+T	Nói chuyện với Huyền Kiếm Khách	Talk to Mysterious Swordsman
+T	Summary: Nói chuyện với Huyền Kiếm Khách	Summary: Talk to Mysterious Swordsman
+T	Lad, nếu muốn sống, hãy cùng ta tiêu diệt /cFF0000Yêu Lang/p!	If you want to live, help me defeat the /cFF0000Demon Wolves/p!
+T	Còn đợi gì, hãy tiêu diệt /cFF0000Yêu Lang/p	What are you waiting for? Defeat the /cFF0000Demon Wolves/p!
+T	Mi lợi hại hơn nhiều so với ta tưởng tượng!	You're much stronger than I imagined!
+T	Chắc mi đã hiểu con đường phía trước nguy hiểm thế nào? (/c00FF00Mi gật đầu./p)Trên đường đi ta sẽ nói các việc xảy ra ở đây!	You must realize how dangerous the road ahead is. (/c00FF00You nod./p) I'll tell you what happened here along the way!
+T	Yêu Vương dẫn tay chân chiếm lĩnh Núi Nguyệt Nha, để đoạt lại ngọn núi này chúng ta đã nhiều lần thảo phạt chúng. Nhưng phần lớn đều không đánh lại được /cFF0000Người Sói/p.	The Demon King and his minions seized Crescent Mountain. We've tried to retake it many times, but most couldn't defeat the /cFF0000Werewolves/p.
+T	Hãy tiêu diệt đám /cFF0000Người Sói/p	Defeat the /cFF0000Werewolves/p
+T	Mi đã chứng minh thực lực của mình, xem ra ta không thể để mất một người bạn như mi	You've proven your strength—I can't afford to lose an ally like you
+T	Đã diệt được /cFF0000Người Sói/p, chúng ta hãy nhanh chóng tiến lên, máu của chúng sẽ thu hút nhiều yêu thú!	The /cFF0000Werewolves/p are down! Let's move quickly—their blood will attract more monsters!
+T	Người Sói trợn mắt, xem ra nó đã chết rồi!	The Werewolf's eyes go wide—looks like it's dead!
+T	Ta sẽ nuốt sống bọn mi/f12	I'll swallow you whole!/f12
+T	Dám tới đây à/f09/f09	How dare you come here!/f09/f09
