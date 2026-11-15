@@ -38,7 +38,7 @@
 .end method
 
 .method public static openDictStream(Landroid/content/Context;)Ljava/io/InputStream;
-    .locals 4
+    .locals 6
     .annotation system Ldalvik/annotation/Throws;
         value = {
             Ljava/io/IOException;
@@ -64,11 +64,11 @@
 
     invoke-virtual {v0}, Ljava/io/File;->length()J
 
-    move-result-wide v1
+    move-result-wide v2
 
-    const-wide/16 v3, 0x0
+    const-wide/16 v4, 0x0
 
-    cmp-long v1, v1, v3
+    cmp-long v1, v2, v4
 
     if-lez v1, :cond_0
 
@@ -93,7 +93,7 @@
 
     const-string v2, "Fallback to bundled dict_en.txt"
 
-    invoke-static {v1, v2, v0}, Landroid/util/Log;->w(Ljava/lang/String;Ljava/lang/Throwable;)I
+    invoke-static {v1, v2, v0}, Landroid/util/Log;->w(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)I
 
     :cond_0
     invoke-virtual {p0}, Landroid/content/Context;->getAssets()Landroid/content/res/AssetManager;
@@ -110,7 +110,7 @@
 .end method
 
 .method public static openResource(Ljava/lang/String;)Ljava/io/InputStream;
-    .locals 5
+    .locals 6
 
     const/4 v0, 0x0
 
