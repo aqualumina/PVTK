@@ -8450,3 +8450,170 @@ T	Sau khi thăng cấp sẽ nhận được 3 điểm thuộc tính. Có thể t
 T	Mi còn /cffff00220 điểmsp/p chưa dùng, dùng điểm sp hợp lí học kĩ năng sẽ tăng lực chiến đấu!	You have /cffff00220 unused SP/p; spend SP wisely on skills to boost Combat Power!
 T	/c00FF00Update Tân Lễ Bao\nTrong thời gian diễn ra SK, mở lượng lớn có tỷ lệ nhận: Phi Mã, Thượng Cổ Chiến Tượng/p	/c00FF00New Gift Pack Update\nDuring the event, opening in bulk grants a chance for Pegasus or Ancient War Elephant/p
 T	/c00FF00【Nhắc nhở】Không tự giao dịch mua bán  KNB và vật phẩm，cũng không được tự ý mua bán tài khoản để tránh bị lừa đảo mất tài khoản hay vật phẩm đáng tiếc./p	/c00FF00[Notice] Do not trade Gold/items privately or buy/sell accounts to avoid scams and account loss./p
+T	画面设置	Display Settings
+T	人名显示:	Player Names:
+T	小地图:	Minimap:
+T	玩家显示:	Show Players:
+T	性能设定(跳图生效)	Performance (next map)
+T	角色形象:	Char Model:
+T	玩家数量:	Player Limit:
+T	声音设定	Sound Settings
+T	物体名字	Item Name
+T	当前物品倒计时	Current Item Countdown
+T	奖励解锁时间	Reward Unlock Time
+T	Tôi đã đọc và đồng ý	I have read and agree
+T	Điều Khoản Người Dùng	User Agreement
+T	Chọn nhân vật	Select Character
+T	Xoá NV	Del Char
+T	Tên T.bị	Gear Name
+T	Kho di động	Mobile Vault
+T	T.Bị	Equip
+T	Thuộc tính NV	Char Stats
+T	S.Mạnh:	STR:
+T	ThểChất:	CON:
+T	TríLực:	INT:
+T	CảmGiác:	Mood:
+T	Thông báo quốc gia	Nation Notice
+T	Vào thành	Enter City
+T	C.ký thành chủ	Mayor Sig
+T	Cấp thành:	City Lv:
+T	Đổi tên	Rename
+T	T.Nguyên q.gia	Nation Res.
+T	Phí vào：	Entry Fee:
+T	Q.Khố：	Treasury:
+T	T.Nguyên：	Resources:
+T	Tặng TN	Send Gift
+T	Phu thê:	Spouse:
+T	Thêm bạn	Add Friend
+T	Mời đội	Invite Party
+T	Xin vào đội	Request Party
+T	Mở Sở G.Dịch(Bản cũ)	Open Exchange (Old)
+T	Xem Sở G.Dịch(Bản cũ)	View Exchange (Old)
+T	Tụ Bảo Các	Treasure Pavilion
+T	Vạn Hoa Các	Myriad Flowers Pavilion
+T	Thành Phong Tuyết	Frostwind City
+T	Thương nhân thần bí	Mysterious Merchant
+T	Nơi thuê dụng	Mercenary Hall
+T	Hệ thống(ID:a2)	System (ID:a2)
+T	TOP Nạp Thẻ	Top Recharge
+T	Trong ngày	Daily
+T	Lịch sử	All-Time
+T	Mỗi tuần	Weekly
+T	TOP Thành Tựu	Top Achievements
+T	Vạn người mê	Most Popular
+T	TOP Bảo Thạch	Top Gems
+T	TOP Chém	Top Slash
+T	TOP Đâm	Top Pierce
+T	TOP Ma Công	Top Magic ATK
+T	Tốc độ đánh	Attack Speed
+T	Sát Thương Vũ Khí	Weapon DMG
+T	TOP Chí Mạng	Top Crit
+T	TOP Phá Giáp	Top Armor Break
+T	TOP Sát Thương	Top Damage
+T	Chiến Đấu Thiên Không	Sky Arena
+T	TOP Thần Kì	Top Mythic
+T	XH Lực Chiến	Combat Power Rank
+T	Thứ hạng	Rank
+T	Hạng 2	Rank 2
+T	Điểm thành tựu	Achievement Pts
+T	Trứng Gấu Trúc	Panda Egg
+T	Trứng Bạo Tẩu Bí Ngô	Rampage Pumpkin Egg
+T	Áo Vân Tiêu	Cloud-Soaring Robe
+T	Du Long Pháp+10Cấp	Dragon Roam Spell Lv+10
+T	Hộ Vai Hải Thần	Sea God Pauldrons
+T	Kiếm Griffin	Griffin Sword
+T	Thú Cưỡi của Thánh Đường Kiếm Sĩ	Mount of the Holy Temple Swordsman
+T	Dực Kiếm Cụ Phong+1Cấp	Gale Wing Sword Lv+1
+T	Đá Ma Lực Cấp 1	Lv.1 Magic Stone
+T	Những trang bị này sau khi phân giải có thể nhận bột ma lực rất nhỏ	Dismantling this gear yields a tiny amount of Magic Powder
+T	Đá Ma Lực Cấp 2	Lv.2 Magic Stone
+T	Những trang bị này sau khi phân giải có thể nhận hạt ma lực.	Dismantling this gear yields Magic Granules.
+T	Đá Ma Lực Cấp 4	Lv.4 Magic Stone
+T	Băng Nguyên Tố	Ice Element
+T	Nguyên tố tự nhiên của Bạc Tuyệt Vọng dùng để hợp thành	Natural element from Despair Silver, used for crafting
+T	Viêm Nguyên Tố	Flame Element
+T	Nguyên tố tự nhiên của Sa Mạc Thất Hồn, dùng để hợp thành	Natural element from Lost Soul Desert, used for crafting
+T	Sợi Ma Vân	Demon Cloud Silk
+T	Đá +2 Kháng Trạng Thái	+2 Status Resist Gem
+T	Đá +2 Chí Mạng	+2 Crit Gem
+T	Đá +2 Chuẩn Xác	+2 Accuracy Gem
+T	Đá +2 Chuẩn Ma Pháp	+2 Magic Hit Gem
+T	Đá +20 MP	+20 MP Gem
+T	Mèo Săn	Hunter Cat
+T	Kỵ Sĩ Vô Đầu	Headless Knight
+T	Cương Kỵ Sĩ Không Đầu	Headless Knight Mount
+T	Đồ của Kỵ Sĩ Không Đầu.	Gear of the Headless Knight.
+T	Tình Yêu Bỏ Quên	Forgotten Love
+T	Vòng Hắc Quỷ Vương	Black Demon King Necklace
+T	VP Hắc Quỷ Thiên Vương	Black Demon Heavenly King Item
+T	Vòng Chí Mạng	Crit Necklace
+T	Vòng Ma Lực	Magic Necklace
+T	Manh Nữ Bộc	Cute Maid
+T	Vô Vi Thủ Hộ	Wuwei Guard
+T	Thương Huyết Yên	Bloodsmoke Spear
+T	Nhẫn Hào Khách	Gallant Ring
+T	Thưởng khiêu chiến	Challenge Reward
+T	Đồ Minh Thần	Underworld God Gear
+T	Nhẫn Nữ Vu	Witch Ring
+T	Nữ Yêu Hào+1Cấp	Demoness Aura Lv+1
+T	Vòng Vảy Rồng	Dragon Scale Necklace
+T	Găng Hồ Cừu	Fox-Fur Gloves
+T	Nỏ Hôi Ưng	Ash Hawk Crossbow
+T	Nhẫn Ám Ảnh	Phantom Ring
+T	Thưởng Hành Động Thích Sát II	Assassination Action II Reward
+T	Ủng Hỗn Độn	Chaos Boots
+T	Thích hợp/c00FF00Hiệp Khách/p	For /c00FF00Warrior/p
+T	Thích hợp/c00FF00Pháp Sư/p	For /c00FF00Mage/p
+T	Tuyết Địa Kỳ Lân	Snowfield Qilin
+T	Vòng Tinh Tuyết	Starlight Snow Necklace
+T	Vòng Karli thường đeo	Necklace commonly worn by Karli
+T	Hộ Vai Phá Tà	Evil-Bane Pauldrons
+T	Nhẫn Tà Pháp	Dark Magic Ring
+T	VP nhiệm vụ Vô Song	Peerless Quest Item
+T	Găng Hỗn Độn	Chaos Gloves
+T	Tiếng Tiêu Đêm	Night Flute
+T	Nhẫn Cường Kích	Power Strike Ring
+T	Thú Cưỡi Mãnh Hổ	Fierce Tiger Mount
+T	Vật phẩm rớt ra khi hạ Long Vương. Tạm cứ cất giữ đi.	Dropped by the Dragon King. Keep it safe for now.
+T	Giáp Hỗn Độn	Chaos Armor
+T	Thưởng Hạ Sát Cuối	Last-Hit Kill Reward
+T	Hạ sát lần cuối sẽ nhận được	Awarded for landing the final blow
+T	Kỳ Lân Vương	Qilin King
+T	Thần thú mạnh	A mighty divine beast
+T	Liên Hoàn Điện+8Cấp	Chain Lightning Lv+8
+T	Hộ Vai Bạch Nguyệt	White Moon Pauldrons
+T	Giảo Sát Nha	Strangle Fang
+T	Mũ Bạch Nguyệt	White Moon Helm
+T	Long Ngâm	Dragon Roar
+T	Lam Viêm Thủ Ấn	Blue Flame Hand Seal
+T	Găng Bạch Nguyệt	White Moon Gloves
+T	Nguyệt Phách Nhẫn	Moon Soul Ring
+T	Bách Điều Triều Phụng	Hundred Birds Paying Homage
+T	Vảy Lam Long	Blue Dragon Scale
+T	Vật phẩm rớt ra khi hạ Lam Long. Tạm cứ cất giữ đi.	Dropped by the Blue Dragon. Keep it safe for now.
+T	Hải Thần Thánh Y	Sea God Sacred Robe
+T	Đai Tinh Nguyệt	Star Moon Belt
+T	Vảy Cổ Long	Ancient Dragon Scale
+T	Vật phẩm rớt khi hạ Cổ Long. Tạm cứ cất giữ đi.	Dropped by the Ancient Dragon. Keep it safe for now.
+T	Ủng Bạch Nguyệt	White Moon Boots
+T	Nhẫn Nhiễu Tâm	Mind-Disrupting Ring
+T	Áo Choàng Huyết Yên Hoa Lệ	Splendid Bloodsmoke Cloak
+T	Nỏ Hắc Dạ[Hắc Phong]	Dark Night Crossbow [Black Wind]
+T	Thiên Ma Đao+5Cấp	Heavenly Demon Saber Lv+5
+T	Quần Thục Sơn	Shushan Leggings
+T	Sách Hồng Nguyệt	Crimson Moon Tome
+T	Lôi Tư cất giữ	Kept by Lei Si
+T	Hồng Nguyệt Vực+4Cấp	Crimson Moon Domain Lv+4
+T	Quần Anh Hùng Cổ	Ancient Hero Leggings
+T	Đồ Thần Thánh Y(2 ngày)	Divine Sacred Robe (2d)
+T	Đồ Thiên Sứ(2 ngày)	Angel Outfit (2d)
+T	Áo Choàng Thánh Y	Sacred Cloak
+T	Bạch Hổ	White Tiger
+T	Ảnh Vũ	Shadow Dance
+T	Viễn chinh anh hùng	Heroic Expedition
+T	Thời gian hoạt động, lv đạt 15, 25, 35,45,55 có thể nhận thưởng	During the event, reach Lv.15, 25, 35, 45, 55 to claim rewards
+T	Chúc mừng bạn thăng cấp 14. Trong Thế Giới cần Kim Diệp và Vàng. Mi làm nhiệm vụ để có Kim Diệp đi!	Congrats on Lv.14! You need Gold Leaves and Gold in this world. Complete quests to earn Gold Leaves!
+T	Mi biết /c00FF00Gấu Kungfu/p không? Nó nói nó sẽ thành /c00ff00người đồng hành đáng tin/p của mi đấy.	Know /c00FF00Kungfu Panda/p? It says it'll become your /c00ff00trusted companion/p.
+T	Phần lớn trang bị đều có thể khảm bảo thạch để tăng thuộc tính. 1 trang bị chỉ có thể khảm 1 loại bảo thạch, các loại khác thì không khảm được	Most gear can be socketed with gems for extra stats. Each piece can only hold one gem type.
+T	Trong Thế Giới OL, các bảo rương đều đựng nhiều đồ, nhiều loại cần Chìa Khóa để mở ra vật phẩm quý.	In World OL, chests hold many items; many require a Key to unlock rare rewards.
+T	Lãnh Chủ đại nhân, cơn gió nào đã đưa ngài đến đây, ở đây tôi bán rất nhiều thứ, thú cưỡi, pet, trang bị thời trang, có gì cần cứ nói	My Lord, what brings you here? I sell mounts, pets, fashion gear, and more—just let me know what you need.
