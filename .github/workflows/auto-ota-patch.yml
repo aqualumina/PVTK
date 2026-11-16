@@ -1,0 +1,56 @@
+name: Auto OTA Patch (700+ Sheet Rows)
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  repository_dispatch:
+    types: [auto-patch]
+  workflow_dispatch:
+    inputs:
+      min_rows:
+        description: 'Minimum rows in sheet before auto-patching'
+        required: false
+        default: '700'
+
+permissions:
+  contents: write
+
+jobs:
+  auto-patch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Check sheets and auto-translate with Gemini
+        id: patch
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          APPS_SCRIPT_URL: ${{ secrets.APPS_SCRIPT_URL }}
+          APPS_SCRIPT_SECRET: ${{ secrets.APPS_SCRIPT_SECRET }}
+        run: |
+          MIN_ROWS="${{ github.event.inputs.min_rows || '700' }}"
+          python scripts/auto_ota_patch.py --min-rows "$MIN_ROWS"
+
+      - name: Commit and push OTA updates
+        if: steps.patch.outputs.updated_games != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pvtk1/ota pvtk2/ota
+          git commit -m "Auto OTA patch (${{ steps.patch.outputs.updated_games }})"
+          git push
+
+      - name: Sync Google Sheet Done tabs
+        if: steps.patch.outputs.updated_games != ''
+        env:
+          APPS_SCRIPT_URL: ${{ secrets.APPS_SCRIPT_URL }}
+          APPS_SCRIPT_SECRET: ${{ secrets.APPS_SCRIPT_SECRET }}
+        run: |
+          sleep 10
+          python scripts/auto_ota_patch.py --sync-games ${{ steps.patch.outputs.updated_games }}
