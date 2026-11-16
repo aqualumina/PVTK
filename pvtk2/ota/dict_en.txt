@@ -8680,3 +8680,11 @@ T	Đấu Trường	Arena
 T	Đổi k.giả	Switch View
 T	Mã đổi không tồn tại	Redeem code does not exist
 T	Hồng Tông Sư	Grandmaster
+T	Dò đường	Auto-path
+T	Xong nhiệm vụ	Complete Quest
+T	Xương Mất Đầu	Headless Skeleton
+T	Cổ Mộ Tầng 1	Ancient Tomb 1F
+T	Cổ Mộ tầng 1	Ancient Tomb 1F
+T	Cổ Mộ Tầng 2	Ancient Tomb 2F
+T	Cổ Mộ tầng 2	Ancient Tomb 2F
+T	Đào Mộ	Tomb Excavator
