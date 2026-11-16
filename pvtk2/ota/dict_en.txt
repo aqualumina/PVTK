@@ -8688,3 +8688,82 @@ T	Cổ Mộ tầng 1	Ancient Tomb 1F
 T	Cổ Mộ Tầng 2	Ancient Tomb 2F
 T	Cổ Mộ tầng 2	Ancient Tomb 2F
 T	Đào Mộ	Tomb Excavator
+T	bản chất thông minh	Clever Nature
+T	Nạp %150000 VND	Top up 150,000 VND
+T	Nạp %250000 VND	Top up 250,000 VND
+T	Nạp %500000 VND	Top up 500,000 VND
+T	Nạp %750000 VND	Top up 750,000 VND
+T	Max HP+1000(Khóa)	Max HP+1000 (Bound)
+T	Max MP+1000(Khóa)	Max MP+1000 (Bound)
+T	Atk Speed+20(Khóa)	Atk Speed+20 (Bound)
+T	Hit+5(Khóa)	Hit+5 (Bound)
+T	Achievement Name: Nạp 250000 VND	Achievement Name: Top up 250,000 VND
+T	新月古镇（中立城镇）	Crescent Town (Neutral Town)
+T	Mi không có Đá Dịch Chuyển, không thể vào bản đồ này	You do not have a Teleport Stone and cannot enter this map
+T	Ngài muốn đến Rừng Tinh Linh? Hiện tại ở đó không được bình yên, đạo tặc và dã thú xuất hiện khắp nơi, các đường đi đến Rừng Tinh Linh đều đã huỷ bỏ, nhưng tôi có thể đưa ngài đến Rừng Viễn Cổ, sau khi đến đó thì có người đưa bạn đến Rừng Tinh Linh, đi đường nhớ cẩn thận	Want to go to Spirit Forest? It is currently unsafe with bandits and beasts everywhere, and all paths there are closed. I can take you to Ancient Forest first, where someone can guide you to Spirit Forest. Safe travels!
+T	Summary: Đến Rừng Tinh Linh và trò chuyện với đội trưởng Dung binh Hạo Khắc	Summary: Go to Spirit Forest and talk to Mercenary Captain Hao Ke
+T	Ta là Đội trưởng Dung binh Hạo Khắc phụ trách công tác cảnh vệ nơi đây, ngài là anh hùng đến trợ giúp sao?	I am Mercenary Captain Hao Ke in charge of security here. Are you the hero who came to help?
+T	Giải cứu thương đội	Rescue the Caravan
+T	Đã nhận đồ giám quái vật Cướp Cản Đường	Obtained Monster Codex: Highway Bandit
+T	May gặp được mọi người nếu không hàng hóa của chúng tôi đã bị cướp hết rồi.	Thank goodness we met you, otherwise all our goods would have been robbed.
+T	Cứ điểm của Cướp	Bandit Outpost
+T	sườn núi phía tây	west mountainside
+T	Xem ra mục tiêu của chúng ta chính là cứ điểm của chúng.	Looks like our target is their outpost.
+T	Phá hủy cứ điểm Cướp	Destroy Bandit Outpost
+T	Cùng tới	Go together
+T	Chúng đã chuyển hàng hóa tới nơi khác rồi.	They already moved the goods elsewhere.
+T	Bạo Tạc	Explosion
+T	thuốc nổ	explosives
+T	Cứ điểm bị nổ, những dung binh khác đều bị thương. May Hạo Khắc đẩy mi, nên chỉ bị thương nhẹ.	The outpost exploded and the other mercenaries were injured. Luckily Hao Ke pushed you aside, so you only took minor injuries.
+T	Thương vong nghiêm trọng	Heavy Casualties
+T	ngoài cứ điểm canh giữ	guard outside the outpost
+T	Bọn mi sẽ chết hết.	You will all die.
+T	Chó săn Thành Thái Dương trúng kế rồi chứ?	Sun City hounds fell for the trap, didn't you?
+T	Cướp tập kích	Bandit Ambush
+T	Giờ bọn mi mọc cánh cũng khó bay! Các huynh đệ xông lên, tiêu diệt chúng!	Even with wings you can't escape now! Brothers, charge and wipe them out!
+T	Đã nhận đồ giám quái vật Cướp Râu Đen	Obtained Monster Codex: Blackbeard Bandit
+T	Đã nhận đồ giám quái vật Tướng Cướp	Obtained Monster Codex: Bandit General
+T	Bị thương nặng vậy còn có thể phản kháng?	Still able to fight back with such heavy wounds?
+T	Cướp giảo hoạt	Cunning Bandit
+T	Đám Cướp xảo quyệt đã làm bị thương biết bao huynh đệ của ta, ta sẽ không tha cho bọn mi	Those cunning bandits injured so many of my brothers. I will never forgive them
+T	Gọi đồng đội	Call Teammates
+T	Summary: Tới ngoài cứ điểm đốt Đạn Hiệu, gọi đồng đội tới tập hợp	Summary: Go outside the outpost and light the Signal Flare to rally your teammates
+T	Nơi này thích hợp để đốt Đạn Hiệu.	This spot is suitable for lighting the Signal Flare.
+T	Đội dung binh sẽ nhanh tới thôi	The mercenary squad will arrive soon
+T	Nỏ Toái Lô	Skullbreaker Crossbow
+T	Giáp Tụ Hải	Sea-Gathering Armor
+T	Hãy tiêu diệt các chướng ngại này, phá sào huyệt của Cướp.	Clear these obstacles and destroy the Bandit Lair.
+T	Khu rừng đẹp như vậy lại là sào huyệt của Cướp	Such a beautiful forest turned into a Bandit Lair
+T	Chúc mừng bạn hoàn thành "Xong NV ngày" nội dung độ Phát triển, nhận 40 độ Phát triển	Congratulations! Completed "Daily Quest" Growth task, received 40 Growth
+T	Nhân lúc chúng hỗn loại hãy mở Cổng Lớn để Đội Dung Binh vào	While they are in chaos, open the Main Gate to let the Mercenary Squad in
+T	Mũ Mạch Sơn	Wheat Hill Helm
+T	Quần Bác Học	Scholar Pants
+T	Hi vọng chúng không tới gây rối nữa.	Hope they won't come cause trouble anymore.
+T	Mi hãy về thành, có nhiệm vụ khác đợi mi.	Return to town, another quest awaits you.
+T	Summary: Thông qua Trạm Phi Hành tới Tân Nguyệt Trấn, nói chuyện với bộ khoái, y biết cách vào Mộ Hán Vương	Summary: Use the Airship Station to reach Crescent Town and talk to the Constable, who knows how to enter Han King's Tomb
+T	Đã nhận đồ giám quái vật Người Sói	Obtained Monster Codex: Werewolf
+T	Đã nhận đồ giám quái vật Ma Ưng	Obtained Monster Codex: Demon Hawk
+T	Đã nhận đồ giám quái vật Đại Dực Thú	Obtained Monster Codex: Giant Winged Beast
+T	Cung Hộ Vệ x 1	Guardian Bow x 1
+T	Đã nhận đồ giám quái vật Khô Lâu Tinh	Obtained Monster Codex: Skeleton Spirit
+T	Đã nhận đồ giám quái vật Khô Lâu Vương	Obtained Monster Codex: Skeleton King
+T	Có thù tất báo	An Eye for an Eye
+T	Của bất nghĩa	Ill-Gotten Gains
+T	Tang Vật	Stolen Goods
+T	Giáp Phục Thù	Vengeance Armor
+T	Đây là thù lao của mi, cầm lấy đi	Here is your reward, take it
+T	Lần này phát tài rồi, mi 3 phần ta 7 phần	We hit the jackpot this time! 30% for you, 70% for me
+T	Bỏ kĩ năng	Unequip Skill
+T	Rớt mạng, về giao diện chính!	Disconnected, returning to main screen!
+T	Summary: Tới Mộ Hán Vương giải quyết vấn đề Trộm Mộ	Summary: Go to Han King's Tomb to deal with the Tomb Raiders
+T	Map:  Cổ Mộ Tầng 1	Map: Ancient Tomb 1F
+T	选择称号	Select Title
+T	达成:10/10	Completed: 10/10
+T	Thông qua exp nhiệm vụ, chiến đấu với quái vật, nhận thành tựu... giúp nhân vật thăng lên cấp 10	Level up your character to Lv 10 via quest EXP, monster battles, achievements, etc.
+T	Thăng lên cấp 20	Reach Lv 20
+T	Thông qua exp nhiệm vụ, chiến đấu với quái vật, nhận thành tựu... giúp nhân vật thăng lên cấp 20	Level up your character to Lv 20 via quest EXP, monster battles, achievements, etc.
+T	Thăng lên cấp 10(Đã đạt)	Reach Lv 10 (Achieved)
+T	Phong Hành	Windwalker
+T	Thánh Hiền	Sage
+T	Kẻ Săn Quái Vật	Monster Hunter
+T	Summary: Tới Mộ Phong Ấn, giúp Mục Sư của Thành Thái Dương điều tra.	Summary: Go to Seal Tomb and help the Sun City Priest investigate.
