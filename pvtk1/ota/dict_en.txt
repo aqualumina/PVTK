@@ -8388,3 +8388,131 @@ T	☆ \nAuto-lock    Mount    /c42adf8Rare/p\n/c00ff00Constitution+30\n/p/c00ff0
 T	☆ \nAuto-lock Appraisable    Back    /cffa500Epic/p\n/cb0a67aUnidentified Stat \n/pArmor:   Slash 50  Pierce 50  MP 250\nRequirement: Lv 20\nDurability: 100/100\nVirus D đã thẩm thấu ý đồ huỷ hoại thế giới\n	☆ \nAuto-lock Appraisable    Back    /cffa500Epic/p\n/cb0a67aUnidentified Stat \n/pArmor:   Slash 50  Pierce 50  MP 250\nRequirement: Lv 20\nDurability: 100/100\nVirus D has penetrated with the intent to destroy the world\n
 T	【Thành của ta】	【My City】
 T	【Trân thú bầu bạn】	【Pet Companion】
+T	! Chúng ta không thể lãng phí thời gian, nếu Hán Vương Cổ Thi cũng hồi sinh thì quá muộn.	! We cannot waste time; if the Han King Ancient Corpse revives as well, it will be too late.
+T	(/c00FF00Đào Mộ thở dài, giờ không phải lúc nghỉ ngơi./p)Chúng lại tới! Mau đẩy lui!\n\n/cffff00Objective: /pDefeat /cffff00Headless Skeleton/p /cff00000/25/p\n/cffff00Reward:/pExp 3000  Silver1000  \n	(/c00FF00Tomb Raider sighs, now is not the time to rest./p) They're coming again! Repel them quickly!\n\n/cffff00Objective: /pDefeat /cffff00Headless Skeleton/p /cff00000/25/p\n/cffff00Reward:/pExp 3000  Silver1000  \n
+T	(Mi dùng /f13 nhìn Tử Sa.) Nhìn gì, không phải ta cố ý hủy đi con đường này. Đi, nhất định sẽ có mật đạo khác	(You look at Zi Sha with /f13.) What are you looking at? I didn't destroy this path on purpose. Let's go, there must be another secret passage.
+T	/c00FF00Đào Mộ liếc nhìn mi rồi chạy thục mạng.../p\n/cffff00Done: /pDefeat /cffff00Ancient Corpse/p /cff00003/3/p\n/cffff00Reward:/pExp 2000  Silver1000  \n	/c00FF00Tomb Raider glanced at you and ran for his life.../p\n/cffff00Done: /pDefeat /cffff00Ancient Corpse/p /cff00003/3/p\n/cffff00Reward:/pExp 2000  Silver1000  \n
+T	/c00FF00Đào Mộ liếc nhìn mi rồi chạy thục mạng.../p\n/cffff00Done: /pDefeat /cffff00Ancient Corpse/p /cff00003/3/p\n/cffff00Reward:/pExp 3000  Silver1000  \n	/c00FF00Tomb Raider glanced at you and ran for his life.../p\n/cffff00Done: /pDefeat /cffff00Ancient Corpse/p /cff00003/3/p\n/cffff00Reward:/pExp 3000  Silver1000  \n
+T	/cff0000【System】/pHiện số lớn nhất là 993, phần thưởng có thể nhiều người nhận, không rút được số lớn nhất hoặc số may mắn có thể tiếp tục thử vận may!	/cff0000【System】/pCurrent highest number is 993. Rewards can be claimed by multiple players. If you didn't draw the highest or lucky number, you can keep trying your luck!
+T	/cffff00Objective: /pDefeat /cffff00Ancient Corpse/p /cff00000/3/p\nGiúp họ hạ Cổ Thi!\n	/cffff00Objective: /pDefeat /cffff00Ancient Corpse/p /cff00000/3/p\nHelp them defeat the Ancient Corpses!\n
+T	/cffff00Objective: /pDefeat/cffff00Vu Sư Vong Linh/p/cff00000/p/cff0000/1/p\nTới Đồng Tuyệt Vọng tìm và hạ Vu Sư Vong Linh\n/cffff00Reward:/pExp 4500  Leaves1  Silver1000  \n	/cffff00Objective: /pDefeat/cffff00Undead Shaman/p/cff00000/p/cff0000/1/p\nGo to Despair Plains to find and defeat the Undead Shaman\n/cffff00Reward:/pExp 4500  Leaves1  Silver1000  \n
+T	1.Đăng Kí：/c00FF00 2025/11/25-2025/12/2 23：59 /p\n/c00FF00 Điều Kiện Báo Danh： /p\n①LV quốc gia đạt cấp 11\n②Thành viên Quốc Gia đạt 150 người\n③Ghi danh tiêu hao 30.000 độ Phồn Vinh\n2.Thời Gian Sao Lưu Dữ Liệu Nhân Vật：/cFF0000 2025/12/3 15:00 /p\n3./c00FF00 19:10 ngày 5/12 /p：gamer có thể đăng nhập vào Server Thiện Hạ Đệ Nhất Bang để lập team, set skill….\n /c00FF00 20:10 ngày 6/12 /p：bắt đầu thi đấu, hệ thống chia cặp ngẫu nhiên 2 Quốc gia đấu với nhau. Thắng sẽ vào vòng trong, Thua sẽ bị loại\n Cách 1 tuần sẽ diễn ra 1 vòng đấu vào thứ 7 hàng tuần,quốc gia giành chiến thắng vào vòng trong,quốc gia thua sẽ bị loại, cho đến khi tìm ra Quán Quân。\n/ced1941 Chú ý:Theo dõi Fanpage “Phong Vân Truyền Kỳ” để cập nhật lịch thi đấu。 /p\n4.Thống Kê Tích Điểm Quốc Chiến Rồi Phát Thưởng。\n5. BTC Có Quyền Quyết Định Cuối Cùng。	1.Registration: /c00FF00 2025/11/25-2025/12/2 23:59 /p\n/c00FF00 Registration Conditions: /p\n①Nation LV reaches Level 11\n②Nation Members reach 150 players\n③Registration consumes 30,000 Prosperity\n2.Character Data Backup Time: /cFF0000 2025/12/3 15:00 /p\n3./c00FF00 19:10 Dec 5 /p: Gamers can log in to the Best Under Heaven Guild Server to form teams, set skills...\n /c00FF00 20:10 Dec 6 /p: Matches begin, the system randomly pairs 2 Nations against each other. Winners advance, losers are eliminated.\n Every week, 1 round takes place on Saturday; winning nations advance, losing nations are eliminated until the Champion is decided.\n/ced1941 Note: Follow the "World of Legends" Fanpage for schedule updates. /p\n4.Tally National War Points and Distribute Rewards.\n5. The Organizing Committee reserves the final decision.
+T	Abandon quest </cff0000Đào Mộ/p>?	Abandon quest </cff0000Tomb Raider/p>?
+T	BOSS Thập Liên Khiêu	Ten Boss Challenge
+T	Bạn có muốn trở nên mạnh mẽ? Tổng hợp vật nuôi là một lựa chọn tốt Oh! Tôi đặt ít meo meo micro của tôi vào một con gấu trúc~ Oh hùng mạnh tốt!	Do you want to become stronger? Pet synthesis is a great choice! I fused my little meow-meow into a panda~ Oh so mighty and strong!
+T	Bộ phận xe cung đình có thể dùng điểm thi đấu, điểm quái vật công thành để đổi. Thú cưỡi trắng và các bộ phận đều có thể nhận được trong phần thưởng nhiệm vụ Vallentine. /c00FF00Hợp thành xe cung đình, Kiếm Rose có tỉ lệ thất bại nhất định. Hãy xem hướng dẫn hợp thành./p	Royal Carriage parts can be exchanged using Arena Points and Siege Monster Points. White mounts and parts can all be obtained from Valentine quest rewards. /c00FF00Synthesizing Royal Carriages and Rose Swords has a chance of failure. Please check the synthesis guide./p
+T	Chuyển phái hiền giả	Change Class to Sage
+T	Chào mừng đến Đấu Trường Sky, hãy đến đây khiêu chiến các đối thủ mạnh và giành Điểm Khiêu Chiến; Nếu đủ mạnh, bạn sẽ trở thành thành viên bảo hộ Sky để tiếp đón những kẻ khiêu chiến. Client bản 12.0 trở lên mới dùng được chức năng này	Welcome to Sky Arena! Come challenge powerful opponents and earn Challenge Points. If you are strong enough, you will become a Sky Guardian to welcome challengers. Client version 12.0 or above is required to use this feature.
+T	Chúc Phúc của Hứa Tổng	Chief Xu's Blessing
+T	Chúc mừng kỉ niệm	Anniversary Celebration
+T	Completed quest </cffff00Mộ địa/p>\nUse auto-pathfinding?	Completed quest </cffff00Graveyard/p>\nUse auto-pathfinding?
+T	Cuối cùng cũng đi rồi! Xem như chúng may mắn.\n/cffff00Done: /pComplete quest </c00ff00Repel Ancient Corpses/p>\nComplete quest </c00ff00Repel Ancient Corpses/p>\nComplete quest </c00ff00Repel Ancient Corpses/p>\n/cffff00Reward:/pExp 2000  Silver1000  \n	They're finally gone! Consider them lucky.\n/cffff00Done: /pComplete quest </c00ff00Repel Ancient Corpses/p>\nComplete quest </c00ff00Repel Ancient Corpses/p>\nComplete quest </c00ff00Repel Ancient Corpses/p>\n/cffff00Reward:/pExp 2000  Silver1000  \n
+T	Cường hóa thú cưỡi	Enhance Mount
+T	Cẩn thận! (/c00FF00Vô số mũi tên bắn về phía bọn mi, tất cả đều được Tử Sa dùng kiếm chặn lại, xem ra thân thủ không tệ./p)	Watch out! (/c00FF00Countless arrows shoot towards you, all blocked by Zi Sha with his sword; his skills seem quite remarkable./p)
+T	Cổ Mộ tầng 2	Ancient Tomb 2F
+T	Cổ Thi đang bao vây Đào Mộ...(/c00FF00Giúp họ hạ Cổ Thi!/p)\n\n/cffff00Objective: /pDefeat /cffff00Ancient Corpse/p /cff00000/3/p\n/cffff00Reward:/pExp 2000  Silver1000  \n	Ancient Corpses are surrounding the Tomb Raider... (/c00FF00Help them defeat the Ancient Corpses!/p)\n\n/cffff00Objective: /pDefeat /cffff00Ancient Corpse/p /cff00000/3/p\n/cffff00Reward:/pExp 2000  Silver1000  \n
+T	Cổ Thi đang bao vây Đào Mộ...(/c00FF00Giúp họ hạ Cổ Thi!/p)\n\n/cffff00Objective: /pDefeat /cffff00Ancient Corpse/p /cff00000/3/p\n/cffff00Reward:/pExp 3000  Silver1000  \n	Ancient Corpses are surrounding the Tomb Raider... (/c00FF00Help them defeat the Ancient Corpses!/p)\n\n/cffff00Objective: /pDefeat /cffff00Ancient Corpse/p /cff00000/3/p\n/cffff00Reward:/pExp 3000  Silver1000  \n
+T	DefeatVu Sư Vong Linh	Defeat Undead Shaman
+T	Diệt 15 Xạ Thủ Xương	Defeat 15 Skeleton Archers
+T	Diệt 40 Xương Mất Đầu\n/cffff00Objective: /pDefeat /cffff00Headless Skeleton/p /cff00000/25/p\nUse auto-pathfinding?	Defeat 40 Headless Skeletons\n/cffff00Objective: /pDefeat /cffff00Headless Skeleton/p /cff00000/25/p\nUse auto-pathfinding?
+T	Diệt đám/cFF0000Đao Phủ Xương/p! Chúng ta không thể lãng phí thời gian, nếu Hán Vương Cổ Thi cũng hồi sinh thì quá muộn.\n\n/cffff00Objective: /pDefeat /cffff00Skeleton Executioner/p /cff00000/20/p\n/cffff00Reward:/pExp 3200  Silver1400  \n	Eliminate the /cFF0000Skeleton Executioners/p! We cannot waste time; if the Han King Ancient Corpse revives as well, it will be too late.\n\n/cffff00Objective: /pDefeat /cffff00Skeleton Executioner/p /cff00000/20/p\n/cffff00Reward:/pExp 3200  Silver1400  \n
+T	Giáp Ma Kính	Magic Mirror Armor
+T	Giúp ta ngăn chặn đám /c00FF00Xương Mất Đầu/p!\n(/cffff00Giúp Đào Mộ đánh bại Xương Mất Đầu/p)\n\n/cffff00Objective: /pDefeat /cffff00Headless Skeleton/p /cff000010/10/p\n/cffff00Reward:/pExp 2000  Silver500  \n	Help me hold off the /c00FF00Headless Skeletons/p!\n(/cffff00Help the Tomb Raider defeat the Headless Skeletons/p)\n\n/cffff00Objective: /pDefeat /cffff00Headless Skeleton/p /cff000010/10/p\n/cffff00Reward:/pExp 2000  Silver500  \n
+T	Giúp ta ngăn chặn đám /c00FF00Xương Mất Đầu/p!\n\n/cffff00Objective: /pDefeat /cffff00Headless Skeleton/p /cff00000/10/p\n/cffff00Reward:/pExp 2000  Silver500  \n	Help me hold off the /c00FF00Headless Skeletons/p!\n\n/cffff00Objective: /pDefeat /cffff00Headless Skeleton/p /cff00000/10/p\n/cffff00Reward:/pExp 2000  Silver500  \n
+T	Giải cứu Đào Mộ bị tấn công\n/cffff00Objective: /pComplete quest </cff0000Repel Ancient Corpses/p>\nComplete quest </cff0000Repel Ancient Corpses/p>\nComplete quest </cff0000Repel Ancient Corpses/p>\nUse auto-pathfinding?	Rescue the attacked Tomb Raider\n/cffff00Objective: /pComplete quest </cff0000Repel Ancient Corpses/p>\nComplete quest </cff0000Repel Ancient Corpses/p>\nComplete quest </cff0000Repel Ancient Corpses/p>\nUse auto-pathfinding?
+T	Gần Đây Hay Mơ Thấy Một Người Đầy Màu Sắc Kì Lạ, Xuất Hiện Trong Giấc Mơ, Cứ Cười Vơi Tôi, Rất Dịu Dàng, Nhưng Lại Thấy Lạnh Thấu Xương.,  Cá Tháng Tư(Mức Khó)	Recently Dreaming of a Strangely Colorful Person Appearing in Dreams, Smiling at Me Tenderly Yet Chilling to the Bone., April Fools' (Hard)
+T	Gần Đây Hay Mơ Thấy Một Người Đầy Màu Sắc Kì Lạ,Xuất Hiện Trong Giấc Mơ,Cứ Cười Vơi Tôi,Rất Dịu Dàng,Nhưng Lại Thấy Lạnh Thấu Xương	Recently Dreaming of a Strangely Colorful Person Appearing in Dreams, Smiling at Me Tenderly Yet Chilling to the Bone
+T	Hiên Viên Quyết	Xuanyuan Formula
+T	Hiện số lớn nhất là 993, phần thưởng có thể nhiều người nhận, không rút được số lớn nhất hoặc số may mắn có thể tiếp tục thử vận may!	Current highest number is 993. Rewards can be claimed by multiple players. If you didn't draw the highest or lucky number, you can keep trying your luck!
+T	Hiện tại chỉ mở ít hợp thành pháp khí. Cường hóa và hợp thành mới sẽ cung cấp sau. Phái hiền giả đạt câp 54 mới có thể học kĩ năng phái ở đây	Currently only limited magic artifact synthesis is available. New enhancements and synthesis will be provided later. Sages reaching Lv 54 can learn class skills here.
+T	Hoạt Động Lễ Tạ Ơn	Thanksgiving Event
+T	Hàng ngày đều tổ chức sự kiện rút thưởng. Lv30 trở lên hàng ngày có thể tham gia miễn phí 3 lần. 24:00 mỗi tối hệ thống sẽ tính toán, nếu số của bạn lớn nhất trong số mọi người chơi sẽ nhận được phần thưởng. Không phải người chơi VIP có thể tới Trạm Phi Hành thành cá nhân tham gia sự  kiện	A lucky draw event is held daily. Players Lv 30 and above can participate for free 3 times a day. Every evening at 24:00, the system calculates results; if your number is the highest among all players, you will receive a reward. Non-VIP players can visit the Personal City Airship Station to participate in the event.
+T	Hãy giúp chúng, sau đó đuổi chúng ra khỏi đây.\n\n/cffff00Objective: /pComplete quest </cff0000Repel Ancient Corpses/p>\nComplete quest </cff0000Repel Ancient Corpses/p>\nComplete quest </cff0000Repel Ancient Corpses/p>\n/cffff00Reward:/pExp 2000  Silver1000  \n	Help them, then drive them out of here.\n\n/cffff00Objective: /pComplete quest </cff0000Repel Ancient Corpses/p>\nComplete quest </cff0000Repel Ancient Corpses/p>\nComplete quest </cff0000Repel Ancient Corpses/p>\n/cffff00Reward:/pExp 2000  Silver1000  \n
+T	Hạ 20 Đao Phủ Xương\n/cffff00Objective: /pDefeat /cffff00Skeleton Executioner/p /cff00000/20/p\nUse auto-pathfinding?	Defeat 20 Skeleton Executioners\n/cffff00Objective: /pDefeat /cffff00Skeleton Executioner/p /cff00000/20/p\nUse auto-pathfinding?
+T	Hạ Xương	Defeat Skeletons
+T	Học skill nghề	Learn Class Skills
+T	Hồng Miêu Nữ (Tiến hóa)	Red Cat Girl (Evolved)
+T	Hợp thành chúc tết	New Year Greeting Synthesis
+T	Hợp thành pháp khí	Magic Artifact Synthesis
+T	Hợp thành thú cưỡi	Mount Synthesis
+T	Khô Lâu Vương	Skeleton King
+T	Kiếm Sĩ Xương	Skeleton Swordsman
+T	Kị Sĩ Bịt Mặt	Masked Knight
+T	Lalala, ta là Vua Sky Pangpang đây~Đạn So Cute, bắn nào!	Lalala, I am the Sky Pangpang King~ Such cute bullets, let's shoot!
+T	Lỗi kiểm chứng chiến đấu, kết thúc chiến đấu mp không đồng bộ	Combat verification error: MP desynchronized at battle end
+T	Mua chúc tết	Buy New Year Greetings
+T	Mã Liên	Ma Lien
+T	Mũ Lưu Ảnh	Shadow Flow Helm
+T	Mơ Thấy Một Người Đầy Màu Sắc Kì Lạ, Xuất Hiện Trong Giấc Mơ, Cứ Cười Vơi Tôi, Rất Dịu Dàng, Nhưng Lại Thấy Lạnh Thấu Xương.,  Cá Tháng Tư(Mức Khó)	Dreaming of a Strangely Colorful Person Appearing in Dreams, Smiling at Me Tenderly Yet Chilling to the Bone., April Fools' (Hard)
+T	Nguyệt Lão	Yue Lao
+T	Nhiệm vụ Ngày Nhà Giáo Việt Nam	Vietnamese Teachers' Day Quest
+T	Nhắc nhở	Reminder
+T	Nữ Bạo Lực	Violent Maiden
+T	PB Hùng VƯơng	Hung King Dungeon
+T	Phong Vân lại thêm một tuổi rồi, ta làm Sếp cảm thấy rất vui, đây quà tốt cho ngươi	World of Legends is another year older! As Chief, I am very pleased; here is a nice gift for you.
+T	Phái Chiến Sĩ lv57, mới có thể học kĩ năng phái tăng cường ở đây. Kĩ năng phái chỉ thu Đồng làm học phí, không thu Vàng, Kim Diệp	Warriors Lv 57 can learn enhanced class skills here. Class skills only charge Copper as tuition, not Gold or Gold Leaves.
+T	Phái Hiệp Khách lv57, mới có thể học kĩ năng phái tăng cường ở đây. Kĩ năng phái chỉ thu Đồng làm học phí, không thu Vàng, Kim Diệp	Swordsmen Lv 57 can learn enhanced class skills here. Class skills only charge Copper as tuition, not Gold or Gold Leaves.
+T	Phái Pháp Sư lv57, mới có thể học skill phái tăng cường ở đây. Kĩ năng phái chỉ thu Đồng làm học phí, không thu Vàng, Kim Diệp	Mages Lv 57 can learn enhanced class skills here. Class skills only charge Copper as tuition, not Gold or Gold Leaves.
+T	Phái Tu Chân lv57, mới có thể học kĩ năng phái tăng cường ở đây. Kĩ năng phái chỉ thu Đồng làm học phí, không thu Vàng, Kim Diệp	Taoists Lv 57 can learn enhanced class skills here. Class skills only charge Copper as tuition, not Gold or Gold Leaves.
+T	Phần Thưởng Level Lễ Hùng Vương	Hung King Festival Level Rewards
+T	Phụ Bản Trâu Làm Loạn	Rampaging Bull Dungeon
+T	Quảng Trường Tân Nguyệt	Crescent Square
+T	Quần Thanh Dương	Qingyang Pants
+T	Raclette(Male) Lv 30\nEastern Swordsman\nMap:  Cổ Mộ Tầng 1\n	Raclette(Male) Lv 30\nEastern Swordsman\nMap:  Ancient Tomb 1F\n
+T	Rút thưởng may mắn	Lucky Draw
+T	Sau khi hợp thành các từ chúc tết sẽ nhận được cẩm nang, có cơ hội mở ra phần thưởng chúc phúc. Có cơ hội nhận được Kim Hổ, vũ khí truyền thuyết…	After synthesizing New Year greeting words, you will receive a pouch with a chance to open blessing rewards. Chance to obtain the Golden Tiger, legendary weapons, etc.
+T	Shop Đấu Trường	Arena Shop
+T	Skill Chủ Động	Active Skills
+T	Skill Tự Động	Auto Skills
+T	Skill bị động	Passive Skills
+T	Ta ghét đám Trộm Mộ, đi tới đâu cũng đụng vào bẫy.	I hate those Grave Robbers; everywhere they go, they trigger traps.
+T	Ta là thần thám Bát Vân. Phụng mệnh quốc vương điều tra thương buôn hắc ám!	I am Master Detective Ba Yun. On the King's orders to investigate shady merchants!
+T	Ta phụng mệnh quốc vương tới điều tra nhà buôn gian dối.	I am on the King's orders to investigate dishonest merchants.
+T	Ta sẽ cho cả thế giới biết kẻ đắc tội với ta sẽ có kết cục thế nào! Xông lên, đừng lãng phí thời gian của ta!	I will show the whole world what happens to those who cross me! Charge, do not waste my time!
+T	Thiên Hạ Đệ Nhất Bang	Best Under Heaven Guild
+T	Thất tịch	Qixi Festival
+T	Thầy Hiền Giả	Sage Trainer
+T	Thầy Hiệp Khách	Swordsman Trainer
+T	Thầy Hợp Thành Thú Cưỡi	Mount Synthesis Master
+T	Thầy Luyện Chiến Sĩ	Warrior Trainer
+T	Thầy Pháp Sư	Mage Trainer
+T	Thầy Tu Chân	Taoist Trainer
+T	Thời trang mùa xuân	Spring Fashion
+T	Tinh Phá Giáp	Armor Pierce Master
+T	Tiến Đến Phó Bản Tết Trung Thu	Proceed to Mid-Autumn Festival Dungeon
+T	Trinh Thám Bát Vân	Detective Ba Yun
+T	Trận chiến vừa nãy hủy đường vào Cổ Mộ Tầng 2, chúng ta phải tìm đường khác thôi.	The battle just now destroyed the entrance to Ancient Tomb 2F; we must find another way.
+T	Trật tự, tôi xin nói! Chúc mọi người năm mới vui vẻ! Đã nói xong.	Quiet please, let me speak! Happy New Year everyone! That is all.
+T	Tên tẩm độc, chạm vào sẽ mất mạng, hãy đẩy lui đám /cFF0000Xạ Thủ Xương/p.\n\n/cffff00Objective: /pDefeat /cffff00Skeleton Archer/p /cff00000/15/p\n/cffff00Reward:/pExp 3200  Silver1400  \n	Poisoned arrows, one touch is fatal! Repel the /cFF0000Skeleton Archers/p.\n\n/cffff00Objective: /pDefeat /cffff00Skeleton Archer/p /cff00000/15/p\n/cffff00Reward:/pExp 3200  Silver1400  \n
+T	Túi Quà Bánh Trung Thu	Mooncake Gift Bag
+T	Tướng Thủ Mộ	Grave Guard General
+T	Tại Cổ Mộ Tầng 1 cùng Tử Sa tìm cửa vào	Find the entrance with Zi Sha at Ancient Tomb 1F
+T	Tại Cổ Mộ Tầng 1 đi theo Tử Sa	Follow Zi Sha at Ancient Tomb 1F
+T	Tổng hợp vật nuôi bí ẩn...	Mysterious Pet Synthesis...
+T	Tổng hợp vật nuôi đáng kinh ngạc	Incredible Pet Synthesis
+T	Tới chỗ ta để hợp thành thú cưỡi.	Come to me to synthesize mounts.
+T	Tới Đồng Tuyệt Vọng tìm và hạ Vu Sư Vong Linh	Go to Despair Plains to find and defeat the Undead Shaman
+T	Vua Sky Pangpang đây~Đạn So Cute, bắn nào!	Here is Sky Pangpang King~ Such cute bullets, let's shoot!
+T	Vua Đấu (2 ngày)	King of Duels (2 Days)
+T	Vào Phụ bản Liệt Diễm	Enter Blazing Dungeon
+T	Vào Vực Sâu Vô Cực	Enter Infinite Abyss
+T	Vé bỏ qua BOSS	Boss Skip Ticket
+T	Yêu Vương	Demon King
+T	tổng hợp vật nuôi	Pet Synthesis
+T	Đa tạ ơn cứu mạng.\n/cffff00Done: /pDefeat /cffff00Headless Skeleton/p /cff000010/10/p\n/cffff00Reward:/pExp 2000  Silver500  \n	Thank you for saving my life.\n/cffff00Done: /pDefeat /cffff00Headless Skeleton/p /cff000010/10/p\n/cffff00Reward:/pExp 2000  Silver500  \n
+T	Đào Mộ bị vây	Tomb Raider Surrounded
+T	Đào Mộ nhiều kẻ yêu tiền tài hơn mạng sống,nhưng đại đa số chỉ lấy thứ cần thiết... Hãy bảo vệ ta tới cùng, bảo vật bên trong đều là của mi!	Among Tomb Raiders, many love wealth more than life, but most only take what they need... Protect me to the end, and the treasures inside are all yours!
+T	Đây là cổng vào Vực Sâu Vô Cực	This is the entrance to the Infinite Abyss
+T	Đây là một thất Võ Tướng tuẫn táng.	This is the sacrificial chamber of a military general.
+T	Đây là phụ bản Liệt Diễm	This is the Blazing Dungeon
+T	Đông Hải Long Vương	East Sea Dragon King
+T	Đăng Thần (Tiến hóa)	Genie (Evolved)
+T	Đấu Trường Thiên Hạ	World Arena
+T	Đẩy lui Cổ Thi	Repel Ancient Corpses
+T	Đến Tết Đoan Ngọ	To the Dragon Boat Festival
+T	Đến bản đồ Lễ Độc Thân	Go to Singles' Day Map
+T	Đối thoại với Hứa Tổng	Talk to Chief Xu
+T	Đợi 1 lát đám Xương còn hồi sinh, mau đi theo ta, đừng đụng vào bẫy!	In a moment the Skeletons will revive again; follow me quickly, don't step on traps!
+T	Đừng tưởng thứ gì trong mộ địa cũng dễ đối phó như đám Xương này.\n/cffff00Done: /pDefeat /cffff00Skeleton Executioner/p /cff000020/20/p\n/cffff00Reward:/pExp 3200  Silver1400  \n	Don't think everything in the graveyard is as easy to deal with as these Skeletons.\n/cffff00Done: /pDefeat /cffff00Skeleton Executioner/p /cff000020/20/p\n/cffff00Reward:/pExp 3200  Silver1400  \n
+T	Ở Cổ Mộ Tầng 1 đi theo Tử Sa	Follow Zi Sha at Ancient Tomb 1F
+T	…Sao....Muốn đánh nhau hả?	...What... Want to fight?
