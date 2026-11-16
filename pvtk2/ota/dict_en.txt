@@ -8869,3 +8869,49 @@ T	tiêu diệt	defeat
 T	Giáo Giáo Chúng	Cultists
 T	Thục Sơn	Shu Mountain
 T	Ma Giáo	Demon Cult
+T	(Nói tâm ý của Tiểu Duyệt cho Chàng Sầu)	(Tell Sorrowful Lad about Xiao Yue's feelings)
+T	Thay ta cám ơn Tiểu Duyệt tỷ. Trưởng Thôn nhờ ta kêu ngươi tới	Thank Big Sis Xiao Yue for me. The Village Chief asked me to tell you to go to
+T	Giếng Nước	Water Well
+T	múc nước. Nước giếng của Làng Diệu Kỳ có thể hồi phục sức mạnh	draw water. Water from Miracle Village's well can restore strength
+T	Sau khi thăng cấp có thể tự do cộng điểm tăng lực chiến đấu, thử đi!	After leveling up you can freely allocate stat points to raise combat power—give it a try!
+T	Hiệp Khách	Swordsman
+T	Tu Chân	Cultivator
+T	Dùng thùng gỗ bên Giếng múc 1 thùng nước.	Use the wooden bucket by the well to draw 1 bucket of water.
+T	(Nước giếng đã lấy mau giao cho Trưởng Thôn.)	(Well water drawn—deliver it to the Village Chief right away.)
+T	Nếu mi muốn rời nơi này hãy tới tìm	If you want to leave this place, go find
+T	, nàng ta ở phía tây nam.	, she is in the southwest.
+T	Ta sẽ giúp mi mở Cửa Dịch Chuyển! !	I will help you open the Teleport Gate!
+T	(Mở Cửa Dịch Chuyển)	(Open Teleport Gate)
+T	Map:  Điện Đón Khách	Map: Guest Greeting Hall
+T	Điện Đón Khách	Guest Greeting Hall
+T	Xạ Thủ Tập Kích	Ambush Archer
+T	Ma Thương Binh	Demon Spearman
+T	Ma Đao Binh	Demon Blade Soldier
+T	Lí Văn Diễn	Li Wenyan
+T	Cẩn thận phía sau!	Watch out behind you!
+T	Hàn Tùng	Han Song
+T	Vai Lê Minh Hộ	Dawn Shoulder Guard
+T	Ủng Lê Minh	Dawn Boots
+T	Hàn Tùng: Ma Giáo tấn công Thục Sơn! Huyền Trân Trưởng Lão đã rời Điện Đón Khách đi chuẩn bị mở Thiên Lôi Trận! Giờ Điện Đón Khách bị Ma Giáo tấn công!	Han Song: The Demon Cult is attacking Shu Mountain! Elder Xuan Zhen left Guest Greeting Hall to prepare the Thunder Formation! Now the hall is under Demon Cult attack!
+T	Cùng Tử Yên tới Điện Đón Khách chống Ma Giáo.	Go with Zi Yan to Guest Greeting Hall to defend against the Demon Cult.
+T	Đó không phải là sát nhân vương Ma Giáo	Isn't that the Demon Cult's Murder King
+T	là nhân vật tầm cỡ của Ma Giáo!Ma Giáo Giáo Chúng tấn công Điện Đón Khách do Hợi Khởi cầm đầu, y biết thuật phân thân,	is a major figure in the Demon Cult! The Demon Cultists attacking Guest Greeting Hall are led by Hai Qi, who knows shadow clone arts,
+T	Hợi Khởi	Hai Qi
+T	Ta là ai chứ? Ta chính là	Who am I? I am
+T	Mời thách đấu	Invite to Challenge
+T	Đánh bại sát nhân vương	Defeat the Murder King
+T	Hộ Vai Vân Khanh	Yunqing Shoulder Guard
+T	võ công cao cường! Ta đang muốn thỉnh giáo!	Your martial arts are formidable! I'd love to exchange pointers!
+T	thách đấu với mi.	challenges you.
+T	Không ngờ võ công cao cường như vậy (Tử Yên mỉm cười!)	Didn't expect such formidable martial arts (Zi Yan smiles!)
+T	võ  công cao cường, bái phục!	Your martial arts are truly impressive, I bow in respect!
+T	Nói chuyện với	Talk to
+T	Hợi Khởi chiến bại, Ma Giáo Giáo Chúng gần Điện Đón Khách đã rút lui, nhưng xung quanh vẫn còn dư đảng, hãy hiệp sĩ bị tấn công ở gần Điện Đón Khách.	Hai Qi is defeated and the Demon Cultists near Guest Greeting Hall have retreated, but remnants remain nearby—help the knights under attack near Guest Greeting Hall.
+T	Giúp người có  yêu cầu hạ Ma Giáo Giáo Chúng ở xung quanh	Help those in need defeat the remaining Demon Cultists nearby
+T	Đa tạ, chúng ta hãy tới	Many thanks, let's go to
+T	Quảng Trường Thần Kiếm	Divine Sword Square
+T	xem thế nào?	to check things out?
+T	Nghiêm Nhân Anh bị tấn công không còn đường chống trả, thật tội nghiệp, hãy giúp  y.	Yan Renying is under attack with no way to fight back—poor guy, go help him.
+T	Thương Binh	Wounded Soldier
+T	Thành của Zancuq	Zancuq's City
+T	Đây là Sở G.Dịch! Muốn  mua bán vật phẩm hãy tới xem!	This is the Trading House! Come check it out if you want to buy or sell items!
