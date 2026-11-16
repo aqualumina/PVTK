@@ -8617,3 +8617,64 @@ T	Mi biết /c00FF00Gấu Kungfu/p không? Nó nói nó sẽ thành /c00ff00ngư
 T	Phần lớn trang bị đều có thể khảm bảo thạch để tăng thuộc tính. 1 trang bị chỉ có thể khảm 1 loại bảo thạch, các loại khác thì không khảm được	Most gear can be socketed with gems for extra stats. Each piece can only hold one gem type.
 T	Trong Thế Giới OL, các bảo rương đều đựng nhiều đồ, nhiều loại cần Chìa Khóa để mở ra vật phẩm quý.	In World OL, chests hold many items; many require a Key to unlock rare rewards.
 T	Lãnh Chủ đại nhân, cơn gió nào đã đưa ngài đến đây, ở đây tôi bán rất nhiều thứ, thú cưỡi, pet, trang bị thời trang, có gì cần cứ nói	My Lord, what brings you here? I sell mounts, pets, fashion gear, and more—just let me know what you need.
+T	Bán N.Vật	Sell Char
+T	Báo cáo	Report
+T	Bảng T.Tựu	Achieve.
+T	Bảng áp tiêu	Escort List
+T	C.tiết	Details
+T	Công	ATK
+T	Cấp T.Thành:	City Lv:
+T	Diễn ra	Ongoing
+T	Dùng v.phẩm	Use Item
+T	G.thiệu	Intro
+T	Gợi ý	Hint
+T	Hiện	Show
+T	Hôm nay không còn nhắc nhở	Don't remind today
+T	Khán giả	Spectator
+T	Lật hình	Flip Card
+T	Map nhỏ:	Mini Map:
+T	Người chơi:	Player:
+T	Nhận T.Tích	Claim Score
+T	Nói gì đó ?	Say something?
+T	Nối Thú	Pet Link
+T	PK thắng:	PK Wins:
+T	Phái	Class
+T	Phái：	Class:
+T	Phía tây	West
+T	Phía đông	East
+T	Phần thưởng	Rewards
+T	Quà	Gift
+T	Quái diệt:	Kills:
+T	Quốc Khố：	Treasury:
+T	Quỹ Q.Chiến：	War Fund:
+T	S.lần:	Count:
+T	Skill đã học:	Learned Skills:
+T	So sánh	Compare
+T	Số c.nhận	Accepted
+T	T.Công	ATK
+T	T.chuyện	Chat
+T	T.chối	Decline
+T	T.gian tối thiểu：	Min Time:
+T	T.Động	Auto
+T	Tiệm thần bí	Mystery Shop
+T	Trong thời gian diễn ra event， tích nạp đạt mốc	During the event, reach top-up milestones
+T	Tên	Name
+T	Tên：	Name:
+T	Tóm tắt nghề nghiệp	Class Summary
+T	Tăng tốc:	Speed Up:
+T	Tạo	Create
+T	Tạo N.Vật	Create Char
+T	Từ chối	Decline
+T	Vận Tiêu	Escort
+T	Xin chọn quân đoàn đánh quái vật	Select legion to attack monster
+T	sẽ nhận được quà tương ứng。	to claim the corresponding rewards.
+T	Đ.Trường	Arena
+T	Đ.Xuất:	Suggest:
+T	Đ.giản	Simple
+T	Điểm skill:	Skill Pts:
+T	Điểm：	Points:
+T	Đánh giá ngay	Rate Now
+T	Đã diệt：	Killed:
+T	Đã lĩnh	Claimed
+T	Đấu Trường	Arena
+T	Đổi k.giả	Switch View
