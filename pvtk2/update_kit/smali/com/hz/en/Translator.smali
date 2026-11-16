@@ -24,6 +24,34 @@
     return-void
 .end method
 
+.method public static declared-synchronized reload()V
+    .locals 2
+
+    const-class v0, Lcom/hz/en/Translator;
+
+    monitor-enter v0
+
+    const/4 v1, 0x0
+
+    :try_start_0
+    sput-boolean v1, Lcom/hz/en/Translator;->loaded:Z
+
+    invoke-static {}, Lcom/hz/en/Translator;->ensureLoaded()V
+    :try_end_0
+    .catchall {:try_start_0 .. :try_end_0} :catchall_0
+
+    monitor-exit v0
+
+    return-void
+
+    :catchall_0
+    move-exception v1
+
+    monitor-exit v0
+
+    throw v1
+.end method
+
 .method private static declared-synchronized ensureLoaded()V
     .locals 8
 
@@ -44,6 +72,13 @@
     return-void
 
     :cond_0
+    sget-object v0, Lcom/lori/app/PipActivity;->DEFAULT_ACTIVITY:Lcom/lori/app/PipActivity;
+
+    if-nez v0, :cond_has_act
+
+    goto :goto_0
+
+    :cond_has_act
     const/4 v5, 0x1
 
     :try_start_1
@@ -70,10 +105,6 @@
     .catchall {:try_start_1 .. :try_end_1} :catchall_0
 
     :try_start_2
-    sget-object v0, Lcom/lori/app/PipActivity;->DEFAULT_ACTIVITY:Lcom/lori/app/PipActivity;
-
-    if-eqz v0, :cond_3
-
     invoke-static {}, Lcom/hz/en/OtaPatcher;->startBackgroundCheck()V
 
     invoke-static {v0}, Lcom/hz/en/OtaPatcher;->openDictStream(Landroid/content/Context;)Ljava/io/InputStream;

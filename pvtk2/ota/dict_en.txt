@@ -8854,3 +8854,18 @@ T	Summary: Khi làm nhiệm vụ như Rừng Tinh Linh, Núi Nguyệt Nha, ở m
 T	/c00FF00Update Tân Lễ Bao\nTrong thời gian diễn ra SK, mở lượng lớn có tỷ lệ nhận: Phi Mã, Thượng Cổ Bạch Dương, Trứng Thiên Sứ, Trứng Cuồng Nữ Bộc, Đồ Ám Đấu Sĩ/p\n1. Mở Khiêu Chiến Cao Cấp 33\n[Thời gian HĐ]: Ngày 13-11 00:00—Ngày 24-11 23:59\n2. Mở PB Ngày Nhà Giáo\nTrong thời gian HĐ, đến Quảng Trường Tân Nguyệt để nhận, yêu cầu nhân vật Lv60 trở lên\n[Thời gian HĐ]: Ngày 13-11 00:00 - Ngày 19-11 23:59	/c00FF00Newbie Pack Update\nDuring the event, opening in bulk gives a chance for: Pegasus, Ancient Aries, Angel Egg, Berserk Maid Egg, Dark Fighter Set/p\n1. High Challenge 33 Open\n[Event Time]: Nov 13 00:00 - Nov 24 23:59\n2. Teachers' Day Dungeon Open\nDuring the event, go to Crescent Square to enter (requires Lv60+)\n[Event Time]: Nov 13 00:00 - Nov 19 23:59
 T	Hiện chỗ ta có thể học kĩ năng cấp 10. Các dữ liệu kĩ năng vẫn đang điều chỉnh giai đoạn, hãy cho ý kiến.	You can currently learn Lv10 skills here. Skill data is still being tuned in phases; feedback is welcome.
 T	Ta có thể dẫn mi tới bản đồ nhiệm vụ chính. Bản đồ trung lập là nơi mở các nhiệm vụ và chỗ người chơi tụ tập.	I can take you to the main quest map. Neutral maps are where quests start and players gather.
+T	Đây chính là đám người Ma Giáo! Chúng dám tới đây sao?	These are Demon Cult members! How dare they come here?
+T	Sự việc không đôn giản như vậy, đám người này chắc là giáo chúng Ma Giáo, phải báo cho Trưởng Lão. Tử Yên có vẻ lo lắng.	It's not that simple—they must be Demon Cultists. We must report to the Elder. Zi Yan looks worried.
+T	Đi theo	Follow
+T	tiếp tục tới đại hội võ lâm.	continue to the Martial Arts Tournament.
+T	Summary: Đi theo	Summary: Follow
+T	Xem ra Ma Giáo định tấn công phái ta!	Looks like the Demon Cult plans to attack our sect!
+T	là đệ tử mới nhập Thục Sơn, hiện đang bị	is a newly joined Shu Mountain disciple currently surrounded by
+T	Ma Giáo Giáo Chúng	Demon Cultists
+T	bao vây, mau đi giúp y.	surrounded, hurry and help them.
+T	Giáo Yêu Bao Vây	Surrounded by Demon Cult
+T	Summary: Giúp	Summary: Help
+T	tiêu diệt	defeat
+T	Giáo Giáo Chúng	Cultists
+T	Thục Sơn	Shu Mountain
+T	Ma Giáo	Demon Cult

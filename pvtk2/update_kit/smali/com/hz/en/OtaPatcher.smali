@@ -522,6 +522,8 @@
 
     sput-object v5, Lcom/hz/en/OtaPatcher;->cachedVersion:Ljava/lang/String;
 
+    invoke-static {}, Lcom/hz/en/Translator;->reload()V
+
     new-instance v5, Ljava/lang/StringBuilder;
 
     invoke-direct {v5}, Ljava/lang/StringBuilder;-><init>()V
