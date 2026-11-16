@@ -8678,3 +8678,5 @@ T	Đã diệt：	Killed:
 T	Đã lĩnh	Claimed
 T	Đấu Trường	Arena
 T	Đổi k.giả	Switch View
+T	Mã đổi không tồn tại	Redeem code does not exist
+T	Hồng Tông Sư	Grandmaster
