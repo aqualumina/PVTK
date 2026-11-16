@@ -299,7 +299,7 @@
 .end method
 
 .method public static onBattleTick(Lcom/hz/battle/BattleAniEngine;)V
-    .locals 6
+    .locals 8
 
     sget-boolean v0, Lcom/hz/en/AutoQuest;->farmEnabled:Z
 
@@ -324,63 +324,117 @@
 
     invoke-static {}, Ljava/lang/System;->currentTimeMillis()J
 
-    move-result-wide v0
+    move-result-wide v1
 
     invoke-virtual {p0}, Lcom/hz/battle/BattleAniEngine;->isEndCounter()Z
 
-    move-result v2
+    move-result v3
 
-    if-eqz v2, :cond_4
+    if-eqz v3, :cond_4
 
-    sget-wide v2, Lcom/hz/main/GameWorld;->nextBattleTime:J
+    sget-wide v3, Lcom/hz/main/GameWorld;->nextBattleTime:J
 
-    const-wide/16 v4, 0x9c4
+    const-wide/16 v5, 0x9c4
 
-    sub-long/2addr v2, v4
+    sub-long/2addr v3, v5
 
-    cmp-long v2, v0, v2
+    cmp-long v0, v1, v3
 
-    if-gez v2, :cond_2
+    if-gez v0, :cond_2
 
     return-void
 
     :cond_2
     invoke-virtual {p0}, Lcom/hz/battle/BattleAniEngine;->doExit()V
 
-    const-wide/16 v2, 0xbb8
+    const-wide/16 v3, 0xbb8
 
-    add-long/2addr v0, v2
+    add-long/2addr v1, v3
 
-    sget-wide v2, Lcom/hz/main/GameWorld;->nextBattleTime:J
+    sget-wide v3, Lcom/hz/main/GameWorld;->nextBattleTime:J
 
-    cmp-long v2, v2, v0
+    cmp-long v0, v3, v1
 
-    if-gez v2, :cond_3
+    if-gez v0, :cond_3
 
-    sput-wide v0, Lcom/hz/main/GameWorld;->nextBattleTime:J
+    sput-wide v1, Lcom/hz/main/GameWorld;->nextBattleTime:J
 
     :cond_3
     return-void
 
     :cond_4
-    sget-wide v2, Lcom/hz/en/AutoQuest;->lastBattleSkipMs:J
+    invoke-virtual {p0, v0}, Lcom/hz/battle/BattleAniEngine;->isTag(I)Z
 
-    sub-long v2, v0, v2
+    move-result v0
 
-    const-wide/16 v4, 0x4b0
+    if-eqz v0, :cond_6
 
-    cmp-long v2, v2, v4
+    sput-wide v1, Lcom/hz/en/AutoQuest;->lastBattleSkipMs:J
 
-    if-ltz v2, :cond_5
+    iget-object v0, p0, Lcom/hz/battle/BattleAniEngine;->battlePanel:Lcom/hz/battle/BattlePanel;
 
-    sput-wide v0, Lcom/hz/en/AutoQuest;->lastBattleSkipMs:J
+    if-eqz v0, :cond_5
+
+    invoke-virtual {v0}, Lcom/hz/battle/BattlePanel;->triggerAutoFight()V
+
+    :cond_5
+    return-void
+
+    :cond_6
+    sget-wide v3, Lcom/hz/en/AutoQuest;->lastBattleSkipMs:J
+
+    const-wide/16 v5, 0x0
+
+    cmp-long v0, v3, v5
+
+    if-nez v0, :cond_7
+
+    sput-wide v1, Lcom/hz/en/AutoQuest;->lastBattleSkipMs:J
+
+    return-void
+
+    :cond_7
+    sub-long v3, v1, v3
+
+    const-wide/16 v5, 0x9c4
+
+    cmp-long v0, v3, v5
+
+    if-gez v0, :cond_8
+
+    return-void
+
+    :cond_8
+    const-wide/16 v5, 0x1194
+
+    cmp-long v0, v3, v5
+
+    if-gez v0, :cond_9
+
+    sget-object v0, Lcom/hz/main/GameWorld;->myPlayer:Lcom/hz/actor/Player;
+
+    if-eqz v0, :cond_9
+
+    iget-object v0, v0, Lcom/hz/actor/Player;->battlePlanControlList:Ljava/util/Vector;
+
+    if-eqz v0, :cond_9
+
+    invoke-virtual {v0}, Ljava/util/Vector;->size()I
+
+    move-result v0
+
+    if-lez v0, :cond_9
+
+    return-void
+
+    :cond_9
+    sput-wide v1, Lcom/hz/en/AutoQuest;->lastBattleSkipMs:J
 
     invoke-virtual {p0}, Lcom/hz/battle/BattleAniEngine;->closePlayerAnimation()V
     :try_end_0
     .catch Ljava/lang/Throwable; {:try_start_0 .. :try_end_0} :catch_0
 
     :catch_0
-    :cond_5
     return-void
 .end method
 

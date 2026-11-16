@@ -8915,3 +8915,27 @@ T	Nghiêm Nhân Anh bị tấn công không còn đường chống trả, thật
 T	Thương Binh	Wounded Soldier
 T	Thành của Zancuq	Zancuq's City
 T	Đây là Sở G.Dịch! Muốn  mua bán vật phẩm hãy tới xem!	This is the Trading House! Come check it out if you want to buy or sell items!
+T	Đây là đạn hiệu Đội Dung Binh dùng để liên lạc, /cffffffcầm ra ngoài bãi đất rộng đốt đi/p, thông báo các huynh đệ khác tới, chúng ta hãy tiêu diệt Cướp!	This is a Mercenary Squad Signal Flare used for communication. /cffffffTake it to the open ground outside and light it/p to alert the other brothers to come, and let us eliminate the Bandits!
+T	Đây là đạn hiệu Đội Dung Binh dùng để liên lạc, /cffffffcầm ra ngoài bãi đất rộng đốt đi/p, thông báo các huynh đệ khác tới, chúng ta hãy tiêu diệt Cướp!\n\n	This is a Mercenary Squad Signal Flare used for communication. /cffffffTake it to the open ground outside and light it/p to alert the other brothers to come, and let us eliminate the Bandits!\n\n
+T	Đây là đạn hiệu Đội Dung Binh dùng để liên lạc, cầm ra ngoài bãi đất rộng đốt đi, thông báo các huynh đệ khác tới, chúng ta hãy tiêu diệt Cướp!	This is a Mercenary Squad Signal Flare used for communication. Take it to the open ground outside and light it to alert the other brothers to come, and let us eliminate the Bandits!
+T	Đây là đạn hiệu Đội Dung Binh dùng để liên lạc, 	This is a Mercenary Squad Signal Flare used for communication, 
+T	cầm ra ngoài bãi đất rộng đốt đi	take it to the open ground outside and light it
+T	, thông báo các huynh đệ khác tới, chúng ta hãy tiêu diệt Cướp!	, alert the other brothers to come, and let us eliminate the Bandits!
+T	Tìm Thầy Kĩ Năng	Find the Skill Master
+T	Tới Sau Thục Sơn	Go to Rear Mt. Shu
+T	Sau Thục Sơn	Rear Mt. Shu
+T	đường núi phía tây	western mountain path
+T	bị gió lốc chặn đường!	blocked by a whirlwind!
+T	Chiến Sĩ Nên tăng Sức Mạnh và Thể Lực.	Warriors should increase Strength and Constitution.
+T	Tử Yên: Vị này là đại sư huynh của chúng ta, /c00ff00Mộng Long/p	Zi Yan: This is our senior brother, /c00ff00Meng Long/p
+T	Tử Yên: Vị này là đại sư huynh của chúng ta, Mộng Long	Zi Yan: This is our senior brother, Meng Long
+T	Lệ Sa: Chúng ta định tới Tháp Trấn Yêu giúp đỡ, nhưng tới /cffffffđường núi phía tây/p bị gió lốc chặn đường!	Li Sa: We planned to help at the Demon Subduing Pagoda, but we were blocked by a whirlwind on the /cffffffwestern mountain path/p!
+T	Lệ Sa: Chúng ta định tới Tháp Trấn Yêu giúp đỡ, nhưng tới /cffffffđường núi phía tây/p bị gió lốc chặn đường!\n\n	Li Sa: We planned to help at the Demon Subduing Pagoda, but we were blocked by a whirlwind on the /cffffffwestern mountain path/p!\n\n
+T	Lệ Sa: Chúng ta định tới Tháp Trấn Yêu giúp đỡ, nhưng tới 	Li Sa: We planned to help at the Demon Subduing Pagoda, but reaching 
+T	Huyền Chân: Chưởng môn sư huynh và Trưởng Lão đang gọi Thần Long, ta đang bận rộn đối phó bọn không có mắt này	Huyen Chan: Senior Brother Sect Leader and the Elders are summoning the Divine Dragon; I am busy dealing with these blind fools.
+T	Huyền Chân: Chưởng môn sư huynh và Trưởng Lão đang gọi Thần Long, ta đang bận rộn đối phó bọn không có mắt này.	Huyen Chan: Senior Brother Sect Leader and the Elders are summoning the Divine Dragon; I am busy dealing with these blind fools.
+T	Summary: Đi về phía đông chính là Quảng Trường Thần Kiếm	Summary: Heading east leads directly to Divine Sword Square
+T	Summary: Tới phía tây nam, tìm nguyên nhân xuất hiện Cuồng Phong.	Summary: Go southwest and find the cause of the Tempest.
+T	Summary: Hạ Bạch Nhật Tử.(Sau khi nhận nhiệm vụ lập tức vào chiến đấu)	Summary: Defeat Bai Rizi. (Combat begins immediately upon accepting)
+T	Các ngươi đúng là không phân thị phi! Với góc độ Thục Sơn bọn mi, ta đụng vào Tháp Trấn Yêu là tội chết! Nào hãy chứng minh các ngươi mới là kẻ mạnh, có năng lực bảo vệ đại địa này!	You truly cannot tell right from wrong! From Shushan perspective, merely touching the Demon Subduing Pagoda is a capital crime! Come then, prove that you are the strong ones capable of protecting this land!
+T	Đó chính là Quỷ Thôn ở phía bắc Lạc Dương	That is Ghost Village to the north of Luoyang

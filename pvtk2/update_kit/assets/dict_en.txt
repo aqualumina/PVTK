@@ -3857,7 +3857,7 @@ T	Thời gian Quốc Chiến đã hết	Nation War time expired
 T	Thời gian bày hàng không bán được vật phẩm!	No items sold during vending time!
 T	Thời gian di động đã hết, game sẽ tự động giúp mi di chuyển!	Move time expired, auto-moving now!
 T	Thời gian hoạt động, lv đạt 15, 25, 35,45 có thể nhận thưởng	During event, reach Lv 15, 25, 35, 45 to claim rewards.
-T	Thời gian hoạt động, lv đạt 15, 25, 35,45 có thể nhận thưởng\n1203、1204、1205、1206	During event, reach Lv 15, 25, 35, 45 to claim rewards\n1203、1204、1205、1206
+T	Thời gian hoạt động, lv đạt 15, 25, 35,45 có thể nhận thưởng\n1203、1204、1205、1206	During event, reach Lv 15, 25, 35, 45 to claim rewards:\n1203, 1204, 1205, 1206
 T	Thời gian hoạt động, lv đạt 15, 25, 35,45 có thể nhận thưởng\n1203、1204、1205、1206\n	During event, reach Lv 15, 25, 35, 45 to claim rewards\n1203、1204、1205、1206\n
 T	Thời gian hoạt động, lv đạt 15, 25, 35,45 có thể nhận thưởng 	During event, reach Lv 15, 25, 35, 45 to claim rewards 
 T	Thời gian mở đấu trường hôm nay đã kết thúc; mọi người chơi có thể tham gia vào ngày mai.\nTích điểm đấu trường nhận được có thể tới tiệm đổi phần thưởng.\nĐấu trường lần này nhận được /cFFFF00%U điểm!/p	Today's Arena event has ended; all players may participate tomorrow.\nArena points can be exchanged in the shop for rewards.\nEarned /cFFFF00%U pts!/p this Arena
@@ -5660,7 +5660,6 @@ T	Thuốc Nhanh Nhẹn (3 Giờ)	Agility Potion (3 Hours)
 T	Thuốc Thể Lực (3 Giờ)	Stamina Potion (3 Hours)
 T	Thuốc Trí Lực (3 Giờ)	Intellect Potion (3 Hours)
 T	Thuốc Trị Liệu Siêu Cấp	Super Healing Potion
-T	Thời gian hoạt động, lv đạt 15, 25, 35,45 có thể nhận thưởng\n1203、1204、1205、1206	During event, reach Lv 15, 25, 35, 45 to claim rewards:\n1203, 1204, 1205, 1206
 T	Tinh hoa ma lực có được sau khi phân giải trang bị.	Magic essence obtained after disassembling equipment.
 T	Trong hộp chứa 50 cuộn giám định cao cấp khóa, sử dụng có thể giám định được trang bị cao cấp.	Contains 50 Locked Advanced Appraise Scrolls used to appraise high-tier equipment.
 T	Trong hộp có 50 Khóa Vạn Năng Chưa Cố Định	Contains 50 Unbound Skeleton Keys.
@@ -5713,7 +5712,6 @@ T	Tử Cấm Thành (Trung lập)	Forbidden City (Neutral)
 T	Núi Tử Vân (Nhiệm vụ cấp 40)	Purple Cloud Mtn (Lv 40 Quest)
 T	Sa Mạc Thất Hồn (Nhiệm vụ cấp 30)	Soul-Lost Desert (Lv 30 Quest)
 T	Maya (Thành Trung Lập)	Maya (Neutral City)
-
 T	Hoàn thành xong tới chỗ ta lĩnh thưởng	Once done, return to me to claim rewards
 T	Mau tới giúp đi!!! Hạ 20 Tà Thích Khách.	Hurry and help!!! Slay 20 Evil Assassins.
 T	Tiểu Ác Ma rất hung dữ, hãy cẩn thận!	Imps are very fierce, be careful!
@@ -8388,3 +8386,556 @@ T	☆ \nAuto-lock    Mount    /c42adf8Rare/p\n/c00ff00Constitution+30\n/p/c00ff0
 T	☆ \nAuto-lock Appraisable    Back    /cffa500Epic/p\n/cb0a67aUnidentified Stat \n/pArmor:   Slash 50  Pierce 50  MP 250\nRequirement: Lv 20\nDurability: 100/100\nVirus D đã thẩm thấu ý đồ huỷ hoại thế giới\n	☆ \nAuto-lock Appraisable    Back    /cffa500Epic/p\n/cb0a67aUnidentified Stat \n/pArmor:   Slash 50  Pierce 50  MP 250\nRequirement: Lv 20\nDurability: 100/100\nVirus D has penetrated with the intent to destroy the world\n
 T	【Thành của ta】	【My City】
 T	【Trân thú bầu bạn】	【Pet Companion】
+T	Client của bạn phải cập nhật mới dùng được, cập nhật ngay?	Your client must be updated to continue. Update now?
+T	温馨提示	Notice
+T	点击继续	Tap to continue
+T	开始摆摊	Start Vending
+T	邮件系统	Mail System
+T	Hệ thống(ID:2)	System (ID:2)
+T	Chúc mừng bạn hoàn thành "Đăng nhập ngày" nội dung độ Phát triển, nhận 20 độ Phát triển	Congratulations! Completed "Daily Login" Growth quest, received 20 Growth
+T	Chúc mừng bạn hoàn thành "Học KN nhân vật" nội dung độ Phát triển, nhận 10 độ Phát triển	Congratulations! Completed "Learn Character Skill" Growth quest, received 10 Growth
+T	Chúc mừng bạn hoàn thành "Nâng cấp KN nhân vật" nội dung độ Phát triển, nhận 10 độ Phát triển	Congratulations! Completed "Upgrade Character Skill" Growth quest, received 10 Growth
+T	Dùng để nhận nhiều phần thưởng	Use to claim multiple rewards
+T	Quyển Sửa Dã Ngoại	Field Repair Scroll
+T	Giúp hồi độ bền của vật phẩm đã trang bị trên người	Restores durability of currently equipped gear
+T	Thử chạm /c00ff00npc/p bên cạnh, /i03020 trên đầu hiển thị có nhiệm vụ cần bạn tới hoàn thành.\n/cffff00(Chạm tiếp tục)/p	Tap the nearby /c00ff00NPC/p; /i03020 above their head shows an available quest.\n/cffff00(Tap to continue)/p
+T	Chào mừng đến Phong Vân Truyền Kỳ\n/cffff00(Chạm tiếp tục)/p	Welcome to Phong Van Truyen Ky\n/cffff00(Tap to continue)/p
+T	Đây là /cFFFFFFLàng Diệu Kỳ/p, ta là Trưởng Thôn. Mấy hôm trước mi bị thương, mọi người đều rất lo lắng. /c00ff00Vân Thường/p hình như tìm mi có việc đấy\n\n/cffff00Reward:/pExp 150  Silver150  \n	This is /cFFFFFFMiracle Village/p, I am the Village Chief. Everyone was worried after you were injured. /c00ff00Yun Shang/p seems to be looking for you.\n\n/cffff00Reward:/pExp 150  Silver150  \n
+T	Tìm /c00ff00Đông Hải/p\nUse auto-pathfinding?	Find /c00ff00Dong Hai/p\nUse auto-pathfinding?
+T	Hãy tới dạy bảo /cFF0000Chó Con/p tinh nghịch, chứng minh thực lực\n\n/cffff00Objective: /pDemolish/cffff00Chó Con/p/cff00000/1/p\n/cffff00Reward:/pSilver400  \n	Teach the mischievous /cFF0000Puppy/p a lesson and prove your strength\n\n/cffff00Objective: /pDefeat /cffff00Puppy/p /cff00000/1/p\n/cffff00Reward:/pSilver400  \n
+T	Dạy bảo Chó Con tinh nghịch\n/cffff00Objective: /pDemolish/cffff00Chó Con/p/cff00000/1/p\nUse auto-pathfinding?	Teach the Mischievous Puppy\n/cffff00Objective: /pDefeat /cffff00Puppy/p /cff00000/1/p\nUse auto-pathfinding?
+T	Summary: Dạy bảo Chó Con tinh nghịch	Summary: Teach the Mischievous Puppy
+T	Completed quest </cffff00Vào Thế Giới  4/p>\nUse auto-pathfinding?	Completed quest </cffff00Enter the World 4/p>\nUse auto-pathfinding?
+T	Làm rất tốt.\n/cffff00Xong：/pDemolish/cffff00Chó Con/p/cff00001/1/p\n/cffff00Reward:/pSilver400  \n	Well done.\n/cffff00Done: /pDefeat /cffff00Puppy/p /cff00001/1/p\n/cffff00Reward:/pSilver400  \n
+T	Tới tìm /c00ff00Tiểu Duyệt/p đi\nUse auto-pathfinding?	Go find /c00ff00Xiao Yue/p\nUse auto-pathfinding?
+T	/cFF0000Trộm/p nhân lúc ta không chú ý cowps Khăn của mi rồi. Mau đuổi theo!\n\n/cffff00Objective: /pDemolish/cffff00Trộm/p/cff00000/1/p\n/cffff00Reward:/pSilver400  \n/i00211/ce5e5e5Khăn Thể Lực/p	A /cFF0000Thief/p stole your Scarf when I wasn't looking. Chase him!\n\n/cffff00Objective: /pDefeat /cffff00Thief/p /cff00000/1/p\n/cffff00Reward:/pSilver400  \n/i00211/ce5e5e5Stamina Scarf/p
+T	Tìm và đánh bại /cff0000Trộm/p\n/cffff00Objective: /pDemolish/cffff00Trộm/p/cff00000/1/p\nUse auto-pathfinding?	Find and defeat /cff0000Thief/p\n/cffff00Objective: /pDefeat /cffff00Thief/p /cff00000/1/p\nUse auto-pathfinding?
+T	Completed quest </cffff00Vào Thế Giới  6/p>\nUse auto-pathfinding?	Completed quest </cffff00Enter the World 6/p>\nUse auto-pathfinding?
+T	Lúc mi bị thương ta đã lấy /c00ff00Khăn/p trong tay mi. Giờ vật về chủ cũ, mi hãy/c00ff00quàng lên đi!/p\n/cffff00Xong：/pDemolish/cffff00Trộm/p/cff00001/1/p\n/cffff00Reward:/pSilver400  \n/i00211/ce5e5e5Khăn Thể Lực/p	I took your /c00ff00Scarf/p while you were hurt. Now it returns to its owner—/c00ff00put it on!/p\n/cffff00Done: /pDefeat /cffff00Thief/p /cff00001/1/p\n/cffff00Reward:/pSilver400  \n/i00211/ce5e5e5Stamina Scarf/p
+T	Chúc mừng trang bị thành công \n/cffff00(Chạm tiếp tục)/p	Equipped successfully! \n/cffff00(Tap to continue)/p
+T	/c00FF00(Nói tâm ý của Tiểu Duyệt cho Chàng Sầu)/pThay ta cám ơn Tiểu Duyệt tỷ. Trưởng Thôn nhờ ta kêu ngươi tới /cooFF00Giếng Nước/p múc nước. Nước giếng của Làng Diệu Kỳ có thể hồi phục sức mạnh\n\n/cffff00Reward:/pExp 220  \n	/c00FF00(Tell Melancholy Guy about Xiao Yue)/p Thank Sister Xiao Yue for me. The Village Chief asked you to draw water from the /c00FF00Water Well/p to recover your strength.\n\n/cffff00Reward:/pExp 220  \n
+T	Tìm Giếng Nước\nUse auto-pathfinding?	Find the Water Well\nUse auto-pathfinding?
+T	Summary: Tìm Giếng Nước	Summary: Find the Water Well
+T	Sau khi thăng cấp có thể /c00ff00tự do cộng điểm/p tăng lực chiến đấu, thử đi!/cFFFFFFHiệp Khách/p hãy thêm /c00ff00 Sức Mạnh/p, /cFFFFFFTu Chân/p hãy thêm /c00ff00 trí lực/p.\n/cffff00Reward:/pExp 220  \n	After leveling up, you can /c00ff00allocate stat points/p! /cFFFFFFWarrior/p should add /c00ff00STR/p, /cFFFFFFMage/p should add /c00ff00INT/p.\n/cffff00Reward:/pExp 220  \n
+T	Tìm Trưởng Thôn\nUse auto-pathfinding?	Find the Village Chief\nUse auto-pathfinding?
+T	Summary: Tìm Trưởng Thôn	Summary: Find the Village Chief
+T	Nếu mi muốn rời nơi này hãy tới tìm /c00ff00Hiên Tỷ/p, nàng ta ở phía tây nam.\n\n/cffff00Reward:/pExp 210  \n	If you wish to leave, go find /c00ff00Sister Xuan/p in the southwest.\n\n/cffff00Reward:/pExp 210  \n
+T	Tìm /c00ff00Hiên Tỷ/p\nUse auto-pathfinding?	Find /c00ff00Sister Xuan/p\nUse auto-pathfinding?
+T	thái độ bất khả chiến bại	Invincible Stance
+T	Thiên Sinh Dũng Mãnh	Born Valiant
+T	Dê trắng mạnh mẻ, trên đầu có sừng dùng làm vũ khí	A strong white goat with horns used as weapons
+T	Thưởng Vinh Dự	Honor Reward
+T	170Lá	170 Leaves
+T	340Lá	340 Leaves
+T	Trưởng Thôn giao phó cho ta đưa mi vào Thế Giới!\n/cffff00Reward:/pExp 210  \n	The Village Chief entrusted me to guide you into the World!\n/cffff00Reward:/pExp 210  \n
+T	Tới /c00ff00Cửa Dịch Chuyển/p\nUse auto-pathfinding?	Go to /c00ff00Teleport Gate/p\nUse auto-pathfinding?
+T	Nhận nhiệm vụ sẽ vào chiến đấu	Accepting this quest starts battle immediately
+T	Giúp Nghiêm Nhân Anh	Help Yan Renying
+T	Giúp Lí Văn Diễn	Help Li Wenyan
+T	Giúp kiếm khách Hàn Tùng	Help Swordsman Han Song
+T	Đám người đó đã chặn phía đông cầu đá rồi, chúng ta hãy mở đường, để các hiệp sĩ lên.\n\n/cffff00Objective: /pDemolish/cffff00Ma Xạ Thủ/p/cff00000/10/p\nDemolish/cffff00Ma Tu Chân Giả/p/cff00000/10/p\n/cffff00Reward:/pExp 1000  Silver1000  \n/cffff00Selectable Items:/p\n/i00022/c4bf842Hộ Vai Bình Tuyết/p	They blocked the east stone bridge. Let's clear the path!\n\n/cffff00Objective: /pDefeat /cffff00Demon Archer/p /cff00000/10/p\nDefeat /cffff00Demon Cultivator/p /cff00000/10/p\n/cffff00Reward:/pExp 1000  Silver1000  \n/cffff00Selectable Items:/p\n/i00022/c4bf842Pingxue Pauldrons/p
+T	Abandon quest </cff0000Cầu bị phong tỏa/p>?	Abandon quest </cff0000Bridge Blockade/p>?
+T	Hạ Ma Đồ Phu	Defeat Demon Butcher
+T	Tiêu diệt quanh Kiếm Trận	Clear Around Sword Array
+T	Khởi động Thiên Lôi Trận	Activate Sky Thunder Array
+T	Bạch Đao Khách	White Saberman
+T	Hồng Đao Khách	Red Saberman
+T	Chí Thiên Tiếu	Zhi Tianxiao
+T	Xạ Binh Ma Giáo	Demon Sect Archer
+T	Đa tạ, chúng ta hãy tới /cffffffQuảng Trường Thần Kiếm/p xem thế nào?\n/cffff00Reward:/pExp 1000  Silver500  \n/i00143/c42adf8Trượng Thống Ngự/p    /i00162/c4bf842Nỏ Ngân Sắc/p\n	Thanks! Let's head to /cffffffDivine Sword Square/p to check things out.\n/cffff00Reward:/pExp 1000  Silver500  \n/i00143/c42adf8Dominion Staff/p    /i00162/c4bf842Silver Crossbow/p\n
+T	Đa tạ /c00ff00Sujancuq/p.\n/cffff00Xong：/pDemolish/cffff00Giáo Yêu Bao Vây/p/cff00008/8/p\n/cffff00Reward:/pExp 1000  Silver1000  \n	Many thanks, /c00ff00Sujancuq/p.\n/cffff00Done: /pDefeat /cffff00Surrounding Cultists/p /cff00008/8/p\n/cffff00Reward:/pExp 1000  Silver1000  \n
+T	Đã cấp 6 rồi? Bảo vệ thế giới là việc rất khó khăn. Ta tin mi và bạn đồng hành sẽ thành công.	Already Lv.6? Protecting the world is tough, but I believe in you and your companions.
+T	Mi có thể tới SHOP mua dược phẩm. Lần này ta sẽ tặng mi 1 ít. Khi lên cấp 10, ta sẽ lại tặng quà cho mi	You can buy potions at the SHOP. Here's a small gift; reach Lv.10 for another reward!
+T	Sau khi thăng cấp sẽ nhận được 3 điểm thuộc tính. Có thể tăng ở menu Nhân vật.	You gain 3 stat points per level up. Allocate them in the Character menu.
+T	Mi còn /cffff00220 điểmsp/p chưa dùng, dùng điểm sp hợp lí học kĩ năng sẽ tăng lực chiến đấu!	You have /cffff00220 unused SP/p; spend SP wisely on skills to boost Combat Power!
+T	/c00FF00Update Tân Lễ Bao\nTrong thời gian diễn ra SK, mở lượng lớn có tỷ lệ nhận: Phi Mã, Thượng Cổ Chiến Tượng/p	/c00FF00New Gift Pack Update\nDuring the event, opening in bulk grants a chance for Pegasus or Ancient War Elephant/p
+T	/c00FF00【Nhắc nhở】Không tự giao dịch mua bán  KNB và vật phẩm，cũng không được tự ý mua bán tài khoản để tránh bị lừa đảo mất tài khoản hay vật phẩm đáng tiếc./p	/c00FF00[Notice] Do not trade Gold/items privately or buy/sell accounts to avoid scams and account loss./p
+T	画面设置	Display Settings
+T	人名显示:	Player Names:
+T	小地图:	Minimap:
+T	玩家显示:	Show Players:
+T	性能设定(跳图生效)	Performance (next map)
+T	角色形象:	Char Model:
+T	玩家数量:	Player Limit:
+T	声音设定	Sound Settings
+T	物体名字	Item Name
+T	当前物品倒计时	Current Item Countdown
+T	奖励解锁时间	Reward Unlock Time
+T	Tôi đã đọc và đồng ý	I have read and agree
+T	Điều Khoản Người Dùng	User Agreement
+T	Chọn nhân vật	Select Character
+T	Xoá NV	Del Char
+T	Tên T.bị	Gear Name
+T	Kho di động	Mobile Vault
+T	T.Bị	Equip
+T	Thuộc tính NV	Char Stats
+T	S.Mạnh:	STR:
+T	ThểChất:	CON:
+T	TríLực:	INT:
+T	CảmGiác:	Mood:
+T	Thông báo quốc gia	Nation Notice
+T	Vào thành	Enter City
+T	C.ký thành chủ	Mayor Sig
+T	Cấp thành:	City Lv:
+T	Đổi tên	Rename
+T	T.Nguyên q.gia	Nation Res.
+T	Phí vào：	Entry Fee:
+T	Q.Khố：	Treasury:
+T	T.Nguyên：	Resources:
+T	Tặng TN	Send Gift
+T	Phu thê:	Spouse:
+T	Thêm bạn	Add Friend
+T	Mời đội	Invite Party
+T	Xin vào đội	Request Party
+T	Mở Sở G.Dịch(Bản cũ)	Open Exchange (Old)
+T	Xem Sở G.Dịch(Bản cũ)	View Exchange (Old)
+T	Tụ Bảo Các	Treasure Pavilion
+T	Vạn Hoa Các	Myriad Flowers Pavilion
+T	Thành Phong Tuyết	Frostwind City
+T	Thương nhân thần bí	Mysterious Merchant
+T	Nơi thuê dụng	Mercenary Hall
+T	Hệ thống(ID:a2)	System (ID:a2)
+T	TOP Nạp Thẻ	Top Recharge
+T	Trong ngày	Daily
+T	Lịch sử	All-Time
+T	Mỗi tuần	Weekly
+T	TOP Thành Tựu	Top Achievements
+T	Vạn người mê	Most Popular
+T	TOP Bảo Thạch	Top Gems
+T	TOP Chém	Top Slash
+T	TOP Đâm	Top Pierce
+T	TOP Ma Công	Top Magic ATK
+T	Tốc độ đánh	Attack Speed
+T	Sát Thương Vũ Khí	Weapon DMG
+T	TOP Chí Mạng	Top Crit
+T	TOP Phá Giáp	Top Armor Break
+T	TOP Sát Thương	Top Damage
+T	Chiến Đấu Thiên Không	Sky Arena
+T	TOP Thần Kì	Top Mythic
+T	XH Lực Chiến	Combat Power Rank
+T	Thứ hạng	Rank
+T	Hạng 2	Rank 2
+T	Điểm thành tựu	Achievement Pts
+T	Trứng Gấu Trúc	Panda Egg
+T	Trứng Bạo Tẩu Bí Ngô	Rampage Pumpkin Egg
+T	Áo Vân Tiêu	Cloud-Soaring Robe
+T	Du Long Pháp+10Cấp	Dragon Roam Spell Lv+10
+T	Hộ Vai Hải Thần	Sea God Pauldrons
+T	Kiếm Griffin	Griffin Sword
+T	Thú Cưỡi của Thánh Đường Kiếm Sĩ	Mount of the Holy Temple Swordsman
+T	Dực Kiếm Cụ Phong+1Cấp	Gale Wing Sword Lv+1
+T	Đá Ma Lực Cấp 1	Lv.1 Magic Stone
+T	Những trang bị này sau khi phân giải có thể nhận bột ma lực rất nhỏ	Dismantling this gear yields a tiny amount of Magic Powder
+T	Đá Ma Lực Cấp 2	Lv.2 Magic Stone
+T	Những trang bị này sau khi phân giải có thể nhận hạt ma lực.	Dismantling this gear yields Magic Granules.
+T	Đá Ma Lực Cấp 4	Lv.4 Magic Stone
+T	Băng Nguyên Tố	Ice Element
+T	Nguyên tố tự nhiên của Bạc Tuyệt Vọng dùng để hợp thành	Natural element from Despair Silver, used for crafting
+T	Viêm Nguyên Tố	Flame Element
+T	Nguyên tố tự nhiên của Sa Mạc Thất Hồn, dùng để hợp thành	Natural element from Lost Soul Desert, used for crafting
+T	Sợi Ma Vân	Demon Cloud Silk
+T	Đá +2 Kháng Trạng Thái	+2 Status Resist Gem
+T	Đá +2 Chí Mạng	+2 Crit Gem
+T	Đá +2 Chuẩn Xác	+2 Accuracy Gem
+T	Đá +2 Chuẩn Ma Pháp	+2 Magic Hit Gem
+T	Đá +20 MP	+20 MP Gem
+T	Mèo Săn	Hunter Cat
+T	Kỵ Sĩ Vô Đầu	Headless Knight
+T	Cương Kỵ Sĩ Không Đầu	Headless Knight Mount
+T	Đồ của Kỵ Sĩ Không Đầu.	Gear of the Headless Knight.
+T	Tình Yêu Bỏ Quên	Forgotten Love
+T	Vòng Hắc Quỷ Vương	Black Demon King Necklace
+T	VP Hắc Quỷ Thiên Vương	Black Demon Heavenly King Item
+T	Vòng Chí Mạng	Crit Necklace
+T	Vòng Ma Lực	Magic Necklace
+T	Manh Nữ Bộc	Cute Maid
+T	Vô Vi Thủ Hộ	Wuwei Guard
+T	Thương Huyết Yên	Bloodsmoke Spear
+T	Nhẫn Hào Khách	Gallant Ring
+T	Thưởng khiêu chiến	Challenge Reward
+T	Đồ Minh Thần	Underworld God Gear
+T	Nhẫn Nữ Vu	Witch Ring
+T	Nữ Yêu Hào+1Cấp	Demoness Aura Lv+1
+T	Vòng Vảy Rồng	Dragon Scale Necklace
+T	Găng Hồ Cừu	Fox-Fur Gloves
+T	Nỏ Hôi Ưng	Ash Hawk Crossbow
+T	Nhẫn Ám Ảnh	Phantom Ring
+T	Thưởng Hành Động Thích Sát II	Assassination Action II Reward
+T	Ủng Hỗn Độn	Chaos Boots
+T	Thích hợp/c00FF00Hiệp Khách/p	For /c00FF00Warrior/p
+T	Thích hợp/c00FF00Pháp Sư/p	For /c00FF00Mage/p
+T	Tuyết Địa Kỳ Lân	Snowfield Qilin
+T	Vòng Tinh Tuyết	Starlight Snow Necklace
+T	Vòng Karli thường đeo	Necklace commonly worn by Karli
+T	Hộ Vai Phá Tà	Evil-Bane Pauldrons
+T	Nhẫn Tà Pháp	Dark Magic Ring
+T	VP nhiệm vụ Vô Song	Peerless Quest Item
+T	Găng Hỗn Độn	Chaos Gloves
+T	Tiếng Tiêu Đêm	Night Flute
+T	Nhẫn Cường Kích	Power Strike Ring
+T	Thú Cưỡi Mãnh Hổ	Fierce Tiger Mount
+T	Vật phẩm rớt ra khi hạ Long Vương. Tạm cứ cất giữ đi.	Dropped by the Dragon King. Keep it safe for now.
+T	Giáp Hỗn Độn	Chaos Armor
+T	Thưởng Hạ Sát Cuối	Last-Hit Kill Reward
+T	Hạ sát lần cuối sẽ nhận được	Awarded for landing the final blow
+T	Kỳ Lân Vương	Qilin King
+T	Thần thú mạnh	A mighty divine beast
+T	Liên Hoàn Điện+8Cấp	Chain Lightning Lv+8
+T	Hộ Vai Bạch Nguyệt	White Moon Pauldrons
+T	Giảo Sát Nha	Strangle Fang
+T	Mũ Bạch Nguyệt	White Moon Helm
+T	Long Ngâm	Dragon Roar
+T	Lam Viêm Thủ Ấn	Blue Flame Hand Seal
+T	Găng Bạch Nguyệt	White Moon Gloves
+T	Nguyệt Phách Nhẫn	Moon Soul Ring
+T	Bách Điều Triều Phụng	Hundred Birds Paying Homage
+T	Vảy Lam Long	Blue Dragon Scale
+T	Vật phẩm rớt ra khi hạ Lam Long. Tạm cứ cất giữ đi.	Dropped by the Blue Dragon. Keep it safe for now.
+T	Hải Thần Thánh Y	Sea God Sacred Robe
+T	Đai Tinh Nguyệt	Star Moon Belt
+T	Vảy Cổ Long	Ancient Dragon Scale
+T	Vật phẩm rớt khi hạ Cổ Long. Tạm cứ cất giữ đi.	Dropped by the Ancient Dragon. Keep it safe for now.
+T	Ủng Bạch Nguyệt	White Moon Boots
+T	Nhẫn Nhiễu Tâm	Mind-Disrupting Ring
+T	Áo Choàng Huyết Yên Hoa Lệ	Splendid Bloodsmoke Cloak
+T	Nỏ Hắc Dạ[Hắc Phong]	Dark Night Crossbow [Black Wind]
+T	Thiên Ma Đao+5Cấp	Heavenly Demon Saber Lv+5
+T	Quần Thục Sơn	Shushan Leggings
+T	Sách Hồng Nguyệt	Crimson Moon Tome
+T	Lôi Tư cất giữ	Kept by Lei Si
+T	Hồng Nguyệt Vực+4Cấp	Crimson Moon Domain Lv+4
+T	Quần Anh Hùng Cổ	Ancient Hero Leggings
+T	Đồ Thần Thánh Y(2 ngày)	Divine Sacred Robe (2d)
+T	Đồ Thiên Sứ(2 ngày)	Angel Outfit (2d)
+T	Áo Choàng Thánh Y	Sacred Cloak
+T	Bạch Hổ	White Tiger
+T	Ảnh Vũ	Shadow Dance
+T	Viễn chinh anh hùng	Heroic Expedition
+T	Thời gian hoạt động, lv đạt 15, 25, 35,45,55 có thể nhận thưởng	During the event, reach Lv.15, 25, 35, 45, 55 to claim rewards
+T	Chúc mừng bạn thăng cấp 14. Trong Thế Giới cần Kim Diệp và Vàng. Mi làm nhiệm vụ để có Kim Diệp đi!	Congrats on Lv.14! You need Gold Leaves and Gold in this world. Complete quests to earn Gold Leaves!
+T	Mi biết /c00FF00Gấu Kungfu/p không? Nó nói nó sẽ thành /c00ff00người đồng hành đáng tin/p của mi đấy.	Know /c00FF00Kungfu Panda/p? It says it'll become your /c00ff00trusted companion/p.
+T	Phần lớn trang bị đều có thể khảm bảo thạch để tăng thuộc tính. 1 trang bị chỉ có thể khảm 1 loại bảo thạch, các loại khác thì không khảm được	Most gear can be socketed with gems for extra stats. Each piece can only hold one gem type.
+T	Trong Thế Giới OL, các bảo rương đều đựng nhiều đồ, nhiều loại cần Chìa Khóa để mở ra vật phẩm quý.	In World OL, chests hold many items; many require a Key to unlock rare rewards.
+T	Lãnh Chủ đại nhân, cơn gió nào đã đưa ngài đến đây, ở đây tôi bán rất nhiều thứ, thú cưỡi, pet, trang bị thời trang, có gì cần cứ nói	My Lord, what brings you here? I sell mounts, pets, fashion gear, and more—just let me know what you need.
+T	Bán N.Vật	Sell Char
+T	Báo cáo	Report
+T	Bảng T.Tựu	Achieve.
+T	Bảng áp tiêu	Escort List
+T	C.tiết	Details
+T	Công	ATK
+T	Cấp T.Thành:	City Lv:
+T	Diễn ra	Ongoing
+T	Dùng v.phẩm	Use Item
+T	G.thiệu	Intro
+T	Gợi ý	Hint
+T	Hiện	Show
+T	Hôm nay không còn nhắc nhở	Don't remind today
+T	Khán giả	Spectator
+T	Lật hình	Flip Card
+T	Map nhỏ:	Mini Map:
+T	Người chơi:	Player:
+T	Nhận T.Tích	Claim Score
+T	Nói gì đó ?	Say something?
+T	Nối Thú	Pet Link
+T	PK thắng:	PK Wins:
+T	Phái	Class
+T	Phái：	Class:
+T	Phía tây	West
+T	Phía đông	East
+T	Phần thưởng	Rewards
+T	Quà	Gift
+T	Quái diệt:	Kills:
+T	Quốc Khố：	Treasury:
+T	Quỹ Q.Chiến：	War Fund:
+T	S.lần:	Count:
+T	Skill đã học:	Learned Skills:
+T	So sánh	Compare
+T	Số c.nhận	Accepted
+T	T.Công	ATK
+T	T.chuyện	Chat
+T	T.chối	Decline
+T	T.gian tối thiểu：	Min Time:
+T	T.Động	Auto
+T	Tiệm thần bí	Mystery Shop
+T	Trong thời gian diễn ra event， tích nạp đạt mốc	During the event, reach top-up milestones
+T	Tên	Name
+T	Tên：	Name:
+T	Tóm tắt nghề nghiệp	Class Summary
+T	Tăng tốc:	Speed Up:
+T	Tạo	Create
+T	Tạo N.Vật	Create Char
+T	Từ chối	Decline
+T	Vận Tiêu	Escort
+T	Xin chọn quân đoàn đánh quái vật	Select legion to attack monster
+T	sẽ nhận được quà tương ứng。	to claim the corresponding rewards.
+T	Đ.Trường	Arena
+T	Đ.Xuất:	Suggest:
+T	Đ.giản	Simple
+T	Điểm skill:	Skill Pts:
+T	Điểm：	Points:
+T	Đánh giá ngay	Rate Now
+T	Đã diệt：	Killed:
+T	Đã lĩnh	Claimed
+T	Đấu Trường	Arena
+T	Đổi k.giả	Switch View
+T	Mã đổi không tồn tại	Redeem code does not exist
+T	Hồng Tông Sư	Grandmaster
+T	Dò đường	Auto-path
+T	Xong nhiệm vụ	Complete Quest
+T	Xương Mất Đầu	Headless Skeleton
+T	Cổ Mộ Tầng 1	Ancient Tomb 1F
+T	Cổ Mộ tầng 1	Ancient Tomb 1F
+T	Cổ Mộ Tầng 2	Ancient Tomb 2F
+T	Cổ Mộ tầng 2	Ancient Tomb 2F
+T	Đào Mộ	Tomb Excavator
+T	bản chất thông minh	Clever Nature
+T	Nạp %150000 VND	Top up 150,000 VND
+T	Nạp %250000 VND	Top up 250,000 VND
+T	Nạp %500000 VND	Top up 500,000 VND
+T	Nạp %750000 VND	Top up 750,000 VND
+T	Max HP+1000(Khóa)	Max HP+1000 (Bound)
+T	Max MP+1000(Khóa)	Max MP+1000 (Bound)
+T	Atk Speed+20(Khóa)	Atk Speed+20 (Bound)
+T	Hit+5(Khóa)	Hit+5 (Bound)
+T	Achievement Name: Nạp 250000 VND	Achievement Name: Top up 250,000 VND
+T	新月古镇（中立城镇）	Crescent Town (Neutral Town)
+T	Mi không có Đá Dịch Chuyển, không thể vào bản đồ này	You do not have a Teleport Stone and cannot enter this map
+T	Ngài muốn đến Rừng Tinh Linh? Hiện tại ở đó không được bình yên, đạo tặc và dã thú xuất hiện khắp nơi, các đường đi đến Rừng Tinh Linh đều đã huỷ bỏ, nhưng tôi có thể đưa ngài đến Rừng Viễn Cổ, sau khi đến đó thì có người đưa bạn đến Rừng Tinh Linh, đi đường nhớ cẩn thận	Want to go to Spirit Forest? It is currently unsafe with bandits and beasts everywhere, and all paths there are closed. I can take you to Ancient Forest first, where someone can guide you to Spirit Forest. Safe travels!
+T	Summary: Đến Rừng Tinh Linh và trò chuyện với đội trưởng Dung binh Hạo Khắc	Summary: Go to Spirit Forest and talk to Mercenary Captain Hao Ke
+T	Ta là Đội trưởng Dung binh Hạo Khắc phụ trách công tác cảnh vệ nơi đây, ngài là anh hùng đến trợ giúp sao?	I am Mercenary Captain Hao Ke in charge of security here. Are you the hero who came to help?
+T	Giải cứu thương đội	Rescue the Caravan
+T	Đã nhận đồ giám quái vật Cướp Cản Đường	Obtained Monster Codex: Highway Bandit
+T	May gặp được mọi người nếu không hàng hóa của chúng tôi đã bị cướp hết rồi.	Thank goodness we met you, otherwise all our goods would have been robbed.
+T	Cứ điểm của Cướp	Bandit Outpost
+T	sườn núi phía tây	west mountainside
+T	Xem ra mục tiêu của chúng ta chính là cứ điểm của chúng.	Looks like our target is their outpost.
+T	Phá hủy cứ điểm Cướp	Destroy Bandit Outpost
+T	Cùng tới	Go together
+T	Chúng đã chuyển hàng hóa tới nơi khác rồi.	They already moved the goods elsewhere.
+T	Bạo Tạc	Explosion
+T	thuốc nổ	explosives
+T	Cứ điểm bị nổ, những dung binh khác đều bị thương. May Hạo Khắc đẩy mi, nên chỉ bị thương nhẹ.	The outpost exploded and the other mercenaries were injured. Luckily Hao Ke pushed you aside, so you only took minor injuries.
+T	Thương vong nghiêm trọng	Heavy Casualties
+T	ngoài cứ điểm canh giữ	guard outside the outpost
+T	Bọn mi sẽ chết hết.	You will all die.
+T	Chó săn Thành Thái Dương trúng kế rồi chứ?	Sun City hounds fell for the trap, didn't you?
+T	Cướp tập kích	Bandit Ambush
+T	Giờ bọn mi mọc cánh cũng khó bay! Các huynh đệ xông lên, tiêu diệt chúng!	Even with wings you can't escape now! Brothers, charge and wipe them out!
+T	Đã nhận đồ giám quái vật Cướp Râu Đen	Obtained Monster Codex: Blackbeard Bandit
+T	Đã nhận đồ giám quái vật Tướng Cướp	Obtained Monster Codex: Bandit General
+T	Bị thương nặng vậy còn có thể phản kháng?	Still able to fight back with such heavy wounds?
+T	Cướp giảo hoạt	Cunning Bandit
+T	Đám Cướp xảo quyệt đã làm bị thương biết bao huynh đệ của ta, ta sẽ không tha cho bọn mi	Those cunning bandits injured so many of my brothers. I will never forgive them
+T	Gọi đồng đội	Call Teammates
+T	Summary: Tới ngoài cứ điểm đốt Đạn Hiệu, gọi đồng đội tới tập hợp	Summary: Go outside the outpost and light the Signal Flare to rally your teammates
+T	Nơi này thích hợp để đốt Đạn Hiệu.	This spot is suitable for lighting the Signal Flare.
+T	Đội dung binh sẽ nhanh tới thôi	The mercenary squad will arrive soon
+T	Nỏ Toái Lô	Skullbreaker Crossbow
+T	Giáp Tụ Hải	Sea-Gathering Armor
+T	Hãy tiêu diệt các chướng ngại này, phá sào huyệt của Cướp.	Clear these obstacles and destroy the Bandit Lair.
+T	Khu rừng đẹp như vậy lại là sào huyệt của Cướp	Such a beautiful forest turned into a Bandit Lair
+T	Chúc mừng bạn hoàn thành "Xong NV ngày" nội dung độ Phát triển, nhận 40 độ Phát triển	Congratulations! Completed "Daily Quest" Growth task, received 40 Growth
+T	Nhân lúc chúng hỗn loại hãy mở Cổng Lớn để Đội Dung Binh vào	While they are in chaos, open the Main Gate to let the Mercenary Squad in
+T	Mũ Mạch Sơn	Wheat Hill Helm
+T	Quần Bác Học	Scholar Pants
+T	Hi vọng chúng không tới gây rối nữa.	Hope they won't come cause trouble anymore.
+T	Mi hãy về thành, có nhiệm vụ khác đợi mi.	Return to town, another quest awaits you.
+T	Summary: Thông qua Trạm Phi Hành tới Tân Nguyệt Trấn, nói chuyện với bộ khoái, y biết cách vào Mộ Hán Vương	Summary: Use the Airship Station to reach Crescent Town and talk to the Constable, who knows how to enter Han King's Tomb
+T	Đã nhận đồ giám quái vật Người Sói	Obtained Monster Codex: Werewolf
+T	Đã nhận đồ giám quái vật Ma Ưng	Obtained Monster Codex: Demon Hawk
+T	Đã nhận đồ giám quái vật Đại Dực Thú	Obtained Monster Codex: Giant Winged Beast
+T	Cung Hộ Vệ x 1	Guardian Bow x 1
+T	Đã nhận đồ giám quái vật Khô Lâu Tinh	Obtained Monster Codex: Skeleton Spirit
+T	Đã nhận đồ giám quái vật Khô Lâu Vương	Obtained Monster Codex: Skeleton King
+T	Có thù tất báo	An Eye for an Eye
+T	Của bất nghĩa	Ill-Gotten Gains
+T	Tang Vật	Stolen Goods
+T	Giáp Phục Thù	Vengeance Armor
+T	Đây là thù lao của mi, cầm lấy đi	Here is your reward, take it
+T	Lần này phát tài rồi, mi 3 phần ta 7 phần	We hit the jackpot this time! 30% for you, 70% for me
+T	Bỏ kĩ năng	Unequip Skill
+T	Rớt mạng, về giao diện chính!	Disconnected, returning to main screen!
+T	Summary: Tới Mộ Hán Vương giải quyết vấn đề Trộm Mộ	Summary: Go to Han King's Tomb to deal with the Tomb Raiders
+T	Map:  Cổ Mộ Tầng 1	Map: Ancient Tomb 1F
+T	选择称号	Select Title
+T	达成:10/10	Completed: 10/10
+T	Thông qua exp nhiệm vụ, chiến đấu với quái vật, nhận thành tựu... giúp nhân vật thăng lên cấp 10	Level up your character to Lv 10 via quest EXP, monster battles, achievements, etc.
+T	Thăng lên cấp 20	Reach Lv 20
+T	Thông qua exp nhiệm vụ, chiến đấu với quái vật, nhận thành tựu... giúp nhân vật thăng lên cấp 20	Level up your character to Lv 20 via quest EXP, monster battles, achievements, etc.
+T	Thăng lên cấp 10(Đã đạt)	Reach Lv 10 (Achieved)
+T	Phong Hành	Windwalker
+T	Thánh Hiền	Sage
+T	Kẻ Săn Quái Vật	Monster Hunter
+T	Summary: Tới Mộ Phong Ấn, giúp Mục Sư của Thành Thái Dương điều tra.	Summary: Go to Seal Tomb and help the Sun City Priest investigate.
+T	mật khẩu	Password
+T	【Tuyệt Thế Hảo Kiếm】	[Peerless Sword]
+T	Phá Quân(new)	Breaker (New)
+T	Tuyệt Thế Hảo Kiếm	Peerless Sword
+T	Tuyết Ẩm Đao	Snow Drinker Blade
+T	8区1线	Region 8 Ch 1
+T	5区1线	Region 5 Ch 1
+T	2区1线	Region 2 Ch 1
+T	Mộ Phong Ấn Tầng 1	Seal Tomb 1F
+T	Map:  Mộ Phong Ấn Tầng 1	Map: Seal Tomb 1F
+T	Vật lấy từ chỗ Cường Đạo	Item taken from the Bandits
+T	Đai Phục Thù	Vengeance Belt
+T	Xác Tử Linh	Necrotic Corpse
+T	Sứ Ma Triệu Hồi	Summoned Imp
+T	Mục Sư	Priest
+T	Đã nhận đồ giám quái vật Sứ Ma	Obtained Monster Codex: Imp
+T	Thượng Cổ Bạch Dương	Ancient Aries
+T	Khô Lâu Vương	Skeleton King
+T	Ma Ưng	Demon Hawk
+T	Khô Lâu Tinh	Skeleton Spirit
+T	Thiên Không Kị Sĩ	Sky Knight
+T	Đạp Tiên(Tin mới)	Step Immortal (New)
+T	Yêu Tôn	Demon Sovereign
+T	Nhận nhiệm vụ	Accept Quest
+T	Cánh Vong Giả	Wings of the Fallen
+T	VP rớt	Dropped Item
+T	Tử Điện Công+2Cấp	Purple Lightning Strike +Lv2
+T	Mũ Lục Đạo	Six Paths Helm
+T	Hài Lục Đạo	Six Paths Boots
+T	Nỏ Vân Linh[Đạn Vũ]	Cloud Spirit Crossbow [Barrage]
+T	Đai Lục Đạo	Six Paths Belt
+T	Quần Chiến Thần	War God Pants
+T	Hộ Vai Lang Ma	Wolf Demon Shoulder Guard
+T	Thưởng rớt ra khi đánh bại Đọa Lang Ma	Reward dropped from defeating Fallen Wolf Demon
+T	Đọa Sói Nộ Hống+1Cấp	Fallen Wolf Roar +Lv1
+T	Bùa Noel	Christmas Charm
+T	Hắc Hổ	Black Tiger
+T	Lông đen nhánh do cường hóa	Jet-black fur from enhancement
+T	Giỏi Trùng Kích+8Cấp	Master Charge +Lv8
+T	Tổ đội thất bại: Khác bản đồ không thể tổ đội.	Party failed: Cannot form a party across different maps.
+T	Quảng Trường Tân Nguyệt	Crescent Square
+T	Sa Mạc Thất Hồn	Lost Soul Desert
+T	Đao Phủ Xương	Skeleton Executioner
+T	Xạ Thủ Xương	Skeleton Archer
+T	Chiến Y Batman	Batman Battle Robe
+T	Dũng Sĩ Đồ Long	Dragon Slayer Warrior
+T	Đai Sao Băng	Meteor Belt
+T	Xích Thiên Sứ - Nhân Mã	Crimson Angel - Sagittarius
+T	Trung Rãnh Skill Nhân Vật	Medium Character Skill Slot
+T	Thánh Vực	Sacred Realm
+T	Điểm truyền tống	Teleport Point
+T	Băng Ca	Ice Song
+T	Chỉ Huy Thánh Vực(Trùng sinh)	Sacred Realm Commander (Rebirth)
+T	Sự kiện vấn đáp	Quiz Event
+T	Thầy Pet	Pet Master
+T	Tới Rừng Viễn Cổ (Khu cấp 40)	Go to Ancient Forest (Lv 40 Zone)
+T	Tới bản đồ Mạo Hiểm (Nhiệm vụ cấp 10-35)	Go to Adventure Map (Lv 10-35 Quests)
+T	Tới Ác Mộng Halloween	Go to Halloween Nightmare
+T	Đồng Tuyệt Vọng ( level 30)	Despair Plains (Lv 30)
+T	Rừng Dạ Ngữ ( level 40)	Nightwhisper Forest (Lv 40)
+T	Rừng Tinh Linh ( level 15)	Elf Forest (Lv 15)
+T	Thành Thái Dương ( level 15)	Sun City (Lv 15)
+T	Tân Nguyệt Trấn ( Leve l15)	Crescent Town (Lv 15)
+T	Hạ 20 Đao Phủ Xương	Defeat 20 Skeleton Executioners
+T	Summary: Hạ 20 Đao Phủ	Summary: Defeat 20 Executioner
+T	Tân lễ bao có cơ hội cao nhận được tọa kỵ, pet, trang bị và các vật phẩm hiếm có khác.	Newbie Gift Pack has a high chance to grant mounts, pets, gear, and other rare items.
+T	Số may mắn: 666	Lucky Number: 666
+T	Không Thủ Đạo Đại Thúc	Karate Uncle
+T	Nam Hiệp Khách	Male Swordsman
+T	Lính Đặc Công Giận Dữ	Angry Commando
+T	Kiếm Giáp Đại Thúc	Armored Blade Uncle
+T	Đăng nhập thất bại: Tài khoản bị khóa, nguyên nhân là	Login failed: Account is locked, reason:
+T	Tới tìm	Go find
+T	Summary: Tới tìm	Summary: Go find
+T	Summary: Tìm và đánh bại	Summary: Find and defeat
+T	Tìm và đánh bại	Find and defeat
+T	Summary: Tới chỗ	Summary: Go to
+T	Khăn	Scarf
+T	Ta là Nữ Thợ Săn Vân Thường!	I am Huntress Yun Shang!
+T	Rớt mạng, về giao diện	Disconnected, returning to main
+T	Tới Thành Thái Dương,  đối thoại	Go to Sun City and talk
+T	Sau khi giải quyết xong các sự việc và vấn đề sẽ được nhận (Huy Hiệu Kị Sĩ)Thu thập những huy hiệu này có thể tới chỗ ta đổi Kim Diệp.	After resolving these issues you will receive Knight Badges. Collect them to exchange for Leaves with me.
+T	Ở 1 số client phiên bản cũ, phần thưởng nhiệm vụ hiện thị lỗi là Vàng. Nhiệm vụ này thực tế thưởng Kim Diệp.	In some older clients, the quest reward mistakenly displays as Gold. This quest actually rewards Leaves.
+T	Summary: Khi làm nhiệm vụ như Rừng Tinh Linh, Núi Nguyệt Nha, ở mỗi giai đoạn sẽ nhận được Huy Hiệu Kị Sĩ. Thu thập có thể đổi Kim Diệp. Hoặc đổi Huy Hiệu Anh Hùng. Huy Hiệu Anh Hùng có thể đổi nhiều Kim Diệp hơn.	Summary: Doing quests in Elf Forest, Crescent Mountain, etc. grants Knight Badges each stage. Collect them to trade for Leaves or Hero Badges, which trade for even more Leaves.
+T	/c00FF00Update Tân Lễ Bao\nTrong thời gian diễn ra SK, mở lượng lớn có tỷ lệ nhận: Phi Mã, Thượng Cổ Bạch Dương, Trứng Thiên Sứ, Trứng Cuồng Nữ Bộc, Đồ Ám Đấu Sĩ/p\n1. Mở Khiêu Chiến Cao Cấp 33\n[Thời gian HĐ]: Ngày 13-11 00:00—Ngày 24-11 23:59\n2. Mở PB Ngày Nhà Giáo\nTrong thời gian HĐ, đến Quảng Trường Tân Nguyệt để nhận, yêu cầu nhân vật Lv60 trở lên\n[Thời gian HĐ]: Ngày 13-11 00:00 - Ngày 19-11 23:59	/c00FF00Newbie Pack Update\nDuring the event, opening in bulk gives a chance for: Pegasus, Ancient Aries, Angel Egg, Berserk Maid Egg, Dark Fighter Set/p\n1. High Challenge 33 Open\n[Event Time]: Nov 13 00:00 - Nov 24 23:59\n2. Teachers' Day Dungeon Open\nDuring the event, go to Crescent Square to enter (requires Lv60+)\n[Event Time]: Nov 13 00:00 - Nov 19 23:59
+T	Hiện chỗ ta có thể học kĩ năng cấp 10. Các dữ liệu kĩ năng vẫn đang điều chỉnh giai đoạn, hãy cho ý kiến.	You can currently learn Lv10 skills here. Skill data is still being tuned in phases; feedback is welcome.
+T	Ta có thể dẫn mi tới bản đồ nhiệm vụ chính. Bản đồ trung lập là nơi mở các nhiệm vụ và chỗ người chơi tụ tập.	I can take you to the main quest map. Neutral maps are where quests start and players gather.
+T	Đây chính là đám người Ma Giáo! Chúng dám tới đây sao?	These are Demon Cult members! How dare they come here?
+T	Sự việc không đôn giản như vậy, đám người này chắc là giáo chúng Ma Giáo, phải báo cho Trưởng Lão. Tử Yên có vẻ lo lắng.	It's not that simple—they must be Demon Cultists. We must report to the Elder. Zi Yan looks worried.
+T	Đi theo	Follow
+T	tiếp tục tới đại hội võ lâm.	continue to the Martial Arts Tournament.
+T	Summary: Đi theo	Summary: Follow
+T	Xem ra Ma Giáo định tấn công phái ta!	Looks like the Demon Cult plans to attack our sect!
+T	là đệ tử mới nhập Thục Sơn, hiện đang bị	is a newly joined Shu Mountain disciple currently surrounded by
+T	Ma Giáo Giáo Chúng	Demon Cultists
+T	bao vây, mau đi giúp y.	surrounded, hurry and help them.
+T	Giáo Yêu Bao Vây	Surrounded by Demon Cult
+T	Summary: Giúp	Summary: Help
+T	tiêu diệt	defeat
+T	Giáo Giáo Chúng	Cultists
+T	Thục Sơn	Shu Mountain
+T	Ma Giáo	Demon Cult
+T	(Nói tâm ý của Tiểu Duyệt cho Chàng Sầu)	(Tell Sorrowful Lad about Xiao Yue's feelings)
+T	Thay ta cám ơn Tiểu Duyệt tỷ. Trưởng Thôn nhờ ta kêu ngươi tới	Thank Big Sis Xiao Yue for me. The Village Chief asked me to tell you to go to
+T	Giếng Nước	Water Well
+T	múc nước. Nước giếng của Làng Diệu Kỳ có thể hồi phục sức mạnh	draw water. Water from Miracle Village's well can restore strength
+T	Sau khi thăng cấp có thể tự do cộng điểm tăng lực chiến đấu, thử đi!	After leveling up you can freely allocate stat points to raise combat power—give it a try!
+T	Hiệp Khách	Swordsman
+T	Tu Chân	Cultivator
+T	Dùng thùng gỗ bên Giếng múc 1 thùng nước.	Use the wooden bucket by the well to draw 1 bucket of water.
+T	(Nước giếng đã lấy mau giao cho Trưởng Thôn.)	(Well water drawn—deliver it to the Village Chief right away.)
+T	Nếu mi muốn rời nơi này hãy tới tìm	If you want to leave this place, go find
+T	, nàng ta ở phía tây nam.	, she is in the southwest.
+T	Ta sẽ giúp mi mở Cửa Dịch Chuyển! !	I will help you open the Teleport Gate!
+T	(Mở Cửa Dịch Chuyển)	(Open Teleport Gate)
+T	Map:  Điện Đón Khách	Map: Guest Greeting Hall
+T	Điện Đón Khách	Guest Greeting Hall
+T	Xạ Thủ Tập Kích	Ambush Archer
+T	Ma Thương Binh	Demon Spearman
+T	Ma Đao Binh	Demon Blade Soldier
+T	Lí Văn Diễn	Li Wenyan
+T	Cẩn thận phía sau!	Watch out behind you!
+T	Hàn Tùng	Han Song
+T	Vai Lê Minh Hộ	Dawn Shoulder Guard
+T	Ủng Lê Minh	Dawn Boots
+T	Hàn Tùng: Ma Giáo tấn công Thục Sơn! Huyền Trân Trưởng Lão đã rời Điện Đón Khách đi chuẩn bị mở Thiên Lôi Trận! Giờ Điện Đón Khách bị Ma Giáo tấn công!	Han Song: The Demon Cult is attacking Shu Mountain! Elder Xuan Zhen left Guest Greeting Hall to prepare the Thunder Formation! Now the hall is under Demon Cult attack!
+T	Cùng Tử Yên tới Điện Đón Khách chống Ma Giáo.	Go with Zi Yan to Guest Greeting Hall to defend against the Demon Cult.
+T	Đó không phải là sát nhân vương Ma Giáo	Isn't that the Demon Cult's Murder King
+T	là nhân vật tầm cỡ của Ma Giáo!Ma Giáo Giáo Chúng tấn công Điện Đón Khách do Hợi Khởi cầm đầu, y biết thuật phân thân,	is a major figure in the Demon Cult! The Demon Cultists attacking Guest Greeting Hall are led by Hai Qi, who knows shadow clone arts,
+T	Hợi Khởi	Hai Qi
+T	Ta là ai chứ? Ta chính là	Who am I? I am
+T	Mời thách đấu	Invite to Challenge
+T	Đánh bại sát nhân vương	Defeat the Murder King
+T	Hộ Vai Vân Khanh	Yunqing Shoulder Guard
+T	võ công cao cường! Ta đang muốn thỉnh giáo!	Your martial arts are formidable! I'd love to exchange pointers!
+T	thách đấu với mi.	challenges you.
+T	Không ngờ võ công cao cường như vậy (Tử Yên mỉm cười!)	Didn't expect such formidable martial arts (Zi Yan smiles!)
+T	võ  công cao cường, bái phục!	Your martial arts are truly impressive, I bow in respect!
+T	Nói chuyện với	Talk to
+T	Hợi Khởi chiến bại, Ma Giáo Giáo Chúng gần Điện Đón Khách đã rút lui, nhưng xung quanh vẫn còn dư đảng, hãy hiệp sĩ bị tấn công ở gần Điện Đón Khách.	Hai Qi is defeated and the Demon Cultists near Guest Greeting Hall have retreated, but remnants remain nearby—help the knights under attack near Guest Greeting Hall.
+T	Giúp người có  yêu cầu hạ Ma Giáo Giáo Chúng ở xung quanh	Help those in need defeat the remaining Demon Cultists nearby
+T	Đa tạ, chúng ta hãy tới	Many thanks, let's go to
+T	Quảng Trường Thần Kiếm	Divine Sword Square
+T	xem thế nào?	to check things out?
+T	Nghiêm Nhân Anh bị tấn công không còn đường chống trả, thật tội nghiệp, hãy giúp  y.	Yan Renying is under attack with no way to fight back—poor guy, go help him.
+T	Thương Binh	Wounded Soldier
+T	Thành của Zancuq	Zancuq's City
+T	Đây là Sở G.Dịch! Muốn  mua bán vật phẩm hãy tới xem!	This is the Trading House! Come check it out if you want to buy or sell items!
+T	Đây là đạn hiệu Đội Dung Binh dùng để liên lạc, /cffffffcầm ra ngoài bãi đất rộng đốt đi/p, thông báo các huynh đệ khác tới, chúng ta hãy tiêu diệt Cướp!	This is a Mercenary Squad Signal Flare used for communication. /cffffffTake it to the open ground outside and light it/p to alert the other brothers to come, and let us eliminate the Bandits!
+T	Đây là đạn hiệu Đội Dung Binh dùng để liên lạc, /cffffffcầm ra ngoài bãi đất rộng đốt đi/p, thông báo các huynh đệ khác tới, chúng ta hãy tiêu diệt Cướp!\n\n	This is a Mercenary Squad Signal Flare used for communication. /cffffffTake it to the open ground outside and light it/p to alert the other brothers to come, and let us eliminate the Bandits!\n\n
+T	Đây là đạn hiệu Đội Dung Binh dùng để liên lạc, cầm ra ngoài bãi đất rộng đốt đi, thông báo các huynh đệ khác tới, chúng ta hãy tiêu diệt Cướp!	This is a Mercenary Squad Signal Flare used for communication. Take it to the open ground outside and light it to alert the other brothers to come, and let us eliminate the Bandits!
+T	Đây là đạn hiệu Đội Dung Binh dùng để liên lạc, 	This is a Mercenary Squad Signal Flare used for communication, 
+T	cầm ra ngoài bãi đất rộng đốt đi	take it to the open ground outside and light it
+T	, thông báo các huynh đệ khác tới, chúng ta hãy tiêu diệt Cướp!	, alert the other brothers to come, and let us eliminate the Bandits!
+T	Tìm Thầy Kĩ Năng	Find the Skill Master
+T	Tới Sau Thục Sơn	Go to Rear Mt. Shu
+T	Sau Thục Sơn	Rear Mt. Shu
+T	đường núi phía tây	western mountain path
+T	bị gió lốc chặn đường!	blocked by a whirlwind!
+T	Chiến Sĩ Nên tăng Sức Mạnh và Thể Lực.	Warriors should increase Strength and Constitution.
+T	Tử Yên: Vị này là đại sư huynh của chúng ta, /c00ff00Mộng Long/p	Zi Yan: This is our senior brother, /c00ff00Meng Long/p
+T	Tử Yên: Vị này là đại sư huynh của chúng ta, Mộng Long	Zi Yan: This is our senior brother, Meng Long
+T	Lệ Sa: Chúng ta định tới Tháp Trấn Yêu giúp đỡ, nhưng tới /cffffffđường núi phía tây/p bị gió lốc chặn đường!	Li Sa: We planned to help at the Demon Subduing Pagoda, but we were blocked by a whirlwind on the /cffffffwestern mountain path/p!
+T	Lệ Sa: Chúng ta định tới Tháp Trấn Yêu giúp đỡ, nhưng tới /cffffffđường núi phía tây/p bị gió lốc chặn đường!\n\n	Li Sa: We planned to help at the Demon Subduing Pagoda, but we were blocked by a whirlwind on the /cffffffwestern mountain path/p!\n\n
+T	Lệ Sa: Chúng ta định tới Tháp Trấn Yêu giúp đỡ, nhưng tới 	Li Sa: We planned to help at the Demon Subduing Pagoda, but reaching 
+T	Huyền Chân: Chưởng môn sư huynh và Trưởng Lão đang gọi Thần Long, ta đang bận rộn đối phó bọn không có mắt này	Huyen Chan: Senior Brother Sect Leader and the Elders are summoning the Divine Dragon; I am busy dealing with these blind fools.
+T	Huyền Chân: Chưởng môn sư huynh và Trưởng Lão đang gọi Thần Long, ta đang bận rộn đối phó bọn không có mắt này.	Huyen Chan: Senior Brother Sect Leader and the Elders are summoning the Divine Dragon; I am busy dealing with these blind fools.
+T	Summary: Đi về phía đông chính là Quảng Trường Thần Kiếm	Summary: Heading east leads directly to Divine Sword Square
+T	Summary: Tới phía tây nam, tìm nguyên nhân xuất hiện Cuồng Phong.	Summary: Go southwest and find the cause of the Tempest.
+T	Summary: Hạ Bạch Nhật Tử.(Sau khi nhận nhiệm vụ lập tức vào chiến đấu)	Summary: Defeat Bai Rizi. (Combat begins immediately upon accepting)
+T	Các ngươi đúng là không phân thị phi! Với góc độ Thục Sơn bọn mi, ta đụng vào Tháp Trấn Yêu là tội chết! Nào hãy chứng minh các ngươi mới là kẻ mạnh, có năng lực bảo vệ đại địa này!	You truly cannot tell right from wrong! From Shushan perspective, merely touching the Demon Subduing Pagoda is a capital crime! Come then, prove that you are the strong ones capable of protecting this land!
+T	Đó chính là Quỷ Thôn ở phía bắc Lạc Dương	That is Ghost Village to the north of Luoyang
