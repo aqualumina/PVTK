@@ -343,7 +343,7 @@
     :cond_2
     invoke-virtual {p0}, Lcom/hz/battle/BattleAniEngine;->doExit()V
 
-    const-wide/16 v3, 0x1388
+    const-wide/16 v3, 0x4b0
 
     add-long/2addr v1, v3
 
@@ -392,7 +392,7 @@
     :cond_7
     sub-long v3, v1, v3
 
-    const-wide/16 v5, 0x1770
+    const-wide/16 v5, 0x9c4
 
     cmp-long v0, v3, v5
 
@@ -401,7 +401,7 @@
     return-void
 
     :cond_8
-    const-wide/16 v5, 0x1d4c
+    const-wide/16 v5, 0x1194
 
     cmp-long v0, v3, v5
 
@@ -608,7 +608,7 @@
 
     sub-long v2, v0, v2
 
-    const-wide/16 v4, 0x5dc
+    const-wide/16 v4, 0x3e8
 
     cmp-long v2, v2, v4
 
