@@ -1038,7 +1038,7 @@
     return-object v0
 
     :cond_0
-    const-string v0, "7.1"
+    const-string v0, "8.1"
 
     :try_start_0
     sget-object v1, Lcom/lori/app/PipActivity;->DEFAULT_ACTIVITY:Lcom/lori/app/PipActivity;

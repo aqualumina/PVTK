@@ -1,6 +1,6 @@
 # PVTK English Translation & OTA Repository
 
-Repository for English translation patches and OTA (Over-The-Air) updates for **PVTK (The World Online)** and **PVTK2**.
+Repository for English translation patches and OTA (Over-The-Air) updates for **PVTK 1 (The World Online)** and **PVTK 2**.
 
 ## Directory Structure
 
