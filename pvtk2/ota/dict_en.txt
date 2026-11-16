@@ -8767,3 +8767,90 @@ T	Phong Hành	Windwalker
 T	Thánh Hiền	Sage
 T	Kẻ Săn Quái Vật	Monster Hunter
 T	Summary: Tới Mộ Phong Ấn, giúp Mục Sư của Thành Thái Dương điều tra.	Summary: Go to Seal Tomb and help the Sun City Priest investigate.
+T	mật khẩu	Password
+T	【Tuyệt Thế Hảo Kiếm】	[Peerless Sword]
+T	Phá Quân(new)	Breaker (New)
+T	Tuyệt Thế Hảo Kiếm	Peerless Sword
+T	Tuyết Ẩm Đao	Snow Drinker Blade
+T	8区1线	Region 8 Ch 1
+T	5区1线	Region 5 Ch 1
+T	2区1线	Region 2 Ch 1
+T	Mộ Phong Ấn Tầng 1	Seal Tomb 1F
+T	Map:  Mộ Phong Ấn Tầng 1	Map: Seal Tomb 1F
+T	Vật lấy từ chỗ Cường Đạo	Item taken from the Bandits
+T	Đai Phục Thù	Vengeance Belt
+T	Xác Tử Linh	Necrotic Corpse
+T	Sứ Ma Triệu Hồi	Summoned Imp
+T	Mục Sư	Priest
+T	Đã nhận đồ giám quái vật Sứ Ma	Obtained Monster Codex: Imp
+T	Thượng Cổ Bạch Dương	Ancient Aries
+T	Khô Lâu Vương	Skeleton King
+T	Ma Ưng	Demon Hawk
+T	Khô Lâu Tinh	Skeleton Spirit
+T	Thiên Không Kị Sĩ	Sky Knight
+T	Đạp Tiên(Tin mới)	Step Immortal (New)
+T	Yêu Tôn	Demon Sovereign
+T	Nhận nhiệm vụ	Accept Quest
+T	Cánh Vong Giả	Wings of the Fallen
+T	VP rớt	Dropped Item
+T	Tử Điện Công+2Cấp	Purple Lightning Strike +Lv2
+T	Mũ Lục Đạo	Six Paths Helm
+T	Hài Lục Đạo	Six Paths Boots
+T	Nỏ Vân Linh[Đạn Vũ]	Cloud Spirit Crossbow [Barrage]
+T	Đai Lục Đạo	Six Paths Belt
+T	Quần Chiến Thần	War God Pants
+T	Hộ Vai Lang Ma	Wolf Demon Shoulder Guard
+T	Thưởng rớt ra khi đánh bại Đọa Lang Ma	Reward dropped from defeating Fallen Wolf Demon
+T	Đọa Sói Nộ Hống+1Cấp	Fallen Wolf Roar +Lv1
+T	Bùa Noel	Christmas Charm
+T	Hắc Hổ	Black Tiger
+T	Lông đen nhánh do cường hóa	Jet-black fur from enhancement
+T	Giỏi Trùng Kích+8Cấp	Master Charge +Lv8
+T	Tổ đội thất bại: Khác bản đồ không thể tổ đội.	Party failed: Cannot form a party across different maps.
+T	Quảng Trường Tân Nguyệt	Crescent Square
+T	Sa Mạc Thất Hồn	Lost Soul Desert
+T	Đao Phủ Xương	Skeleton Executioner
+T	Xạ Thủ Xương	Skeleton Archer
+T	Chiến Y Batman	Batman Battle Robe
+T	Dũng Sĩ Đồ Long	Dragon Slayer Warrior
+T	Đai Sao Băng	Meteor Belt
+T	Xích Thiên Sứ - Nhân Mã	Crimson Angel - Sagittarius
+T	Trung Rãnh Skill Nhân Vật	Medium Character Skill Slot
+T	Thánh Vực	Sacred Realm
+T	Điểm truyền tống	Teleport Point
+T	Băng Ca	Ice Song
+T	Chỉ Huy Thánh Vực(Trùng sinh)	Sacred Realm Commander (Rebirth)
+T	Sự kiện vấn đáp	Quiz Event
+T	Thầy Pet	Pet Master
+T	Tới Rừng Viễn Cổ (Khu cấp 40)	Go to Ancient Forest (Lv 40 Zone)
+T	Tới bản đồ Mạo Hiểm (Nhiệm vụ cấp 10-35)	Go to Adventure Map (Lv 10-35 Quests)
+T	Tới Ác Mộng Halloween	Go to Halloween Nightmare
+T	Đồng Tuyệt Vọng ( level 30)	Despair Plains (Lv 30)
+T	Rừng Dạ Ngữ ( level 40)	Nightwhisper Forest (Lv 40)
+T	Rừng Tinh Linh ( level 15)	Elf Forest (Lv 15)
+T	Thành Thái Dương ( level 15)	Sun City (Lv 15)
+T	Tân Nguyệt Trấn ( Leve l15)	Crescent Town (Lv 15)
+T	Hạ 20 Đao Phủ Xương	Defeat 20 Skeleton Executioners
+T	Summary: Hạ 20 Đao Phủ	Summary: Defeat 20 Executioner
+T	Tân lễ bao có cơ hội cao nhận được tọa kỵ, pet, trang bị và các vật phẩm hiếm có khác.	Newbie Gift Pack has a high chance to grant mounts, pets, gear, and other rare items.
+T	Số may mắn: 666	Lucky Number: 666
+T	Không Thủ Đạo Đại Thúc	Karate Uncle
+T	Nam Hiệp Khách	Male Swordsman
+T	Lính Đặc Công Giận Dữ	Angry Commando
+T	Kiếm Giáp Đại Thúc	Armored Blade Uncle
+T	Đăng nhập thất bại: Tài khoản bị khóa, nguyên nhân là	Login failed: Account is locked, reason:
+T	Tới tìm	Go find
+T	Summary: Tới tìm	Summary: Go find
+T	Summary: Tìm và đánh bại	Summary: Find and defeat
+T	Tìm và đánh bại	Find and defeat
+T	Summary: Tới chỗ	Summary: Go to
+T	Khăn	Scarf
+T	Ta là Nữ Thợ Săn Vân Thường!	I am Huntress Yun Shang!
+T	Rớt mạng, về giao diện	Disconnected, returning to main
+T	Tới Thành Thái Dương,  đối thoại	Go to Sun City and talk
+T	Sau khi giải quyết xong các sự việc và vấn đề sẽ được nhận (Huy Hiệu Kị Sĩ)Thu thập những huy hiệu này có thể tới chỗ ta đổi Kim Diệp.	After resolving these issues you will receive Knight Badges. Collect them to exchange for Leaves with me.
+T	Ở 1 số client phiên bản cũ, phần thưởng nhiệm vụ hiện thị lỗi là Vàng. Nhiệm vụ này thực tế thưởng Kim Diệp.	In some older clients, the quest reward mistakenly displays as Gold. This quest actually rewards Leaves.
+T	Summary: Khi làm nhiệm vụ như Rừng Tinh Linh, Núi Nguyệt Nha, ở mỗi giai đoạn sẽ nhận được Huy Hiệu Kị Sĩ. Thu thập có thể đổi Kim Diệp. Hoặc đổi Huy Hiệu Anh Hùng. Huy Hiệu Anh Hùng có thể đổi nhiều Kim Diệp hơn.	Summary: Doing quests in Elf Forest, Crescent Mountain, etc. grants Knight Badges each stage. Collect them to trade for Leaves or Hero Badges, which trade for even more Leaves.
+T	/c00FF00Update Tân Lễ Bao\nTrong thời gian diễn ra SK, mở lượng lớn có tỷ lệ nhận: Phi Mã, Thượng Cổ Bạch Dương, Trứng Thiên Sứ, Trứng Cuồng Nữ Bộc, Đồ Ám Đấu Sĩ/p\n1. Mở Khiêu Chiến Cao Cấp 33\n[Thời gian HĐ]: Ngày 13-11 00:00—Ngày 24-11 23:59\n2. Mở PB Ngày Nhà Giáo\nTrong thời gian HĐ, đến Quảng Trường Tân Nguyệt để nhận, yêu cầu nhân vật Lv60 trở lên\n[Thời gian HĐ]: Ngày 13-11 00:00 - Ngày 19-11 23:59	/c00FF00Newbie Pack Update\nDuring the event, opening in bulk gives a chance for: Pegasus, Ancient Aries, Angel Egg, Berserk Maid Egg, Dark Fighter Set/p\n1. High Challenge 33 Open\n[Event Time]: Nov 13 00:00 - Nov 24 23:59\n2. Teachers' Day Dungeon Open\nDuring the event, go to Crescent Square to enter (requires Lv60+)\n[Event Time]: Nov 13 00:00 - Nov 19 23:59
+T	Hiện chỗ ta có thể học kĩ năng cấp 10. Các dữ liệu kĩ năng vẫn đang điều chỉnh giai đoạn, hãy cho ý kiến.	You can currently learn Lv10 skills here. Skill data is still being tuned in phases; feedback is welcome.
+T	Ta có thể dẫn mi tới bản đồ nhiệm vụ chính. Bản đồ trung lập là nơi mở các nhiệm vụ và chỗ người chơi tụ tập.	I can take you to the main quest map. Neutral maps are where quests start and players gather.
