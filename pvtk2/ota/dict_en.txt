@@ -8389,9 +8389,6 @@ T	【Trân thú bầu bạn】	【Pet Companion】
 T	Client của bạn phải cập nhật mới dùng được, cập nhật ngay?	Your client must be updated to continue. Update now?
 T	温馨提示	Notice
 T	点击继续	Tap to continue
-T	Phá Quân(new)	Po Jun (New)
-T	Tuyệt Thế Hảo Kiếm	Peerless Good Sword
-T	Tuyết Ẩm Đao	Snow Drinking Saber
 T	开始摆摊	Start Vending
 T	邮件系统	Mail System
 T	Hệ thống(ID:2)	System (ID:2)
