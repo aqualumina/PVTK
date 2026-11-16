@@ -334,10 +334,6 @@
 
     sget-wide v3, Lcom/hz/main/GameWorld;->nextBattleTime:J
 
-    const-wide/16 v5, 0x9c4
-
-    sub-long/2addr v3, v5
-
     cmp-long v0, v1, v3
 
     if-gez v0, :cond_2
@@ -347,7 +343,7 @@
     :cond_2
     invoke-virtual {p0}, Lcom/hz/battle/BattleAniEngine;->doExit()V
 
-    const-wide/16 v3, 0xbb8
+    const-wide/16 v3, 0x1388
 
     add-long/2addr v1, v3
 
@@ -396,7 +392,7 @@
     :cond_7
     sub-long v3, v1, v3
 
-    const-wide/16 v5, 0x9c4
+    const-wide/16 v5, 0x1770
 
     cmp-long v0, v3, v5
 
@@ -405,7 +401,7 @@
     return-void
 
     :cond_8
-    const-wide/16 v5, 0x1194
+    const-wide/16 v5, 0x1d4c
 
     cmp-long v0, v3, v5
 
@@ -612,7 +608,7 @@
 
     sub-long v2, v0, v2
 
-    const-wide/16 v4, 0x4b0
+    const-wide/16 v4, 0x5dc
 
     cmp-long v2, v2, v4
 
