@@ -3857,7 +3857,7 @@ T	Thời gian Quốc Chiến đã hết	Nation War time expired
 T	Thời gian bày hàng không bán được vật phẩm!	No items sold during vending time!
 T	Thời gian di động đã hết, game sẽ tự động giúp mi di chuyển!	Move time expired, auto-moving now!
 T	Thời gian hoạt động, lv đạt 15, 25, 35,45 có thể nhận thưởng	During event, reach Lv 15, 25, 35, 45 to claim rewards.
-T	Thời gian hoạt động, lv đạt 15, 25, 35,45 có thể nhận thưởng\n1203、1204、1205、1206	During event, reach Lv 15, 25, 35, 45 to claim rewards\n1203、1204、1205、1206
+T	Thời gian hoạt động, lv đạt 15, 25, 35,45 có thể nhận thưởng\n1203、1204、1205、1206	During event, reach Lv 15, 25, 35, 45 to claim rewards:\n1203, 1204, 1205, 1206
 T	Thời gian hoạt động, lv đạt 15, 25, 35,45 có thể nhận thưởng\n1203、1204、1205、1206\n	During event, reach Lv 15, 25, 35, 45 to claim rewards\n1203、1204、1205、1206\n
 T	Thời gian hoạt động, lv đạt 15, 25, 35,45 có thể nhận thưởng 	During event, reach Lv 15, 25, 35, 45 to claim rewards 
 T	Thời gian mở đấu trường hôm nay đã kết thúc; mọi người chơi có thể tham gia vào ngày mai.\nTích điểm đấu trường nhận được có thể tới tiệm đổi phần thưởng.\nĐấu trường lần này nhận được /cFFFF00%U điểm!/p	Today's Arena event has ended; all players may participate tomorrow.\nArena points can be exchanged in the shop for rewards.\nEarned /cFFFF00%U pts!/p this Arena
@@ -5660,7 +5660,6 @@ T	Thuốc Nhanh Nhẹn (3 Giờ)	Agility Potion (3 Hours)
 T	Thuốc Thể Lực (3 Giờ)	Stamina Potion (3 Hours)
 T	Thuốc Trí Lực (3 Giờ)	Intellect Potion (3 Hours)
 T	Thuốc Trị Liệu Siêu Cấp	Super Healing Potion
-T	Thời gian hoạt động, lv đạt 15, 25, 35,45 có thể nhận thưởng\n1203、1204、1205、1206	During event, reach Lv 15, 25, 35, 45 to claim rewards:\n1203, 1204, 1205, 1206
 T	Tinh hoa ma lực có được sau khi phân giải trang bị.	Magic essence obtained after disassembling equipment.
 T	Trong hộp chứa 50 cuộn giám định cao cấp khóa, sử dụng có thể giám định được trang bị cao cấp.	Contains 50 Locked Advanced Appraise Scrolls used to appraise high-tier equipment.
 T	Trong hộp có 50 Khóa Vạn Năng Chưa Cố Định	Contains 50 Unbound Skeleton Keys.
@@ -5713,7 +5712,6 @@ T	Tử Cấm Thành (Trung lập)	Forbidden City (Neutral)
 T	Núi Tử Vân (Nhiệm vụ cấp 40)	Purple Cloud Mtn (Lv 40 Quest)
 T	Sa Mạc Thất Hồn (Nhiệm vụ cấp 30)	Soul-Lost Desert (Lv 30 Quest)
 T	Maya (Thành Trung Lập)	Maya (Neutral City)
-
 T	Hoàn thành xong tới chỗ ta lĩnh thưởng	Once done, return to me to claim rewards
 T	Mau tới giúp đi!!! Hạ 20 Tà Thích Khách.	Hurry and help!!! Slay 20 Evil Assassins.
 T	Tiểu Ác Ma rất hung dữ, hãy cẩn thận!	Imps are very fierce, be careful!
@@ -8388,3 +8386,70 @@ T	☆ \nAuto-lock    Mount    /c42adf8Rare/p\n/c00ff00Constitution+30\n/p/c00ff0
 T	☆ \nAuto-lock Appraisable    Back    /cffa500Epic/p\n/cb0a67aUnidentified Stat \n/pArmor:   Slash 50  Pierce 50  MP 250\nRequirement: Lv 20\nDurability: 100/100\nVirus D đã thẩm thấu ý đồ huỷ hoại thế giới\n	☆ \nAuto-lock Appraisable    Back    /cffa500Epic/p\n/cb0a67aUnidentified Stat \n/pArmor:   Slash 50  Pierce 50  MP 250\nRequirement: Lv 20\nDurability: 100/100\nVirus D has penetrated with the intent to destroy the world\n
 T	【Thành của ta】	【My City】
 T	【Trân thú bầu bạn】	【Pet Companion】
+T	Client của bạn phải cập nhật mới dùng được, cập nhật ngay?	Your client must be updated to continue. Update now?
+T	温馨提示	Notice
+T	点击继续	Tap to continue
+T	Phá Quân(new)	Po Jun (New)
+T	Tuyệt Thế Hảo Kiếm	Peerless Good Sword
+T	Tuyết Ẩm Đao	Snow Drinking Saber
+T	开始摆摊	Start Vending
+T	邮件系统	Mail System
+T	Hệ thống(ID:2)	System (ID:2)
+T	Chúc mừng bạn hoàn thành "Đăng nhập ngày" nội dung độ Phát triển, nhận 20 độ Phát triển	Congratulations! Completed "Daily Login" Growth quest, received 20 Growth
+T	Chúc mừng bạn hoàn thành "Học KN nhân vật" nội dung độ Phát triển, nhận 10 độ Phát triển	Congratulations! Completed "Learn Character Skill" Growth quest, received 10 Growth
+T	Chúc mừng bạn hoàn thành "Nâng cấp KN nhân vật" nội dung độ Phát triển, nhận 10 độ Phát triển	Congratulations! Completed "Upgrade Character Skill" Growth quest, received 10 Growth
+T	Dùng để nhận nhiều phần thưởng	Use to claim multiple rewards
+T	Quyển Sửa Dã Ngoại	Field Repair Scroll
+T	Giúp hồi độ bền của vật phẩm đã trang bị trên người	Restores durability of currently equipped gear
+T	Thử chạm /c00ff00npc/p bên cạnh, /i03020 trên đầu hiển thị có nhiệm vụ cần bạn tới hoàn thành.\n/cffff00(Chạm tiếp tục)/p	Tap the nearby /c00ff00NPC/p; /i03020 above their head shows an available quest.\n/cffff00(Tap to continue)/p
+T	Chào mừng đến Phong Vân Truyền Kỳ\n/cffff00(Chạm tiếp tục)/p	Welcome to Phong Van Truyen Ky\n/cffff00(Tap to continue)/p
+T	Đây là /cFFFFFFLàng Diệu Kỳ/p, ta là Trưởng Thôn. Mấy hôm trước mi bị thương, mọi người đều rất lo lắng. /c00ff00Vân Thường/p hình như tìm mi có việc đấy\n\n/cffff00Reward:/pExp 150  Silver150  \n	This is /cFFFFFFMiracle Village/p, I am the Village Chief. Everyone was worried after you were injured. /c00ff00Yun Shang/p seems to be looking for you.\n\n/cffff00Reward:/pExp 150  Silver150  \n
+T	Tìm /c00ff00Đông Hải/p\nUse auto-pathfinding?	Find /c00ff00Dong Hai/p\nUse auto-pathfinding?
+T	Hãy tới dạy bảo /cFF0000Chó Con/p tinh nghịch, chứng minh thực lực\n\n/cffff00Objective: /pDemolish/cffff00Chó Con/p/cff00000/1/p\n/cffff00Reward:/pSilver400  \n	Teach the mischievous /cFF0000Puppy/p a lesson and prove your strength\n\n/cffff00Objective: /pDefeat /cffff00Puppy/p /cff00000/1/p\n/cffff00Reward:/pSilver400  \n
+T	Dạy bảo Chó Con tinh nghịch\n/cffff00Objective: /pDemolish/cffff00Chó Con/p/cff00000/1/p\nUse auto-pathfinding?	Teach the Mischievous Puppy\n/cffff00Objective: /pDefeat /cffff00Puppy/p /cff00000/1/p\nUse auto-pathfinding?
+T	Summary: Dạy bảo Chó Con tinh nghịch	Summary: Teach the Mischievous Puppy
+T	Completed quest </cffff00Vào Thế Giới  4/p>\nUse auto-pathfinding?	Completed quest </cffff00Enter the World 4/p>\nUse auto-pathfinding?
+T	Làm rất tốt.\n/cffff00Xong：/pDemolish/cffff00Chó Con/p/cff00001/1/p\n/cffff00Reward:/pSilver400  \n	Well done.\n/cffff00Done: /pDefeat /cffff00Puppy/p /cff00001/1/p\n/cffff00Reward:/pSilver400  \n
+T	Tới tìm /c00ff00Tiểu Duyệt/p đi\nUse auto-pathfinding?	Go find /c00ff00Xiao Yue/p\nUse auto-pathfinding?
+T	/cFF0000Trộm/p nhân lúc ta không chú ý cowps Khăn của mi rồi. Mau đuổi theo!\n\n/cffff00Objective: /pDemolish/cffff00Trộm/p/cff00000/1/p\n/cffff00Reward:/pSilver400  \n/i00211/ce5e5e5Khăn Thể Lực/p	A /cFF0000Thief/p stole your Scarf when I wasn't looking. Chase him!\n\n/cffff00Objective: /pDefeat /cffff00Thief/p /cff00000/1/p\n/cffff00Reward:/pSilver400  \n/i00211/ce5e5e5Stamina Scarf/p
+T	Tìm và đánh bại /cff0000Trộm/p\n/cffff00Objective: /pDemolish/cffff00Trộm/p/cff00000/1/p\nUse auto-pathfinding?	Find and defeat /cff0000Thief/p\n/cffff00Objective: /pDefeat /cffff00Thief/p /cff00000/1/p\nUse auto-pathfinding?
+T	Completed quest </cffff00Vào Thế Giới  6/p>\nUse auto-pathfinding?	Completed quest </cffff00Enter the World 6/p>\nUse auto-pathfinding?
+T	Lúc mi bị thương ta đã lấy /c00ff00Khăn/p trong tay mi. Giờ vật về chủ cũ, mi hãy/c00ff00quàng lên đi!/p\n/cffff00Xong：/pDemolish/cffff00Trộm/p/cff00001/1/p\n/cffff00Reward:/pSilver400  \n/i00211/ce5e5e5Khăn Thể Lực/p	I took your /c00ff00Scarf/p while you were hurt. Now it returns to its owner—/c00ff00put it on!/p\n/cffff00Done: /pDefeat /cffff00Thief/p /cff00001/1/p\n/cffff00Reward:/pSilver400  \n/i00211/ce5e5e5Stamina Scarf/p
+T	Chúc mừng trang bị thành công \n/cffff00(Chạm tiếp tục)/p	Equipped successfully! \n/cffff00(Tap to continue)/p
+T	/c00FF00(Nói tâm ý của Tiểu Duyệt cho Chàng Sầu)/pThay ta cám ơn Tiểu Duyệt tỷ. Trưởng Thôn nhờ ta kêu ngươi tới /cooFF00Giếng Nước/p múc nước. Nước giếng của Làng Diệu Kỳ có thể hồi phục sức mạnh\n\n/cffff00Reward:/pExp 220  \n	/c00FF00(Tell Melancholy Guy about Xiao Yue)/p Thank Sister Xiao Yue for me. The Village Chief asked you to draw water from the /c00FF00Water Well/p to recover your strength.\n\n/cffff00Reward:/pExp 220  \n
+T	Tìm Giếng Nước\nUse auto-pathfinding?	Find the Water Well\nUse auto-pathfinding?
+T	Summary: Tìm Giếng Nước	Summary: Find the Water Well
+T	Sau khi thăng cấp có thể /c00ff00tự do cộng điểm/p tăng lực chiến đấu, thử đi!/cFFFFFFHiệp Khách/p hãy thêm /c00ff00 Sức Mạnh/p, /cFFFFFFTu Chân/p hãy thêm /c00ff00 trí lực/p.\n/cffff00Reward:/pExp 220  \n	After leveling up, you can /c00ff00allocate stat points/p! /cFFFFFFWarrior/p should add /c00ff00STR/p, /cFFFFFFMage/p should add /c00ff00INT/p.\n/cffff00Reward:/pExp 220  \n
+T	Tìm Trưởng Thôn\nUse auto-pathfinding?	Find the Village Chief\nUse auto-pathfinding?
+T	Summary: Tìm Trưởng Thôn	Summary: Find the Village Chief
+T	Nếu mi muốn rời nơi này hãy tới tìm /c00ff00Hiên Tỷ/p, nàng ta ở phía tây nam.\n\n/cffff00Reward:/pExp 210  \n	If you wish to leave, go find /c00ff00Sister Xuan/p in the southwest.\n\n/cffff00Reward:/pExp 210  \n
+T	Tìm /c00ff00Hiên Tỷ/p\nUse auto-pathfinding?	Find /c00ff00Sister Xuan/p\nUse auto-pathfinding?
+T	thái độ bất khả chiến bại	Invincible Stance
+T	Thiên Sinh Dũng Mãnh	Born Valiant
+T	Dê trắng mạnh mẻ, trên đầu có sừng dùng làm vũ khí	A strong white goat with horns used as weapons
+T	Thưởng Vinh Dự	Honor Reward
+T	170Lá	170 Leaves
+T	340Lá	340 Leaves
+T	Trưởng Thôn giao phó cho ta đưa mi vào Thế Giới!\n/cffff00Reward:/pExp 210  \n	The Village Chief entrusted me to guide you into the World!\n/cffff00Reward:/pExp 210  \n
+T	Tới /c00ff00Cửa Dịch Chuyển/p\nUse auto-pathfinding?	Go to /c00ff00Teleport Gate/p\nUse auto-pathfinding?
+T	Nhận nhiệm vụ sẽ vào chiến đấu	Accepting this quest starts battle immediately
+T	Giúp Nghiêm Nhân Anh	Help Yan Renying
+T	Giúp Lí Văn Diễn	Help Li Wenyan
+T	Giúp kiếm khách Hàn Tùng	Help Swordsman Han Song
+T	Đám người đó đã chặn phía đông cầu đá rồi, chúng ta hãy mở đường, để các hiệp sĩ lên.\n\n/cffff00Objective: /pDemolish/cffff00Ma Xạ Thủ/p/cff00000/10/p\nDemolish/cffff00Ma Tu Chân Giả/p/cff00000/10/p\n/cffff00Reward:/pExp 1000  Silver1000  \n/cffff00Selectable Items:/p\n/i00022/c4bf842Hộ Vai Bình Tuyết/p	They blocked the east stone bridge. Let's clear the path!\n\n/cffff00Objective: /pDefeat /cffff00Demon Archer/p /cff00000/10/p\nDefeat /cffff00Demon Cultivator/p /cff00000/10/p\n/cffff00Reward:/pExp 1000  Silver1000  \n/cffff00Selectable Items:/p\n/i00022/c4bf842Pingxue Pauldrons/p
+T	Abandon quest </cff0000Cầu bị phong tỏa/p>?	Abandon quest </cff0000Bridge Blockade/p>?
+T	Hạ Ma Đồ Phu	Defeat Demon Butcher
+T	Tiêu diệt quanh Kiếm Trận	Clear Around Sword Array
+T	Khởi động Thiên Lôi Trận	Activate Sky Thunder Array
+T	Bạch Đao Khách	White Saberman
+T	Hồng Đao Khách	Red Saberman
+T	Chí Thiên Tiếu	Zhi Tianxiao
+T	Xạ Binh Ma Giáo	Demon Sect Archer
+T	Đa tạ, chúng ta hãy tới /cffffffQuảng Trường Thần Kiếm/p xem thế nào?\n/cffff00Reward:/pExp 1000  Silver500  \n/i00143/c42adf8Trượng Thống Ngự/p    /i00162/c4bf842Nỏ Ngân Sắc/p\n	Thanks! Let's head to /cffffffDivine Sword Square/p to check things out.\n/cffff00Reward:/pExp 1000  Silver500  \n/i00143/c42adf8Dominion Staff/p    /i00162/c4bf842Silver Crossbow/p\n
+T	Đa tạ /c00ff00Sujancuq/p.\n/cffff00Xong：/pDemolish/cffff00Giáo Yêu Bao Vây/p/cff00008/8/p\n/cffff00Reward:/pExp 1000  Silver1000  \n	Many thanks, /c00ff00Sujancuq/p.\n/cffff00Done: /pDefeat /cffff00Surrounding Cultists/p /cff00008/8/p\n/cffff00Reward:/pExp 1000  Silver1000  \n
+T	Đã cấp 6 rồi? Bảo vệ thế giới là việc rất khó khăn. Ta tin mi và bạn đồng hành sẽ thành công.	Already Lv.6? Protecting the world is tough, but I believe in you and your companions.
+T	Mi có thể tới SHOP mua dược phẩm. Lần này ta sẽ tặng mi 1 ít. Khi lên cấp 10, ta sẽ lại tặng quà cho mi	You can buy potions at the SHOP. Here's a small gift; reach Lv.10 for another reward!
+T	Sau khi thăng cấp sẽ nhận được 3 điểm thuộc tính. Có thể tăng ở menu Nhân vật.	You gain 3 stat points per level up. Allocate them in the Character menu.
+T	Mi còn /cffff00220 điểmsp/p chưa dùng, dùng điểm sp hợp lí học kĩ năng sẽ tăng lực chiến đấu!	You have /cffff00220 unused SP/p; spend SP wisely on skills to boost Combat Power!
+T	/c00FF00Update Tân Lễ Bao\nTrong thời gian diễn ra SK, mở lượng lớn có tỷ lệ nhận: Phi Mã, Thượng Cổ Chiến Tượng/p	/c00FF00New Gift Pack Update\nDuring the event, opening in bulk grants a chance for Pegasus or Ancient War Elephant/p
+T	/c00FF00【Nhắc nhở】Không tự giao dịch mua bán  KNB và vật phẩm，cũng không được tự ý mua bán tài khoản để tránh bị lừa đảo mất tài khoản hay vật phẩm đáng tiếc./p	/c00FF00[Notice] Do not trade Gold/items privately or buy/sell accounts to avoid scams and account loss./p
