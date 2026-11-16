@@ -26,3 +26,4 @@ common/dixiao.png
 common/miss.png
 common/offset.png
 common/ti_enter.png
+common/wm.png
