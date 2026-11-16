@@ -8939,3 +8939,4 @@ T	Summary: Tới phía tây nam, tìm nguyên nhân xuất hiện Cuồng Phong.
 T	Summary: Hạ Bạch Nhật Tử.(Sau khi nhận nhiệm vụ lập tức vào chiến đấu)	Summary: Defeat Bai Rizi. (Combat begins immediately upon accepting)
 T	Các ngươi đúng là không phân thị phi! Với góc độ Thục Sơn bọn mi, ta đụng vào Tháp Trấn Yêu là tội chết! Nào hãy chứng minh các ngươi mới là kẻ mạnh, có năng lực bảo vệ đại địa này!	You truly cannot tell right from wrong! From Shushan perspective, merely touching the Demon Subduing Pagoda is a capital crime! Come then, prove that you are the strong ones capable of protecting this land!
 T	Đó chính là Quỷ Thôn ở phía bắc Lạc Dương	That is Ghost Village to the north of Luoyang
+T	Trang bị đã/cff0000tổn hao/p, điều này khiến lực chiến đấu giảm, cần /cffff00sửa/p không?	Your gear is /cff0000damaged/p, reducing your combat power. /cffff00Repair/p now?
