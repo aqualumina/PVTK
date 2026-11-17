@@ -9103,3 +9103,219 @@ T	Đã nhận đồ giám quái vật Vạn Thú Tôn Chủ	Obtained Monster Cod
 T	Đã nhận đồ giám quái vật Vạn Thú	Obtained Monster Codex: Myriad Beast
 T	Ta nghĩ Nguyệt Lang Tôn Chủ không từ chối /c00FF00{1}/p trở thành đồng minh của chúng ta chứ?	I trust Moon Wolf Lord will not refuse /c00FF00{1}/p as our ally?
 T	Mi là /c00FF00{1}/p? (/cFF0000Nguyệt Lang Tôn Chủ nhìn mi./p) Ở đây, mọi việc do ta chỉ huy, không được tự ý hành sự. (/cFF0000Nguyệt Lang Tôn Chủ nhìn Huyền Kiếm Khách./p)	You are /c00FF00{1}/p? (/cFF0000Moon Wolf Lord looks at you./p) Here, I command everything—do not act on your own. (/cFF0000Moon Wolf Lord looks at the Mystic Swordsman./p)
+T	! Chúng ta không thể lãng phí thời gian, nếu Hán Vương Cổ Thi cũng hồi sinh thì quá muộn.	! We cannot waste time; if the Han King Ancient Corpse revives as well, it will be too late.
+T	(/c00FF00Tướng Thủ Mộ và đám Xương xunh quanh vụn thành tro./p)	(/c00FF00The Grave Guard General and the surrounding Skeletons crumble into ash./p)
+T	(/c00FF00Đào Mộ thở dài, giờ không phải lúc nghỉ ngơi./p)Chúng lại tới! Mau đẩy lui!	(/c00FF00Grave Digger sighs; now is not the time to rest./p) They're coming again! Drive them back!
+T	(Mi dùng /f13 nhìn Tử Sa.) Nhìn gì, không phải ta cố ý hủy đi con đường này. Đi, nhất định sẽ có mật đạo khác	(You look at Zi Sha with /f13.) What are you looking at? I didn't destroy this path on purpose. Come on, there must be another secret passage.
+T	) 1 con Đại Dực Thú đột nhiên tập kích	) A Great Winged Beast suddenly ambushes!
+T	) Chỉ còn lại Ma Giáo giáo chủ đang chống đỡ.	) Only the Demonic Cult Leader remains standing.
+T	, chúng ta hãy tới giữa Quảng Trường Thần Kiếm, tìm trung tâm khởi động Thiên Lôi Trận, sau đó khởi động.	, let's head to the center of Divine Sword Square, find the core of the Heavenly Thunder Array, and activate it.
+T	, chúng ta hãy tới phía tây nam xem sao!	, let's head southwest and take a look!
+T	, cây cầu ở phía đông  bị Ma Giáo chặn, hãy đi mở đường	, the bridge to the east is blocked by the Demonic Cult—go clear the way!
+T	, hãy tiêu diệt chúng, chúng ta gặp nhau trong nội điện.	, eliminate them; we'll meet inside the inner hall.
+T	, hãy tới đó xem sao!	, go check it out!
+T	, hãy đi hạ y.	, go defeat him.
+T	, mi có thấy cảnh này rất quen không...	, does this scene look familiar to you...
+T	, nhiều lần tập kích quân ta vậy sao? Xem chiêu!	, daring to ambush our troops repeatedly? Taste my blade!
+T	, nhiều đồng đội của ta chết ở đây, ta phải tiếp tục ở đây chiến đấu với yêu quái…	, many of my comrades died here; I must stay here and keep fighting the monsters…
+T	, nếu trúng thi độc, hãy giúp ta kết liễu.	, if I'm struck by corpse poison, help end my misery.
+T	, tìm nguyên nhân xuất hiện Cuồng Phong.	, find the cause of the Gale.
+T	, tầng trong trong mộ địa có nhiều bẫy chí mạng và nhiều kẻ địch ta chưa biết. Chúng ta không thể lỗ mãng xông vào	, the inner tomb holds many lethal traps and unknown enemies. We cannot charge in recklessly.
+T	, và hạ y.	, and defeat him.
+T	, đợi giải quyết xong Ma Giáo sẽ uống một trận với mi.	, once we deal with the Demonic Cult, I'll share a drink with you.
+T	, đừng nói ta không nhắc mi, nơi này có dấu hiệu Cổ Thi hung biến, cẩn thận	, don't say I didn't warn you—there are signs the Ancient Corpses are turning violent, be careful!
+T	. Chân Núi Nguyệt Nha, thường có Dã Lang và Ma Ưng ẩn nấp.	. Crescent Mountain Foot, where Wild Wolves and Demon Hawks often lurk.
+T	/c00FF00Cấp quái của bản đồ này là LV16/p. Chân Núi Nguyệt Nha, thường có Dã Lang và Ma Ưng ẩn nấp.	/c00FF00Monster level of this map is Lv 16/p. Crescent Mountain Foot, where Wild Wolves and Demon Hawks often lurk.
+T	/c00FF00Cấp quái của bản đồ này là LV50/p. Núi Nguyệt Nha gần đây yêu khí ngút trời. Liên minh Đông phương kêu gọi hiệp sĩ tới thảo phạt. Đây là nhiệm vụ phó bản tinh anh cấp 50.	/c00FF00Monster level of this map is Lv 50/p. Crescent Mountain has recently been shrouded in demonic miasma. The Eastern Alliance calls upon heroes to purge it. This is a Lv 50 Elite Dungeon quest.
+T	/c00FF00Thứ gì kì quái vậy? Nhất định là khóa mở!/p	/c00FF00What is this strange thing? It must be the mechanism to unlock it!/p
+T	/c00FF00Đào Mộ liếc nhìn mi rồi chạy thục mạng.../p	/c00FF00Grave Digger glances at you and flees for his life.../p
+T	/c00ff00Tướng Xương mở miệng, âm thanh vọng trong mộ địa./p	/c00ff00The Skeleton General opens its mouth, its voice echoing through the tomb./p
+T	/i00225/cc63be9{}Bình Sữa-Miên Dương/p/i00265/cc63be9{}Trung Rãnh Skill Nhân Vật/p/i00333/c42adf8{}Linh Thạch Thượng Cổ/p/i00285/cc63be9{}Rương Thú Cưỡi Truyền Thuyết/p/i00333/c42adf8{}Khoáng Lv 60/p/i00284/cffa500{}Rương Toại Vẫn Lam Động/p	/i00225/cc63be9{}Sheep Milk Bottle/p/i00265/cc63be9{}Medium Character Skill Slot/p/i00333/c42adf8{}Ancient Spirit Stone/p/i00285/cc63be9{}Legendary Mount Chest/p/i00333/c42adf8{}Lv 60 Ore/p/i00284/cffa500{}Meteorite Blue Cave Chest/p
+T	/i00225/cc63be9{}Thiên Mã/p	/i00225/cc63be9{}Pegasus/p
+T	/i00405/cc63be9{}Diễm Thiên Sứ/p	/i00405/cc63be9{}Flame Angel/p
+T	3 kẻ này thích đánh lén, thích hợp tồn tại trong Ma Giáo!	Those three love ambushing from behind—fit right in with the Demonic Cult!
+T	? Mở Tháp Trấn Yêu không giống như bọn mi tưởng tượng, có lẽ là ý trời.	? Opening the Demon-Sealing Tower isn't what you all imagined; perhaps it is the will of Heaven.
+T	An táng Xác trong Núi Nguyệt Nha rồi tìm Kẻ Tha Hương	Bury the corpses in Crescent Mountain, then find the Wanderer
+T	Anh hùng cứu mĩ nhân	Hero Saves the Beauty
+T	Báo Đốm ma hóa	Corrupted Spotted Leopard
+T	Bất cứ kẻ nào vào Núi Nguyệt Nha đều phải chết.!!!	Anyone who enters Crescent Mountain must die!!!
+T	Chúng ta mau tới Tháp Trấn Yêu!	Let's hurry to the Demon-Sealing Tower!
+T	Chưởng Môn và Trưởng Lão đã tới Tới Tháp Trấn Yêu chống Ma Giáo giáo chủ, Ma Giáo lần này tập kích có ý đồ gì, yêu vật trong Tháp Trấn Yêu không phải dễ đối phó,	The Sect Leader and Elders have gone to the Demon-Sealing Tower to confront the Demonic Cult Leader. What is the Cult plotting this time? The fiends inside the Demon-Sealing Tower are no pushovers.
+T	Cuối cùng cũng đi rồi! Xem như chúng may mắn.	Finally gone! Consider them lucky.
+T	Cám ơn mi	Thank you
+T	Có bản lĩnh hãy hạ giáo chủ của chúng ta	If you've got the skill, defeat our Leader!
+T	Cũng giữ được cái mạng...	Barely kept my life...
+T	Cầu bị phong tỏa	Bridge Sealed
+T	Cẩn thận! (/c00FF00Vô số mũi tên bắn về phía bọn mi, tất cả đều được Tử Sa dùng kiếm chặn lại, xem ra thân thủ không tệ./p)	Watch out! (/c00FF00Countless arrows rain toward you, all parried by Zi Sha's blade—quite impressive swordsmanship./p)
+T	Cổ Thi đang bao vây Đào Mộ...(/c00FF00Giúp họ hạ Cổ Thi!/p)	Ancient Corpses are surrounding the Grave Diggers... (/c00FF00Help them defeat the Ancient Corpses!/p)
+T	Diệt 15 /cff0000Xác Tử Linh/p	Defeat 15 /cff0000Undead Corpses/p
+T	Diệt 15 Xạ Thủ Xương	Defeat 15 Skeleton Archers
+T	Diệt 30 Cổ Thi	Defeat 30 Ancient Corpses
+T	Diệt 40 Xương Mất Đầu	Defeat 40 Headless Skeletons
+T	Diệt Ma Ưng tốn không ít thời gian, mau đi thôi.	Slaying those Demon Hawks took quite a while—let's hurry on.
+T	Diệt Đao Khách	Slay Bladesmen
+T	Diệt Đại Dực Thú	Defeat Great Winged Beast
+T	Diệt đám/cFF0000Đao Phủ Xương/p! Chúng ta không thể lãng phí thời gian, nếu Hán Vương Cổ Thi cũng hồi sinh thì quá muộn.	Defeat the /cFF0000Skeleton Executioners/p! We cannot waste time; if the Han King Ancient Corpse revives as well, it will be too late.
+T	Dược Thảo	Herb
+T	Dực thú	Winged Beast
+T	Giúp Lệ Sa hạ người ma giáo đang bao vây y.	Help Li Sa defeat the Demonic Cultists surrounding her.
+T	Giúp Nghiêm Phong	Help Yan Feng
+T	Giúp Thục Sơn đệ tử Nghiêm Phong hạ người Ma Giáo đang bao vây y	Help Mount Shu disciple Yan Feng defeat the Demonic Cultists surrounding him
+T	Giúp ta ngăn chặn đám /c00FF00Xương Mất Đầu/p!	Help me hold off the /c00FF00Headless Skeletons/p!
+T	Giúp tộc Trộm Mộ diệt Tướng Xương	Help the Tomb Raiders defeat the Skeleton General
+T	Giúp Đào Mộ đánh bại Xương Mất Đầu	Help the Grave Diggers defeat the Headless Skeletons
+T	Giải cứu Đào Mộ bị tấn công	Rescue the attacked Grave Diggers
+T	Găng Bác Học	Scholar Gloves
+T	Hiện mi có thể học kĩ năng cấp 10.	You can now learn Lv 10 skills.
+T	Huyền Chân sư bá ở bên kia	Senior Uncle Huyen Chan is over there
+T	Hãy giúp chúng, sau đó đuổi chúng ra khỏi đây.	Help them, then drive them out of here.
+T	Hạ 20 Khô Lâu Tinh	Defeat 20 Skeleton Spirits
+T	Hạ 20 Ma Ưng	Defeat 20 Demon Hawks
+T	Hạ Bạch Nhật Tử mới có thể làm ma pháp Phong Bạo mất tác dụng, Cẩn thận, chúng đông đấy!	Only by defeating Bai Rizi can the Storm magic be dispelled. Careful, there are many of them!
+T	Hạ Kiếm Khách	Defeat Swordsman
+T	Hạ Ma Giáo Giáo Chủ	Defeat Demonic Cult Leader
+T	Hạ Ma Tam Hùng phía đông Tử Thần Kiếm.	Defeat the Three Demonic Heroes east of Death God Sword.
+T	Hạ Ma Đao Khách	Defeat Demonic Blade Warrior
+T	Hạ Nguyệt Lang Tôn Chủ	Defeat Moon Wolf Lord
+T	Hạ Ngô Dụng	Defeat Wu Yong
+T	Hạ Ngô Tinh	Defeat Wu Xing
+T	Hạ Xương	Defeat Skeletons
+T	Hạ mọi Ma Đao Khách trước Tiền Điện	Defeat all Demonic Blade Warriors in front of the Front Hall
+T	Hạ đám Ma Đao Khách phía đông.	Defeat the Demonic Blade Warriors to the east.
+T	Họ đều là bạn của ta, ta không nhẫn tâm để họ lại đây, hãy giúp ta an táng xác của họ!	They are all my friends; I cannot bear to leave them here—please help me bury their bodies!
+T	Học KN nhân vật	Learn Character Skill
+T	Hỏa Diệm	Flame
+T	Hỏa Long	Fire Dragon
+T	Khi mi khởi động Thiên Lôi Trận, trên trời rớt xuống 3 quả cầu lửa khổng lồ. Kẻ địch tập kích! Lẽ nào Ma Giáo chỉ biết tập kích sao?	As you activate the Heavenly Thunder Array, three giant fireballs plummet from the sky. An enemy ambush! Does the Demonic Cult only know sneak attacks?
+T	Khiêu Chiến Anh Hùng	Hero Challenge
+T	Không ngờ chúng xuất hiện nhanh thế. Cẩn thận, /cFF0000Người Sói/p không dễ đối phó đâu	Didn't expect them to show up so fast. Careful—the /cFF0000Werewolves/p are no easy foes!
+T	Không ngờ… mi….	Impossible… you…
+T	Không tồi!	Not bad!
+T	Không xong rồi, là /cff0000Sứ Đồ/p!	Oh no, it's the /cff0000Apostles/p!
+T	Khởi động Thiên Lôi Trận thành công, trên trời rớt xuống 3 quả cầu lửa khổng lồ! Lại là kẻ nào tập kích!	Heavenly Thunder Array activated! Three giant fireballs crash down from the sky! Who's ambushing us now?!
+T	Khởi động Thiên Lôi Trận thất bại rồi, ha ha!	Failed to activate the Heavenly Thunder Array, haha!
+T	Kiếm Sĩ Xương	Skeleton Swordsman
+T	Kẻ nào quấy nhiễu giấc ngủ của bổn tướng quân!	Who dares disturb this general's slumber!
+T	Kị Sĩ Mất Đầu	Headless Knight
+T	Lính Khô Lâu không chịu nổi 1 đòn, sau này ai dám ức hiếp Tộc Nguyệt Lang!	Those Skeleton Soldiers couldn't withstand a single blow—who'd dare bully the Moon Wolf Tribe from now on!
+T	Lẽ nào là thủ hạ /c00FF00Yêu Vương/p? /c00FF00Yêu Vương/p, nhiều lần tập kích quân ta vậy sao? Xem chiêu!	Could they be /c00FF00Demon King/p's underlings? /c00FF00Demon King/p, daring to ambush our troops repeatedly? Taste my blade!
+T	Ma Giáo giáo chủ Nhậm Độc Hành	Demonic Cult Leader Ren Duhang
+T	Ma Kiếm Khách	Demonic Swordsman
+T	Ma Thích Khách	Demonic Assassin
+T	Ma Tu Chân Giả	Demonic Taoist
+T	Ma Xạ Thủ	Demonic Archer
+T	Ma Ác Tăng	Demonic Evil Monk
+T	Ma Đao Thủ	Demonic Bladesman
+T	Ma Đồ Phu	Demonic Butcher
+T	Ma Ưng đang ăn xác nữ binh (/cFF0000Hãy an táng./p) 1 con Đại Dực Thú đột nhiên tập kích	A Demon Hawk is feeding on a female soldier's corpse (/cFF0000Bury her./p). Suddenly, a Great Winged Beast ambushes!
+T	Map:  Đỉnh Núi Nguyệt Nha	Map:  Crescent Mountain Peak
+T	Mi an táng xác cho nàng ta.	You bury her body.
+T	Mi giúp ta lần nữa được không? Mi cũng biết đó, ta già rồi… (Được rồi, mi đừng nói nhiều nữa, ta giúp…)	Could you help me one more time? You know I'm getting old… (Alright, say no more, I'll help…)
+T	Mi khởi động Thiên Lôi Trận.	You activate the Heavenly Thunder Array.
+T	Mi là ai? Sao ta chưa gặp mi bao giờ? (/c00FF00Mi định giải thích.../p)	Who are you? How come I've never seen you before? (/c00FF00You try to explain.../p)
+T	Muốn khởi động trung tâm thiên lôi, còn lâu!	Activate the Heavenly Thunder core? Not on my watch!
+T	Muốn đột phá vòng vây không dễ. (/cFF0000Một bộ xương khổng lồ đang nhìn mọi người./p)	Breaking through this encirclement won't be easy. (/cFF0000A giant skeleton glares at everyone./p)
+T	Mũ Hắc Hôi	Dark Gray Helm
+T	Mắt Khô Lâu Vương chuyển sang xám xịt, xương hủ hóa cũng  như cát bụi…	The Skeleton King's eyes turn dull gray as its decaying bones crumble to dust…
+T	Mộ Phong Ấn Tầng 2	Sealed Tomb 2F
+T	Mộ địa	Tomb
+T	Mục tiêu của Ma Giáo là xâm nhập Tháp Trấn Yêu! Chưởng môn Thục Sơn và các Trưởng Lão đã tới ngăn chặn! Chúng ta hãy tiêu diệt đám Ma Đao Khách ở quảng trường!	The Demonic Cult aims to infiltrate the Demon-Sealing Tower! The Mount Shu Sect Leader and Elders have gone to stop them! Let's defeat the Demonic Blade Warriors in the square!
+T	Nanh vuốt Người Sói sắc bén, chồm về phía mi…	With razor-sharp fangs and claws, the Werewolf lunges at you…
+T	Nghiêm Phong sư đệ! Ta tới giúp đệ đây!	Junior Brother Yan Feng! I'm coming to help you!
+T	Nguyệt Nha sơ cấp	Novice Crescent Mountain
+T	Nhìn về phía ánh mắt Tử Sa. Một đống đầu lâu bay trên không.	Follow Zi Sha's gaze. A swarm of severed heads floats in the air.
+T	Nhưng Tử Sa đẩy khẽ liền biến thành cát bụi	Yet with a light push from Zi Sha, it crumbles into dust.
+T	Nhậm Độc Hành (Các mi cho rằng lục đạo thiên lôi đánh trúng ta, ta còn đứng được ở đây sao, buồn cười!)	Ren Duhang: (Do you really think I'd still be standing here if the Six Heavenly Thunders had hit me? Ridiculous!)
+T	Này, nhìn đám Xương đột nhiên xuất hiện, Mi hãy tới xem đi, họa do mi gây ra.	Hey, look at those Skeletons that suddenly appeared! Go deal with them—you brought this trouble upon us.
+T	Nâng cấp KN nhân vật	Upgrade Character Skill
+T	Nói chuyện với Huyền Chân	Talk to Huyen Chan
+T	Nói chuyện với Mộng Long.	Talk to Meng Long.
+T	Nói chuyện với Nguyệt Lang Tôn Chủ!	Talk to Moon Wolf Lord!
+T	Nói chuyện với Tu Chân	Talk to Taoist
+T	Phi Hành.	Flight.
+T	Phía trước là địa bàn của /cFF0000Ma Ưng/p. Hãy giúp ta hạ 1 ít Ma Ưng!	Ahead is /cFF0000Demon Hawk/p territory. Help me take down some Demon Hawks!
+T	Phía tây nam	Southwest
+T	Quả là cơn gió kì quái	What an eerie wind
+T	Rốt cuộc mi là ai? (/c00FF00Huyền Kiếm Khách/p mới từ từ giải thích.)	Who are you, really? (/c00FF00Mysterious Swordsman/p slowly begins to explain.)
+T	Summary: Giúp Thục Sơn đệ tử Nghiêm Phong	Summary: Help Mount Shu disciple Yan Feng
+T	Sắp gọi Thần Long thành công rồi, Ma Giáo sẽ thất bại! Hãy nhanh chóng diệt những kẻ cần diệt	The Divine Dragon will soon be summoned—the Demonic Cult is doomed! Quickly eliminate the remaining foes!
+T	Số lượng /cFF0000Khô Lâu Tinh/p không nhiều, hãy tiêu diệt chúng!	There aren't many /cFF0000Skeleton Spirits/p left—finish them off!
+T	Sứ Ma	Apostle Familiar
+T	Sứ Đồ Tiểu Tướng	Apostle Lieutenant
+T	Ta có tầm bảo đồ...	I have a treasure map...
+T	Ta cảm thấy hành vi của /cFF0000Ma Ưng/p rất kì lạ, hãy cẩn thận. Đi tiếp đi!	The behavior of these /cFF0000Demon Hawks/p feels very strange—stay sharp and keep moving!
+T	Ta cần 1 ít vật liệu đặc biệt? Vũ mao trên người Ma Ưng. Hãy giúp ta hạ /cFF0000Ma Ưng/p thu thập 1 ít /cFFFF00vũ mao/p!	I need some special materials—Demon Hawk feathers. Help me defeat /cFF0000Demon Hawks/p and gather some /cFFFF00feathers/p!
+T	Ta ghét đám Trộm Mộ, đi tới đâu cũng đụng vào bẫy.	I hate those Grave Robbers—wherever they go, they trigger traps.
+T	Ta thất bại rồi!	I have failed!
+T	Ta đã mượn sức mạnh của quân liên minh, sẽ có thể đánh bại Yêu Vương! Đi, họ đang đợi ở Núi Nguyệt Nha.	I've enlisted the Alliance's strength—we can defeat the Demon King now! Come, they are waiting at Crescent Mountain.
+T	Theo Mộng Long và Tử Yên tới Quảng Trường Thần Kiếm.	Follow Meng Long and Zi Yan to Divine Sword Square.
+T	Theo Mộng Long, đi về phía nam	Follow Meng Long southward
+T	Thiên Lôi Trận đã khởi động thành công! Lệnh chưởng môn đã hoàn thành	Heavenly Thunder Array activated! The Sect Leader's order is fulfilled.
+T	Thu thập 10 Lông Ma Ưng	Collect 10 Demon Hawk Feathers
+T	Thành của ta	My City
+T	Thích khách	Assassin
+T	Thông qua Trạm Phi Hành tới Tân Nguyệt Trấn, hoàn thành nhiệm vụ	Travel to Crescent Town via the Flight Station and complete the quest
+T	Thông qua trận dịch chuyển	Through the Teleport Array
+T	Thăm dò	Explore
+T	Thưởng Mộ Hán Vương I	Han King's Tomb Reward I
+T	Thế Giới Vui Vẻ	Happy World
+T	Tiêu diệt hiệu quả ma pháp Cuồng Phong	Dispel the Gale magic effect
+T	Tiếp tục tới nói chuyện với /cff0000Mục Sư/p	Continue and talk to the /cff0000Priest/p
+T	Trân thú bầu bạn	Pet Companion
+T	Trên xác có vết bầm tím, không biết đã chết bao lâu rồi, mi cảm thấy cái xác đang cử động	The corpse is covered in dark bruises—hard to tell how long it's been dead, yet you sense it stirring.
+T	Trận chiến vừa nãy hủy đường vào Cổ Mộ Tầng 2, chúng ta phải tìm đường khác thôi.	The battle just now destroyed the entrance to Ancient Tomb 2F; we must find another way.
+T	Trẻ tuổi có thể dạy bảo.	Young and promising.
+T	Trở thành VIP	Become VIP
+T	Trứng Tân Thủ Mèo Săn	Novice Hunting Cat Egg
+T	Tuổi trẻ tài cao.	Young and talented.
+T	Tên tẩm độc, chạm vào sẽ mất mạng, hãy đẩy lui đám /cFF0000Xạ Thủ Xương/p.	Poison-tipped arrows—one touch is fatal! Drive back the /cFF0000Skeleton Archers/p.
+T	Tìm Nguyệt Lang Tôn Chủ	Find Moon Wolf Lord
+T	Tìm Tu Chân Mộng Long gần thần kiếm nói chuyện	Find and talk to Taoist Meng Long near the Divine Sword
+T	Tìm bẫy ở Cổ Mộ Tầng 1	Find traps in Ancient Tomb 1F
+T	Tìm xung quanh, có lẽ sẽ thấy đường tới tầng 2. /cFF0000Cẩn thận đừng đụng vào bẫy!/p	Search around—you might find the path to Floor 2. /cFF0000Careful not to trigger any traps!/p
+T	Tại Cổ Mộ Tầng 1 cùng Tử Sa tìm cửa vào	Search for the entrance with Zi Sha in Ancient Tomb 1F
+T	Tại Cổ Mộ Tầng 1 đi theo Tử Sa	Follow Zi Sha in Ancient Tomb 1F
+T	Tại hạ bái phục.	I am truly impressed.
+T	Từ khi ta vào mộ huyệt liền thường thấy kì quái	Ever since entering the tomb, I've kept seeing strange things.
+T	Tử Linh thối rữa	Rotting Undead
+T	VIP Thế Giới	World VIP
+T	Viên Đinh Kì Dị	Bizarre Gardener
+T	Vé Tiến Cấp Cường Hóa	Advanced Enhancement Ticket
+T	Xong NV ngày	Complete Daily Quest
+T	Xoá(Game)	Delete(Game)
+T	Xác trên mặt đất bò dậy, tập trung ở chỗ có người sống.	Corpses on the ground crawl up, gathering toward the living.
+T	khitrânthúthăngcấpcócơhộithăngtớicấpnày	When your pet levels up, it has a chance to reach this level.
+T	lợi hại đấy!	Impressive!
+T	phía đông bắc	Northeast
+T	phần thưởng	Reward
+T	trang bị	Equipment
+T	tại sao không nhận ra đệ tử Thục Sơn, xem ra phải đánh rồi	Why don't they recognize Mount Shu disciples? Looks like we have to fight!
+T	xem xét tình hình	assess the situation
+T	Đa tạ ơn cứu mạng.	Thank you for saving my life.
+T	Đoàn Huyết Yên	Blood Smoke Legion
+T	Đào Mộ bị vây	Grave Diggers Besieged
+T	Đào Mộ nhiều kẻ yêu tiền tài hơn mạng sống,nhưng đại đa số chỉ lấy thứ cần thiết... Hãy bảo vệ ta tới cùng, bảo vật bên trong đều là của mi!	Many Grave Diggers value gold over their lives, though most only take what they need... Protect me to the end, and all the treasures inside are yours!
+T	Đám người đó đã chặn phía đông cầu đá rồi, chúng ta hãy mở đường, để các hiệp sĩ lên.	They've blocked the east side of the stone bridge—let's clear a path so the knights can advance.
+T	Đám đao khách kiếm khách cứ ồ ạt tới chém giết, hãy hạ chúng cho ta!	Those bladesmen and swordsmen keep rushing in to kill us—take them down for me!
+T	Đám/cff0000Xác Tử Linh/p vì nhiều năm bị phong ấn dưới đất nên đã thối rữa. Nhân lúc /cff0000Xác Tử Linh/p vẫn trong mộ địa, hãy diệt chúng.	The /cff0000Undead Corpses/p have rotted after being sealed underground for years. Destroy the /cff0000Undead Corpses/p while they're still in the tomb.
+T	Đánh bại Khô Lâu Vương	Defeat Skeleton King
+T	Đánh bại Tướng Thủ Mộ	Defeat Grave Guard General
+T	Đây chính là Núi Nguyệt Nha.	This is Crescent Mountain.
+T	Đây là một thất Võ Tướng tuẫn táng.	This is a burial chamber for sacrificial Generals.
+T	Đây là xác 1 nữ binh (/cFF0000Huyền Kiếm Khách đau buồn.../p)	This is the corpse of a female soldier (/cFF0000Mysterious Swordsman grieves.../p)
+T	Đúng là Ma Giáo đang gây sự.	Indeed, it's the Demonic Cult causing trouble.
+T	Đúng là chúng.	It's really them.
+T	Đăng nhập ngày	Daily Login
+T	Đại Thụ	Giant Tree
+T	Đầu Lĩnh Sứ Đồ	Apostle Leader
+T	Đẩy lui Cổ Thi	Repel Ancient Corpses
+T	Đặt thiên lôi thạch dưới thần kiếm	Place the Heavenly Thunder Stone beneath the Divine Sword
+T	Đọa Lang Ma	Fallen Wolf Demon
+T	Đợi 1 lát đám Xương còn hồi sinh, mau đi theo ta, đừng đụng vào bẫy!	Wait a moment and the Skeletons will revive—follow me quickly, and don't touch the traps!
+T	Đợi khi mi đủ thực lực hãy tới.	Come back when you are strong enough.
+T	Đừng tưởng thứ gì trong mộ địa cũng dễ đối phó như đám Xương này.	Don't think everything in the tomb is as easy to deal with as these Skeletons.
+T	đường núi phía bắc	northern mountain path
+T	Ếch Độc	Poison Toad
+T	Ở Cổ Mộ Tầng 1 đi theo Tử Sa	Follow Zi Sha in Ancient Tomb 1F
+T	Ở chỗ ta có thể học kĩ năng các phái	You can learn skills of various sects from me
+T	Ở phía Tháp Trấn Yêu liên tiếp có 6 đạo thiên lôi, không đúng sao không phải 7 đạo? Lẽ nào có vấn đề? Chúng ta phải tới Tháp Trấn Yêu xem tình hình!	Six heavenly lightning bolts struck near the Demon-Sealing Tower in succession—wait, shouldn't there be seven? Could something be wrong? We must go to the Demon-Sealing Tower and check!
