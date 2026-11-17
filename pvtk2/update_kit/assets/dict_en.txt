@@ -8940,3 +8940,166 @@ T	Summary: Hạ Bạch Nhật Tử.(Sau khi nhận nhiệm vụ lập tức vào
 T	Các ngươi đúng là không phân thị phi! Với góc độ Thục Sơn bọn mi, ta đụng vào Tháp Trấn Yêu là tội chết! Nào hãy chứng minh các ngươi mới là kẻ mạnh, có năng lực bảo vệ đại địa này!	You truly cannot tell right from wrong! From Shushan perspective, merely touching the Demon Subduing Pagoda is a capital crime! Come then, prove that you are the strong ones capable of protecting this land!
 T	Đó chính là Quỷ Thôn ở phía bắc Lạc Dương	That is Ghost Village to the north of Luoyang
 T	Trang bị đã/cff0000tổn hao/p, điều này khiến lực chiến đấu giảm, cần /cffff00sửa/p không?	Your gear is /cff0000damaged/p, reducing your combat power. /cffff00Repair/p now?
+T	Kiếm Thất Tinh	Seven-Star Sword
+T	Kiếm Thất Tinh x 1	Seven-Star Sword x 1
+T	Kỵ Sĩ Mặt Nạ (Tiến hóa)	Masked Knight (Evolved)
+T	Tử Thần (2 ngày) x 1	Reaper (2 Days) x 1
+T	Thiên Mã	Pegasus
+T	Diễm Thiên Sứ	Flame Angel
+T	Hộ Vai Đế Hận	Emperor Hatred Spaulders
+T	Găng Xi Vương	Chi King Gauntlets
+T	Đai Tụ Hải	Ocean-Gathering Belt
+T	Đai Hóa Thân	Incarnation Belt
+T	Mũ Chân Quân	True Lord Helm
+T	Quần Lưu Tinh Tuế Nguyệt (Mạnh)	Meteor Years Greaves (Strong)
+T	Quần Lưu Tinh Tuế Nguyệt	Meteor Years Greaves
+T	Bình Sữa-Miên Dương	Milk Bottle - Lamb
+T	Rương Thú Cưỡi Truyền Thuyết	Legendary Mount Chest
+T	Rương Toại Vẫn Lam Động	Shattered Blue Cave Chest
+T	Trứng Băng Chiến Giáp	Ice Battle Armor Egg
+T	Băng Ma Giáp	Ice Demon Armor
+T	Hit+30(Khóa)	Hit+30 (Bound)
+T	Atk Speed+100(Khóa)	Atk Speed+100 (Bound)
+T	Combat EXP 1.3x(Khóa)	Combat EXP 1.3x (Bound)
+T	Auto-restore HP and MP after battle10%(Khóa)	Auto-restore HP and MP after battle 10% (Bound)
+T	HP Regen per turn+10(Khóa)	HP Regen per turn+10 (Bound)
+T	Trở về so sánh	Back to Compare
+T	Kháng cự quyết liệt để chiến đấu	Fiercely Resist to Fight
+T	Kháng cự quyết liệt để chiến đấu(Lv 1)	Fiercely Resist to Fight (Lv 1)
+T	Ấn Tượng!	Impressive!
+T	Hạng 1 Đâm Tuần	Weekly Pierce #1
+T	Hạng 1 Ma Công Tuần	Weekly Magic Atk #1
+T	Đăng nhập rút quà	Login Gift Draw
+T	Nhận quà online	Claim Online Gift
+T	Cường hóa 1 TB	Enhance 1 Gear
+T	Phân giải 1 TB	Salvage 1 Gear
+T	Học KN thú cưng	Learn Pet Skill
+T	Nâng cấp KN thú cưng	Upgrade Pet Skill
+T	Đấu với người chơi	PvP Duel
+T	Tham gia đấu Trường	Join Arena
+T	Quái vật công thành	Monster Siege
+T	Cá cược hoặc KC A.Hùng	Bet or Hero Challenge
+T	Nạp mệnh giá bất kỳ	Top Up Any Amount
+T	Dùng lò lửa	Use Forge
+T	Chơi câu hỏi ngày	Daily Quiz
+T	Rút quà ngày thành	City Daily Gift Draw
+T	Quà Tết Nguyên Đán	Lunar New Year Gift
+T	Tết nhận thưởng 1302	New Year Reward 1302
+T	Bồi thường bảo trì	Maintenance Compensation
+T	Quà đền bù bảo trì nâng cấp hệ thống 2916	System Upgrade Maintenance Compensation Gift 2916
+T	Thời gian hoạt động, lv đạt 15, 25, 35,45,55 có thể nhận thưởng \n1203、1204、1205、1205、1207	During the event, reach Lv 15, 25, 35, 45, 55 to claim rewards \n1203, 1204, 1205, 1205, 1207
+T	Chúc mừng bạn hoàn thành "Nhận quà online" nội dung độ Phát triển, nhận 20 độ Phát triển	Congratulations! Completed "Claim Online Gift" Growth quest, received 20 Growth
+T	Khi tạo chiến đấu liên mạng không thể tìm nhóm quái vật	Cannot search monster groups when creating an online battle
+T	宠物伙伴	Pet Companion
+T	日常任务NPC	Daily Quest NPC
+T	技能训练师	Skill Trainer
+T	宠物训练师	Pet Trainer
+T	天下武斗竞技场	World Martial Arena
+T	紫金公主	Princess Zijin
+T	护送任务	Escort Quest
+T	熔炉商人	Forge Merchant
+T	成就商人	Achievement Merchant
+T	飞行驿站	Flight Station
+T	活跃内容	Activity Content
+T	由于系统bug,持续回魔的状态暂时不发生，维护后恢复（目前已修复该问题）	Due to a system bug, continuous MP regen is temporarily disabled and will be restored after maintenance (now fixed).
+T	/c00FF00【Nhắc nhở】Không tự giao dịch mua bán  KNB và vật phẩm，cũng không được tự ý mua bán tài khoản tên các nền tảng khác nhau，để mua bán NV xin đến chỗ giao dịch trong game để tiến hành giao dịch，mọi giao dịch riêng tư hoặc tài khoản chia sẽ đều là gian lận，Facebook fanpage không chấp nhận khiếu nại。/p\n Fanpage sẽ không gửi thẻ nạp hoặc email nhận thưởng khác，vui lòng không tiết lộ thông tin game cho bất kỳ ai，nếu có bất kì vấn đề gì cần giải quyết, xin liên hệ với CSKH:/c00FF00 https://www.facebook.com/ pvtk2.vn /p\n	/c00FF00[Notice] Do not trade Gold or items privately, nor buy/sell accounts across platforms. Use the in-game trading post for character/item trades; all private trades or shared accounts are treated as scams and the Facebook fanpage will not accept appeals./p\n The fanpage never sends top-up cards or reward emails. Do not share your account info with anyone. For support, contact:/c00FF00 https://www.facebook.com/pvtk2.vn /p\n
+T	{5}, nếu muốn sống, hãy cùng ta tiêu diệt /cFF0000Yêu Lang/p!	{5}, if you want to live, help me defeat the /cFF0000Demon Wolves/p!
+T	Diệt 15 /cff0000Cướp Râu Đen/p	Defeat 15 /cff0000Blackbeard Pirates/p
+T	Hàng của ta bị đám  /cff0000Cướp Râu Đen/p cướp rồi. Ta đồng ý trả mọi giá, chỉ cần mi đánh /cff0000Cướp Râu Đen/p chỗ tiền này sẽ là của mi.	My goods were stolen by the /cff0000Blackbeard Pirates/p. I will pay any price—just defeat the /cff0000Blackbeard Pirates/p and this money is yours.
+T	Đánh /cff0000Cướp Râu Đen/p, chỗ tiền này sẽ là của mi	Defeat the /cff0000Blackbeard Pirates/p, and this money is yours
+T	Diệt /cff0000Đao Cường/p lấy 10 /cFFFF00Tang Vật/p	Defeat /cff0000Dao Qiang/p to recover 10 /cFFFF00Stolen Goods/p
+T	Ta nghe nói /cff0000Đao Cường/p vơ vét được không ít của cải. Mi hãy giúp ta hạ /cff0000Đao Cường/p cướp lại /cFFFF00Tang Vật/p, chúng ta sẽ chia nhau	I heard /cff0000Dao Qiang/p looted quite a fortune. Help me defeat /cff0000Dao Qiang/p and recover the /cFFFF00Stolen Goods/p, and we will split the share.
+T	Mi hãy giúp ta hạ /cff0000Đao Cường/p cướp lại /cFFFF00Tang Vật/p, chúng ta sẽ chia nhau	Help me defeat /cff0000Dao Qiang/p and recover the /cFFFF00Stolen Goods/p, and we will split the share
+T	Nhìn xung quanh chúng ta: Đám /cFF0000Cổ Thi/p đã ngửi thấy mùi chúng ta, đang tiến lại. Cẩn thận chúng có cực độc trên người!	Look around us: the /cFF0000Ancient Corpses/p have caught our scent and are closing in. Beware—they carry deadly poison!
+T	/c00FF00{1}/p, tầng trong trong mộ địa có nhiều bẫy chí mạng và nhiều kẻ địch ta chưa biết. Chúng ta không thể lỗ mãng xông vào	/c00FF00{1}/p, the inner tomb holds lethal traps and unknown foes. We cannot charge in recklessly.
+T	Ta cảm thấy trong mộ huyệt có ma lực kì quái. /c00ff00{1}/p, hãy vào trong xem sao.	I sense eerie magic inside the tomb. /c00ff00{1}/p, go inside and investigate.
+T	/c00FF00{1}/p, ta đã tìm được đường tới /cFFFFFFCổ Mộ Tầng 2/p, đi theo ta.	/c00FF00{1}/p, I found the path to /cFFFFFFAncient Tomb F2/p. Follow me.
+T	Mộ cung tầng 2	Tomb Palace F2
+T	/c00FF00{1}/p, đừng nói ta không nhắc mi, nơi này có dấu hiệu Cổ Thi hung biến, cẩn thận	/c00FF00{1}/p, do not say I did not warn you—there are signs of Ancient Corpses mutating here. Be careful.
+T	Thi biến	Corpse Mutation
+T	Xem Xác trong mộ	Inspect the Corpse in the Tomb
+T	Summary: Xem Xác trong mộ	Summary: Inspect the Corpse in the Tomb
+T	Phía trước có cái Xác, hãy tới xem sao, trên nó có thể có thi độc, hãy cẩn thận	There is a corpse ahead. Go inspect it—it may carry corpse poison, be careful.
+T	/c00FF00Trên xác có vết bầm tím, không biết đã chết bao lâu rồi, mi cảm thấy cái xác đang cử động/p	/c00FF00The corpse is bruised and looks long dead, yet you sense it starting to move./p
+T	Phong thủy	Feng Shui
+T	Thi biến, xem ra tử khí ở đây quá nặng. Mộ này vốn thuộc nơi phong thủy tốt, chỉ vì bị phá hoại kết cấu phong thủy nên mới thành ra thế này.	Corpse mutation—the death aura here is overwhelming. This tomb once had good feng shui, but its layout was ruined, causing this.
+T	Diệt 20 Độc Thi rồi vào nội điện tìm Tử Sa	Defeat 20 Poison Corpses, then enter the inner hall to find Zi Sha
+T	Summary: Diệt 20 Độc Thi rồi vào nội điện tìm Tử Sa	Summary: Defeat 20 Poison Corpses, then enter the inner hall to find Zi Sha
+T	Nơi này có không ít/cFF0000Độc Thi/p, hãy tiêu diệt chúng, chúng ta gặp nhau trong nội điện.	There are many /cFF0000Poison Corpses/p here. Eliminate them, and we will meet in the inner hall.
+T	Hãy tiêu diệt Độc Thi cản đường	Eliminate the Poison Corpses blocking the path
+T	Mi chậm trễ vậy, giúp ta giải quyết hết đám này.	You are slow—help me clear out this whole group.
+T	Đã nhận đồ giám quái vật Cương Thi	Obtained Monster Codex: Jiangshi
+T	Đã nhận đồ giám quái vật Độc Thi	Obtained Monster Codex: Poison Corpse
+T	Đã nhận đồ giám quái vật Phi Đầu Man	Obtained Monster Codex: Flying Head
+T	Hạ 20 Phi Đầu Man	Defeat 20 Flying Heads
+T	Summary: Hạ 20 Phi Đầu Man	Summary: Defeat 20 Flying Heads
+T	(/c00FF00Nhìn về phía ánh mắt Tử Sa. Một đống đầu lâu bay trên không./p)! Mau giúp ta đuổi Phi Đầu Man!	(/c00FF00You follow Zi Sha's gaze. A swarm of floating heads hovers in the air./p)! Hurry and help me drive off the Flying Heads!
+T	Mau giúp ta đuổi đám Phi Đầu Man	Hurry and help me drive off the Flying Heads
+T	Sao giết mãi không hết?	Why do they never stop coming?
+T	Tới Cổ Mộ Tầng 2 đi theo Tử Sa	Go to Ancient Tomb F2 and follow Zi Sha
+T	Summary: Tới Cổ Mộ Tầng 2 đi theo Tử Sa	Summary: Go to Ancient Tomb F2 and follow Zi Sha
+T	/c00FF00{1}/p, chúng ta mau chạy thôi...	/c00FF00{1}/p, let us run quickly...
+T	Đây là ...?	What is this...?
+T	Cương Thi hồi sinh	Jiangshi Revival
+T	/c00FF00{1}/p, mi có thấy cảnh này rất quen không...	/c00FF00{1}/p, does this scene look familiar to you...
+T	/c00FF00Mi gật đầu, cầm chặt vũ khí/p	/c00FF00You nod and grip your weapon tightly/p
+T	Hạ 20 Cương Thi	Defeat 20 Jiangshi
+T	Summary: Hạ 20 Cương Thi	Summary: Defeat 20 Jiangshi
+T	(/c00FF00Xác trên mặt đất bò dậy, tập trung ở chỗ có người sống./p)Chúng đã trở thành /cFF0000Cương Thi/p, đừng do dự.	(/c00FF00The corpses on the ground crawl up, drawn toward the living./p) They have become /cFF0000Jiangshi/p—do not hesitate.
+T	/c00FF00{1}/p, nếu trúng thi độc, hãy giúp ta kết liễu.	/c00FF00{1}/p, if I am afflicted by corpse poison, help end me.
+T	Phá bẫy ở Cổ Mộ Tầng 2	Disarm Traps in Ancient Tomb F2
+T	Summary: Phá bẫy ở Cổ Mộ Tầng 2	Summary: Disarm Traps in Ancient Tomb F2
+T	Phá bẫy	Disarm Trap
+T	Phá cũng khá nhiều bẫy rồi	Quite a few traps have been disarmed already
+T	Phía trước là đường vào Cổ Mộ Tầng 3, nhưng cửa vào chắc có bẫy, chúng ta hãy tìm bẫy gần đây và phá đi	Ahead lies the entrance to Ancient Tomb F3, likely rigged with traps. Let us find nearby traps and disarm them.
+T	Sư Phụ Bẫy	Trap Master
+T	Đã nhận đồ giám quái vật Sư Phụ Bẫy	Obtained Monster Codex: Trap Master
+T	Dưới cái Xác hình như có gì đó...(/c00FF00Đẩy nó ra không?/p)	There seems to be something under this corpse... (/c00FF00Push it aside?/p)
+T	Đẩy xác ra, có một khối nhỏ nhỏ. Mi ấn nhẹ (Không biết âm thanh đá lăn từ đâu vọng tới.)	Pushing the corpse aside reveals a small block. You press it lightly. (A distant rumble of rolling stone echoes from somewhere.)
+T	Đánh bại Sư Phụ Bẫy	Defeat Trap Master
+T	Summary: Đánh bại Sư Phụ Bẫy	Summary: Defeat Trap Master
+T	Bẫy nối liền với 1 hòm gỗ mà mắt thường khó thấy. Muốn kéo nó ra không?	The trap is linked to a barely visible wooden chest. Pull it out?
+T	Mi dùng cách /c00FF00đơn giản/p gỡ bẫy/c00FF00 gỡphức tạp/p	You disarm the trap the /c00FF00simple/p way or /c00FF00complex/p way
+T	Bình chướng	Barrier
+T	Tới Cổ Mộ Tầng 2 loại bỏ bình chướng	Go to Ancient Tomb F2 and remove the barrier
+T	Summary: Tới Cổ Mộ Tầng 2 loại bỏ bình chướng	Summary: Go to Ancient Tomb F2 and remove the barrier
+T	Bức tường trước mặt là bình chướng chặn cổng vào. Nhưng giờ đã mất tác dụng vốn có, hãy phá hủy nó	The wall ahead is a barrier sealing the gate, though its power has faded. Destroy it.
+T	Mi chạm khẽ bình chướng vỡ vụn	You touch the barrier lightly and it shatters
+T	Hán Võ Tướng	Han Martial General
+T	Đánh bại Hán Võ Tướng	Defeat Han Martial General
+T	Summary: Đánh bại Hán Võ Tướng	Summary: Defeat Han Martial General
+T	Đã nhận đồ giám quái vật Hán Võ Tướng	Obtained Monster Codex: Han Martial General
+T	Một Võ Tướng chặn trước mặt mi (Không hạ y, khó lòng đi tiếp.)	A Martial General blocks your path. (Without defeating him, you cannot advance.)
+T	Võ Tướng vẫn đứng đó.(/c00FF00Nhưng Tử Sa đẩy khẽ liền biến thành cát bụi/p)	The Martial General still stands there. (/c00FF00Yet at Zi Sha's light touch, he crumbles to dust./p)
+T	Tới Cổ Mộ Tầng 3	Go to Ancient Tomb F3
+T	Summary: Tới Cổ Mộ Tầng 3	Summary: Go to Ancient Tomb F3
+T	Chúng ta tới Cổ Mộ Tầng 3!	Let us head to Ancient Tomb F3!
+T	Tử khí	Death Aura
+T	Xác chết trong quan tài phía trước đang bốc tử khí: Hãy hủy nó. Nếu không tử khí nhiều, nơi này khó mà ở được.	The corpse in the coffin ahead is emitting death aura. Destroy it, or this place will become uninhabitable.
+T	Hình như phía trước có gì đó...	There seems to be something ahead...
+T	Hạ Cổ Ly, nói chuyện với Tử Sa	Defeat Ancient Fox, then speak with Zi Sha
+T	Summary: Hạ Cổ Ly, nói chuyện với Tử Sa	Summary: Defeat Ancient Fox, then speak with Zi Sha
+T	Tiêu diệt/cFF0000Cổ Ly/p đi.	Eliminate the /cFF0000Ancient Fox/p.
+T	Hạ Cổ Ly	Defeat Ancient Fox
+T	Đã nhận đồ giám quái vật Cổ Ly	Obtained Monster Codex: Ancient Fox
+T	Có Cổ Ly vào mộ, đây không phải điềm lành	An Ancient Fox entered the tomb—this is no good omen.
+T	Hỏa thiêu	Cremation
+T	Hủy quan tài, đường để tử khí thoát ra. (/c00FF00Tử Sa dùng lửa đốt quan tài.../p)	Destroy the coffin to vent the death aura. (/c00FF00Zi Sha sets the coffin ablaze.../p)
+T	Đường tắt	Shortcut
+T	Tiếp tục nói chuyện với Tử Sa	Continue speaking with Zi Sha
+T	Summary: Tiếp tục nói chuyện với Tử Sa	Summary: Continue speaking with Zi Sha
+T	Ta biết Chủ Mộ Thất đi thể nào, hãy đi theo ta!	I know the way to the Main Tomb Chamber—follow me!
+T	Lại là Xương	Skeletons Again
+T	Diệt 20 Đao Phủ Bạch Cốt	Defeat 20 Bone Executioners
+T	Summary: Diệt 20 Đao Phủ Bạch Cốt	Summary: Defeat 20 Bone Executioners
+T	Đã nhận đồ giám quái vật Đao Phủ Bạch Cốt	Obtained Monster Codex: Bone Executioner
+T	Hãy diệt đám /cFF0000Đao Phủ Bạch Cốt/p. Đừng để chúng cản đường!	Eliminate the /cFF0000Bone Executioners/p. Do not let them block our way!
+T	Chủ Mộ Thất ở phía trước không xa	The Main Tomb Chamber is not far ahead
+T	/cFF0000{1}/p, nhiều đồng đội của ta chết ở đây, ta phải tiếp tục ở đây chiến đấu với yêu quái…	/cFF0000{1}/p, many of my comrades died here; I must stay and keep fighting the monsters...
+T	(/c00FF00Sao vậy?/p)Hình như ta đã vào cấm địa của đám Xương, /c00FF00{1}/p, xin thứ lỗi!	(/c00FF00What is wrong?/p) It seems I wandered into the Skeletons' forbidden ground, /c00FF00{1}/p—forgive me!
+T	/c00FF00{1}/p, ta tìm người tới giúp, giờ Tộc Nguyệt Lang và Tộc Vạn Thú là đồng minh của chúng ta. Đi, ta dẫn mi tới gặp /c00FF00Nguyệt Lang Tôn Chủ/p, người đang ở phía trước.	/c00FF00{1}/p, I brought help—the Moon Wolf Clan and Myriad Beast Clan are now our allies. Come, let me lead you to /c00FF00Moon Wolf Lord/p up ahead.
+T	Đã nhận đồ giám quái vật Nguyệt Lang Tôn Chủ	Obtained Monster Codex: Moon Wolf Lord
+T	Đã nhận đồ giám quái vật Vạn Thú Tôn Chủ	Obtained Monster Codex: Myriad Beast Lord
+T	Đã nhận đồ giám quái vật Vạn Thú	Obtained Monster Codex: Myriad Beast
+T	Ta nghĩ Nguyệt Lang Tôn Chủ không từ chối /c00FF00{1}/p trở thành đồng minh của chúng ta chứ?	I trust Moon Wolf Lord will not refuse /c00FF00{1}/p as our ally?
+T	Mi là /c00FF00{1}/p? (/cFF0000Nguyệt Lang Tôn Chủ nhìn mi./p) Ở đây, mọi việc do ta chỉ huy, không được tự ý hành sự. (/cFF0000Nguyệt Lang Tôn Chủ nhìn Huyền Kiếm Khách./p)	You are /c00FF00{1}/p? (/cFF0000Moon Wolf Lord looks at you./p) Here, I command everything—do not act on your own. (/cFF0000Moon Wolf Lord looks at the Mystic Swordsman./p)
