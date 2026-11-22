@@ -1,1 +1,8 @@
 dict_en.txt
+common/bwin.png
+common/blost.png
+common/block.png
+common/dixiao.png
+common/miss.png
+common/offset.png
+common/ti_enter.png

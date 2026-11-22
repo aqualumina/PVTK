@@ -8755,3 +8755,571 @@ T	Đột nhiên xung quanh vọng âm thanh kì quái, Mã Cát liền cảnh gi
 T	Đứng ở cao, bắn được xa.	Stand high, shoot far.
 T	Ảnh Vũ	Shadow Dance
 T	Ủng Bạch Nhai	White Cliff Boots
+T	! Bảo Thạch mua ở chỗ Thương Nhân Kì Bí trong thành hoặc tiệm đạo cụ quốc gia.	! Gems can be purchased from the Mysterious Merchant in the city or the Nation Item Shop.
+T	(/cFFFF00Đột nhiên /cff0000Lợi Nhẫn/p 1 mũi tên bắn về phía Mã Cát, sau đó bỏ chạy về phía Trung Tâm Rừng./p)\n/cffff00Done: /pDemolish/cffff00Sharp Blade/p/cff00001/1/p\n/cffff00Reward:/pExp 5000  Silver3000  \n	(/cFFFF00Suddenly /cff0000Sharp Blade/p fires an arrow toward Magi, then flees toward the Forest Center./p)\n/cffff00Done: /pDefeat /cffff00Sharp Blade/p /cff00001/1/p\n/cffff00Reward:/pExp 5000  Silver3000  \n
+T	/c00FF00Valkr*e, mộ huyệt gần thành xuất hiện nhiều vong linh. Trong nội bộ của chúng có kẻ lãnh đạo. Cẩn thận. /pMở nhiệm vụ này cần bỏ ra 30 Vàng tiền cọc, hoàn thành xong sẽ trả lại. Nếu thất bại sẽ không trả. /c00FF00Nhiệm vụ này tổ đội thực hiện.Sẽ bị người chơi khác phá hoại. /p. Trong nhiệm vụ Vô Song, tiêu diệt quái vật có cơ hội rớt trang bị hiếm có, sử thi, và trang bị của nhiệm vụ. Hãy đảm bảo trước khi tham gia nhiệm vụ, túi còn đủ vị trí trống. /c00FF00Nhiệm vụ này mỗi ngày chỉ có thể làm 1 lần/p	/c00FF00Valkr*e, many restless spirits have appeared in the tomb near the city, and they have a leader among them. Be careful. /pAccepting this quest requires a 30 Gold deposit, which will be refunded upon completion. If you fail, it will not be refunded. /c00FF00This is a party quest and can be disrupted by other players. /pIn Peerless Quests, defeating monsters has a chance to drop Rare, Epic, and quest gear. Make sure your bag has enough free slots before starting. /c00FF00This quest can only be done once per day./p
+T	/c00FF00Valkr*e/p! Có 1 đội dung binh cướp bóc thành chúng ta, chúng ta phải tiêu diệt chúng. Mở nhiệm vụ này cần chi 30 Kim Diệp tiền cọc. Hoàn thành xong nhiệm vụ sẽ trả lại tiền cọc tiền cọc. Thất bại sẽ không trả lại. /c00FF00Nhiệm vụ này nên tổ đội thực hiện, sẽ bị người chơi khác phá hoại, hãy cẩn thận/p. Trong nhiệm vụ Vô Song, hạ quái vật sẽ rớt trang bị bao gồm trang bị hiếm có, sử thi và trang bị nhiệm vụ. Hãy đảm bảo trước khi tham gia nhiệm vụ, túi còn đủ chỗ trống./c00FF00Nhiệm vụ này 1 ngày có thể hoàn thành 1 lần./p	/c00FF00Valkr*e/p! A mercenary band is plundering our city, and we must eliminate them. Accepting this quest requires a 30 Gold Leaf deposit, which will be refunded upon completion. If you fail, it will not be refunded. /c00FF00This quest is recommended for a party and can be disrupted by other players, so be careful./p In Peerless Quests, defeating monsters drops gear including Rare, Epic, and quest gear. Make sure your bag has enough free slots before starting. /c00FF00This quest can be completed once per day./p
+T	/c00FF00Valkr*e/p, chúng ta có tập kích quân đội Tà Linh giáo đoàn không?Mở nhiệm vụ này cần chi  tiền cọc. Hoàn thành xong nhiệm vụ sẽ trả lại tiền cọc tiền cọc. Thất bại sẽ không trả lại. Nhiệm vụ này không thể thực hiện 1 mình. Không bị người chơi khác phá hoại. /c00FF00Quái trong nhiệm vụ Vô Song tuy yếu nhưng số lượng nhiều, cần đảm bảo bản thân đủ năng lực hồi phục và thuốc. Hạ quái đều rớt trang bị, bao gồm trang bị hiếm có, sử thi và trang bị nhiệm vụ. Hãy đảm bảo trước khi tham gia nhiệm vụ, túi còn đủ chỗ trống./p	/c00FF00Valkr*e/p, shall we raid the Evil Spirit Cult army? Accepting this quest requires a deposit, which will be refunded upon completion. If you fail, it will not be refunded. This quest cannot be done solo, and it cannot be disrupted by other players. /c00FF00Monsters in Peerless Quests are weak individually but appear in large numbers, so ensure you have sufficient recovery and potions. Defeating monsters drops gear, including Rare, Epic, and quest gear. Make sure your bag has enough free slots before starting./p
+T	/c00ff00Raclette/p, chuẩn bị xong chưa? Các huynh đệ xung phong!	/c00ff00Raclette/p, are you ready? Charge, brothers!
+T	/c00ff00Raclette/p, cuối cùng tìm được mọi người rồi!	/c00ff00Raclette/p, I finally found everyone!
+T	/c00ff00Raclette/p, loạt nhiệm vụ Núi Nguyệt Nha sắp kết thúc. Chúng ta đã đoạt lại được quyền kiểm soát Núi Nguyệt Nha!	/c00ff00Raclette/p, the Crescent Mountain questline is nearly complete. We have reclaimed control of Crescent Mountain!
+T	/c00ff00Raclette/p, tới rất đúgn lúc. Hiền Giả đã biết mọi chuyện xả ra trong mộ huyệt, y vừa phá phong ấn Đầu Lĩnh Sứ Đồ để lại, vào mộ huyệt tầng 2. Chúng ta cùng /cFFFFFFvào tầng 2/p giúp Hiền Giả ngăn cản Sứ Đồ	/c00ff00Raclette/p, you arrived just in time. The Sage already knows everything happening in the tomb; he just broke the seal left by the Apostle Leader and entered Floor 2. Let's /cFFFFFFenter Floor 2/p together to help the Sage stop the Apostles.
+T	/cff0000Cướp Canh Gác/p dẫn /cff0000Sói Thuần Hóa/p hoành hành trong rừng. Hãy tiêu diệt chúng	/cff0000Bandit Sentry/p is leading /cff0000Tamed Wolf/p to wreak havoc in the forest. Eliminate them.
+T	/cff0000Cổng Lớn sơn trại/p ở bên cạnh. Ta giúp mi tiêu diệt số Cướp còn lại, mi hãy đi mở Cổng Lớn, đợi Đội Dung Binh vào sơn trại, chúng ta sẽ tấn công bọn chỉ huy	The /cff0000Bandit Camp Main Gate/p is right nearby. I'll help you clear the remaining Bandits—go open the Main Gate so the Mercenary Squad can enter the camp and strike their leaders.
+T	/cff0000Gác Mộ/p trước đây đã diệt, giờ lại xuất hiện.Nhân lúc nãy hãy tiêu diệt /cff0000Gác Mộ/p.	The /cff0000Tomb Guard/p we defeated earlier has appeared again. Strike now and eliminate /cff0000Tomb Guard/p.
+T	/cff0000Hiền Giả/p bị Ác Ma bao vây, hãy tới giúp y\nUse auto-pathfinding?	/cff0000Sage/p is surrounded by Demons, go help him.\nUse auto-pathfinding?
+T	/cff0000Hiền Giả/p bị Ác Ma trong mộ huyệt bao vây, hãy tới giúp y\n\n/cffff00Reward:/pExp 100  \n	/cff0000Sage/p is surrounded by Demons inside the tomb, go help him.\n\n/cffff00Reward:/pExp 100  \n
+T	/cff0000Huyết ấn Ác Ma/p là phong ấn dùng linh hồn ác ma chế thành. Giờ hãy tới xem sao, có lẽ sẽ có cách phá giải.\n\n/cffff00Objective: /pComplete quest </cff0000Huyết ấn của Pháp Sư Quên/p>\nComplete quest </cff0000Huyết ấn của Kị Sĩ Chết/p>\nComplete quest </cff0000Huyết ấn của Mỹ Lạp Hai Đầu/p>\n/cffff00Reward:/pExp 3000  \n	/cff0000Demon Blood Seal/p is a seal forged from demon souls. Go inspect it now—there may be a way to break it.\n\n/cffff00Objective: /pComplete quest </cff0000Forgotten Mage's Blood Seal/p>\nComplete quest </cff0000Death Knight's Blood Seal/p>\nComplete quest </cff0000Two-Headed Mira's Blood Seal/p>\n/cffff00Reward:/pExp 3000  \n
+T	/cff0000Kiếm Sĩ Xương/p không biết đau, tuy không mạnh, nhưng chúng tụ tập lại cũng là uy hiếp với chúng ta. Diệt /cff0000Kiếm Sĩ Xương/p, không để chúng tiến thêm\n\n/cffff00Objective: /pDemolish/cffff00Skeleton Swordsman/p/cff00000/20/p\n/cffff00Reward:/pExp 4000  Silver2500  \n	/cff0000Skeleton Swordsman/p feels no pain. Though weak alone, in numbers they pose a threat to us. Defeat /cff0000Skeleton Swordsman/p and stop their advance.\n\n/cffff00Objective: /pDefeat /cffff00Skeleton Swordsman/p /cff00000/20/p\n/cffff00Reward:/pExp 4000  Silver2500  \n
+T	/cff0000Lợi Nhẫn/p là ca ca thất lạc nhiều năm của ta. Vì theo đuổi sinh mệnh vĩnh hằng mà y thậm chí từ bỏ cả khu rừng.	/cff0000Sharp Blade/p is my long-lost elder brother. In his pursuit of eternal life, he even abandoned the forest.
+T	/cff0000Lợi Nhẫn/p rất hiểu mọi thức của rừng. Cửa vào Trung Tâm Rừng ở /cffffffcánh rừng phía tây bắc/p, hãy ngăn cản /cff0000Lợi Nhẫn/p.\n\n	/cff0000Sharp Blade/p knows everything about the forest. The entrance to the Forest Center is in the /cffffffnorthwestern woods/p—stop /cff0000Sharp Blade/p.\n\n
+T	/cff0000Lợi Nhẫn/p, con trai của tiên tri vĩ đại, huynh trưởng của ta giờ đã thành kẻ địch của chúng ta\n	/cff0000Sharp Blade/p, son of the great prophet, my elder brother has now become our enemy.\n
+T	/cff0000Ma Dơi/p là quái vật hút máu. Hiện tại /cff0000Ma Dơi/p đang tìm mục tiêu hút máu trong mộ huyệt. Đừng để chúng hút máu, hãy tiêu diệt chúng, chúng ta hãy vào trong\n\n/cffff00Objective: /pDemolish/cffff00Ma Dơi/p/cff00000/18/p\n/cffff00Reward:/pExp 3500  \n	/cff0000Demon Bat/p is a blood-sucking monster. Currently, /cff0000Demon Bat/p is searching for prey in the tomb. Do not let them feed—wipe them out and let us head inside.\n\n/cffff00Objective: /pDefeat /cffff00Demon Bat/p /cff00000/18/p\n/cffff00Reward:/pExp 3500  \n
+T	/cff0000Mộng Yểm/p là ác ma mạnh nhất trong mộ huyệt, chỉ cần lão đại khống chế được nó, các mi chết chắc! (/cFFFF00Sứ Đồ nói xong liền trốn vào trong mộ huyệt, nhưng ma pháp trận hắn để lại xuất hiện một đám /cff0000Sứ Ma/p, tới tìm /cff0000Mục Sư/p xem sao./p)	/cff0000Nightmare/p is the strongest demon in the tomb. Once our boss takes control of it, you're all dead! (/cFFFF00With that, the Apostle slips deeper into the tomb, but a group of /cff0000Apostle Familiar/p emerges from the magic circle he left behind. Go check with the /cff0000Priest/p./p)
+T	/cff0000Đao Lục Bì/p không phù hợp với khu rừng xanh ngút ngàn này. Hãy diệt /cff0000Đao Lục Bì/p, đừng để chúng  gây họa cho rừng.	/cff0000Greenhide Blade/p does not belong in this lush green forest. Defeat /cff0000Greenhide Blade/p and don't let them plague the woods.
+T	/cff0000Đao Lục Bì/p là ác ma biết thuật ẩn thân, hành tung của chúng ta đều bị chúng phát hiện. /c00ff00Raclette/p, cầm vũ khí tiêu diệt /cff0000Đao Lục Bì/p!\n\n/cffff00Objective: /pDefeat /cffff00Greenhide Blade/p /cff00000/9/p\n/cffff00Reward:/pExp 3500  Silver2000  \n	/cff0000Greenhide Blade/p is a demon skilled in stealth; all our movements have been spotted by them. /c00ff00Raclette/p, take up arms and defeat /cff0000Greenhide Blade/p!\n\n/cffff00Objective: /pDefeat /cffff00Greenhide Blade/p /cff00000/9/p\n/cffff00Reward:/pExp 3500  Silver2000  \n
+T	/cff0000Đầu Lĩnh Sứ Đồ/p đang định vào mộ huyệt tầng 2. Bên trong có phong ấn Ác Ma hùng mạnh. Ngăn cả y, không để y tiếp tục vào trong.	/cff0000Apostle Leader/p is trying to enter Tomb Floor 2, where a mighty Demon is sealed inside. Stop him and don't let him go any deeper.
+T	/cff0000Đầu Lĩnh Sứ Đồ/p đã chạy vào tầng 2, bỏ lại phong ấn chặn phía trước mặt\n/cffff00Done: /pDefeat /cffff00Summoned Familiar/p /cff00002/2/p\n/cffff00Reward:/pExp 4000  Silver4000  \n	/cff0000Apostle Leader/p fled into Floor 2, leaving a seal blocking the path ahead.\n/cffff00Done: /pDefeat /cffff00Summoned Familiar/p /cff00002/2/p\n/cffff00Reward:/pExp 4000  Silver4000  \n
+T	/cff0000【System】/pKim khố Thành Cá Nhân đã đầy, không thể tiếp tục nhận, hãy mau lấy ra.	/cff0000[System]/p The Personal City Treasury is full and cannot accumulate more. Collect it right away.
+T	/cff0000【System】/pĐã nhận đồ giám quái vật Yêu Vương	/cff0000[System]/p Obtained Monster Codex: Demon King
+T	/cff99ff【Whisper】/p/c00e0fbGame Admin: /pGửi thất bại: Thấp hơn cấp 35 không thể chat thế giới	/cff99ff[Whisper]/p/c00e0fbGame Admin: /pFailed to send: Players below Lv 35 cannot use World Chat
+T	/cffff00Objective: /pDemolish/cffff00Skeleton Swordsman/p/cff00000/15/p\nGiúp ta diệt 15 /cff0000Kiếm Sĩ Xương/p\n	/cffff00Objective: /pDefeat /cffff00Skeleton Swordsman/p /cff00000/15/p\nHelp me defeat 15 /cff0000Skeleton Swordsman/p.\n
+T	/i00012/c4bf842Găng Dự Ngôn/p x 1  /i020203500\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Gloves    /c4bf842Refined/p\n/c00ff00Max MP+198/p          /cb0a67a\nInsight+20(Requires Lock)\n/pArmor:   Slash 82  Pierce 82  MP 377\nRequirement: Lv 35  7 Constitution/cff0000  35 Intelligence/p/cff0000  18 Wisdom/p\nDurability: 150/150\nEquipment suitable for ./c00FF00Mages/p\n	/i00012/c4bf842Prophecy Gloves/p x 1  /i020203500\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Gloves    /c4bf842Refined/p\n/c00ff00Max MP+198/p          /cb0a67a\nInsight+20(Requires Lock)\n/pArmor:   Slash 82  Pierce 82  MP 377\nRequirement: Lv 35  7 Constitution/cff0000  35 Intelligence/p/cff0000  18 Wisdom/p\nDurability: 150/150\nSuitable for /c00FF00Mages/p\n
+T	/i00012/c4bf842Găng Dự Ngôn/p x 1\n	/i00012/c4bf842Prophecy Gloves/p x 1\n
+T	/i00024/cffa500Hộ Vai Chu Hồng/p x 1  /i020205000\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Vai    /cffa500Epic/p\n/c00ff00Max MP+168/p          /c00ff00\nHP Regen per turn+40\n/p/cb0a67aUnidentified Stat /p /cb0a67aUnidentified Stat /p\nArmor:   Slash 70  Pierce 70  MP 319\nRequirement: Lv 25  5 Constitution/cff0000  25 Intelligence/p  13 Wisdom\nDurability: 190/190\nEquipment suitable for ./c00FF00Mages/p\n	/i00024/cffa500Crimson Shoulder Guards/p x 1  /i020205000\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Shoulder    /cffa500Epic/p\n/c00ff00Max MP+168/p          /c00ff00\nHP Regen per turn+40\n/p/cb0a67aUnidentified Stat /p /cb0a67aUnidentified Stat /p\nArmor:   Slash 70  Pierce 70  MP 319\nRequirement: Lv 25  5 Constitution/cff0000  25 Intelligence/p  13 Wisdom\nDurability: 190/190\nSuitable for /c00FF00Mages/p\n
+T	/i00024/cffa500Hộ Vai Chu Hồng/p x 1\n	/i00024/cffa500Crimson Shoulder Guards/p x 1\n
+T	/i00031/ce5e5e5Lưu Quang Nhẫn/p x 1  /i020201500\nUnlocked    1H Blade    /ce5e5e5Common/p\nAttack: 62~222      Accuracy: 223\nMelee Slash           /c00ff00Atk Speed+178/p\nRequirement: Lv 30  35 Strength\nDurability: 130/130\n	/i00031/ce5e5e5Flowing Light Blade/p x 1  /i020201500\nUnlocked    1H Blade    /ce5e5e5Common/p\nAttack: 62~222      Accuracy: 223\nMelee Slash           /c00ff00Atk Speed+178/p\nRequirement: Lv 30  35 Strength\nDurability: 130/130\n
+T	/i00034/cffa500Phong Ngữ/p x 1  /i020203000\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    1H Blade    /cffa500Epic/p\nAttack: 43~154       Accuracy: 209\nAttacks: 2 times   Melee Slash\n/cb0a67aUnidentified Stat /p /cb0a67aUnidentified Stat /p\n/cb0a67aUnidentified Stat /p /cb0a67aUnidentified Stat /p\nRequirement: Lv 15  16 Strength\nDurability: 190/190\nDo Not Split\n/cffff00Set effect: /p\n/cb0a67a2 pcs: Atk Speed+5%/p/cb0a67a/p	/i00034/cffa500Wind Whisper/p x 1  /i020203000\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    1H Blade    /cffa500Epic/p\nAttack: 43~154       Accuracy: 209\nAttacks: 2 times   Melee Slash\n/cb0a67aUnidentified Stat /p /cb0a67aUnidentified Stat /p\n/cb0a67aUnidentified Stat /p /cb0a67aUnidentified Stat /p\nRequirement: Lv 15  16 Strength\nDurability: 190/190\nDo Not Split\n/cffff00Set effect: /p\n/cb0a67a2 pcs: Atk Speed+5%/p/cb0a67a/p
+T	/i00071/ce5e5e5Hộp Phục Sức Cấp 20/p x 1  /i02020100\nUnlocked    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nCan obtain Mage and Cultivator armor suitable for Lv 15-25. Chance to obtain epic gear.\n	/i00071/ce5e5e5Lv.20 Outfit Chest/p x 1  /i02020100\nUnlocked    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nCan obtain Mage and Cultivator armor suitable for Lv 15-25. Chance to obtain epic gear.\n
+T	/i00071/ce5e5e5Hộp Vũ Khí Nhẹ Cấp 20/p x 1  /i02020100\nUnlocked    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nCan obtain light sword, light blade, light crossbow, staff, bow suitable for Lv 15-25. Chance to obtain epic gear.\n	/i00071/ce5e5e5Lv.20 Light Weapon Chest/p x 1  /i02020100\nUnlocked    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nCan obtain light sword, light blade, light crossbow, staff, bow suitable for Lv 15-25. Chance to obtain epic gear.\n
+T	/i00071/ce5e5e5Hộp Vũ Khí Nhẹ Cấp 20/p x 1\n/i00281/ce5e5e5Rương Vũ Khí Nhẹ Cấp 20 (Khóa)/p x 1\n/i00071/ce5e5e5Material Chest I (Stone)/p x 1\n/i00203/c42adf8Knight Badge/p x 1\n	/i00071/ce5e5e5Lv.20 Light Weapon Chest/p x 1\n/i00281/ce5e5e5Lv.20 Light Weapon Chest (Bound)/p x 1\n/i00071/ce5e5e5Material Chest I (Stone)/p x 1\n/i00203/c42adf8Knight Badge/p x 1\n
+T	/i00072/c4bf842Hộp Phòng Cụ Cấp 30/p x 1  /i02020100\nUnlocked    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nCó thể nhận được phòng cụ Chiến Sĩ, Hiệp Khách thích hợp cấp 25-35. Có cơ hội nhận được trang bị sử thi.\n	/i00072/c4bf842Lv.30 Armor Chest/p x 1  /i02020100\nUnlocked    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nCan obtain Warrior and Rogue armor suitable for Lv 25-35. Chance to obtain epic gear.\n
+T	/i00072/c4bf842Hộp Phục Sức Cấp 30/p x 1  /i02020100\nUnlocked    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nCó thể nhận được phòng cụ Pháp Sư, Tu Chân thích hợp cấp 25-35. Có cơ hội nhận được trang bị sử thi.\n	/i00072/c4bf842Lv.30 Outfit Chest/p x 1  /i02020100\nUnlocked    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nCan obtain Mage and Cultivator armor suitable for Lv 25-35. Chance to obtain epic gear.\n
+T	/i00072/c4bf842Hộp Vũ Khí Nhẹ Cấp 30/p x 1  /i02020100\nUnlocked    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nCó thể nhận được kiếm, đạo, nỏ, trượng, cung thích hợp cấp 25-35. Có cơ hội nhận được trang bị sử thi.\n	/i00072/c4bf842Lv.30 Light Weapon Chest/p x 1  /i02020100\nUnlocked    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nCan obtain sword, blade, crossbow, staff, or bow suitable for Lv 25-35. Chance to obtain epic gear.\n
+T	/i00072/c4bf842Rương Vật Liệu II (Gỗ)/p x 1  /i02020100\nAuto-lock    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nĐựng khá nhiều vật liệu kiến trúc\n	/i00072/c4bf842Material Chest II (Wood)/p x 1  /i02020100\nAuto-lock    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nContains a fair amount of construction materials.\n
+T	/i00072/c4bf842Rương Vật Liệu II (Khoáng)/p x 1  /i02020100\nAuto-lock    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nĐựng khá nhiều vật liệu kiến trúc\n	/i00072/c4bf842Material Chest II (Ore)/p x 1  /i02020100\nAuto-lock    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nContains a fair amount of construction materials.\n
+T	/i00072/c4bf842Rương Vật Liệu II (Khoáng)/p x 1\n/i00282/c4bf842Rương Phục Sức Cấp 30 (Khóa)/p x 1\n/i00072/c4bf842Hộp Phục Sức Cấp 30/p x 1\n/i00203/c42adf8Knight Badge/p x 3\n/i00343/c42adf8Earth Elemental/p x 3\n	/i00072/c4bf842Material Chest II (Ore)/p x 1\n/i00282/c4bf842Lv.30 Outfit Chest (Bound)/p x 1\n/i00072/c4bf842Lv.30 Outfit Chest/p x 1\n/i00203/c42adf8Knight Badge/p x 3\n/i00343/c42adf8Earth Elemental/p x 3\n
+T	/i00072/c4bf842Thưởng Rừng Tinh Linh II/p x 1  /i02020100\nAuto-lock    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nReward for completing this quest stage\n	/i00072/c4bf842Spirit Forest Reward II/p x 1  /i02020100\nAuto-lock    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nReward for completing this quest stage\n
+T	/i00073/c42adf8Thưởng Mộ Phong Ấn III/p x 1  /i02020100\nAuto-lock    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nReward for completing this quest stage\n	/i00073/c42adf8Sealed Tomb Reward III/p x 1  /i02020100\nAuto-lock    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nReward for completing this quest stage\n
+T	/i00073/c42adf8Thưởng Núi Nguyệt Nha III/p x 1  /i02020100\nAuto-lock    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nReward for completing this quest stage\n	/i00073/c42adf8Crescent Mountain Reward III/p x 1  /i02020100\nAuto-lock    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nReward for completing this quest stage\n
+T	/i00073/c42adf8Thưởng Rừng Tinh Linh III/p x 1  /i02020100\nAuto-lock    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nReward for completing this quest stage\n	/i00073/c42adf8Spirit Forest Reward III/p x 1  /i02020100\nAuto-lock    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nReward for completing this quest stage\n
+T	/i00111/ce5e5e5Chiến Vương (2 ngày)/p x 1\n	/i00111/ce5e5e5War King (2 Days)/p x 1\n
+T	/i00132/c4bf842Đai Tinh Chú/p x 1  /i020203500\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Belt    /c4bf842Refined/p\n/c00ff00Max HP+277/p           /cb0a67a\nHit+20(Requires Lock)\n/pArmor:   Slash 182  Pierce 283  MP 300\nRequirement: Lv 35  35 Strength/cff0000  11 Constitution/p\nDurability: 150/150\nEquipment suitable for /c00FF00Warriors/p\n	/i00132/c4bf842Star-Cast Belt/p x 1  /i020203500\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Belt    /c4bf842Refined/p\n/c00ff00Max HP+277/p           /cb0a67a\nHit+20(Requires Lock)\n/pArmor:   Slash 182  Pierce 283  MP 300\nRequirement: Lv 35  35 Strength/cff0000  11 Constitution/p\nDurability: 150/150\nEquipment suitable for /c00FF00Warriors/p\n
+T	/i00132/c4bf842Đai Tinh Chú/p x 1\n	/i00132/c4bf842Star-Cast Belt/p x 1\n
+T	/i00133/c42adf8Đai Linh Thường/p x 1  /i020203000\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Belt    /c42adf8Rare/p\n/c00ff00Mana Shield+65/p    /c00ff00Max MP+89/p\n/cb0a67aMana Shield+2%(Requires Lock)\n/p/cb0a67aStrength+5(Requires Lock)\n/pArmor:   Slash 78  Pierce 78  MP 180\nRequirement: Lv 20  4 Constitution/cff0000  40 Wisdom/p\nDurability: 170/170\nEquipment suitable for /c00FF00Cultivators/p\n	/i00133/c42adf8Spirit-Woven Belt/p x 1  /i020203000\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Belt    /c42adf8Rare/p\n/c00ff00Mana Shield+65/p    /c00ff00Max MP+89/p\n/cb0a67aMana Shield+2%(Requires Lock)\n/p/cb0a67aStrength+5(Requires Lock)\n/pArmor:   Slash 78  Pierce 78  MP 180\nRequirement: Lv 20  4 Constitution/cff0000  40 Wisdom/p\nDurability: 170/170\nEquipment suitable for /c00FF00Cultivators/p\n
+T	/i00133/c42adf8Đai Linh Thường/p x 1\n	/i00133/c42adf8Spirit-Woven Belt/p x 1\n
+T	/i00213/c42adf8Mũ Bích Ngọc/p x 1  /i020203750\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Head    /c42adf8Rare/p\n/c00ff00Max HP+112/p            /c00ff00Max MP+80/p\n/cb0a67aStatus Resist+15(Requires Lock)\n/p/cb0a67aMagic Def+5%(Requires Lock)\n/pArmor:   Slash 156  Pierce 186  MP 144\nRequirement: Lv 25/cff0000  8 Constitution/p  25 Agility\nDurability: 170/170\nEquipment suitable for /c00FF00Rogues/p\n	/i00213/c42adf8Jasper Helm/p x 1  /i020203750\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Head    /c42adf8Rare/p\n/c00ff00Max HP+112/p            /c00ff00Max MP+80/p\n/cb0a67aStatus Resist+15(Requires Lock)\n/p/cb0a67aMagic Def+5%(Requires Lock)\n/pArmor:   Slash 156  Pierce 186  MP 144\nRequirement: Lv 25/cff0000  8 Constitution/p  25 Agility\nDurability: 170/170\nEquipment suitable for /c00FF00Rogues/p\n
+T	/i00213/c42adf8Mũ Bích Ngọc/p x 1\n	/i00213/c42adf8Jasper Helm/p x 1\n
+T	/i00221/ce5e5e5Kiếm Vương Giả (5 ngày)/p x 1  /i02020100\nAuto-lock    Mount    /ce5e5e5Common/p\n/c00ff00Constitution+10/p    /c00ff00\nMax HP+300(Lock)\n/p/c00ff00Max MP+300(Lock)\n/pArmor:   Slash 100  Pierce 100  MP 150\nRequirement: Lv 25\nDurability: 150/150\n/c00ff00Duration: 5 days/p   \nQuà nạp thẻ\n	/i00221/ce5e5e5King's Sword (5 Days)/p x 1  /i02020100\nAuto-lock    Mount    /ce5e5e5Common/p\n/c00ff00Constitution+10/p    /c00ff00\nMax HP+300(Lock)\n/p/c00ff00Max MP+300(Lock)\n/pArmor:   Slash 100  Pierce 100  MP 150\nRequirement: Lv 25\nDurability: 150/150\n/c00ff00Duration: 5 days/p   \nTop-up Gift\n
+T	/i00233/c42adf8Giáp Tế Lân/p x 1  /i020203000\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Chest    /c42adf8Rare/p\n/c00ff00Max HP+91/p             /c00ff00Max MP+65/p\n/cb0a67aAtk Speed+10(Requires Lock)\n/p/cb0a67aBlock+3(Requires Lock)\n/pArmor:   Slash 250  Pierce 298  MP 231\nRequirement: Lv 20  6 Constitution  20 Agility\nDurability: 170/170\nEquipment suitable for /c00FF00Rogues/p\n	/i00233/c42adf8Fine-Scale Armor/p x 1  /i020203000\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Chest    /c42adf8Rare/p\n/c00ff00Max HP+91/p             /c00ff00Max MP+65/p\n/cb0a67aAtk Speed+10(Requires Lock)\n/p/cb0a67aBlock+3(Requires Lock)\n/pArmor:   Slash 250  Pierce 298  MP 231\nRequirement: Lv 20  6 Constitution  20 Agility\nDurability: 170/170\nEquipment suitable for /c00FF00Rogues/p\n
+T	/i00242/c4bf842Kiếm Tu My/p x 1  /i020203500\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    1H Sword    /c4bf842Refined/p\nAttack: 30~225      Accuracy: 250\nAttacks: 2 times   Melee Pierce\n/c00ff00Atk Speed+150/p      /c00ff00Dodge +24/p\nRequirement: Lv 35  44 Agility\nDurability: 150/150\n	/i00242/c4bf842Xiumi Sword/p x 1  /i020203500\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    1H Sword    /c4bf842Refined/p\nAttack: 30~225      Accuracy: 250\nAttacks: 2 times   Melee Pierce\n/c00ff00Atk Speed+150/p      /c00ff00Dodge +24/p\nRequirement: Lv 35  44 Agility\nDurability: 150/150\n
+T	/i00244/cffa500Silver Dragon Sword/p -> /i00242/c4bf842Kiếm Tu My/p\nStar Up: ☆  --> ☆  \nLv: 15 -> /c00ff0035/p\nDurability: 156 -> /cff0000150/p\nAttacks: 3 -> /cff00002/p\nDamage: (21~128) -> (/c00ff0030/p~/c00ff00225/p)\nWeapon Accuracy: 224 -> /c00ff00250/p\nEffect 1: /c00ff00Unidentified Stat /p -> /c00ff00Atk Speed+150/p\nEffect 2: /c00ff00Unidentified Stat /p -> /c00ff00Dodge +24/p\nLock effect 1: /c00ff00Unidentified Stat /p -> No effect\nLock effect 2: /c00ff00Unidentified Stat /p -> No effect\n	/i00244/cffa500Silver Dragon Sword/p -> /i00242/c4bf842Xiumi Sword/p\nStar Up: ☆  --> ☆  \nLv: 15 -> /c00ff0035/p\nDurability: 156 -> /cff0000150/p\nAttacks: 3 -> /cff00002/p\nDamage: (21~128) -> (/c00ff0030/p~/c00ff00225/p)\nWeapon Accuracy: 224 -> /c00ff00250/p\nEffect 1: /c00ff00Unidentified Stat /p -> /c00ff00Atk Speed+150/p\nEffect 2: /c00ff00Unidentified Stat /p -> /c00ff00Dodge +24/p\nLock effect 1: /c00ff00Unidentified Stat /p -> No effect\nLock effect 2: /c00ff00Unidentified Stat /p -> No effect\n
+T	/i00282/c4bf842Rương Phòng Cụ Cấp 30 (Khóa)/p x 1\n/i00072/c4bf842Hộp Phòng Cụ Cấp 30/p x 1\n/i00072/c4bf842Rương Vật Liệu II (Gỗ)/p x 1\n/i00203/c42adf8Knight Badge/p x 3\n/i00343/c42adf8Wood Element/p x 3\n	/i00282/c4bf842Lv.30 Armor Chest (Bound)/p x 1\n/i00072/c4bf842Lv.30 Armor Chest/p x 1\n/i00072/c4bf842Material Chest II (Wood)/p x 1\n/i00203/c42adf8Knight Badge/p x 3\n/i00343/c42adf8Wood Element/p x 3\n
+T	/i00282/c4bf842Rương Vũ Khí Nhẹ Cấp 30 (Khóa)/p x 1\n/i00072/c4bf842Hộp Vũ Khí Nhẹ Cấp 30/p x 1\n/i00072/c4bf842Rương Vật Liệu II (Đá)/p x 1\n/i00203/c42adf8Knight Badge/p x 3\n	/i00282/c4bf842Lv.30 Light Weapon Chest (Bound)/p x 1\n/i00072/c4bf842Lv.30 Light Weapon Chest/p x 1\n/i00072/c4bf842Material Chest II (Stone)/p x 1\n/i00203/c42adf8Knight Badge/p x 3\n
+T	/i00302/c4bf842Gỗ Vụn Cấp 3/p x 1\n/i00301/ce5e5e5Lv 2 Scrap Wood/p x 5\n	/i00302/c4bf842Lv 3 Scrap Wood/p x 1\n/i00301/ce5e5e5Lv 2 Scrap Wood/p x 5\n
+T	/i00312/c4bf842Đá Vụn Cấp 3/p x 2\n/i00311/ce5e5e5Crushed Stone Lv 2/p x 3\n	/i00312/c4bf842Lv 3 Scrap Stone/p x 2\n/i00311/ce5e5e5Crushed Stone Lv 2/p x 3\n
+T	/i00331/ce5e5e5Crushed Ore Lv 2/p x 5\n/i00332/c4bf842Khoáng Vụn Cấp 4/p x 1\n	/i00331/ce5e5e5Crushed Ore Lv 2/p x 5\n/i00332/c4bf842Lv 4 Scrap Ore/p x 1\n
+T	1 lần chiến thắng(Achieved)	1 Victory (Achieved)
+T	1-2 ngày	1-2 days
+T	2 lần	2 times
+T	3 lần	3 times
+T	3-4 ngày	3-4 days
+T	4 lần+	4+ times
+T	5 ngày trở lên	5 days or more
+T	Achievement Name: 25 lần chiến thắng\nDescription: Quyết đấu với người chơi khác và giành 25 lần chiến thắng.\nEXP: 1000\nSilver:1000\n	Achievement Name: 25 Victories\nDescription: Duel other players and win 25 times.\nEXP: 1000\nSilver:1000\n
+T	Achievement Name: Có 5 người yêu thầm bạn.\nDescription: Bằng mọi cách để người khác yêu thầm mình. Trong Thế Giới OL, không quan tâm các vấn đề giới tính...\nEXP: 1000\nSilver:1000\n	Achievement Name: 5 Secret Admirers\nDescription: Get others to secretly admire you by any means. In World OL, gender is no barrier...\nEXP: 1000\nSilver:1000\n
+T	Achievement Name: Cống hiến quốc gia đạt 100\nDescription: Thành viên cống hiến vật liệu, tiền cho quốc gia, hoặc hoàn thành nhiệm vụ quốc gia, sẽ nhận được Cống Hiến. Sau khi nhận Cống Hiến có thể đổi phần thưởng của lãnh đạo quốc gia\nEXP: 1000\nSilver:1000\n	Achievement Name: Reach 100 Nation Contribution\nDescription: Members earn Contribution by donating materials or money to their nation, or completing nation quests. Contribution can be exchanged for rewards from the nation leader.\nEXP: 1000\nSilver:1000\n
+T	Achievement Name: Hình được 5 bình luận\nDescription: Người chơi khác có thể bình luận hình của bạn. Đương nhiên có lẽ họ sẽ còn yêu thầm bạn.\nEXP: 1000\nSilver:1000\n	Achievement Name: 5 Photo Comments\nDescription: Other players can comment on your photo. Of course, they might even develop a secret crush on you.\nEXP: 1000\nSilver:1000\n
+T	Achievement Name: Hạ 100 quái\nDescription: Chiến đấu và hạ quái vật\nEXP: 1000\nSilver:1000\n	Achievement Name: Defeat 100 Monsters\nDescription: Fight and defeat monsters.\nEXP: 1000\nSilver:1000\n
+T	Achievement Name: Hạ 2000 quái\nDescription: Chiến đấu và hạ quái vật\nEXP: 1000\nSilver:1000\n	Achievement Name: Defeat 2000 Monsters\nDescription: Fight and defeat monsters.\nEXP: 1000\nSilver:1000\n
+T	Achievement Name: Hạ 500 quái\nDescription: Chiến đấu và hạ quái vật\nEXP: 1000\nSilver:1000\n	Achievement Name: Defeat 500 Monsters\nDescription: Fight and defeat monsters.\nEXP: 1000\nSilver:1000\n
+T	Achievement Name: Nạp lần đầu\nDescription: Tại Hệ thống-Nạp thẻ tiến hành nạp, dùng tiền mua Vàng và Kim Diệp. Nhận thành tựu thành công, sẽ nhận được 1 /c00FF00thú cưỡi hào hoa/p.\nObtain Achievement Title: /c00ff00Ấn Tượng!/p\nEXP: 5000\nSilver:5000\n/i00072/c4bf842Masked Knight Egg (Rare)/p	Achievement Name: First Top-Up\nDescription: Top up via System - Top-Up to purchase Gold and Gold Leaves. Completing this achievement grants a /c00FF00luxury mount/p.\nObtain Achievement Title: /c00ff00Impressive!/p\nEXP: 5000\nSilver:5000\n/i00072/c4bf842Masked Knight Egg (Rare)/p
+T	Achievement Name: Thêm 10 bạn\nDescription: Có thể thêm người chơi trên kênh chat hoặc gặp trong game thành bạn. Hãy thêm 10 bạn.\nEXP: 1000\nSilver:1000\n	Achievement Name: Add 10 Friends\nDescription: You can add players from chat or encountered in-game as friends. Add 10 friends.\nEXP: 1000\nSilver:1000\n
+T	Achievement Name: Thăng lên cấp 40\nDescription: Thông qua exp nhiệm vụ, chiến đấu với quái vật, nhận thành tựu... giúp nhân vật thăng lên cấp 40\nEXP: 1000\nSilver:1000\n	Achievement Name: Reach Lv 40\nDescription: Gain EXP through quests, defeating monsters, achievements, and more to reach Lv 40.\nEXP: 1000\nSilver:1000\n
+T	Achievement Name: Trở thành VIP\nDescription: Trở thành VIP trong Thế Giới OL là đạt thành tựu này.\nObtain Achievement Title: /c00ff00VIP Thế Giới/p\nEXP: 30000\n	Achievement Name: Become VIP\nDescription: Become a VIP in World OL to earn this achievement.\nObtain Achievement Title: /c00ff00World VIP/p\nEXP: 30000\n
+T	Achievement Name: Tải 1 bức hình\nDescription: Trong game có chức năng chụp hình, mở trong Thuộc tính nhân vật. Chụp xong, CS sẽ kiểm tra hình. Nếu hình không phải chụp người, sẽ không được thông qua, hình đồi trụy càng không được.\nEXP: 1000\nSilver:1000\n	Achievement Name: Upload 1 Photo\nDescription: There is a photo feature in Character Stats. After taking a photo, Customer Service will review it. Non-human photos will not be approved, and explicit photos are strictly prohibited.\nEXP: 1000\nSilver:1000\n
+T	Achievement Name: Tổng điểm thuộc tính Thể Lực đạt 50\nDescription: Thông qua phân phối điểm thuộc tính, đổi trang bị, khảm bảo thạch và học kĩ năng để tăng tổng thuộc tính Thể Lực\nEXP: 1000\nSilver:1000\n	Achievement Name: Total Constitution Reaches 50\nDescription: Increase your total Constitution through stat allocation, equipping gear, inlaying gems, and learning skills.\nEXP: 1000\nSilver:1000\n
+T	Are you sure you want to sell /i00012/c4bf842Găng Dự Ngôn/p?	Are you sure you want to sell /i00012/c4bf842Prophecy Gloves/p?
+T	Are you sure you want to sell /i00024/cffa500Hộ Vai Chu Hồng/p?	Are you sure you want to sell /i00024/cffa500Crimson Shoulder Guards/p?
+T	Are you sure you want to sell /i00132/c4bf842Đai Tinh Chú/p?	Are you sure you want to sell /i00132/c4bf842Star-Cast Belt/p?
+T	Are you sure you want to sell /i00133/c42adf8Đai Linh Thường/p?	Are you sure you want to sell /i00133/c42adf8Spirit-Woven Belt/p?
+T	Are you sure you want to sell /i00213/c42adf8Mũ Bích Ngọc/p?	Are you sure you want to sell /i00213/c42adf8Jasper Helm/p?
+T	Are you sure you want to sell /i00233/c42adf8Giáp Tế Lân/p?	Are you sure you want to sell /i00233/c42adf8Fine-Scale Armor/p?
+T	Are you sure you want to sell /i00242/c4bf842Kiếm Tu My/p?	Are you sure you want to sell /i00242/c4bf842Xiumi Sword/p?
+T	Bảo Thạch lấp Lánh	Sparkling Gem
+T	Bẫy! (/cFFFF00Mục Sư không cẩn thận đụng phải bẫy trong mộ huyệt, xung quanh xuất hiện 1 bầy/cff0000Ác Ma Rối/p./p)	A trap! (/cFFFF00The Priest accidentally triggered a trap in the tomb, and a pack of /cff0000Puppet Demon/p appears all around./p)
+T	Bằng mọi cách để người khác yêu thầm mình. Trong Thế Giới OL, không quan tâm các vấn đề giới tính...	Get others to secretly admire you by any means. In World OL, gender is no barrier...
+T	Bị thương nặng vậy còn có thể phản kháng?	Even with wounds this severe, you can still fight back?
+T	Bọn mi cứu được rừng sao?	Do you really think you can save the forest?
+T	Bọn mi dám vào gây rối trong địa bàn của ta?	You dare come cause trouble on my turf?
+T	Chó săn Thành Thái Dương trúng kế rồi chứ?	Sun City hounds, walked right into the trap, didn't you?
+T	Chúng ta bị bao vây rồi! Đây là kế Ác Ma bày ra.\n	We're surrounded! This was a trap set by the Demons.\n
+T	Chúng ta hãy tới sào huyệt Cướp /cFFFFFFRừng Tinh Linh/p, đợi đội dung binh tạp hợp xong sẽ phá hủy sào huyệt của chúng. Cầm lấy vũ khí của mi, theo ta tới /cFFFFFFRừng Tinh Linh/p tìm Cướp tính sổ!	Let's head to the Bandit lair in /cFFFFFFSpirit Forest/p. Once the mercenary squad regroups, we'll destroy their hideout. Grab your weapon and follow me to /cFFFFFFSpirit Forest/p to settle the score!
+T	Chúng ta nhanh chóng rời khỏi đây	Let's get out of here quickly.
+T	Chúng ta phát hiện cửa vào /cFFFFFFGóc Rừng/p . nghe nói nơi đó từng bị phong ấn, nhưng giờ đã mở. Đám Cướp không dám vào. Nếu mi thích hãy vào điều tra.	We found the entrance to /cFFFFFFForest Corner/p. Rumor says it was once sealed, but now it's open. Even the Bandits dare not go in. Feel free to investigate if you like.
+T	Chúng ta phải nhanh chóng rời khỏi đây, /cFFFFFFĐi tới khu rừng bên trái/p sẽ tới trung tâm, cần ngăn cản /cff0000Lợi Nhẫn/p ở trung tâm!	We need to leave here quickly. /cFFFFFFHead to the forest on the left/p to reach the center—we must stop /cff0000Sharp Blade/p at the Forest Center!
+T	Chúng đang cướp của thương đội đi qua. Nhưng lần này chúng xui xẻo gặp phải Đội Dung Binh chúng ta! Cùng tiêu diệt /cff0000Cướp Cản Đường/p, cứu thương đội.	They're robbing passing caravans. Too bad for them they ran into our Mercenary Squad this time! Let's defeat /cff0000Roadblock Bandit/p together and save the caravan.
+T	Chúng đã chuyển hàng hóa tới nơi khác rồi.	They've already moved the goods elsewhere.
+T	Chỉ cần khống chế được /cff0000Mộng Yểm/p, cả thế giới này sẽ là của chúng ta. Chả bao lâu nữa /cff0000Mộng Yểm/p sẽ hồi sinh!! (/cFFFF00Kích phát chiến đấu với /cff0000Sứ Đồ/p, đối thoại xong lập tức vào chiến đấu./p)\n\n/cffff00Objective: /pDefeat /cffff00Apostle Lieutenant/p /cff00000/1/p\n/cffff00Reward:/pExp 4000  Silver4000  \n	Once we control /cff0000Nightmare/p, this entire world will be ours. Soon /cff0000Nightmare/p will revive!! (/cFFFF00Triggers battle with /cff0000Apostle/p immediately after dialogue./p)\n\n/cffff00Objective: /pDefeat /cffff00Apostle Lieutenant/p /cff00000/1/p\n/cffff00Reward:/pExp 4000  Silver4000  \n
+T	Chỉ cần trở thành chủ nhân của /cff0000Mộng Yểm/p cả thế giới này sẽ thuộc về ta! Bộc nhân trung thành của ta /cff0000Sứ Ma Triệu Hồi/p, hãy ra đi, tiêu diệt kẻ địch trước mặt!\n\n/cffff00Objective: /pDefeat /cffff00Summoned Familiar/p /cff00000/2/p\n/cffff00Reward:/pExp 4000  Silver4000  \n	Once I become master of /cff0000Nightmare/p, this entire world will belong to me! My loyal servant /cff0000Summoned Familiar/p, go forth and destroy the enemies before me!\n\n/cffff00Objective: /pDefeat /cffff00Summoned Familiar/p /cff00000/2/p\n/cffff00Reward:/pExp 4000  Silver4000  \n
+T	Complete quest </c00ff00Huyết ấn của Pháp Sư Quên/p>\nComplete quest </c00ff00Huyết ấn của Kị Sĩ Chết/p>\nComplete quest </c00ff00Huyết ấn của Mỹ Lạp Hai Đầu/p>	Complete quest </c00ff00Forgotten Mage's Blood Seal/p>\nComplete quest </c00ff00Death Knight's Blood Seal/p>\nComplete quest </c00ff00Two-Headed Mira's Blood Seal/p>
+T	Complete quest </cff0000Huyết ấn của Pháp Sư Quên/p>\nComplete quest </cff0000Huyết ấn của Kị Sĩ Chết/p>\nComplete quest </cff0000Huyết ấn của Mỹ Lạp Hai Đầu/p>	Complete quest </cff0000Forgotten Mage's Blood Seal/p>\nComplete quest </cff0000Death Knight's Blood Seal/p>\nComplete quest </cff0000Two-Headed Mira's Blood Seal/p>
+T	Completed quest </cffff00Báo thù cho các chiến sĩ đã chết/p>\nUse auto-pathfinding?	Completed quest </cffff00Avenge the Fallen Warriors/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Bẫy của mộ huyệt/p>\nUse auto-pathfinding?	Completed quest </cffff00Tomb Trap/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Hiền Giả bị thương/p>\nUse auto-pathfinding?	Completed quest </cffff00Wounded Sage/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Huynh đệ tương tàn/p>\nUse auto-pathfinding?	Completed quest </cffff00Brother Against Brother/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Huyết ấn của Kị Sĩ Chết/p>\nUse auto-pathfinding?	Completed quest </cffff00Death Knight's Blood Seal/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Huyết ấn của Mỹ Lạp Hai Đầu/p>\nUse auto-pathfinding?	Completed quest </cffff00Two-Headed Mira's Blood Seal/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Huyết ấn của Pháp Sư Quên/p>\nUse auto-pathfinding?	Completed quest </cffff00Forgotten Mage's Blood Seal/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Huyết ấn Ác Ma/p>\nUse auto-pathfinding?	Completed quest </cffff00Demon Blood Seal/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Màu xanh xấu xa/p>\nUse auto-pathfinding?	Completed quest </cffff00Wicked Green/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Mộ huyệt nguy hiểm/p>\nUse auto-pathfinding?	Completed quest </cffff00Dangerous Tomb/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Quân đoàn Ác Ma/p>\nUse auto-pathfinding?	Completed quest </cffff00Demon Legion/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Tâm nguyện của chiến hữu đã chết/p>\nUse auto-pathfinding?	Completed quest </cffff00Fallen Comrade's Wish/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00[Phụ mới]Vào Trung Tâm Rừng/p>\nUse auto-pathfinding?	Completed quest </cffff00[New Sub] Enter Forest Center/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Ác Ma trong mộ huyệt/p>\nUse auto-pathfinding?	Completed quest </cffff00Demons in the Tomb/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Đào mộ/p>\nUse auto-pathfinding?	Completed quest </cffff00Tomb Raiding/p>\nUse auto-pathfinding?
+T	Completed quest </cffff00Đám đông Sứ Đồ/p>\nUse auto-pathfinding?	Completed quest </cffff00Horde of Apostles/p>\nUse auto-pathfinding?
+T	Cung Hộ Vệ	Guardian Bow
+T	Cuối đường là Trung Tâm Rừng, ta thấy ở trong có ma lực bất thường. /cff0000Lý Ngõa Nhĩ/p đã đợi mi ở phía trước.\n\n	At the end of the path lies the Forest Center—I sense unusual magic within. /cff0000Li Waer/p is already waiting for you ahead.\n\n
+T	Cuồng Chiến Sĩ	Berserker
+T	Có chiến hữu như mi, ta sẽ không phải sợ nữa, chúng ta sẽ chiến thắng tà ác. Đi, chúng ta phải ngăn cản mọi thứ.\n\n	With a comrade like you, I have nothing left to fear—we will triumph over evil. Come on, we must put a stop to all of this.\n\n
+T	Có cơ hội nhận được trang bị sử thi.	Chance to obtain epic gear.
+T	Có giết hết đám ác ma này cũng không làm hả cơn giận của ta.\n/cffff00Done: /pDemolish/cffff00Đao Lục Bì/p/cff000020/20/p\n/cffff00Reward:/pExp 4000  Silver2000  \n	Even slaughtering all these demons won't quell my rage.\n/cffff00Done: /pDefeat /cffff00Greenhide Blade/p /cff000020/20/p\n/cffff00Reward:/pExp 4000  Silver2000  \n
+T	Có mi, Cướp sẽ không dám lộng hành	With you around, the Bandits won't dare run wild.
+T	Có thể nhận được kiếm, đạo, nỏ, trượng, cung thích hợp cấp 25-35. Có cơ hội nhận được trang bị sử thi.	Can obtain sword, blade, crossbow, staff, or bow suitable for Lv 25-35. Chance to obtain epic gear.
+T	Có thể nhận được phòng cụ Chiến Sĩ, Hiệp Khách thích hợp cấp 25-35. Có cơ hội nhận được trang bị sử thi.	Can obtain Warrior and Rogue armor suitable for Lv 25-35. Chance to obtain epic gear.
+T	Có thể nhận được phòng cụ Pháp Sư, Tu Chân thích hợp cấp 25-35. Có cơ hội nhận được trang bị sử thi.	Can obtain Mage and Cultivator armor suitable for Lv 25-35. Chance to obtain epic gear.
+T	Có thể thêm người chơi trên kênh chat hoặc gặp trong game thành bạn. Hãy thêm 10 bạn.	You can add players from chat or encountered in-game as friends. Add 10 friends.
+T	Cùng tới /cFFFFFFsườn núi phía tây/p, hủy cứ điểm của Cướp!	Let's head to the /cFFFFFFwestern mountainside/p together and destroy the Bandit outpost!
+T	Cơ hội rút thưởng VIP+1	VIP Lucky Draw Chance +1
+T	Cướp khiến thương đội chúng ta không thể làm ăn. Chúng còn lập cứ điểm ở /cFFFFFFsườn núi phía tây/p, thôi vận chuyển hàng hóa vào thành rồi tính	The Bandits have made it impossible for our caravan to do business. They even set up an outpost on the /cFFFFFFwestern mountainside/p. Forget it—let's haul the goods into the city first.
+T	Cấp bách	Urgent
+T	Cấp quá thấp, tiếp tục đi sẽ nguy hiểm tính mạng. Khi đạt cấp 25 hãy đến tìm ta.	Your level is too low—going further will put your life in danger. Come find me once you reach Lv 25.
+T	Cứ tưởng /cff0000Địa Linh Ác Ma/p rất ngu ngốc, không ngờ lại biết đặt bẫy chúng ta. Chúng ta không thể chết ở đây, hãy diệt /cff0000Địa Linh Ác Ma/p, sau đó rời khỏi đây.	I thought /cff0000Earth Spirit Demon/p was mindless, yet it knew how to set a trap for us. We can't die here—defeat /cff0000Earth Spirit Demon/p and get out.
+T	Cự Ma Thủ Hộ	Guardian Giant Demon
+T	Demolish/cffff00A Bá/p/cff00000/1/p	Defeat /cffff00A Ba/p /cff00000/1/p
+T	Demolish/cffff00A Bá/p/cff00001/1/p	Defeat /cffff00A Ba/p /cff00001/1/p
+T	Demolish/cffff00Gác Mộ/p/cff00000/3/p	Defeat /cffff00Tomb Guard/p /cff00000/3/p
+T	Demolish/cffff00Gác Mộ/p/cff00003/3/p	Defeat /cffff00Tomb Guard/p /cff00003/3/p
+T	Demolish/cffff00Ma Dơi/p/cff00000/18/p	Defeat /cffff00Demon Bat/p /cff00000/18/p
+T	Demolish/cffff00Mạt Cát/p/cff00000/1/p	Defeat /cffff00Ma Ji/p /cff00000/1/p
+T	Demolish/cffff00Mạt Cát/p/cff00001/1/p	Defeat /cffff00Ma Ji/p /cff00001/1/p
+T	Demolish/cffff00Mỹ Lạp Hai Đầu/p/cff00000/1/p	Defeat /cffff00Two-Headed Mira/p /cff00000/1/p
+T	Demolish/cffff00Mỹ Lạp Hai Đầu/p/cff00001/1/p	Defeat /cffff00Two-Headed Mira/p /cff00001/1/p
+T	Demolish/cffff00Ngưu Đầu/p/cff00000/12/p\nDemolish/cffff00Xương Tử Linh/p/cff00000/12/p	Defeat /cffff00Minotaur/p /cff00000/12/p\nDefeat /cffff00Undead Skeleton/p /cff00000/12/p
+T	Demolish/cffff00Ngưu Đầu/p/cff000012/12/p\nDemolish/cffff00Xương Tử Linh/p/cff000012/12/p	Defeat /cffff00Minotaur/p /cff000012/12/p\nDefeat /cffff00Undead Skeleton/p /cff000012/12/p
+T	Demolish/cffff00Sứ Đồ/p/cff00000/18/p	Defeat /cffff00Apostle/p /cff00000/18/p
+T	Demolish/cffff00Sứ Đồ/p/cff00000/9/p	Defeat /cffff00Apostle/p /cff00000/9/p
+T	Demolish/cffff00Sứ Đồ/p/cff000018/18/p	Defeat /cffff00Apostle/p /cff000018/18/p
+T	Demolish/cffff00Sứ Đồ/p/cff00009/9/p	Defeat /cffff00Apostle/p /cff00009/9/p
+T	Demolish/cffff00Tử Linh Xạ Thủ/p/cff00000/16/p	Defeat /cffff00Undead Archer/p /cff00000/16/p
+T	Demolish/cffff00Ác Ma Rối/p/cff00000/20/p	Defeat /cffff00Puppet Demon/p /cff00000/20/p
+T	Demolish/cffff00Ác Ma Rối/p/cff000020/20/p	Defeat /cffff00Puppet Demon/p /cff000020/20/p
+T	Demolish/cffff00Đao Lục Bì/p/cff00000/20/p	Defeat /cffff00Greenhide Blade/p /cff00000/20/p
+T	Demolish/cffff00Đao Lục Bì/p/cff000015/15/p	Defeat /cffff00Greenhide Blade/p /cff000015/15/p
+T	Demolish/cffff00Đao Lục Bì/p/cff000020/20/p	Defeat /cffff00Greenhide Blade/p /cff000020/20/p
+T	Demolish/cffff00Độc Ma/p/cff00000/1/p	Defeat /cffff00Poison Demon/p /cff00000/1/p
+T	Demolish/cffff00Độc Ma/p/cff00001/1/p	Defeat /cffff00Poison Demon/p /cff00001/1/p
+T	Description: Bằng mọi cách để người khác yêu thầm mình. Trong Thế Giới OL, không quan tâm các vấn đề giới tính...	Description: Get others to secretly admire you by any means. In World OL, gender is no barrier...
+T	Description: Chiến đấu và hạ quái vật	Description: Fight and defeat monsters.
+T	Description: Có thể thêm người chơi trên kênh chat hoặc gặp trong game thành bạn. Hãy thêm 10 bạn.	Description: You can add players from chat or encountered in-game as friends. Add 10 friends.
+T	Description: Người chơi khác có thể bình luận hình của bạn. Đương nhiên có lẽ họ sẽ còn yêu thầm bạn.	Description: Other players can comment on your photo. Of course, they might even develop a secret crush on you.
+T	Description: Quyết đấu với người chơi khác và giành 25 lần chiến thắng.	Description: Duel other players and win 25 times.
+T	Description: Thành viên cống hiến vật liệu, tiền cho quốc gia, hoặc hoàn thành nhiệm vụ quốc gia, sẽ nhận được Cống Hiến. Sau khi nhận Cống Hiến có thể đổi phần thưởng của lãnh đạo quốc gia	Description: Members earn Contribution by donating materials or money to their nation, or completing nation quests. Contribution can be exchanged for rewards from the nation leader.
+T	Description: Thông qua exp nhiệm vụ, chiến đấu với quái vật, nhận thành tựu... giúp nhân vật thăng lên cấp 40	Description: Gain EXP through quests, defeating monsters, achievements, and more to reach Lv 40.
+T	Description: Thông qua phân phối điểm thuộc tính, đổi trang bị, khảm bảo thạch và học kĩ năng để tăng tổng thuộc tính Thể Lực	Description: Increase your total Constitution through stat allocation, equipping gear, inlaying gems, and learning skills.
+T	Description: Trong game có chức năng chụp hình, mở trong Thuộc tính nhân vật. Chụp xong, CS sẽ kiểm tra hình. Nếu hình không phải chụp người, sẽ không được thông qua, hình đồi trụy càng không được.	Description: There is a photo feature in Character Stats. After taking a photo, Customer Service will review it. Non-human photos will not be approved, and explicit photos are strictly prohibited.
+T	Description: Trở thành VIP trong Thế Giới OL là đạt thành tựu này.	Description: Become a VIP in World OL to earn this achievement.
+T	Diệt /cff0000Cướp Cản Đường/p ở phía trước thương đội	Defeat /cff0000Roadblock Bandit/p ahead of the caravan.
+T	Diệt /cff0000Kiếm Sĩ Xương/p, không để chúng tiến thêm	Defeat /cff0000Skeleton Swordsman/p and stop their advance.
+T	Diệt /cff0000Lục Ma/p và /cff0000Hồng Ma/p mà Lợi Nhẫn triệu hồi	Defeat the /cff0000Green Demon/p and /cff0000Red Demon/p summoned by Sharp Blade.
+T	Diệt /cff0000Ma Dơi/p, cẩn thận đừng để nó hút máu.\n/cffff00Objective: /pDemolish/cffff00Ma Dơi/p/cff00000/18/p\nUse auto-pathfinding?	Defeat /cff0000Demon Bat/p, and watch out for its life drain.\n/cffff00Objective: /pDefeat /cffff00Demon Bat/p /cff00000/18/p\nUse auto-pathfinding?
+T	Diệt /cff0000Ngưu Đầu/p và /cff0000Xương Tử Linh/p, chúng ta cùng vào nội đường tìm Hiền Giả	Defeat /cff0000Minotaur/p and /cff0000Undead Skeleton/p, then let's enter the Inner Hall to find the Sage.
+T	Diệt /cff0000Sứ Ma Triệu Hồi/p	Defeat /cff0000Summoned Familiar/p
+T	Diệt /cff0000Đao Cường/p và /cff0000Cướp Râu Đen/p , rồi đánh bại đầu lĩnh/cff0000Đao Cường Tinh Anh/p	Defeat /cff0000Dao Qiang/p and /cff0000Blackbeard Bandit/p, then defeat their leader /cff0000Elite Dao Qiang/p.
+T	Diệt /cff0000Đao Lục Bì/p đột nhiên xuất hiện\n/cffff00Objective: /pDefeat /cffff00Greenhide Blade/p /cff00000/9/p\nUse auto-pathfinding?	Defeat the /cff0000Greenhide Blade/p that suddenly appeared.\n/cffff00Objective: /pDefeat /cffff00Greenhide Blade/p /cff00000/9/p\nUse auto-pathfinding?
+T	Diệt /cff0000Địa Linh Ác Ma/p, chúng ta không thể chết ở đây	Defeat /cff0000Earth Spirit Demon/p—we cannot die here.
+T	Diệt 12 /cff0000Ngưu Đầu/p và 12 /cff0000Xương Tử Linh/p \n/cffff00Objective: /pDemolish/cffff00Ngưu Đầu/p/cff00000/12/p\nDemolish/cffff00Xương Tử Linh/p/cff00000/12/p\nUse auto-pathfinding?	Defeat 12 /cff0000Minotaur/p and 12 /cff0000Undead Skeleton/p.\n/cffff00Objective: /pDefeat /cffff00Minotaur/p /cff00000/12/p\nDefeat /cffff00Undead Skeleton/p /cff00000/12/p\nUse auto-pathfinding?
+T	Diệt 14 /cff0000Cướp Canh Gác/p và 14 /cff0000Sói Thuần Hóa/p vào trông sơn trại nói chuyện với /cff0000Đội Dung Binh-Phi Nhĩ/p	Defeat 14 /cff0000Bandit Sentry/p and 14 /cff0000Tamed Wolf/p, then enter the bandit camp and speak with /cff0000Mercenary Squad - Fei Er/p.
+T	Diệt 15 /cff0000Cướp Đi Tuần/p	Defeat 15 /cff0000Patrolling Bandit/p
+T	Diệt 15 /cff0000Kiếm Sĩ Xương/p\n/cffff00Objective: /pDemolish/cffff00Skeleton Swordsman/p/cff00000/15/p\nUse auto-pathfinding?	Defeat 15 /cff0000Skeleton Swordsman/p\n/cffff00Objective: /pDefeat /cffff00Skeleton Swordsman/p /cff00000/15/p\nUse auto-pathfinding?
+T	Diệt 15 /cff0000Xác Tử Linh/p\n/cffff00Objective: /pDefeat /cffff00Undead Corpse/p /cff00000/15/p\nUse auto-pathfinding?	Defeat 15 /cff0000Undead Corpse/p\n/cffff00Objective: /pDefeat /cffff00Undead Corpse/p /cff00000/15/p\nUse auto-pathfinding?
+T	Diệt 15 /cff0000Đao Lục Bì/p	Defeat 15 /cff0000Greenhide Blade/p
+T	Diệt 15/cff0000Tiểu Ác Ma/p	Defeat 15 /cff0000Imp/p
+T	Diệt 16 /cff0000Cướp Canh Gác/p và 16 /cff0000Sói Thuần Hóa/p	Defeat 16 /cff0000Bandit Sentry/p and 16 /cff0000Tamed Wolf/p
+T	Diệt 16 /cff0000Tử Linh Xạ Thủ/p	Defeat 16 /cff0000Undead Archer/p
+T	Diệt 16 /cff0000Địa Linh Ác Ma/p	Defeat 16 /cff0000Earth Spirit Demon/p
+T	Diệt 18 /cff0000Sứ Đồ/p\n/cffff00Objective: /pDemolish/cffff00Sứ Đồ/p/cff00000/18/p\nUse auto-pathfinding?	Defeat 18 /cff0000Apostle/p\n/cffff00Objective: /pDefeat /cffff00Apostle/p /cff00000/18/p\nUse auto-pathfinding?
+T	Diệt 2 /cff0000Sứ Ma Triệu Hồi/p\n/cffff00Objective: /pDefeat /cffff00Summoned Familiar/p /cff00000/2/p\nUse auto-pathfinding?	Defeat 2 /cff0000Summoned Familiar/p\n/cffff00Objective: /pDefeat /cffff00Summoned Familiar/p /cff00000/2/p\nUse auto-pathfinding?
+T	Diệt 20 /cff0000Cướp Đi Tuần/p	Defeat 20 /cff0000Patrolling Bandit/p
+T	Diệt 20 /cff0000Kiếm Sĩ Xương/p\n/cffff00Objective: /pDemolish/cffff00Skeleton Swordsman/p/cff00000/20/p\nUse auto-pathfinding?	Defeat 20 /cff0000Skeleton Swordsman/p\n/cffff00Objective: /pDefeat /cffff00Skeleton Swordsman/p /cff00000/20/p\nUse auto-pathfinding?
+T	Diệt 20 /cff0000Sứ Ma/p , vào trong mộ huyệt nói chuyện với /cff0000Mục Sư/p\n/cffff00Objective: /pDefeat /cffff00Apostle Familiar/p /cff00000/20/p\nUse auto-pathfinding?	Defeat 20 /cff0000Apostle Familiar/p, then enter the tomb and talk to /cff0000Priest/p\n/cffff00Objective: /pDefeat /cffff00Apostle Familiar/p /cff00000/20/p\nUse auto-pathfinding?
+T	Diệt 20 /cff0000Ác Ma Rối/p\n/cffff00Objective: /pDemolish/cffff00Ác Ma Rối/p/cff00000/20/p\nUse auto-pathfinding?	Defeat 20 /cff0000Puppet Demon/p\n/cffff00Objective: /pDefeat /cffff00Puppet Demon/p /cff00000/20/p\nUse auto-pathfinding?
+T	Diệt 20 /cff0000Đao Lục Bì/p\n/cffff00Objective: /pDemolish/cffff00Đao Lục Bì/p/cff00000/20/p\nUse auto-pathfinding?	Defeat 20 /cff0000Greenhide Blade/p\n/cffff00Objective: /pDefeat /cffff00Greenhide Blade/p /cff00000/20/p\nUse auto-pathfinding?
+T	Diệt dư đảng của ác ma là việc khó khăn	Wiping out the demon remnants is no easy task.
+T	Diệt đám /cff0000Cướp Đi Tuần/p. Sau đó lại gần Cổng Lớn quan sát tình hình trong sơn trại, đừng kinh động tới người trong sơn trại	Defeat the /cff0000Patrolling Bandit/p group, then approach the Main Gate to scout inside the camp without alerting anyone.
+T	Dám liên thủ với ác ma.	How dare you ally with demons.
+T	Dực Thủ Tộc	Winged Tribe
+T	Giáp Bạch Nhai x 1	White Cliff Armor x 1
+T	Giúp Hiền Giả đánh bại /cff0000Gác Mộ/p trước mặt\n/cffff00Objective: /pDemolish/cffff00Gác Mộ/p/cff00000/3/p\nUse auto-pathfinding?	Help the Sage defeat /cff0000Tomb Guard/p ahead.\n/cffff00Objective: /pDefeat /cffff00Tomb Guard/p /cff00000/3/p\nUse auto-pathfinding?
+T	Giúp ta diệt 15 /cff0000Kiếm Sĩ Xương/p	Help me defeat 15 /cff0000Skeleton Swordsman/p.
+T	Giải cứu thương đội	Rescue the Caravan
+T	Giờ bọn mi mọc cánh cũng khó bay! Các huynh đệ xông lên, tiêu diệt chúng!	Even with wings, you won't escape now! Charge, brothers—wipe them out!
+T	Giờ hãy tới xem sao, có lẽ sẽ có cách	Let's go take a look now—there might be a way.
+T	Góp 1 Chỉ Lệnh Thư cho quốc gia	Donate 1 Order Book to the Nation
+T	Gửi thất bại: Thấp hơn cấp 35 không thể chat thế giới	Failed to send: Players below Lv 35 cannot use World Chat
+T	Hi vọng chúng không tới gây rối nữa.	Hopefully they won't come back to cause trouble.
+T	Hi vọng có 1 ngày rừng xanh sẽ hồi phục lại bình thường.\n/cffff00Done: /pDemolish/cffff00Đao Lục Bì/p/cff000015/15/p\n/cffff00Reward:/pExp 3000  Silver1000  \n	I hope one day the green forest will return to normal.\n/cffff00Done: /pDefeat /cffff00Greenhide Blade/p /cff000015/15/p\n/cffff00Reward:/pExp 3000  Silver1000  \n
+T	Hi vọng có thể ngăn Mộng Yểm hồi sinh	Hopefully we can stop Nightmare from reviving.
+T	Hiện số lớn nhất là 955, phần thưởng có thể nhiều người nhận, không rút được số lớn nhất hoặc số may mắn có thể tiếp tục thử vận may!	The highest number so far is 955. Rewards can be claimed by multiple players—if you didn't draw the highest or a lucky number, keep trying your luck!
+T	Hiện số lớn nhất là 970, phần thưởng có thể nhiều người nhận, không rút được số lớn nhất hoặc số may mắn có thể tiếp tục thử vận may!	The highest number so far is 970. Rewards can be claimed by multiple players—if you didn't draw the highest or a lucky number, keep trying your luck!
+T	Hoàn thành giai đoạn Núi Nguyệt Nha cao cấp	Complete Advanced Crescent Mountain Stage
+T	Hoàn thành nhiệm vụ Mộ Phong Ấn trung cấp	Complete Intermediate Sealed Tomb Quest
+T	Hãy diệt /cff0000Đao Lục Bì/p, đừng để chúng  gây họa cho rừng.	Defeat /cff0000Greenhide Blade/p and don't let them plague the forest.
+T	Hãy giúp ta đánh bại /cff0000Gác Mộ/p trước mặt.	Help me defeat the /cff0000Tomb Guard/p ahead.
+T	Hãy tiêu diệt các chướng ngại này, phá sào huyệt của Cướp.	Clear these obstacles and destroy the Bandit lair.
+T	Hãy tới tìm 2 bằng hữu của ta, /cff0000Lý Ngõa Nhĩ/p và /cff0000Lạp Na/p họ đều là những chiến sĩ tinh anh. Hội hợp với họ rồi chúng ta đánh tới Trung Tâm Rừng.	Go find my two companions, /cff0000Li Waer/p and /cff0000Lana/p—they are both elite warriors. Regroup with them, then we'll push toward the Forest Center.
+T	Hãy đánh bại /cff0000Sứ Đồ/p, cứu Ác Ma!	Defeat /cff0000Apostle/p and rescue the Demon!
+T	Hãy đốt Đạn Hiệu ở đây đi. (/cFFFF00Đốt Đạn Hiệu thành công, về báo cho /cff0000Hạo Khắc/p./p)	Fire the Signal Flare here. (/cFFFF00Signal Flare fired successfully—report back to /cff0000Hawke/p./p)
+T	Hôm nay mi sẽ chết dưới chân /cff0000Lục Ma/p và /cff0000Hồng Ma/p!	Today you will die beneath /cff0000Green Demon/p and /cff0000Red Demon/p!
+T	Hùng khu sơ cấp tìm và hạ Hàn Hàn (Sơ cấp)	Novice Hero Zone: find and defeat Han Han (Novice)
+T	Hạ /cff0000Ác Ma Rối/p thu thập 15 /cFFFF00Bảo Thạch/p\n/cffff00Objective: /pReceived/cffff00Bảo Thạch/p/cff00000/15/p\nUse auto-pathfinding?	Defeat /cff0000Puppet Demon/p to collect 15 /cFFFF00Gem/p.\n/cffff00Objective: /pReceived /cffff00Gem/p /cff00000/15/p\nUse auto-pathfinding?
+T	Hạ 100 quái(Achieved)	Defeat 100 Monsters (Achieved)
+T	Hạ 2000 quái(Achieved)	Defeat 2000 Monsters (Achieved)
+T	Hạ 500 quái(Achieved)	Defeat 500 Monsters (Achieved)
+T	Hạ Kị Sĩ Chết-A Bá	Defeat Death Knight - A Ba
+T	Hạ Mỹ Lạp Hai Đầu	Defeat Two-Headed Mira
+T	Hạ Pháp Sư Quên-Mạt Cát	Defeat Forgotten Mage - Ma Ji
+T	Hệ thống(ID:a2)	System(ID:a2)
+T	Hỏa Long	Fire Dragon
+T	Hộ Vai Chu Hồng x 1	Crimson Shoulder Guards x 1
+T	Hội hợp với /cff0000Lý Ngõa Nhĩ/p\nUse auto-pathfinding?	Regroup with /cff0000Li Waer/p\nUse auto-pathfinding?
+T	Hộp Phòng Cụ Cấp 30 x 1	Lv.30 Armor Chest x 1
+T	Hộp Phục Sức Cấp 30 x 1	Lv.30 Outfit Chest x 1
+T	Hộp Vũ Khí Nhẹ Cấp 30 x 1	Lv.30 Light Weapon Chest x 1
+T	Khi lại gần phong ấn của /cff0000Đầu Lĩnh Sứ Đồ/p có luồng sức mạnh thần bí đánh bật mọi người ra. Không phá phong ấn khó mà vào tầng 2 mộ huyệt. Tìm /cff0000Mục Sư/p xem có cách gì không	Approaching /cff0000Apostle Leader/p's seal, a mysterious force knocks everyone back. Without breaking it, entering Tomb Floor 2 will be difficult. Ask /cff0000Priest/p if there's a way.
+T	Khu rừng vắng lặng khiến ta bất an.\n	This eerie silence in the forest makes me uneasy.\n
+T	Khu rừng đẹp như vậy lại là sào huyệt của Cướp	To think such a beautiful forest is a Bandit lair.
+T	Khô Lâu Tinh	Skeleton Spirit
+T	Không khí trong rừng khiến ta bất an	The atmosphere in the forest makes me uneasy.
+T	Không ngờ hôm nay ta có thể đối thoại với mi. /c00ff00Raclette/p, ngăn cản  y, không để /cff0000Lợi Nhẫn/p phá hoại trung tâm rừng.\n\n/cffff00Reward:/pExp 100  \n	I never expected to speak with you today. /c00ff00Raclette/p, stop him—don't let /cff0000Sharp Blade/p destroy the Forest Center.\n\n/cffff00Reward:/pExp 100  \n
+T	Không ngờ sức mạnh của ta trong thời gian phong ấn lại giảm đi nhiều thế!\n/cffff00Done: /pDemolish/cffff00Độc Ma/p/cff00001/1/p\n/cffff00Reward:/pExp 3500  Silver3500  \n	I never thought my power would weaken so much while sealed!\n/cffff00Done: /pDefeat /cffff00Poison Demon/p /cff00001/1/p\n/cffff00Reward:/pExp 3500  Silver3500  \n
+T	Không phải chúng chết thì là chúng ta chết!	Either they die, or we do!
+T	Không xong rồi, là /cff0000Sứ Đồ/p!	Oh no, it's /cff0000Apostle/p!
+T	Không xong rồi, rất nhiều ác ma đang tới.\n/cffff00Reward:/pExp 100  \n	Oh no, hordes of demons are approaching!\n/cffff00Reward:/pExp 100  \n
+T	Khắp mộ huyệt đều là /cff0000Sứ Đồ/p, nhân lúc /cff0000Sứ Đồ/p còn ở đây hãy tiêu diệt chúng\n\n/cffff00Objective: /pDemolish/cffff00Sứ Đồ/p/cff00000/18/p\n/cffff00Reward:/pExp 4500  Silver2000  \n	The tomb is swarming with /cff0000Apostle/p. While /cff0000Apostle/p are still here, eliminate them.\n\n/cffff00Objective: /pDefeat /cffff00Apostle/p /cff00000/18/p\n/cffff00Reward:/pExp 4500  Silver2000  \n
+T	Kim Diệp x 5	Gold Leaf x 5
+T	Kiếm Vương Giả (5 ngày) x 1	King's Sword (5 Days) x 1
+T	Kẻ Tha Hương	Wanderer
+T	Kị Sĩ Mất Đầu	Headless Knight
+T	Lad, mi có nỗ lực thế nào đi nữa cũng vô dụng, /cff0000Lợi Nhẫn/p sẽ hủy diệt tất cả!(/cFFFF00Đối thoại xong lập tức vào chiến đấu/p)\n\n/cffff00Objective: /pDefeat /cffff00Demon/p /cff00000/1/p\n	Lad, no matter how hard you try, it's useless—/cff0000Sharp Blade/p will destroy everything! (/cFFFF00Battle begins immediately after dialogue/p)\n\n/cffff00Objective: /pDefeat /cffff00Demon/p /cff00000/1/p\n
+T	Lad, mi muốn phản kháng sao?\n/cffff00Done: /pDefeat /cffff00Apostle Familiar/p /cff00003/3/p\n/cffff00Reward:/pExp 3600  Silver3000  \n	Lad, you dare resist?\n/cffff00Done: /pDefeat /cffff00Apostle Familiar/p /cff00003/3/p\n/cffff00Reward:/pExp 3600  Silver3000  \n
+T	Lad, sơn thủy tương phùng, chúng ta sẽ gặp lại, mi hãy về chăm sóc những dung binh kia đi!	Lad, our paths will cross again. Go back and look after those mercenaries of yours!
+T	Lad, đừng quấy nhiễu chủ nhân của chúng ta! (/cFFFF00 /cff0000Độc Ma/p phun ra độc, sau khi đối thoại lập tức vào chiến đấu tinh anh boss, hãy chuẩn bị./p)\n\n/cffff00Objective: /pDemolish/cffff00Độc Ma/p/cff00000/1/p\n/cffff00Reward:/pExp 3500  Silver3500  \n	Lad, do not disturb our master! (/cFFFF00 /cff0000Poison Demon/p spews venom; an elite boss battle begins right after dialogue—prepare yourself./p)\n\n/cffff00Objective: /pDefeat /cffff00Poison Demon/p /cff00000/1/p\n/cffff00Reward:/pExp 3500  Silver3500  \n
+T	Linh Xà	Spirit Snake
+T	Linh hồn mi thuộc về ta	Your soul belongs to me.
+T	Linh thú bay cao, chuyên dùng cho Vua trong Đấu Trường Sky	A high-soaring spirit beast, exclusive to the King of Sky Arena.
+T	Login liền loginDay ngày, được luckDrawCount rút thưởng	Logged in for loginDay consecutive days, earned luckDrawCount lucky draws
+T	Loài người ngu xuẩn, bọn mi chỉ mong muốn chiếm giữ sức mạnh ác ma cho riêng mình.	Foolish humans, you only seek to hoard demonic power for yourselves.
+T	Loài người ngu xuẩn, đừng mong tiêu diệt được chúng ta.	Foolish humans, don't ever dream of destroying us.
+T	Là /cff0000Lợi Nhẫn/p, y quả nhiên ở đây	It's /cff0000Sharp Blade/p—he really is here.
+T	Là /cff0000Sứ Đồ/p, chúng đang làm gì?\n/cffff00Done: /pDemolish/cffff00Ngưu Đầu/p/cff000012/12/p\nDemolish/cffff00Xương Tử Linh/p/cff000012/12/p\n/cffff00Reward:/pExp 5000  Silver3500  \n	It's the /cff0000Apostle/p—what are they up to?\n/cffff00Done: /pDefeat /cffff00Minotaur/p /cff000012/12/p\nDefeat /cffff00Undead Skeleton/p /cff000012/12/p\n/cffff00Reward:/pExp 5000  Silver3500  \n
+T	Là Mục Sư của Thánh Vực sao?	A Priest from the Sanctuary?
+T	Là ai?	Who's there?
+T	Là bộ hạ của /cff0000Mộng Yểm/p sao lại sợ loài người bọn mi chứ?\n/cffff00Done: /pDemolish/cffff00Sứ Đồ/p/cff00009/9/p\n/cffff00Reward:/pExp 4500  Silver3000  \n	As subordinates of /cff0000Nightmare/p, how could we fear mere humans like you?\n/cffff00Done: /pDefeat /cffff00Apostle/p /cff00009/9/p\n/cffff00Reward:/pExp 4500  Silver3000  \n
+T	Là mi? (/cFFFF00Đột nhiên từ xa 1 mũi tên bay tới, bắn trúng Lạp Na, Lạp Na ngã xuống./p）\n\n/cffff00Reward:/pExp 100  \n	You?! (/cFFFF00Suddenly an arrow flies in from afar, striking Lana and knocking her down./p)\n\n/cffff00Reward:/pExp 100  \n
+T	Là viện quân ư? Tới thật đúng lúc.\n/cffff00Reward:/pExp 100  \n	Reinforcements? Right on time.\n/cffff00Reward:/pExp 100  \n
+T	Lãnh tiễn	Cold Arrow
+T	Lính Tinh Linh	Spirit Soldier
+T	Lôi Kỳ Lân (5 ngày)	Thunder Kirin (5 Days)
+T	Lưu Quang Nhẫn x 1	Flowing Light Blade x 1
+T	Lạp Na đáng thương, không ngờ là /cff0000Lợi Nhẫn/p. Nếu là y, vậy chúng ta không thể không quản.	Poor Lana... to think it was /cff0000Sharp Blade/p. If he's involved, we can't just stand by.
+T	Lần này phát tài rồi, ta sẽ không quên mi đâu.\n/cffff00Done: /pReceived/cffff00Bảo Thạch/p/cff000015/15/p\n/cffff00Reward:/pExp 2500  Silver4500  \n	We struck it rich this time—I won't forget you!\n/cffff00Done: /pReceived /cffff00Gem/p /cff000015/15/p\n/cffff00Reward:/pExp 2500  Silver4500  \n
+T	Lập hoặc vào 1 quốc gia	Create or join a Nation
+T	Ma Bị Điều Khiển	Controlled Demon
+T	Ma lực của /cff0000Mộng Yểm/p rất mạnh, nghe nói nó có thể khiến người ta rơi vào ác mộng không thể thoát ra.	/cff0000Nightmare/p wields immense magic; rumor says it can trap people in an endless nightmare.
+T	Ma Ưng	Demon Hawk
+T	Mau dùng Nước Suối rửa mắt mi! (/cFFFF00Mã Cát vục Nước Suối té lên mặt mi. Sau khi Nước Suối tiếp xúc với mắt, cảm thấy mọi thứ đều trở lên rõ ràng, đương nhiên Ác Ma trong rừng cũng rất nhiều./p)\n/cffff00Done: /pDefeat /cffff00Greenhide Blade/p /cff00009/9/p\n/cffff00Reward:/pExp 3500  Silver2000  \n	Quick, wash your eyes with Spring Water! (/cFFFF00Magi scoops up Spring Water and splashes it onto your face. As it touches your eyes, everything becomes crystal clear—and Demons are everywhere in the forest./p)\n/cffff00Done: /pDefeat /cffff00Greenhide Blade/p /cff00009/9/p\n/cffff00Reward:/pExp 3500  Silver2000  \n
+T	Mau nhân lúc này.\n/cffff00Done: /pDemolish/cffff00Sứ Đồ/p/cff000018/18/p\n/cffff00Reward:/pExp 4500  Silver2000  \n	Hurry, take advantage of this moment.\n/cffff00Done: /pDefeat /cffff00Apostle/p /cff000018/18/p\n/cffff00Reward:/pExp 4500  Silver2000  \n
+T	Mau đi tìm Hiền Giả. /cFFFFFFĐi về phía tay phải/p chính là Nội Đường, chúng ta vào trong xem\n\n/cffff00Reward:/pExp 100  \n	Go find the Sage quickly. /cFFFFFFTo the right/p is the Inner Hall—let's go inside and check.\n\n/cffff00Reward:/pExp 100  \n
+T	Mau, không thể để hắn thoát.\n/cffff00Reward:/pExp 100  \n	Quick, don't let him escape!\n/cffff00Reward:/pExp 100  \n
+T	May gặp được mọi người nếu không hàng hóa của chúng tôi đã bị cướp hết rồi.	Good thing we ran into you, otherwise all our goods would have been looted.
+T	Mi biết /cff0000Lạp Na/p không? Nàng ta đang đánh nhau với Ác Ma ở phía trước. Hãy tới giúp nàng ta, /cff0000Lạp Na/p cũng là bổ sung chiến lực cho chúng ta.\n\n/cffff00Reward:/pExp 100  \n	Do you know /cff0000Lana/p? She's fighting Demons up ahead. Go help her—/cff0000Lana/p will be a strong addition to our forces.\n\n/cffff00Reward:/pExp 100  \n
+T	Mi hãy giúp ta lấy từ mồm /cff0000Dã Lang/p /cFFFF00Thịt/p không?	Can you help me snatch /cFFFF00Meat/p from the jaws of /cff0000Wild Wolf/p?
+T	Mi thật lợi hại, 3 huyết ấn ác ma cũng bị mi phá.\n/cffff00Done: /pComplete quest </c00ff00Huyết ấn của Pháp Sư Quên/p>\nComplete quest </c00ff00Huyết ấn của Kị Sĩ Chết/p>\nComplete quest </c00ff00Huyết ấn của Mỹ Lạp Hai Đầu/p>\n/cffff00Reward:/pExp 3000  \n	Impressive—you broke all 3 Demon Blood Seals too.\n/cffff00Done: /pComplete quest </c00ff00Forgotten Mage's Blood Seal/p>\nComplete quest </c00ff00Death Knight's Blood Seal/p>\nComplete quest </c00ff00Two-Headed Mira's Blood Seal/p>\n/cffff00Reward:/pExp 3000  \n
+T	Mi xem, là /cff0000Hiền Giả/p, y đang đứng ở bậc thềm.\n/cffff00Reward:/pExp 100  \n	Look, it's the /cff0000Sage/p, standing on the steps.\n/cffff00Reward:/pExp 100  \n
+T	Mi đã liên tiếp đăng nhập 1 ngày, nhận thưởng:\n5/c9acaffLeaves/p\n10000/cc45712Silver/p\n\nClaim now? \n(Rewards can be claimed via quest list)	You have logged in for 1 consecutive day, reward:\n5/c9acaffLeaves/p\n10000/cc45712Silver/p\n\nClaim now? \n(Rewards can be claimed via quest list)
+T	Mi đã tích lũy 1 ngày đăng nhập, đây là phần thưởng đăng nhập của bạn, nhớ nhận nhé!\n/cffff00Reward:/pLeaves5  Silver10000  \n	You have logged in for 1 cumulative day. Here is your login reward—be sure to claim it!\n/cffff00Reward:/pLeaves5  Silver10000  \n
+T	Mi đã tích lũy 2 ngày đăng nhập, đây là phần thưởng đăng nhập của bạn, nhớ nhận nhé!\n/cffff00Reward:/pLeaves5  Silver20000  \n	You have logged in for 2 cumulative days. Here is your login reward—be sure to claim it!\n/cffff00Reward:/pLeaves5  Silver20000  \n
+T	Mi đã tích lũy 3 ngày đăng nhập, đây là phần thưởng đăng nhập của bạn, nhớ nhận nhé!\n/cffff00Reward:/pLeaves9  Silver30000  \n	You have logged in for 3 cumulative days. Here is your login reward—be sure to claim it!\n/cffff00Reward:/pLeaves9  Silver30000  \n
+T	Mi đã tích lũy 4 ngày đăng nhập, đây là phần thưởng đăng nhập của bạn, nhớ nhận nhé!\n/cffff00Reward:/pLeaves13  Silver40000  \n	You have logged in for 4 cumulative days. Here is your login reward—be sure to claim it!\n/cffff00Reward:/pLeaves13  Silver40000  \n
+T	Muốn gặp chủ nhân ta, hãy sống sót khỏi tay ta đã!	If you want to meet my master, survive me first!
+T	Muốn phá phong ấn phải đánh bại phân thân của /cff0000Mỹ Lạp Hai Đầu/p.	To break the seal, you must defeat the clone of /cff0000Two-Headed Mila/p.
+T	Muốn phá phong ấn phải đánh bại phân thân của /cff0000Pháp Sư Quên-Mạt Cát/p.	To break the seal, you must defeat the clone of /cff0000Forgotten Mage - Macat/p.
+T	Muốn phá phong ấn phải đánh bại phân thâncủa /cff0000Kị Sĩ Chết-A Bá/p	To break the seal, you must defeat the clone of /cff0000Death Knight - Aba/p
+T	Máu ác ma đang sục sôi.	Demon blood is boiling.
+T	Mã Cát, mi ở đây nhận được gì. Sức mạnh vô tận? Sinh mệnh vĩnh cửu? Đều không có, mi chỉ là con sâu đáng thương trong rừng thôi.\n/cffff00Reward:/pExp 100  \n	Magi, what have you gained here? Endless power? Eternal life? Nothing at all—you're just a pitiful worm in the forest.\n/cffff00Reward:/pExp 100  \n
+T	Mèo Săn	Hunting Cat
+T	Mũ Bích Ngọc x 1	Jade Helm x 1
+T	Mũ Tử Vụ	Purple Mist Helm
+T	Mọi người thường sợ ác ma, còn đối với ta chúng chỉ là những tấm bia biết bay	People usually fear demons, but to me they're just flying targets.
+T	Mộ huyệt tối đen	Pitch-Black Tomb
+T	Một đám /cff0000Sứ Ma/p xuất hiện và tấn công chúng ta!(/cFFFF00Chiến đấu với /cff0000Sứ Ma/p, đối thoại xong lập tức vào chiến đấu./p)\n\n/cffff00Objective: /pDefeat /cffff00Apostle Familiar/p /cff00000/3/p\n/cffff00Reward:/pExp 3600  Silver3000  \n	A pack of /cff0000Apostle Familiars/p appeared and attacked us! (/cFFFF00Fight /cff0000Apostle Familiar/p; battle starts right after dialogue./p)\n\n/cffff00Objective: /pDefeat /cffff00Apostle Familiar/p /cff00000/3/p\n/cffff00Reward:/pExp 3600  Silver3000  \n
+T	Mục Sư không cẩn thận đụng phải bẫy trong mộ huyệt, xung quanh xuất hiện 1 bầy	The Priest accidentally triggered a trap in the tomb, and a pack of
+T	Nguyệt Nha sắp kết thúc. Chúng ta đã đoạt lại được quyền kiểm soát Núi Nguyệt Nha!	Crescent Mountain is nearly over. We've reclaimed control of Crescent Mountain!
+T	Ngăn chặn không cho y thực hiện âm mưu.	Stop him from carrying out his scheme.
+T	Ngăn cản Lọi Nhẫn!	Stop Sharp Blade!
+T	Ngăn cản Lợi Nhẫn	Stop Sharp Blade
+T	Ngăn cản Sứ Đồ	Stop the Apostle
+T	Người bảo vệ tầng /cffff0078/pnày/cffffffラッーW•Sage/pđã từng hạ rất nhiều người, còn ai muốn thử sức không?	This floor's guardian /cffff0078/p /cffffffラッーW•Sage/p has defeated many challengers—anyone else dare to try?
+T	Người chơi có thể tổ thành quốc gia. Bạn có thể gia nhập vào quốc gia khác hoặc sau cấp 15 có thể tự mở quốc gia của mình	Players can form nations. You can join an existing nation or found your own after reaching Lv 15.
+T	Người chơi khác có thể bình luận hình của bạn. Đương nhiên có lẽ họ sẽ còn yêu thầm bạn.	Other players can comment on your photo. Of course, they might even secretly fall for you.
+T	Nhiệm vụ cao cấp Núi Nguyệt Nha đã hoàn thành. Mi có thể trở về thành, ở đó còn có nhiều nhiệm vụ đợi mi	The advanced Crescent Mountain quests are complete. You can return to the city—many more quests await you there.
+T	Nhân lúc /cff0000Sứ Đồ/p còn ở đây hãy tiêu diệt chúng	While the /cff0000Apostles/p are still here, eliminate them!
+T	Nhân lúc Sứ Đồ bị đánh tan tác hãy vào trong mộ huyệt cùng /cff0000Mục Sư/p đi tìm Hiền Giả.\nUse auto-pathfinding?	While the Apostles are routed, enter the tomb with the /cff0000Priest/p to find the Sage.\nUse auto-pathfinding?
+T	Nhân lúc chúng hỗn loại hãy mở Cổng Lớn để Đội Dung Binh vào	While they are in chaos, open the Main Gate so the Mercenary Squad can enter.
+T	Nhân vật cấp 22 trở lênmới có thể nhận nhiệm vụ này	Only characters Lv 22 or above can accept this quest.
+T	Nhìn về hướng của mũi tên, có 1 người thần bí, hãy nói chuyện với y\nUse auto-pathfinding?	Look in the direction the arrow came from—there's a mysterious person. Speak with them.\nUse auto-pathfinding?
+T	Những trang bị này sau khi phân giải có thể nhận bột ma lực rất nhỏ	Dismantling these pieces of equipment yields a tiny amount of magic powder.
+T	Nói chuyện với /cff0000Lạp Na/p ở phía trước\nUse auto-pathfinding?	Talk to /cff0000Lana/p ahead\nUse auto-pathfinding?
+T	Nói chuyện với /cff0000Lợi Nhẫn/p\nUse auto-pathfinding?	Talk to /cff0000Sharp Blade/p\nUse auto-pathfinding?
+T	Nói chuyện với /cff0000Mã Cát/p	Talk to /cff0000Magi/p
+T	Nói chuyện với /cff0000Mục Sư/p	Talk to /cff0000Priest/p
+T	Nói chuyện với /cff0000Sứ Đồ/p	Talk to /cff0000Apostle/p
+T	Nói chuyện với /cff0000Tướng Cướp/p	Talk to /cff0000Bandit Leader/p
+T	Nói chuyện với /cff0000Đầu Lĩnh Sứ Đồ/p	Talk to /cff0000Apostle Leader/p
+T	Nói chuyện với Lợi Nhẫn	Talk to Sharp Blade
+T	Nói chuyện với/cff0000Đội Trưởng-Hạo Khắc/p	Talk to /cff0000Captain Hawke/p
+T	Nói với Mã Cát, ta /cff0000Lợi Nhẫn/p về rồi!\n/cffff00Reward:/pExp 100  \n	Tell Magi that I, /cff0000Sharp Blade/p, have returned!\n/cffff00Reward:/pExp 100  \n
+T	Nơi này thích hợp để đốt Đạn Hiệu.	This spot is ideal for firing the Signal Flare.
+T	Phong Ngữ x 1	Wind Whisper x 1
+T	Pháp Sư, Tu Chân thích hợp cấp 25-35. Có cơ hội nhận được trang bị sử thi.	Suitable for Lv 25-35 Mage and Taoist. Chance to obtain Epic gear.
+T	Phần lớn Đội Dung Binh đã bị trọng thương, ta xem tình hình, mi hãy tới /cFFFFFFngoài cứ điểm canh giữ/p, vạn nhất có Cướp tới hãy giúp chúng ta càma cự!	Most of the Mercenary Squad is badly wounded. I'll assess the situation—go /cFFFFFFstand guard outside the outpost/p, and help hold them off if any Bandits arrive!
+T	Quyết đấu với người chơi khác và giành 1 lần chiến thắng.	Duel another player and win 1 match.
+T	Quyết đấu với người chơi khác và giành 25 lần chiến thắng.	Duel other players and win 25 matches.
+T	Quá khứ của Lợi Nhẫn	Sharp Blade's Past
+T	Ra khỏi vòng vây	Break Out of the Encirclement
+T	Ra tay trước là kẻ mạnh, diệt 15 /cff0000Gác Mộ/p	Strike first to gain the upper hand—defeat 15 /cff0000Tomb Guards/p.
+T	Ra đi, nô bộc của ta /cff0000Lục Ma/p và /cff0000Hồng Ma/p, giẫm hêts đám sâu bọ ở đây. Huynh đệ Mã Cát của ta rất vui khi gặp được mi. Chỉ là hôm nay mi sẽ phải chết ở đây! (/cFFFF00Sau đối thoại sẽ vào Chiến Tinh Linh BOSS, hãy chuẩn bị./p)\n\n/cffff00Objective: /pDemolish/cffff00Green Demon/p/cff00000/1/p\nDemolish/cffff00Red Demon/p/cff00000/1/p\n/cffff00Reward:/pExp 3500  Silver2500  \n	Go forth, my servants /cff0000Green Demon/p and /cff0000Red Demon/p, and crush these pests! My brother Magi will be thrilled to see you—too bad you'll die here today! (/cFFFF00Spirit BOSS Battle begins after dialogue; prepare yourself./p)\n\n/cffff00Objective: /pDefeat /cffff00Green Demon/p /cff00000/1/p\nDefeat /cffff00Red Demon/p /cff00000/1/p\n/cffff00Reward:/pExp 3500  Silver2500  \n
+T	Raclette(Male) Lv 33\nEastern Swordsman\nMap:  Mộ Phong Ấn Tầng 1\n	Raclette(Male) Lv 33\nEastern Swordsman\nMap:  Sealed Tomb Floor 1\n
+T	Raclette(Male) Lv 33\nEastern Swordsman\nMap:  Mộ Phong Ấn Tầng 2\n	Raclette(Male) Lv 33\nEastern Swordsman\nMap:  Sealed Tomb Floor 2\n
+T	Raclette(Male) Lv 34\nEastern Swordsman\nMap:  Mộ Phong Ấn Tầng 2\n	Raclette(Male) Lv 34\nEastern Swordsman\nMap:  Sealed Tomb Floor 2\n
+T	Raclette(Male) Lv 34\nEastern Swordsman\nMap:  Nội Đường Tầng 2\n	Raclette(Male) Lv 34\nEastern Swordsman\nMap:  Inner Hall 2F\n
+T	Raclette(Male) Lv 35\nEastern Swordsman\nMap:  Thành của mình\n	Raclette(Male) Lv 35\nEastern Swordsman\nMap:  Home City\n
+T	Received/cffff00Bảo Thạch/p/cff00000/15/p	Received /cffff00Gem/p /cff00000/15/p
+T	Received/cffff00Bảo Thạch/p/cff000015/15/p	Received /cffff00Gem/p /cff000015/15/p
+T	Rương Phòng Cụ Cấp 30 (Khóa) x 1	Lv 30 Armor Chest (Bound) x 1
+T	Rương Phục Sức Cấp 30 (Khóa) x 1	Lv 30 Accessory Chest (Bound) x 1
+T	Rương Vật Liệu II (Gỗ) x 1	Material Chest II (Wood) x 1
+T	Rương Vật Liệu III (Gỗ)	Material Chest III (Wood)
+T	Rừng đã bị Ác Ma chiếm cứ, tới Trung Tâm Rừng cũng gặp tai ương.	The forest has been overrun by Demons—even the Forest Center has met with disaster.
+T	Sau khi nạp lượng lớn tiền sẽ nhận được Chỉ Lệnh Thư, Chỉ Lệnh Thư không có tác dụng với cá nhân, nhưng sẽ có tác dụng với quốc gia của bạn.	Top-ups of large amounts grant Order Books. Order Books have no effect on individuals, but they benefit your nation.
+T	Sau này ta sẽ cho bọn mi biết thế nào là ác ma phẫn nộ! (/cFFFF00Độc Ma nói xong liền chạy về Nội Đường, tới tìm /cff0000Mục Sư/p, cùng y đuổi vào./p)\n\n/cffff00Reward:/pExp 100  \n	One day I'll show you what a demon's wrath truly feels like! (/cFFFF00After speaking, Poison Demon flees into the Inner Hall. Find the /cff0000Priest/p and pursue him together./p)\n\n/cffff00Reward:/pExp 100  \n
+T	Sau đối thoại sẽ vào Chiến Tinh Linh BOSS, hãy chuẩn bị.	Spirit BOSS Battle begins after dialogue; prepare yourself.
+T	Sold successfully/i00012/c4bf842Găng Dự Ngôn/p x 1\nReceived 3500 Copper	Sold successfully /i00012/c4bf842Prophecy Gloves/p x 1\nReceived 3500 Copper
+T	Sold successfully/i00024/cffa500Hộ Vai Chu Hồng/p x 1\nReceived 5000 Copper	Sold successfully /i00024/cffa500Crimson Spaulders/p x 1\nReceived 5000 Copper
+T	Sold successfully/i00132/c4bf842Đai Tinh Chú/p x 1\nReceived 3500 Copper	Sold successfully /i00132/c4bf842Star-Cast Belt/p x 1\nReceived 3500 Copper
+T	Sold successfully/i00133/c42adf8Đai Linh Thường/p x 1\nReceived 3000 Copper	Sold successfully /i00133/c42adf8Spirit Robe Belt/p x 1\nReceived 3000 Copper
+T	Sold successfully/i00213/c42adf8Mũ Bích Ngọc/p x 1\nReceived 3750 Copper	Sold successfully /i00213/c42adf8Jade Helm/p x 1\nReceived 3750 Copper
+T	Sold successfully/i00233/c42adf8Giáp Tế Lân/p x 1\nReceived 3000 Copper	Sold successfully /i00233/c42adf8Fine Scale Armor/p x 1\nReceived 3000 Copper
+T	Sold successfully/i00242/c4bf842Kiếm Tu My/p x 1\nReceived 3500 Copper	Sold successfully /i00242/c4bf842Graceful Sword/p x 1\nReceived 3500 Copper
+T	Sold successfully/i00282/c4bf842Rương Phòng Cụ Cấp 30 (Khóa)/p x 2	Sold successfully /i00282/c4bf842Lv 30 Armor Chest (Bound)/p x 2
+T	Sold successfully/i00282/c4bf842Rương Phục Sức Cấp 30 (Khóa)/p x 3	Sold successfully /i00282/c4bf842Lv 30 Accessory Chest (Bound)/p x 3
+T	Sold successfully/i00282/c4bf842Rương Vũ Khí Nhẹ Cấp 30 (Khóa)/p x 1	Sold successfully /i00282/c4bf842Lv 30 Light Weapon Chest (Bound)/p x 1
+T	Sold successfully: \n/i00031/ce5e5e5Lưu Quang Nhẫn/pX1\nReceived: 1500 Copper	Sold successfully: \n/i00031/ce5e5e5Flowing Light Ring/pX1\nReceived: 1500 Copper
+T	Sold successfully: \n/i00111/ce5e5e5Chiến Vương (2 ngày)/pX1\n/i00141/ce5e5e5Frost Staff/pX1\nReceived: 5750 Copper	Sold successfully: \n/i00111/ce5e5e5War King (2 Days)/pX1\n/i00141/ce5e5e5Frost Staff/pX1\nReceived: 5750 Copper
+T	Sold successfully: \n/i00231/ce5e5e5Giáp Bạch Nhai/pX1\n/i00224/cffa500White Tiger (5 Days)/pX1\n/i00114/cffa500Saint Gladiator Suit (2 Days)/pX1\n/i00361/ce5e5e5Thịt Bị Cắn/pX5\nReceived: 5900 Copper	Sold successfully: \n/i00231/ce5e5e5White Cliff Armor/pX1\n/i00224/cffa500White Tiger (5 Days)/pX1\n/i00114/cffa500Saint Gladiator Suit (2 Days)/pX1\n/i00361/ce5e5e5Bitten Meat/pX5\nReceived: 5900 Copper
+T	Summary: Diệt 12	Summary: Defeat 12
+T	Summary: Diệt 15	Summary: Defeat 15
+T	Summary: Diệt 18	Summary: Defeat 18
+T	Summary: Diệt 2	Summary: Defeat 2
+T	Summary: Giúp Hiền Giả đánh bại	Summary: Help the Sage defeat
+T	Summary: Hạ	Summary: Defeat
+T	Summary: Hội hợp với	Summary: Meet up with
+T	Summary: Nhân lúc Sứ Đồ bị đánh tan tác hãy vào trong mộ huyệt cùng	Summary: While the Apostles are routed, enter the tomb with
+T	Summary: Nhìn về hướng của mũi tên, có 1 người thần bí, hãy nói chuyện với y	Summary: Look in the direction the arrow came from—there's a mysterious person; speak with them
+T	Summary: Tiếp tục tới nói chuyện với	Summary: Continue to talk to
+T	Summary: Tìm phân thân của	Summary: Find the clone of
+T	Summary: Tới cửa vào trung tâm của	Summary: Go to the center entrance of
+T	Summary: Vào cứ điểm của Cướp, nói chuyện với	Summary: Enter the Bandit outpost and talk to
+T	Summary: Đi theo hướng	Summary: Follow the direction
+T	Summary: Đuổi theo vết chân của Độc Ma, vào Nội Đường Tầng 2.	Summary: Follow Poison Demon's tracks into Inner Hall 2F.
+T	Sườn núi phía trước chính là /cFFFFFFcứ điểm của Cướp/p.	The mountainside ahead is the /cFFFFFFBandit outpost/p.
+T	Sứ Ma đột nhiên xuất hiện	Familiars Appear
+T	Sứ Đồ Tiểu Tướng	Apostle Lieutenant
+T	Sứ Đồ hung ác	Fierce Apostle
+T	Sức Mạnh của phong ấn đang từ từ biến mất.\n/cffff00Done: /pDemolish/cffff00A Bá/p/cff00001/1/p\n/cffff00Reward:/pExp 5600  Silver3000  \n	The power of the seal is slowly fading.\n/cffff00Done: /pDefeat /cffff00Aba/p /cff00001/1/p\n/cffff00Reward:/pExp 5600  Silver3000  \n
+T	Sức Mạnh của phong ấn đang từ từ biến mất.\n/cffff00Done: /pDemolish/cffff00Mạt Cát/p/cff00001/1/p\n/cffff00Reward:/pExp 5000  Silver2000  \n	The power of the seal is slowly fading.\n/cffff00Done: /pDefeat /cffff00Macat/p /cff00001/1/p\n/cffff00Reward:/pExp 5000  Silver2000  \n
+T	Sức Mạnh của phong ấn đang từ từ biến mất.\n/cffff00Done: /pDemolish/cffff00Mỹ Lạp Hai Đầu/p/cff00001/1/p\n/cffff00Reward:/pExp 5000  Silver3000  \n	The power of the seal is slowly fading.\n/cffff00Done: /pDefeat /cffff00Two-Headed Mila/p /cff00001/1/p\n/cffff00Reward:/pExp 5000  Silver3000  \n
+T	Sức mạnh của ta là vô địch.	My power is invincible.
+T	Sức mạnh vô tận? Sinh mệnh vĩnh cửu? Đều không có, mi chỉ là con sâu đáng thương trong rừng thôi.	Endless power? Eternal life? Nothing at all—you're just a pitiful worm in the forest.
+T	Ta chính là hắc ám.	I am darkness itself.
+T	Ta có sức mạnh ác ma vĩnh hằng, đệ đệ ngu ngốc của ta, căm hận ta đi, vì hôm nay ta sẽ giết mi. (/cFFFF00Đối thoại xong lập tức vào Chiến Tinh Linh BOSS, hãy chuẩn bị/p)\n\n/cffff00Objective: /pDemolish/cffff00Sharp Blade/p/cff00000/1/p\n/cffff00Reward:/pExp 5000  Silver3000  \n	I possess eternal demonic power, my foolish little brother. Hate me all you want, for today I will kill you! (/cFFFF00Spirit BOSS Battle begins right after dialogue; prepare yourself./p)\n\n/cffff00Objective: /pDefeat /cffff00Sharp Blade/p /cff00000/1/p\n/cffff00Reward:/pExp 5000  Silver3000  \n
+T	Ta cảm thấy trong mộ huyệt có ma lực kì quái. /c00ff00Raclette/p, hãy vào trong xem sao.	I sense strange magic inside the tomb. /c00ff00Raclette/p, go inside and investigate.
+T	Ta già rồi, không đối phó được với Ác Ma, giờ chỉ có /cff0000Mã Cát/p có thể đối phó với đám Ác Ma điên cuồng này thôi, mi hãy giúp y!	I'm too old to handle the Demons. Right now, only /cff0000Magi/p can deal with these frenzied Demons—please help him!
+T	Ta không thể quên Lạp Na, tâm nguyện của y là diệt đám /cff0000Kiếm Sĩ Xương/p. Nhưng giờ trong rừng còn có /cff0000Kiếm Sĩ Xương/p đang hoành hành. Giúp ta diệt 15 /cff0000Kiếm Sĩ Xương/p\n\n/cffff00Objective: /pDemolish/cffff00Skeleton Swordsman/p/cff00000/15/p\n/cffff00Reward:/pExp 3000  Silver1500  \n	I can never forget Lana—her dying wish was to wipe out the /cff0000Skeleton Swordsmen/p, yet /cff0000Skeleton Swordsmen/p are still running rampant in the forest. Help me defeat 15 /cff0000Skeleton Swordsmen/p.\n\n/cffff00Objective: /pDefeat /cffff00Skeleton Swordsman/p /cff00000/15/p\n/cffff00Reward:/pExp 3000  Silver1500  \n
+T	Ta là chiến sĩ ma pháp  mạnh  nhất tộc Tinh Linh /cff0000Mã Cát/p.	I am /cff0000Magi/p, the strongest magic warrior of the Elf tribe.
+T	Ta sơ suất trúng 1 mũi tên của /cff0000Lợi Nhẫn/p, vết thương không quá nghiêm trọng	I was careless and took one of /cff0000Sharp Blade/p's arrows, though the wound isn't too serious.
+T	Ta thấy rồi, /cff0000Đầu Lĩnh Sứ Đồ/p đang ở phía trước!\n/cffff00Done: /pDefeat /cffff00Apostle Familiar/p /cff000020/20/p\n/cffff00Reward:/pExp 4500  Silver3000  \n	I see him—the /cff0000Apostle Leader/p is just ahead!\n/cffff00Done: /pDefeat /cffff00Apostle Familiar/p /cff000020/20/p\n/cffff00Reward:/pExp 4500  Silver3000  \n
+T	Ta tin Lạp Na có thể thấy mọi việc chúng ta làm\n/cffff00Done: /pDemolish/cffff00Skeleton Swordsman/p/cff000015/15/p\n/cffff00Reward:/pExp 3000  Silver1500  \n	I believe Lana can see everything we've done.\n/cffff00Done: /pDefeat /cffff00Skeleton Swordsman/p /cff000015/15/p\n/cffff00Reward:/pExp 3000  Silver1500  \n
+T	Ta và /cff0000Đầu Lĩnh Sứ Đồ/p vừa giao chiến, trên đường truy đuổi y gặp phải đám Gác Mộ, giờ đã bị thương. Hãy giúp ta đánh bại /cff0000Gác Mộ/p trước mặt.\n\n/cffff00Objective: /pDemolish/cffff00Gác Mộ/p/cff00000/3/p\n/cffff00Reward:/pExp 3500  Silver2000  \n	I just clashed with the /cff0000Apostle Leader/p, ran into Tomb Guards during the pursuit, and got wounded. Help me defeat the /cff0000Tomb Guards/p ahead.\n\n/cffff00Objective: /pDefeat /cffff00Tomb Guard/p /cff00000/3/p\n/cffff00Reward:/pExp 3500  Silver2000  \n
+T	Thiên Không Vương (2 ngày)	Sky King (2 Days)
+T	Thiên Vương	Heavenly King
+T	Thuần Thú Chiến+5Cấp	Beast Taming Battle +5 Lv
+T	Thuốc Nhanh Nhẹn (1 Giờ)	Agility Potion (1 Hour)
+T	Thuốc Thể Lực (1 Giờ)	Vitality Potion (1 Hour)
+T	Thuộc hạ của Mộng Yểm	Nightmare's Subordinate
+T	Thành của Valkr*e	Valkr*e's City
+T	Thành của ta	My City
+T	Thành viên cống hiến vật liệu, tiền cho quốc gia, hoặc hoàn thành nhiệm vụ quốc gia, sẽ nhận được Cống Hiến. Sau khi nhận Cống Hiến có thể đổi phần thưởng của lãnh đạo quốc gia	Members earn Contribution by donating materials or currency to their nation, or by completing nation quests. Contribution can be exchanged for rewards from the nation leader.
+T	Thích khách	Assassin
+T	Thông qua exp nhiệm vụ, chiến đấu với quái vật, nhận thành tựu... giúp nhân vật thăng lên cấp 10	Earn EXP through quests, monster battles, and achievements to reach Lv 10.
+T	Thông qua exp nhiệm vụ, chiến đấu với quái vật, nhận thành tựu... giúp nhân vật thăng lên cấp 20	Earn EXP through quests, monster battles, and achievements to reach Lv 20.
+T	Thông qua exp nhiệm vụ, chiến đấu với quái vật, nhận thành tựu... giúp nhân vật thăng lên cấp 30	Earn EXP through quests, monster battles, and achievements to reach Lv 30.
+T	Thông qua exp nhiệm vụ, chiến đấu với quái vật, nhận thành tựu... giúp nhân vật thăng lên cấp 40	Earn EXP through quests, monster battles, and achievements to reach Lv 40.
+T	Thông qua phân phối điểm thuộc tính, đổi trang bị, khảm bảo thạch và học kĩ năng để tăng tổng thuộc tính Cảm  Trí	Increase total Wisdom by allocating stat points, equipping gear, socketing gems, and learning skills.
+T	Thông qua phân phối điểm thuộc tính, đổi trang bị, khảm bảo thạch và học kĩ năng để tăng tổng thuộc tính Nhanh Nhẹn.	Increase total Agility by allocating stat points, equipping gear, socketing gems, and learning skills.
+T	Thông qua phân phối điểm thuộc tính, đổi trang bị, khảm bảo thạch và học kĩ năng để tăng tổng thuộc tính Sức Mạnh	Increase total Strength by allocating stat points, equipping gear, socketing gems, and learning skills.
+T	Thông qua phân phối điểm thuộc tính, đổi trang bị, khảm bảo thạch và học kĩ năng để tăng tổng thuộc tính Thể Lực	Increase total Vitality by allocating stat points, equipping gear, socketing gems, and learning skills.
+T	Thông qua phân phối điểm thuộc tính, đổi trang bị, khảm bảo thạch và học kĩ năng để tăng tổng thuộc tính Trí Lực.	Increase total Intelligence by allocating stat points, equipping gear, socketing gems, and learning skills.
+T	Thăng lên cấp 10(Achieved)	Reach Lv 10 (Achieved)
+T	Thăng lên cấp 20(Achieved)	Reach Lv 20 (Achieved)
+T	Thăng lên cấp 30(Achieved)	Reach Lv 30 (Achieved)
+T	Thưởng Mộ Phong Ấn III x 1	Sealed Tomb III Reward x 1
+T	Thưởng Núi Nguyệt Nha III x 1	Crescent Mountain III Reward x 1
+T	Thưởng Rừng Tinh Linh II x 1	Spirit Forest II Reward x 1
+T	Thưởng Rừng Tinh Linh III x 1	Spirit Forest III Reward x 1
+T	Thưởng Vinh Dự	Honor Reward
+T	Thưởng đăng nhập	Login Reward
+T	Thấp hơn cấp 35 không thể chat thế giới	Characters below Lv 35 cannot use World Chat.
+T	Thần thú mạnh	Mighty Sacred Beast
+T	Thủ Vệ Yêu Xà	Demon Snake Guard
+T	Tiêu diệt /cff0000Cướp Canh Gác/p và /cff0000Sói Thuần Hóa/p Diệt, mở Cổng Lớn sơn trại cho quân đội tiến vào. Ta không tin đám Cướp này có thể cầm cự được lâu.	Defeat /cff0000Bandit Sentry/p and /cff0000Tamed Wolf/p, and open the stronghold's Main Gate for our troops to march in. I doubt these bandits can hold out for long.
+T	Tiêu diệt /cff0000Đoản Đao Lục Bì/p, báo thù cho các huynh đệ.	Eliminate the /cff0000Greenhide Shortblades/p and avenge our fallen brothers.
+T	Tiêu diệt đám Ác Ma bao vây chúng ta, sau đó tới trung tâm tìm Lợi Nhẫn.	Defeat the Demons surrounding us, then head to the center to find Sharp Blade.
+T	Tiếp tục triệu tập nhân mã	Keep rallying the troops
+T	Tiếp tục tới nói chuyện với /cff0000Mục Sư/p	Continue to talk to /cff0000Priest/p
+T	Trang bị khảm Bảo Thạch có thể tăng thuộc tính, Bảo Thạch tốt sẽ tăng lực chiến đấu; vũ khí khảm Bảo Thạch từ 7 viên trở lên có thể có hiệu ứng /c00ff00phát sáng/p! Bảo Thạch mua ở chỗ Thương Nhân Kì Bí trong thành hoặc tiệm đạo cụ quốc gia.	Socketing Gems into gear boosts stats, and better Gems greatly increase combat power. Weapons socketed with 7 or more Gems gain a /c00ff00glowing/p effect! Gems can be bought from the Mysterious Merchant in town or the Nation Item Shop.
+T	Trong game có chức năng chụp hình, mở trong Thuộc tính nhân vật. Chụp xong, CS sẽ kiểm tra hình. Nếu hình không phải chụp người, sẽ không được thông qua, hình đồi trụy càng không được.	The game includes a photo feature accessible from Character Stats. Submitted photos are reviewed by CS—non-human photos will be rejected, and inappropriate photos are strictly forbidden.
+T	Trong huyết ấn xuất hiện: Ta là huyết ấn hấp thụ sức mạnh ác ma của  /cff0000Mỹ Lạp Hai Đầu/p, muốn phá phong ấn phải đánh bại phân thân của /cff0000Mỹ Lạp Hai Đầu/p.\n\n/cffff00Objective: /pDemolish/cffff00Mỹ Lạp Hai Đầu/p/cff00000/1/p\n/cffff00Reward:/pExp 5000  Silver3000  \n	A voice echoes from the blood seal: I am the blood seal absorbing the demonic power of /cff0000Two-Headed Mila/p. To break the seal, defeat the clone of /cff0000Two-Headed Mila/p.\n\n/cffff00Objective: /pDefeat /cffff00Two-Headed Mila/p /cff00000/1/p\n/cffff00Reward:/pExp 5000  Silver3000  \n
+T	Trong huyết ấn xuất hiện: Ta là huyết ấn hấp thụ sức mạnh ác ma của /cff0000Kị Sĩ Chết-A Bá/p, muốn phá phong ấn phải đánh bại phân thân của /cff0000Kị Sĩ Chết-A Bá/p\n\n/cffff00Objective: /pDemolish/cffff00A Bá/p/cff00000/1/p\n/cffff00Reward:/pExp 5600  Silver3000  \n	A voice echoes from the blood seal: I am the blood seal absorbing the demonic power of /cff0000Death Knight - Aba/p. To break the seal, defeat the clone of /cff0000Death Knight - Aba/p.\n\n/cffff00Objective: /pDefeat /cffff00Aba/p /cff00000/1/p\n/cffff00Reward:/pExp 5600  Silver3000  \n
+T	Trong huyết ấn xuất hiện: Ta là huyết ấn hấp thụ sức mạnh ác ma của /cff0000Pháp Sư Quên-Mạt Cát/p, muốn phá phong ấn phải đánh bại phân thân của /cff0000Pháp Sư Quên-Mạt Cát/p.\n\n/cffff00Objective: /pDemolish/cffff00Mạt Cát/p/cff00000/1/p\n/cffff00Reward:/pExp 5000  Silver2000  \n	A voice echoes from the blood seal: I am the blood seal absorbing the demonic power of /cff0000Forgotten Mage - Macat/p. To break the seal, defeat the clone of /cff0000Forgotten Mage - Macat/p.\n\n/cffff00Objective: /pDefeat /cffff00Macat/p /cff00000/1/p\n/cffff00Reward:/pExp 5000  Silver2000  \n
+T	Trong mộ huyệt có /cff0000Ngưu Đầu/p và /cff0000Xương Tử Linh/p cản đơngf chúng ta. Diệt /cff0000Ngưu Đầu/p và /cff0000Xương Tử Linh/p, chúng ta cùng vào nội đường tìm Hiền Giả\n\n/cffff00Objective: /pDemolish/cffff00Ngưu Đầu/p/cff00000/12/p\nDemolish/cffff00Xương Tử Linh/p/cff00000/12/p\n/cffff00Reward:/pExp 5000  Silver3500  \n	Inside the tomb, /cff0000Minotaurs/p and /cff0000Undead Skeletons/p block our path. Defeat /cff0000Minotaur/p and /cff0000Undead Skeleton/p, then we'll head into the Inner Hall to find the Sage.\n\n/cffff00Objective: /pDefeat /cffff00Minotaur/p /cff00000/12/p\nDefeat /cffff00Undead Skeleton/p /cff00000/12/p\n/cffff00Reward:/pExp 5000  Silver3500  \n
+T	Trong mộ huyệt tối om, khắp nơi là tà khí.\n/cffff00Reward:/pExp 100  \n	The tomb is pitch black, thick with evil aura.\n/cffff00Reward:/pExp 100  \n
+T	Trong mộ huyệt tối đen tìm Hiền Giả là rất khó	Finding the Sage inside this pitch-black tomb is very difficult.
+T	Trong rừng có Nguồn Sinh Mệnh, Nước Suối của nó có thể rửa sạch mọi tà ác trên thế gian, dùng Nước Suối này rửa mắt mọi tà ác đều không có chỗ ẩn nấp. Cùng tới Nguồn Sinh Mệnh ở /cFFFFFFrừng phái đông nam/p	Inside the forest lies the Source of Life. Its Spring Water washes away all evil—rinse your eyes with it and no evil can hide. Let's head to the Source of Life in the /cFFFFFFsoutheast forest/p.
+T	Trung tâm rừng cần sửa từ từ.	The Forest Center will need time to recover.
+T	Trung tâm sẽ bị ta ăn ngay thôi.\n/cffff00Done: /pDemolish/cffff00Green Demon/p/cff00001/1/p\nDemolish/cffff00Red Demon/p/cff00001/1/p\n/cffff00Reward:/pExp 3500  Silver2500  \n	The Center will soon be mine to devour.\n/cffff00Done: /pDefeat /cffff00Green Demon/p /cff00001/1/p\nDefeat /cffff00Red Demon/p /cff00001/1/p\n/cffff00Reward:/pExp 3500  Silver2500  \n
+T	Trung tâm sẽ nhanh chóng rơi vào tay ta, tới lúc đó không ai ngăn cản được ta! (/cFFFF00Tên tự xưng là /cff0000Lợi Nhẫn/p nói xong liền chạy, lúc này /cff0000Mã Cát/p đã tới/p)\n\n/cffff00Reward:/pExp 100  \n	The Center will soon fall into my hands, and then no one can stop me! (/cFFFF00The one calling himself /cff0000Sharp Blade/p flees as /cff0000Magi/p arrives./p)\n\n/cffff00Reward:/pExp 100  \n
+T	Tránh tên của /cff0000Tử Linh Xạ Thủ/p, diệt  chúng	Dodge the arrows of the /cff0000Undead Archers/p and defeat them.
+T	Trân thú bầu bạn	Pet Companionship
+T	Trên đường tới sào huyệt của chúng có/cff0000Đao Cường/p và /cff0000Cướp Râu Đen/p, ngoài ra còn có thủ lĩnh /cff0000Đao Cường Tinh Anh/p. Hãyt tiêu diệt các chướng ngại này	Along the road to their lair are /cff0000Dao Qiang/p and /cff0000Blackbeard Bandits/p, plus their leader /cff0000Elite Dao Qiang/p. Clear out these obstacles!
+T	Trước đây ta thấy trên người /cff0000Ác Ma Rối/p có khảm bảo thạch. Hãy hạ chúng và lấy /cFFFF00Bảo Thạch/p giao cho ta.\n\n/cffff00Objective: /pReceived/cffff00Bảo Thạch/p/cff00000/15/p\n/cffff00Reward:/pExp 2500  Silver4500  \n	I once saw gems embedded in the /cff0000Puppet Demons/p. Defeat them and bring me their /cFFFF00Gems/p.\n\n/cffff00Objective: /pReceived /cffff00Gem/p /cff00000/15/p\n/cffff00Reward:/pExp 2500  Silver4500  \n
+T	Trộm Mộ	Tomb Raider
+T	Trở thành VIP trong Thế Giới OL là đạt thành tựu này.	Become a VIP in The World OL to unlock this achievement.
+T	Tuyết Địa Kỳ Lân (5 ngày)	Snowfield Qilin (5 Days)
+T	Tìm /cff0000Mục Sư/p xem có cách nào không	Find the /cff0000Priest/p to see if there's a way.
+T	Tìm /cff0000Mục Sư/p, mau rời khỏi chỗ này rồi tính\nUse auto-pathfinding?	Find the /cff0000Priest/p and get out of here fast.\nUse auto-pathfinding?
+T	Tìm Hiền Giả	Find the Sage
+T	Tìm phân thân của /cff0000Kị Sĩ Chết-A Bá//p và hạ y\n/cffff00Objective: /pDemolish/cffff00A Bá/p/cff00000/1/p\nUse auto-pathfinding?	Find the clone of /cff0000Death Knight - Aba/p and defeat him.\n/cffff00Objective: /pDefeat /cffff00Aba/p /cff00000/1/p\nUse auto-pathfinding?
+T	Tìm phân thân của /cff0000Pháp Sư Quên-Mạt Cát/p và hạ y\n/cffff00Objective: /pDemolish/cffff00Mạt Cát/p/cff00000/1/p\nUse auto-pathfinding?	Find the clone of /cff0000Forgotten Mage - Macat/p and defeat him.\n/cffff00Objective: /pDefeat /cffff00Macat/p /cff00000/1/p\nUse auto-pathfinding?
+T	Tìm phân thân của/cff0000Mỹ Lạp Hai Đầu/p và hạ y\n/cffff00Objective: /pDemolish/cffff00Mỹ Lạp Hai Đầu/p/cff00000/1/p\nUse auto-pathfinding?	Find the clone of /cff0000Two-Headed Mila/p and defeat it.\n/cffff00Objective: /pDefeat /cffff00Two-Headed Mila/p /cff00000/1/p\nUse auto-pathfinding?
+T	Tín ngưỡng của/cff0000Sứ Đồ/p và chúng ta khác nhau. Chúng sùng bái Tử Thần. Chúng hiện ở trong mộ huyệt làm gì, chắc không phải việc tốt đẹp, hãy ngăn cản chúng.	The /cff0000Apostles/p do not share our faith—they worship the God of Death. Whatever they're doing in the tomb cannot be good; stop them.
+T	Tướng Dực Thủ	Winged Guard General
+T	Tại Hệ thống-Nạp thẻ tiến hành nạp, dùng tiền mua Vàng và Kim Diệp. Nhận thành tựu thành công, sẽ nhận được 1 /c00FF00thú cưỡi hào hoa/p.	Top up via System - Top-Up to purchase Gold and Gold Leaf. Unlocking this achievement grants a /c00FF00luxury mount/p.
+T	Tốt lắm, ta không muốn lãng phí thêm tên cho chúng.\n/cffff00Done: /pDemolish/cffff00Skeleton Swordsman/p/cff000020/20/p\n/cffff00Reward:/pExp 4000  Silver2500  \n	Good—I have no wish to waste more arrows on them.\n/cffff00Done: /pDefeat /cffff00Skeleton Swordsman/p /cff000020/20/p\n/cffff00Reward:/pExp 4000  Silver2500  \n
+T	Tổng điểm thuộc tính Cảm Trí đạt  50	Reach 50 total Wisdom
+T	Tổng điểm thuộc tính Nhanh Nhẹn đạt  100(Achieved)	Reach 100 total Agility (Achieved)
+T	Tổng điểm thuộc tính Nhanh Nhẹn đạt  200	Reach 200 total Agility
+T	Tổng điểm thuộc tính Nhanh Nhẹn đạt  50(Achieved)	Reach 50 total Agility (Achieved)
+T	Tổng điểm thuộc tính Sức Mạnh đạt 100(Achieved)	Reach 100 total Strength (Achieved)
+T	Tổng điểm thuộc tính Sức Mạnh đạt 200	Reach 200 total Strength
+T	Tổng điểm thuộc tính Sức Mạnh đạt 50(Achieved)	Reach 50 total Strength (Achieved)
+T	Tổng điểm thuộc tính Thể Lực đạt 50	Reach 50 total Vitality
+T	Tổng điểm thuộc tính Trí Lực đạt  50	Reach 50 total Intelligence
+T	Tới /cFFFFFFRừng Tinh Linh/p nói chuyện với /cff0000Đội Trưởng-Hạo Khắc/p	Go to /cFFFFFFSpirit Forest/p and talk to /cff0000Captain Hawke/p
+T	Tới bản đồ Khiêu Chiến Anh Hùng	Go to the Hero Challenge map
+T	Tới cửa vào trung tâm của /cffffffrừng phía tây bắc/p, nói chuyện với /cff0000Mã Cát/p\nUse auto-pathfinding?	Go to the center entrance of the /cffffffnorthwest forest/p and talk to /cff0000Magi/p.\nUse auto-pathfinding?
+T	Tới ngoài cứ điểm đốt Đạn Hiệu, gọi đồng đội tới tập hợp	Go outside the outpost and fire the Signal Flare to rally your allies.
+T	Tới đúng lúc lắm, giúp ta, tiễn của ta vô hiệu với chúng\n/cffff00Reward:/pExp 100  \n	Right on time! Help me—my arrows have no effect on them!\n/cffff00Reward:/pExp 100  \n
+T	Từ khi ta vào mộ huyệt liền thường thấy kì quái\n/cffff00Done: /pDefeat /cffff00Undead Corpse/p /cff000015/15/p\n/cffff00Reward:/pExp 3500  Silver2000  \n	Ever since entering the tomb, something has felt off.\n/cffff00Done: /pDefeat /cffff00Undead Corpse/p /cff000015/15/p\n/cffff00Reward:/pExp 3500  Silver2000  \n
+T	Từ khi đầu lĩnh của Cướp bị hại, dư đảng của y vấn lởn vởn trong rừng. Chúng ta không thể để mặc chúng. Hãy diệt /cff0000Cướp Đi Tuần/p, bảo vệ sư an toàn của người qua lại	Since the Bandit Leader's defeat, his remnants still prowl the forest. We cannot leave them unchecked. Defeat /cff0000Patrolling Bandits/p and protect travelers!
+T	Từ đây có thể vào sơn trại. Chỉ có điều  /cff0000Thủ Vệ Cướp/p trấn thủ ở cửa sơn trái, chúng ta phải hạ chúng trước mới vào được sơn trại	We can enter the stronghold from here, but /cff0000Bandit Guards/p are watching the gate. We must defeat them first to get inside.
+T	Tử Linh thối rữa	Rotting Undead
+T	Tử vong vô tận đang đợi mi	Endless death awaits you.
+T	Unlocked    Normal Item\n/c00ff00Requires Skeleton Key\n/pRange: Single Target\nCó thể nhận được phòng cụ Chiến Sĩ, Hiệp Khách thích hợp cấp 25-35. Có cơ hội nhận được trang bị sử thi.\n	Unlocked    Normal Item\n/c00ff00Requires Skeleton Key\n/pRange: Single Target\nCan obtain Warrior and Knight armor suitable for Lv 25-35. Chance to obtain Epic gear.\n
+T	Unlocked    Normal Item\n/c00ff00Requires Skeleton Key\n/pRange: Single Target\nCó thể nhận được phòng cụ Pháp Sư, Tu Chân thích hợp cấp 25-35. Có cơ hội nhận được trang bị sử thi.\n	Unlocked    Normal Item\n/c00ff00Requires Skeleton Key\n/pRange: Single Target\nCan obtain Mage and Taoist armor suitable for Lv 25-35. Chance to obtain Epic gear.\n
+T	Valkr*e(Male) Lv 21\nEastern Swordsman\nMap:  Thành của mình\n	Valkr*e(Male) Lv 21\nEastern Swordsman\nMap:  Home City\n
+T	Viên Đinh Kì Dị	Bizarre Gardener
+T	Vào /cFFFFFFGóc Rừng/p điều tra	Enter /cFFFFFFForest Corner/p to investigate
+T	Vào Mộ Phong Ấn Tầng 1	Enter Sealed Tomb Floor 1
+T	Vào Mộ Phong Ấn Tầng 3	Enter Sealed Tomb Floor 3
+T	Vào Nội Đường Tầng 2	Enter Inner Hall 2F
+T	Vào Tiền Sảnh Tầng 2	Enter Front Hall 2F
+T	Vào Trung Tâm Rừng, nói chuyện với /cff0000Mã Cát/p	Enter the Forest Center and talk to /cff0000Magi/p
+T	Vào cứ điểm của Cướp, nói chuyện với /cff0000Đội Trưởng-Hạo Khắc/p	Enter the Bandit outpost and talk to /cff0000Captain Hawke/p
+T	Vào mộ huyệt, nhanh chóng tìm /cff0000Hiền Giả/p.\n\n/cffff00Reward:/pExp 100  \n	Enter the tomb and quickly find the /cff0000Sage/p.\n\n/cffff00Reward:/pExp 100  \n
+T	Với thực lực hiện tại của ta khó mà phá được phong ấn.	With my current strength, breaking the seal is difficult.
+T	Vừa rồi thật nguy hiểm.\n/cffff00Done: /pDemolish/cffff00Ác Ma Rối/p/cff000020/20/p\n/cffff00Reward:/pExp 5500  Silver2000  \n	That was close!\n/cffff00Done: /pDefeat /cffff00Puppet Demon/p /cff000020/20/p\n/cffff00Reward:/pExp 5500  Silver2000  \n
+T	Xem /cff0000Huyết ấn Ác Ma/p, và nghĩ cách phá nó. Tuy nhiên không thể lại gần nó.\n/cffff00Objective: /pComplete quest </cff0000Huyết ấn của Pháp Sư Quên/p>\nComplete quest </cff0000Huyết ấn của Kị Sĩ Chết/p>\nComplete quest </cff0000Huyết ấn của Mỹ Lạp Hai Đầu/p>\nUse auto-pathfinding?	Inspect the /cff0000Demon Blood Seal/p and figure out how to break it, though you cannot approach it.\n/cffff00Objective: /pComplete quest </cff0000Blood Seal of Forgotten Mage/p>\nComplete quest </cff0000Blood Seal of Death Knight/p>\nComplete quest </cff0000Blood Seal of Two-Headed Mila/p>\nUse auto-pathfinding?
+T	Xem ra mục tiêu của chúng ta chính là cứ điểm của chúng.	It seems our target is their very outpost.
+T	Xem ra ta bị kẻ địch lừa tới nơi khác rồi.\n/cffff00Done: /pDemolish/cffff00Gác Mộ/p/cff00003/3/p\n/cffff00Reward:/pExp 3500  Silver2000  \n	Looks like the enemy lured me somewhere else.\n/cffff00Done: /pDefeat /cffff00Tomb Guard/p /cff00003/3/p\n/cffff00Reward:/pExp 3500  Silver2000  \n
+T	Xem ra tin tức /cff0000Mộng Yểm/p sắp hồi sinh là thật. Không thể để gian kế của chúng thực hiện được. Diệt /cff0000Sứ Ma/p, vào trong mộ huyệt ngăn cản Sứ Đồ.\n\n/cffff00Objective: /pDefeat /cffff00Apostle Familiar/p /cff00000/20/p\n/cffff00Reward:/pExp 4500  Silver3000  \n	It seems the rumor that /cff0000Nightmare/p is about to revive is true. We cannot let their plot succeed. Defeat /cff0000Apostle Familiars/p and enter the tomb to stop the Apostles.\n\n/cffff00Objective: /pDefeat /cffff00Apostle Familiar/p /cff00000/20/p\n/cffff00Reward:/pExp 4500  Silver3000  \n
+T	Xuất phát	Depart
+T	Xà Nữ	Snake Woman
+T	Xà Thủ Vệ	Snake Guard
+T	Xà Xạ Thủ	Snake Archer
+T	Xông vào	Charge In
+T	Xảy ra chuyện gì? Lạp Na đã bị hạ?  /cff0000Lợi Nhẫn/p??\n/cffff00Reward:/pExp 100  \n	What happened? Lana was defeated? /cff0000Sharp Blade/p??\n/cffff00Reward:/pExp 100  \n
+T	Y là thuộc hạ của /cff0000Mộng Yểm/p. Độc Ma đã trốn vào Nội Đường Tầng 2, mau đuổi theo xem sao.\n\n/cffff00Reward:/pExp 100  \n	He is a subordinate of /cff0000Nightmare/p. Poison Demon fled into Inner Hall 2F—hurry and pursue him!\n\n/cffff00Reward:/pExp 100  \n
+T	You drew: /i00221/ce5e5e5Kiếm Vương Giả (5 ngày)/p x 1\n	You drew: /i00221/ce5e5e5King's Sword (5 Days)/p x 1\n
+T	Ác Ma Hút Máu	Bloodsucking Demon
+T	Ác Ma bỏ trốn	Fleeing Demon
+T	Ác Ma càng  ngày càng nhiên, chúng ta không thể kéo dài nữa.	The Demons are growing stronger and bolder—we cannot delay any longer.
+T	Ác Ma phi hành	Flying Demon
+T	Ác Ma tập kích	Demon Ambush
+T	Ác Ma xem ra rất yếu, /cff0000Sứ Đồ/p muốn nhân cơ hội này bắt nó. Hãy đánh bại /cff0000Sứ Đồ/p, cứu Ác Ma!\n\n/cffff00Objective: /pDemolish/cffff00Sứ Đồ/p/cff00000/9/p\n/cffff00Reward:/pExp 4500  Silver3000  \n	The Demon looks very weak, and the /cff0000Apostles/p are trying to capture it. Defeat the /cff0000Apostles/p and rescue the Demon!\n\n/cffff00Objective: /pDefeat /cffff00Apostle/p /cff00000/9/p\n/cffff00Reward:/pExp 4500  Silver3000  \n
+T	Ám tiễn khó phòng	Arrows from the Shadows
+T	Âm mưu của kẻ địch	Enemy Plot
+T	Âm mưu của Đầu Lĩnh Sứ Đồ	Apostle Leader's Scheme
+T	Đai Hắc Hôi	Dark Gray Belt
+T	Đai Phồn Dương	Prosperous Sun Belt
+T	Đi theo hướng /cff0000Mã Cát/p chỉ tìm tới Nguồn Sinh Mệnh	Follow the direction /cff0000Magi/p pointed to find the Source of Life
+T	Đi tới khu rừng bên trái gặp/cff0000Mã Cát/p rồi đi về phía trước.	Head to the forest on the left to meet /cff0000Magi/p, then push forward.
+T	Đoàn Huyết Yên	Blood Smoke Legion
+T	Đuổi theo vết chân của Độc Ma, vào Nội Đường Tầng 2.\nUse auto-pathfinding?	Follow Poison Demon's tracks into Inner Hall 2F.\nUse auto-pathfinding?
+T	Đá Ma Lực Cấp 1	Lv 1 Magic Stone
+T	Đám /cff0000Tiểu Ác Ma/p cho rằng bay trên không thì tránh được tên của ta! Hãy tiêu diệt chúng, ta phụ trách bắn đám trên không, mi giúp ta xử lý đám /cff0000Tiểu Ác Ma/p còn lại.	Those /cff0000Lesser Demons/p think flying through the air will save them from my arrows! I'll shoot down the ones in the sky—help me take care of the remaining /cff0000Lesser Demons/p.
+T	Đám /cff0000Ác Ma Rối/p hình như không có ý thức, chỉ tấn công người ở trước mắt. Phá/cff0000Ác Ma Rối/p đi.\n\n/cffff00Objective: /pDemolish/cffff00Ác Ma Rối/p/cff00000/20/p\n/cffff00Reward:/pExp 5500  Silver2000  \n	The /cff0000Puppet Demons/p seem mindless, attacking anyone in sight. Destroy the /cff0000Puppet Demons/p!\n\n/cffff00Objective: /pDefeat /cffff00Puppet Demon/p /cff00000/20/p\n/cffff00Reward:/pExp 5500  Silver2000  \n
+T	Đám /cff0000Đao Lục Bì/p đã cướp đi tính mạng những bằng hữu của chúng ta, chúng ta phải tiêu diệt /cff0000Đoản Đao Lục Bì/p, báo thù cho các huynh đệ.\n\n/cffff00Objective: /pDemolish/cffff00Đao Lục Bì/p/cff00000/20/p\n/cffff00Reward:/pExp 4000  Silver2000  \n	The /cff0000Greenhide Blades/p took our comrades' lives. We must wipe out the /cff0000Greenhide Shortblades/p and avenge our brothers!\n\n/cffff00Objective: /pDefeat /cffff00Greenhide Blade/p /cff00000/20/p\n/cffff00Reward:/pExp 4000  Silver2000  \n
+T	Đám Cướp xảo quyệt đã làm bị thương biết bao huynh đệ của ta, ta sẽ không tha cho bọn mi	You cunning Bandits have wounded so many of my brothers—I will never forgive you!
+T	Đám xảo quyệt, mai phục ở cả đây. /cff0000Tử Linh Xạ Thủ/p sinh thời là xạ thủ tinh anh của tộc Tinh Linh. Tiễn của chúng đã nhằm vào chúng ta, hãy diệt đám /cff0000Tử Linh Xạ Thủ/p.\n\n/cffff00Objective: /pDemolish/cffff00Tử Linh Xạ Thủ/p/cff00000/16/p\n/cffff00Reward:/pExp 4500  Silver4000  \n	Sneaky bastards—ambushing us here too! In life, the /cff0000Undead Archers/p were elite marksmen of the Elf tribe. Their arrows are aimed at us—defeat the /cff0000Undead Archers/p!\n\n/cffff00Objective: /pDefeat /cffff00Undead Archer/p /cff00000/16/p\n/cffff00Reward:/pExp 4500  Silver4000  \n
+T	Đám/cff0000Xác Tử Linh/p vì nhiều năm bị phong ấn dưới đất nên đã thối rữa. Nhân lúc /cff0000Xác Tử Linh/p vẫn trong mộ địa, hãy diệt chúng.\n\n/cffff00Objective: /pDefeat /cffff00Undead Corpse/p /cff00000/15/p\n/cffff00Reward:/pExp 3500  Silver2000  \n	Sealed underground for years, the /cff0000Undead Corpses/p have rotted away. While the /cff0000Undead Corpses/p are still inside the graveyard, eliminate them.\n\n/cffff00Objective: /pDefeat /cffff00Undead Corpse/p /cff00000/15/p\n/cffff00Reward:/pExp 3500  Silver2000  \n
+T	Đáng tiếc để y chạy thoát. Chúng ta sẽ lập tức truy kích.	Too bad he got away. We'll pursue him immediately.
+T	Đánh bại /cff0000Lợi Nhẫn/p	Defeat /cff0000Sharp Blade/p
+T	Đánh bại /cff0000Sứ Đồ/p vây quanh ác ma.\n/cffff00Objective: /pDemolish/cffff00Sứ Đồ/p/cff00000/9/p\nUse auto-pathfinding?	Defeat the /cff0000Apostles/p surrounding the Demon.\n/cffff00Objective: /pDefeat /cffff00Apostle/p /cff00000/9/p\nUse auto-pathfinding?
+T	Đánh bại /cff0000Độc Ma/p bất ngờ xông tới	Defeat the /cff0000Poison Demon/p that suddenly charged in
+T	Đây không phải /cff0000huyết ấn Ác Ma/p sao, sao lại xuất hiện ở đây?\n/cffff00Reward:/pExp 100  \n	Isn't this a /cff0000Demon Blood Seal/p? Why is it here?\n/cffff00Reward:/pExp 100  \n
+T	Đây là Nguồn Sinh Mệnh, là Nước Suối sinh mệnh gắn bó với khu rừng. (/cFFFF00Đột nhiên xung quanh vọng âm thanh kì quái, Mã Cát liền cảnh giác./p)	This is the Source of Life, the living Spring Water bound to this forest. (/cFFFF00Suddenly strange sounds echo all around, and Magi immediately goes on alert./p)
+T	Đây là đạn hiệu Đội Dung Binh dùng để liên lạc, /cFFFFFFcầm ra ngoài bãi đất rộng đốt đi/p, thông báo các huynh đệ khác tới, chúng ta hãy tiêu diệt Cướp!	This is the Signal Flare the Mercenary Squad uses to communicate. /cFFFFFFTake it out to the open clearing and fire it/p to signal the others—let's wipe out these Bandits!
+T	Đây rõ ràng là đường cụt, tại sao/cff0000Đầu Lĩnh Sứ Đồ/p có thể chạy tới đây. Khôngngờ gặp phải đám Thủ Hộ Giả. Tìm /cff0000Mục Sư/p, mau rời khỏi chỗ này rồi tính\n\n/cffff00Reward:/pExp 100  \n	This is clearly a dead end—how could the /cff0000Apostle Leader/p run here? Running into Guardians on top of that... Find the /cff0000Priest/p and get out of here fast!\n\n/cffff00Reward:/pExp 100  \n
+T	Đại Thụ	Great Tree
+T	Để Đội Dung Binh đối phó Cướp, chúng ta vào trong tìm /cff0000Tướng Cướp/p tính sổ	Leave the Bandits to the Mercenary Squad—let's head inside to settle the score with the /cff0000Bandit Leader/p.
+T	Đệ đệ ngu ngốc của ta, căm hận ta đi, vì hôm nay ta sẽ giết mi	My foolish little brother, hate me all you want—for today I will kill you!
+T	Đệ đệ ngu ngốc!	Foolish little brother!
+T	Đọa Lang Ma	Fallen Wolf Demon
+T	Đối thoại xong lập tức vào Chiến Tinh Linh BOSS, hãy chuẩn bị	Spirit BOSS Battle begins right after dialogue; prepare yourself.
+T	Đồng x 20000	Copper x 20000
+T	Độc Ma nói xong liền chạy về Nội Đường, tới tìm	After speaking, Poison Demon ran toward the Inner Hall—go find
+T	Độc Ma đã trốn vào Nội Đường Tầng 2, mau đuổi theo xem sao.	Poison Demon fled into Inner Hall 2F—hurry and pursue him!
+T	Đội dung binh sẽ nhanh tới thôi	The Mercenary Squad will be here soon.
+T	Đột nhiên từ xa 1 mũi tên bay tới, bắn trúng Lạp Na, Lạp Na ngã xuống.	Suddenly, an arrow flies from afar and strikes Lana—she collapses to the ground.
+T	Đợi phong ấn của/cff0000Mộng Yểm/p được mở, chúng ta sẽ lại tính sổ\n/cffff00Done: /pDefeat /cffff00Apostle Lieutenant/p /cff00001/1/p\n/cffff00Reward:/pExp 4000  Silver4000  \n	Once /cff0000Nightmare/p's seal is broken, we will settle this score.\n/cffff00Done: /pDefeat /cffff00Apostle Lieutenant/p /cff00001/1/p\n/cffff00Reward:/pExp 4000  Silver4000  \n
+T	Đựng nhiều vật liệu kiến trúc	Contains abundant construction materials
+T	Ấn Linh Dị	Eerie Seal
+T	Ấn Lãng Quên	Seal of Oblivion
+T	Ấn Tử Vong	Seal of Death
+T	Ở nơi nguy hiểm thế này phải bảo toàn tính mạng trước	In a dangerous place like this, survival comes first.
+T	Ủng Phục Thù	Vengeance Boots
+T	【Trở thành VIP】	【Become VIP】

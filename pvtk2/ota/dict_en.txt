@@ -9319,3 +9319,4 @@ T	Ếch Độc	Poison Toad
 T	Ở Cổ Mộ Tầng 1 đi theo Tử Sa	Follow Zi Sha in Ancient Tomb 1F
 T	Ở chỗ ta có thể học kĩ năng các phái	You can learn skills of various sects from me
 T	Ở phía Tháp Trấn Yêu liên tiếp có 6 đạo thiên lôi, không đúng sao không phải 7 đạo? Lẽ nào có vấn đề? Chúng ta phải tới Tháp Trấn Yêu xem tình hình!	Six heavenly lightning bolts struck near the Demon-Sealing Tower in succession—wait, shouldn't there be seven? Could something be wrong? We must go to the Demon-Sealing Tower and check!
+T	Đỉnh Núi Nguyệt Nha	Crescent Mountain Peak
