@@ -6,3 +6,10 @@ common/dixiao.png
 common/miss.png
 common/offset.png
 common/ti_enter.png
+common/511.png
+common/534.png
+common/601.png
+common/602.png
+common/604.png
+common/605.png
+common/606.png
