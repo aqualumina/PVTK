@@ -10691,3 +10691,655 @@ T	Đổi thưởng Nguyên Đán	New Year Reward Exchange
 T	Ở chỗ ta có thể huấn luyện trân thú	You can train rare pets here
 T	Ở đây có thể kết hôn, ta không thích giải quyết việc ly hôn, nhưng nếu mi kiên quyết, ta cũng sẽ giúp	You can get married here. I don't like handling divorces, but if you insist, I will still help.
 T	Ở đây có thể nhận các loại nhiệm vụ	You can accept various quests here
+T	/c00E0FBAlyxrad/p ấn tượng đầu về bạn không tồi, mau kết bạn với TA.	/c00E0FBAlyxrad/p has a good first impression of you—add them as a friend now!
+T	/c00FF00Giám định trang bị thu đến 5000 Pháp Lực/p	/c00FF00Equipment appraisal can grant up to 5000 MP/p
+T	/c00FF00Giám định để có hiệu quả tốt hơn/p	/c00FF00Appraise for better effects/p
+T	/c00FF00{1}/p mau giúp chúng ta! Đây đều là người tộc ta… Nhưng họ đều đã biến thành Người Sói, mất đi tâm trí.	/c00FF00{1}/p, help us quickly! They are all my kinsmen... yet they have turned into Werewolves and lost their minds.
+T	/c00FF00{1}/p, nếu trúng thi độc, hãy giúp ta kết liễu.	/c00FF00{1}/p, if I succumb to the corpse poison, please end me.
+T	/c00ff00{1}/p, cuối cùng tìm được mọi người rồi!	/c00ff00{1}/p, I finally found everyone!
+T	/c00ff00{1}/p, đừng cậy hơn người, hợp lực đánh bại Yêu Tôn Giả mới là thượng sách	/c00ff00{1}/p, do not act out of pride—joining forces to defeat Demon Venerable is the wisest course.
+T	/cFF0000{1}/p, nhiều đồng đội của ta chết ở đây, ta phải tiếp tục ở đây chiến đấu với yêu quái…	/cFF0000{1}/p, many of my comrades died here; I must stay and keep fighting these demons...
+T	/cff0000Viêm Ma/p là quái vật toàn thân bốc lửa.	/cff0000Flame Demon/p is a monster engulfed in flames from head to toe.
+T	/cffff00Bá Vương Tâm Kinh/p (Lv 22)    Passive\n/c00ff00Armor Pierce600\n/p/c00ff00Armor Pierce+30%\n/p/c00ff00Ignore Block+218\n/p \n	/cffff00Overlord Heart Sutra/p (Lv 22)    Passive\n/c00ff00Armor Pierce600\n/p/c00ff00Armor Pierce+30%\n/p/c00ff00Ignore Block+218\n/p \n
+T	/cffff00Dùng Quyền Trượng/p (Lv 10)    Passive\n/c00ff00Staff Atk Count+1\n/p/c00ff00Magic Atk+190\n/p/c00ff00Max MP+210/p   \n\n	/cffff00Scepter Mastery/p (Lv 10)    Passive\n/c00ff00Staff Atk Count+1\n/p/c00ff00Magic Atk+190\n/p/c00ff00Max MP+210/p   \n\n
+T	/cffff00Hiểu Nguyên Tố/p (Lv 10)    Passive\n/c00ff00Magic Hit+28/p /c00ff00\nMagic Atk+6%\n/p/c00ff00Magic Pierce+210\n/p\n	/cffff00Elemental Comprehension/p (Lv 10)    Passive\n/c00ff00Magic Hit+28/p /c00ff00\nMagic Atk+6%\n/p/c00ff00Magic Pierce+210\n/p\n
+T	/cffff00Lĩnh Hội-Chiêu Lôi/p (Lv 8)    Auto\n2 Enemies (Vertical)    Magic Atk\n/c00ff00Skill BonusMagicHit+220\n/p/c00ff00Magic Def-400\n/pLasts 1 rounds\nAttacks: +2     \nSkill consumed:  610 MP\nChance to learn new skill and upgrade old skill upon leveling up.\n	/cffff00Comprehend: Thunder Summon/p (Lv 8)    Auto\n2 Enemies (Vertical)    Magic Atk\n/c00ff00Skill BonusMagicHit+220\n/p/c00ff00Magic Def-400\n/pLasts 1 rounds\nAttacks: +2     \nSkill consumed:  610 MP\nChance to learn new skill and upgrade old skill upon leveling up.\n
+T	/cffff00Phước lành kỳ diệu/p (Lv 1)    Passive\n/c00ff00Strength+5%/p  /c00ff00Agility+5%/p\n/c00ff00When master is attacked, take 10% DMG for master\n/pWhen your pet levels up, it has a chance to reach this level.\n	/cffff00Miraculous Blessing/p (Lv 1)    Passive\n/c00ff00Strength+5%/p  /c00ff00Agility+5%/p\n/c00ff00When master is attacked, take 10% DMG for master\n/pWhen your pet levels up, it has a chance to reach this level.\n
+T	/cffff00Sói Gầm/p (Lv 1)    Active\n2 Enemies (Front-Back)    Curse\n/c00ff00Max MP Reduction5%,Confusion\n/p/c00ff00Target Status Resist-30\n/pLasts 3 rounds\nAttacks: +3      \nSkill consumed:  1000 MP\n\n	/cffff00Wolf Roar/p (Lv 1)    Active\n2 Enemies (Front-Back)    Curse\n/c00ff00Max MP Reduction5%,Confusion\n/p/c00ff00Target Status Resist-30\n/pLasts 3 rounds\nAttacks: +3      \nSkill consumed:  1000 MP\n\n
+T	/cffff00Tam Muội Chân Hỏa/p (Lv 22)    Active\nEnemy Line of 6    Magic Atk\n/c00ff00Max HP Reduction9%\n/p/c00ff00HP-2200/p           /c00ff00\nTarget DMG Immunity-345\n/pLasts 3 rounds\nAttacks: +5     \nSkill consumed:  5000 MP\n\n	/cffff00Samadhi True Fire/p (Lv 22)    Active\nEnemy Line of 6    Magic Atk\n/c00ff00Max HP Reduction9%\n/p/c00ff00HP-2200/p           /c00ff00\nTarget DMG Immunity-345\n/pLasts 3 rounds\nAttacks: +5     \nSkill consumed:  5000 MP\n\n
+T	/cffff00Thiên Ma Đao 5/p (Lv 21)    Active\n1 Enemy    Melee Slash\n/c00ff00Target Counter-365\n/p/c00ff00MP-550,Phong Ma\n/p/c00ff00Max MP Reduction12%\n/pLasts 4 rounds\nAttacks: +5     \nSkill consumed:  220 MP\n/cff0000Weapon requirement: Blade only\n/p\n	/cffff00Heavenly Demon Blade 5/p (Lv 21)    Active\n1 Enemy    Melee Slash\n/c00ff00Target Counter-365\n/p/c00ff00MP-550,Magic Seal\n/p/c00ff00Max MP Reduction12%\n/pLasts 4 rounds\nAttacks: +5     \nSkill consumed:  220 MP\n/cff0000Weapon requirement: Blade only\n/p\n
+T	/cffff00Thiên Sinh Cường Tráng/p (Lv 1)    Passive\n/c00ff00Constitution+10\n/p/c00ff00Constitution+2%\n/p/c00ff00DMG Reduction+10\n/pInnate skill. When pet levels up, chance to increase skill level.\n	/cffff00Innate Vigor/p (Lv 1)    Passive\n/c00ff00Constitution+10\n/p/c00ff00Constitution+2%\n/p/c00ff00DMG Reduction+10\n/pInnate skill. When pet levels up, chance to increase skill level.\n
+T	/cffff00Thuật Ngự Phong/p (Lv 22)    Passive\n/c00ff00Atk Speed+900\n/p/c00ff00Atk Count+2/p   /c00ff00Agility+80/p\n \n	/cffff00Wind Control Art/p (Lv 22)    Passive\n/c00ff00Atk Speed+900\n/p/c00ff00Atk Count+2/p   /c00ff00Agility+80/p\n \n
+T	/cffff00Tử Luật Lệnh/p (Lv 5)    Active\n1 Enemy    Curse\n/c00ff00Clear TargetBuffStatus\n/p/c00ff00HP-1200,Weaken\n/p/c00ff00Max HP Reduction3%\n/pLasts 1 rounds\nSkill consumed:  5600 MP\n\n	/cffff00Death Decree/p (Lv 5)    Active\n1 Enemy    Curse\n/c00ff00Clear TargetBuffStatus\n/p/c00ff00HP-1200,Weaken\n/p/c00ff00Max HP Reduction3%\n/pLasts 1 rounds\nSkill consumed:  5600 MP\n\n
+T	/cffff00vũ khí cổ xưa/p (Lv 1)    Passive\n/c00ff00Slash Power+10%\n/p/c00ff00Pierce Power+10%\n/p/c00ff00Ignore Block+100\n/pWhen your pet levels up, it has a chance to reach this level.\n	/cffff00Ancient Weaponry/p (Lv 1)    Passive\n/c00ff00Slash Power+10%\n/p/c00ff00Pierce Power+10%\n/p/c00ff00Ignore Block+100\n/pWhen your pet levels up, it has a chance to reach this level.\n
+T	/i00015/cc63be9Tay Kỷ Niệm MJ(khóa)/p x 1  /i0202010000\n★×47 \nAuto-lock Appraisable    Gloves    /cc63be9Legend/p\n/c00ff00Max HP+14%/p          /c00ff00Atk Speed+504/p\n/c00ff00Hit+39%(Lock)/p       /c00ff00\nArmor Pierce+17%(Lock)\n/p/c00ff00Agility+14(Inlay Destroyed)\n/p/cffff00Thành Thạo Vũ Khí+5Cấp\n/pArmor:   Slash 776  Pierce 776  MP 582\nRequirement: Lv 50  200 Agility\nDurability: 179/190\nThích hợp hệ Công\n	/i00015/cc63be9MJ Memorial Gloves (Bound)/p x 1  /i0202010000\n★×47 \nAuto-lock Appraisable    Gloves    /cc63be9Legend/p\n/c00ff00Max HP+14%/p          /c00ff00Atk Speed+504/p\n/c00ff00Hit+39%(Lock)/p       /c00ff00\nArmor Pierce+17%(Lock)\n/p/c00ff00Agility+14(Inlay Destroyed)\n/p/cffff00Weapon Mastery +5 Lv\n/pArmor:   Slash 776  Pierce 776  MP 582\nRequirement: Lv 50  200 Agility\nDurability: 179/190\nSuitable for Attack Type\n
+T	/i00024/cffa500Hộ Vai Bạch Nguyệt/p x 1  /i020209000\n☆ \nLocked Appraisable    Vai    /cffa500Epic/p\n/c00ff00Max MP+298/p          /c00ff00Status Resist+20/p\n/c00ff00Mana Shield+165(Lock)\n/p/c00ff00Status Resist+22(Lock)\n/p/c00ff00Wisdom+3(Inlay Destroyed)\n/pArmor:   Slash 122  Pierce 122  MP 493\nRequirement: Lv 45  9 Constitution  45 Intelligence  23 Wisdom\nDurability: 175/190\nEquipment suitable for ./c00FF00Mages/p\n/cffff00Set effect: /p\n/cb0a67a5 pcs: Status Resist+80/p/cb0a67a/p\n/cb0a67a6 pcs: MP Drain per turn+400/p/cb0a67a/p\n/cb0a67a7 pcs: Mana Shield+20%/p/cb0a67a/p	/i00024/cffa500White Moon Spaulders/p x 1  /i020209000\n☆ \nLocked Appraisable    Shoulder    /cffa500Epic/p\n/c00ff00Max MP+298/p          /c00ff00Status Resist+20/p\n/c00ff00Mana Shield+165(Lock)\n/p/c00ff00Status Resist+22(Lock)\n/p/c00ff00Wisdom+3(Inlay Destroyed)\n/pArmor:   Slash 122  Pierce 122  MP 493\nRequirement: Lv 45  9 Constitution  45 Intelligence  23 Wisdom\nDurability: 175/190\nEquipment suitable for ./c00FF00Mages/p\n/cffff00Set effect: /p\n/cb0a67a5 pcs: Status Resist+80/p/cb0a67a/p\n/cb0a67a6 pcs: MP Drain per turn+400/p/cb0a67a/p\n/cb0a67a7 pcs: Mana Shield+20%/p/cb0a67a/p
+T	/i00025/cc63be9Hộ Vai Lang Ma/p x 1  /i0202010000\n★×47 \nLocked Appraisable    Vai    /cc63be9Legend/p\n/c00ff00Max HP+1012/p         /c00ff00Wisdom+36%/p\n/c00ff00Pierce Power+51%(Lock)\n/p/c00ff00Hit+24%(Lock)/p       /c00ff00\nAgility+14(Inlay Destroyed)\n/p/c00ff00Enchant stats: Agility+15 Ignore DMG Immunity+30\n/p/cffff00Đọa Sói Nộ Hống+1Cấp\n/pArmor:   Slash 1253  Pierce 940  MP 482\nRequirement: Lv 50  120 Strength/cff0000  50 Constitution/p\nDurability: 179/190\nThưởng rớt ra khi đánh bại Đọa Lang Ma\n	/i00025/cc63be9Wolf Demon Spaulders/p x 1  /i0202010000\n★×47 \nLocked Appraisable    Shoulder    /cc63be9Legend/p\n/c00ff00Max HP+1012/p         /c00ff00Wisdom+36%/p\n/c00ff00Pierce Power+51%(Lock)\n/p/c00ff00Hit+24%(Lock)/p       /c00ff00\nAgility+14(Inlay Destroyed)\n/p/c00ff00Enchant stats: Agility+15 Ignore DMG Immunity+30\n/p/cffff00Fallen Wolf Roar +1 Lv\n/pArmor:   Slash 1253  Pierce 940  MP 482\nRequirement: Lv 50  120 Strength/cff0000  50 Constitution/p\nDurability: 179/190\nDropped by defeating Fallen Wolf Demon\n
+T	/i00104/cffa500Quần Bạch Nguyệt/p x 1  /i020209000\n☆ \nLocked Appraisable    Legs    /cffa500Epic/p\n/c00ff00Max MP+298/p          /c00ff00Status Resist+20/p\n/c00ff00Mana Shield+143(Lock)\n/p/c00ff00Status Resist+22(Lock)\n/p/c00ff00Wisdom+6(Inlay Destroyed)\n/pArmor:   Slash 244  Pierce 244  MP 984\nRequirement: Lv 45  9 Constitution  45 Intelligence  23 Wisdom\nDurability: 175/190\nEquipment suitable for ./c00FF00Mages/p\n/cffff00Set effect: /p\n/cb0a67a5 pcs: Status Resist+80/p/cb0a67a/p\n/cb0a67a6 pcs: MP Drain per turn+400/p/cb0a67a/p\n/cb0a67a7 pcs: Mana Shield+20%/p/cb0a67a/p	/i00104/cffa500White Moon Pants/p x 1  /i020209000\n☆ \nLocked Appraisable    Legs    /cffa500Epic/p\n/c00ff00Max MP+298/p          /c00ff00Status Resist+20/p\n/c00ff00Mana Shield+143(Lock)\n/p/c00ff00Status Resist+22(Lock)\n/p/c00ff00Wisdom+6(Inlay Destroyed)\n/pArmor:   Slash 244  Pierce 244  MP 984\nRequirement: Lv 45  9 Constitution  45 Intelligence  23 Wisdom\nDurability: 175/190\nEquipment suitable for ./c00FF00Mages/p\n/cffff00Set effect: /p\n/cb0a67a5 pcs: Status Resist+80/p/cb0a67a/p\n/cb0a67a6 pcs: MP Drain per turn+400/p/cb0a67a/p\n/cb0a67a7 pcs: Mana Shield+20%/p/cb0a67a/p
+T	/i00114/cffa500Chiến Vương/p x 1  /i020205000\nUnlocked    Fashion    /cffa500Epic/p\n/cb0a67aCombat EXP 1.3x(Requires Lock)\n/p/cb0a67aAuto-restore HP and MP after battle10%(Requires Lock)\n/pRequirement: Lv 1\nDurability: 130/130\n	/i00114/cffa500War King/p x 1  /i020205000\nUnlocked    Fashion    /cffa500Epic/p\n/cb0a67aCombat EXP 1.3x(Requires Lock)\n/p/cb0a67aAuto-restore HP and MP after battle10%(Requires Lock)\n/pRequirement: Lv 1\nDurability: 130/130\n
+T	/i00125/cc63be9Thương Luyện Ma Tinh lv9/p x 1  /i0202030000\n★×32 \nLocked Appraisable    Polearm    /cc63be9Legend/p\nAttack: 1490~2430 Accuracy: 220\nAttacks: 3 times   Melee Pierce\n/c00ff00Atk Speed+2450/p    /c00ff00\nArmor Pierce+39%\n/p/c00ff00Pierce Power+41%\n/p/c00ff00Ignore DMG Immunity+447(Lock)\n/p/c00ff00Crit Rate+365(Lock)\n/p/c00ff00Agility+4(Inlay 2)/p  /cffff00\nMa Tinh Thương+9Cấp\n/pRequirement: Lv 65/cff0000  300 Strength/p  200 Agility\nDurability: 861/872\nDismantle to receive Magic Crystals for enhancement\n	/i00125/cc63be9Refined Demon Crystal Spear Lv9/p x 1  /i0202030000\n★×32 \nLocked Appraisable    Polearm    /cc63be9Legend/p\nAttack: 1490~2430 Accuracy: 220\nAttacks: 3 times   Melee Pierce\n/c00ff00Atk Speed+2450/p    /c00ff00\nArmor Pierce+39%\n/p/c00ff00Pierce Power+41%\n/p/c00ff00Ignore DMG Immunity+447(Lock)\n/p/c00ff00Crit Rate+365(Lock)\n/p/c00ff00Agility+4(Inlay 2)/p  /cffff00\nDemon Crystal Spear +9 Lv\n/pRequirement: Lv 65/cff0000  300 Strength/p  200 Agility\nDurability: 861/872\nDismantle to receive Magic Crystals for enhancement\n
+T	/i00184/cffa500Áo Choàng Huyết Yên Hoa Lệ/p x 1  /i020206000\n★×7 \nLocked Appraisable    Back    /cffa500Epic/p\n/c00ff00Mana Shield+258/p  /c00ff00\nBase Status Resist+7%\n/p/c00ff00Magic Atk+7%(Lock)\n/p/c00ff00Intelligence+7%(Lock)\n/p/c00ff00Intelligence+1(Inlay 1)\n/pArmor:   Slash 182  Pierce 121  MP 363\nRequirement: Lv 45  160 Intelligence\nDurability: 135/150\nDungeon Reward\n	/i00184/cffa500Splendid Blood Smoke Cloak/p x 1  /i020206000\n★×7 \nLocked Appraisable    Back    /cffa500Epic/p\n/c00ff00Mana Shield+258/p  /c00ff00\nBase Status Resist+7%\n/p/c00ff00Magic Atk+7%(Lock)\n/p/c00ff00Intelligence+7%(Lock)\n/p/c00ff00Intelligence+1(Inlay 1)\n/pArmor:   Slash 182  Pierce 121  MP 363\nRequirement: Lv 45  160 Intelligence\nDurability: 135/150\nDungeon Reward\n
+T	/i00214/cffa500Mũ Hắc Nguyệt/p x 1  /i0202010000\n☆ /c3fbcff☆/p\nLocked Appraisable    Head    /cffa500Epic/p\n/c00ff00Max MP+320/p          /c00ff00Magic Pierce+100/p\n/c00ff00Magic Atk+5%(Lock)\n/p/c00ff00Intelligence+8%(Lock)\n/pArmor:   Slash 200  Pierce 200  MP 475\nRequirement: Lv 50/cff0000  10 Constitution/p  100 Intelligence  25 Wisdom\nDurability: 175/190\nEquipment suitable for ./c00FF00Mages/p\n/cffff00Set effect: /p\n/cb0a67a6 pcs: Intelligence+30/p/cb0a67a/p\n/cb0a67a7 pcs: Magic Atk+10%/p/cb0a67a/p	/i00214/cffa500Black Moon Helm/p x 1  /i0202010000\n☆ /c3fbcff☆/p\nLocked Appraisable    Head    /cffa500Epic/p\n/c00ff00Max MP+320/p          /c00ff00Magic Pierce+100/p\n/c00ff00Magic Atk+5%(Lock)\n/p/c00ff00Intelligence+8%(Lock)\n/pArmor:   Slash 200  Pierce 200  MP 475\nRequirement: Lv 50/cff0000  10 Constitution/p  100 Intelligence  25 Wisdom\nDurability: 175/190\nEquipment suitable for ./c00FF00Mages/p\n/cffff00Set effect: /p\n/cb0a67a6 pcs: Intelligence+30/p/cb0a67a/p\n/cb0a67a7 pcs: Magic Atk+10%/p/cb0a67a/p
+T	/i00224/cffa500Sư Thứu/p x 1  /i0202030000\n★×44 \nLocked Appraisable    Mount    /cffa500Epic/p\n/c00ff00Atk Speed+2624/p    /c00ff00\nPolearm DMG & Durability +38%\n/p/c00ff00Max HP+2168(Lock)\n/p/c00ff00Polearm Atk Count+6(Lock)\n/p/c00ff00Agility+15(Inlay Destroyed)\n/p/cffff00Sư Thứu Đột Kích+1Cấp\n/pArmor:   Slash 1316  Pierce 1316  MP 2820\nRequirement: Lv 53\nDurability: 189/200\nThú cưỡi của Kỵ Sĩ Súng Thánh Đường\n	/i00224/cffa500Gryphon/p x 1  /i0202030000\n★×44 \nLocked Appraisable    Mount    /cffa500Epic/p\n/c00ff00Atk Speed+2624/p    /c00ff00\nPolearm DMG & Durability +38%\n/p/c00ff00Max HP+2168(Lock)\n/p/c00ff00Polearm Atk Count+6(Lock)\n/p/c00ff00Agility+15(Inlay Destroyed)\n/p/cffff00Gryphon Charge +1 Lv\n/pArmor:   Slash 1316  Pierce 1316  MP 2820\nRequirement: Lv 53\nDurability: 189/200\nMount of the Sanctuary Lancer\n
+T	/i00225/cc63be9Energy-Charged Iron Statue/p x 1  /i0202030000\n★×37 \nLocked Appraisable    Mount    /cc63be9Legend/p\n/c00ff00Max HP+2088/p        /c00ff00\nIgnore Counter+259\n/p/c00ff00Pierce Power+96%(Lock)\n/p/c00ff00Crit Rate+348(Lock)\n/p/c00ff00Agility+15(Inlay Destroyed)\n/p/cffff00Ma Vũ Khí+11Cấp/p  \nArmor:   Slash 4350  Pierce 4350  MP 3480\nRequirement: Lv 60\nDurability: 200/200\nGolems draw opening energy from "Dragon Gem"\n	/i00225/cc63be9Energy-Charged Iron Statue/p x 1  /i0202030000\n★×37 \nLocked Appraisable    Mount    /cc63be9Legend/p\n/c00ff00Max HP+2088/p        /c00ff00\nIgnore Counter+259\n/p/c00ff00Pierce Power+96%(Lock)\n/p/c00ff00Crit Rate+348(Lock)\n/p/c00ff00Agility+15(Inlay Destroyed)\n/p/cffff00Magic Weapon +11 Lv/p  \nArmor:   Slash 4350  Pierce 4350  MP 3480\nRequirement: Lv 60\nDurability: 200/200\nGolems draw opening energy from "Dragon Gem"\n
+T	/i00225/cc63be9Panda Lá Trúc Hoàn Mỹ/p x 1  /i02020100000\n★×18 \nLocked Appraisable    Mount    /cc63be9Legend/p\n/c00ff00Ignore DMG Immunity+681\n/p/c00ff00Pierce Power+60%(Lock)\n/p/c00ff00Polearm DMG & Durability +60%(Lock)\n/p/c00ff00Agility+24(Inlay Destroyed)\n/pArmor:   Slash 4300  Pierce 4300  MP 4300\nRequirement: Lv 65\nDurability: 123/200\nGiám định là thú Cưỡi full thuộc tính，Panda rất thích là trúc，đi đâu cũng mang theo cây trúc\n/cffff00Set effect: /p\n/cb0a67a1 pcs: Ignore DMG Immunity+500/p/cb0a67a(Valid for VIP 7 and above)/p	/i00225/cc63be9Perfect Bamboo Leaf Panda/p x 1  /i02020100000\n★×18 \nLocked Appraisable    Mount    /cc63be9Legend/p\n/c00ff00Ignore DMG Immunity+681\n/p/c00ff00Pierce Power+60%(Lock)\n/p/c00ff00Polearm DMG & Durability +60%(Lock)\n/p/c00ff00Agility+24(Inlay Destroyed)\n/pArmor:   Slash 4300  Pierce 4300  MP 4300\nRequirement: Lv 65\nDurability: 123/200\nAppraises into a full-stat Mount. Pandas love bamboo leaves and carry a bamboo stalk everywhere.\n/cffff00Set effect: /p\n/cb0a67a1 pcs: Ignore DMG Immunity+500/p/cb0a67a(Valid for VIP 7 and above)/p
+T	/i00234/cffa500Pháp Bào Hắc Nguyệt/p x 1  /i0202010000\n☆ /c3fbcff☆/p\nLocked Appraisable    Chest    /cffa500Epic/p\n/c00ff00Max MP+285/p          /c00ff00Magic Pierce+100/p\n/c00ff00Magic Atk+7%(Lock)\n/p/c00ff00Intelligence+3%(Lock)\n/pArmor:   Slash 400  Pierce 400  MP 600\nRequirement: Lv 50/cff0000  10 Constitution/p  100 Intelligence  25 Wisdom\nDurability: 175/190\nEquipment suitable for ./c00FF00Mages/p\n/cffff00Set effect: /p\n/cb0a67a6 pcs: Intelligence+30/p/cb0a67a/p\n/cb0a67a7 pcs: Magic Atk+10%/p/cb0a67a/p	/i00234/cffa500Black Moon Robe/p x 1  /i0202010000\n☆ /c3fbcff☆/p\nLocked Appraisable    Chest    /cffa500Epic/p\n/c00ff00Max MP+285/p          /c00ff00Magic Pierce+100/p\n/c00ff00Magic Atk+7%(Lock)\n/p/c00ff00Intelligence+3%(Lock)\n/pArmor:   Slash 400  Pierce 400  MP 600\nRequirement: Lv 50/cff0000  10 Constitution/p  100 Intelligence  25 Wisdom\nDurability: 175/190\nEquipment suitable for ./c00FF00Mages/p\n/cffff00Set effect: /p\n/cb0a67a6 pcs: Intelligence+30/p/cb0a67a/p\n/cb0a67a7 pcs: Magic Atk+10%/p/cb0a67a/p
+T	<Alyxrad>thêm mi thành bạn	<Alyxrad> added you as a friend
+T	<Javy>thêm mi thành bạn	<Javy> added you as a friend
+T	<L*na>thêm mi thành bạn	<L*na> added you as a friend
+T	<Raclette>thêm mi thành bạn	<Raclette> added you as a friend
+T	<✎ρнốℓệяơι☔>Vừa khảm viên bảo thạch thứ 10!	<✎ρнốℓệяơι☔> has just socketed the 10th gem!
+T	Alyxrad(Male) Lv 30\nWestern Warrior\nMap:  Thành của người khác\n	Alyxrad(Male) Lv 30\nWestern Warrior\nMap:  Other Player's City\n
+T	Auto-lock    Quest Item\nSau khi dùng 50 RMB sẽ nhận được vật này. Thu thập 2 cái tới chỗ Thương Nhân Kì Bí đổi Túi Quà Nạp Thẻ Nhiều\n	Auto-lock    Quest Item\nObtained after spending 50 RMB. Collect 2 and exchange them with the Mysterious Merchant for a Multi Top-Up Gift Pack.\n
+T	Binh khí cổ đại, chủ động giết địch	An ancient weapon that strikes enemies on its own
+T	Binh Đoàn Trưởng-Ác Linh	Legion Commander - Evil Spirit
+T	Bá Khí Quyết(Lv 15)	Overbearing Qi Art (Lv 15)
+T	Bá Khí Quyết(Lv 22)	Overbearing Qi Art (Lv 22)
+T	Bá Thể Thần Công(Lv 22)	Invincible Body Art (Lv 22)
+T	Bá Vương Tâm Kinh(Lv 22)	Overlord Heart Sutra (Lv 22)
+T	Bách Lực(Lv 15)	Hundred Might (Lv 15)
+T	Bách Lực(Lv 22)	Hundred Might (Lv 22)
+T	Bách Lực(Overstep rank)	Hundred Might (Overstep)
+T	Bách Phát Bách Trúng(Lv 10)	Deadeye Accuracy (Lv 10)
+T	Bách Điều Triều Phụng	Hundred Birds Pay Homage to the Phoenix
+T	Bánh Xe Tuần Lộc	Reindeer Sleigh Wheel
+T	Bì Thô(Lv 1)	Thick Hide (Lv 1)
+T	Bích Huyết Kiếm (1 ngày)	Jade Blood Sword (1 Day)
+T	Bùa Ma Tộc	Demon Clan Charm
+T	Bùa Noel	Christmas Charm
+T	Bùa Phúc Raislin	Raislin's Blessing Charm
+T	Bùa Sinh Mệnh	Life Charm
+T	Bùa Thần Bí(Lv 22)	Mysterious Charm (Lv 22)
+T	Băng Cung-Diệt Không Hàn Tinh x 1	Ice Bow - Void-Slaying Frost Star x 1
+T	Băng Fel	Ice Fel
+T	Băng Nhẫn Liệt Ai	Frost Ring of Sorrow
+T	Bạn phù hợp điều kiện xác nhận, chúng tôi sẽ mở học skill cho bạn học, hiện chỉ mở một bộ phận, cần đạt lv 70 mới có thể học.	You meet the verification requirements. We will unlock skill learning for you—currently only partially available; you must reach Lv 70 to learn them.
+T	Bộ yên này khá to với ngựa. Không biết có tác dụng gì	This saddle seems rather large for a horse. Wonder what it does?
+T	Ca*rn(Female) Lv 31\nEastern Taoist\nMap:  Thành của người khác\n	Ca*rn(Female) Lv 31\nEastern Taoist\nMap:  Other Player's City\n
+T	Chiến Sĩ Gấu	Bear Warrior
+T	Chiến Vương x 1	War King x 1
+T	Chiến Y Batman	Batman Battle Suit
+T	Chiến Ưng	War Hawk
+T	Chuồn thôi	Let's slip away!
+T	Chào /c00FF00Raclette/p. Ta là sứ truyền lệnh của Tây Thành. Phụng mệnh Tây Thành Chủ mời /c00FF00Raclette/p tới Núi Tử Vân. Nếu được ta sẽ dẫn mi tới. Sau này mi có thể thông qua Trạm Phi Hành hoặc bản đồ thế giới để tới.\n\n	Greetings, /c00FF00Raclette/p. I am the herald of the Western City. By order of the Western City Lord, I invite /c00FF00Raclette/p to Purple Cloud Mountain. If you wish, I can escort you there. Later, you may travel via the Flight Station or the World Map.\n\n
+T	Chí Kết(Lv 15)	Will Binding (Lv 15)
+T	Chí Kết(Lv 22)	Will Binding (Lv 22)
+T	Chí Kết(Overstep rank)	Will Binding (Overstep)
+T	Chúng ta vừa vào doanh địa Yêu Vương, liền có Yêu Tướng  nghênh tiếp , /c00ff00{1}/p, hãy cẩn thận tác chiến.	As soon as we entered the Demon King's camp, a Demon General came out to meet us. /c00ff00{1}/p, fight carefully!
+T	Coi chừng phỏng tay!	Careful—don't burn your hands!
+T	Collected current page mail successfully \nTotal money collected: /cc45712Silver199600/p \n/i00071/ce5e5e5Han King's Tomb Reward I/p x 1\n/i00073/c42adf8Sealed Tomb Reward III/p x 1\n/i00073/c42adf8Thưởng Rừng Tinh Linh III/p x 1\n/i00072/c4bf842Sealed Tomb Reward II/p x 1\n/i00073/c42adf8Crescent Mountain Reward III/p x 1\n/i00072/c4bf842Thưởng Núi Nguyệt Nha II/p x 1\n/i00071/ce5e5e5Crescent Mountain Reward I/p x 1\n/i00072/c4bf842Spirit Forest Reward II/p x 1\n/i00071/ce5e5e5Sealed Tomb Reward I/p x 1\n/i00071/ce5e5e5Elf Forest Reward I/p x 1\n	Collected current page mail successfully \nTotal money collected: /cc45712Silver199600/p \n/i00071/ce5e5e5Han King's Tomb Reward I/p x 1\n/i00073/c42adf8Sealed Tomb Reward III/p x 1\n/i00073/c42adf8Spirit Forest Reward III/p x 1\n/i00072/c4bf842Sealed Tomb Reward II/p x 1\n/i00073/c42adf8Crescent Mountain Reward III/p x 1\n/i00072/c4bf842Crescent Mountain Reward II/p x 1\n/i00071/ce5e5e5Crescent Mountain Reward I/p x 1\n/i00072/c4bf842Spirit Forest Reward II/p x 1\n/i00071/ce5e5e5Sealed Tomb Reward I/p x 1\n/i00071/ce5e5e5Elf Forest Reward I/p x 1\n
+T	Collected current page mail successfully \nTotal money collected: /cc45712Silver216200/p \n/i00073/c42adf8Han King's Tomb Reward III/p x 1\n/i00072/c4bf842Han King's Tomb Reward II/p x 1\n/i00071/ce5e5e5Han King's Tomb Reward I/p x 1\n/i00073/c42adf8Sealed Tomb Reward III/p x 1\n/i00073/c42adf8Thưởng Rừng Tinh Linh III/p x 1\n/i00072/c4bf842Sealed Tomb Reward II/p x 1\n/i00073/c42adf8Crescent Mountain Reward III/p x 1\n/i00072/c4bf842Thưởng Núi Nguyệt Nha II/p x 1\n/i00071/ce5e5e5Crescent Mountain Reward I/p x 1\n/i00072/c4bf842Spirit Forest Reward II/p x 1\n/i00071/ce5e5e5Sealed Tomb Reward I/p x 1\n/i00071/ce5e5e5Elf Forest Reward I/p x 1\n	Collected current page mail successfully \nTotal money collected: /cc45712Silver216200/p \n/i00073/c42adf8Han King's Tomb Reward III/p x 1\n/i00072/c4bf842Han King's Tomb Reward II/p x 1\n/i00071/ce5e5e5Han King's Tomb Reward I/p x 1\n/i00073/c42adf8Sealed Tomb Reward III/p x 1\n/i00073/c42adf8Spirit Forest Reward III/p x 1\n/i00072/c4bf842Sealed Tomb Reward II/p x 1\n/i00073/c42adf8Crescent Mountain Reward III/p x 1\n/i00072/c4bf842Crescent Mountain Reward II/p x 1\n/i00071/ce5e5e5Crescent Mountain Reward I/p x 1\n/i00072/c4bf842Spirit Forest Reward II/p x 1\n/i00071/ce5e5e5Sealed Tomb Reward I/p x 1\n/i00071/ce5e5e5Elf Forest Reward I/p x 1\n
+T	Cuồng Kỵ(Overstep rank)	Frenzied Cavalry (Overstep)
+T	Cách né	Evasion Method
+T	Cám ơn mi đã giúp đỡ Thành Thái Dương. Chúng ta hãy cùng nỗ lực. /c00FF00Loạt nhiệm vụ Mộ phong ấn đã hoàn thành, mi có thể về thành làm nhiệm vụ khác./p ???/cFFDE00(Hì hì), mi đột nhiên nghe thấy âm thanh, ảo giác sao?/p	Thank you for helping Sun City. Let us keep striving together. /c00FF00The Sealed Tomb questline is complete; you may return to the city for other quests./p ???/cFFDE00(Hehe), you suddenly hear a voice—is it an illusion?/p
+T	Cánh Thế Giớ(khóa)	World Wings (Bound)
+T	Cánh Tử Thần	Death God Wings
+T	Có giết hết đám ác ma này cũng không làm hả cơn giận của ta.	Even slaughtering all these demons would not appease my wrath.
+T	Có thể mở ra các loại vật phẩm.	Can be opened to obtain various items.
+T	Có thể nhận được kiếm, đao, nỏ nhẹ, trượng, cung thích hợp cấp 35-45. Có cơ hội nhận được trang bị sử thi.	May yield Swords, Blades, Light Crossbows, Staves, or Bows for Lv 35-45, with a chance for Epic equipment.
+T	Có tỷ lệ mở bộ phận Tình Yêu Bỏ Quên, Cung Tử La Lan, Hộp Cân Đẩu Vân①, DH đặc biệt và các VP tiêu hao khác.	Chance to open parts of Forgotten Love, Violet Orchid Bow, Somersault Cloud Box ①, special Titles, and other consumables.
+T	Công huân nhận được trong chiến dịch Đoàn Tùy Táng, có thể đổi phần thưởng.	Merit earned in the Funerary Corps campaign; can be exchanged for rewards.
+T	Cương Kỵ Sĩ Không Đầu	Headless Steel Knight
+T	Cương Thiết Galul	Steel Galul
+T	Cươngthi	Jiangshi
+T	Cảm Quan+3Cấp	Perception +3 Lv
+T	Cấp thấp quá, cấp 40 trở lên mới có thể nhận lời mời	Your level is too low; only Lv 40 and above can accept the invitation.
+T	Cầm bộ phận này đi tìm Ông Già Noel.	Take this piece and go find Santa Claus.
+T	Cổng rất cứng	The gate is very sturdy
+T	Cừ Lực(Overstep rank)	Colossal Might (Overstep)
+T	Cự Nỏ Lưu Tinh	Meteor Heavy Crossbow
+T	Danh hiệu Đệ Nhất Pháp Sư	Title: Number One Mage
+T	Diệt Không Hàn Tinh+1Cấp	Void-Slaying Frost Star +1 Lv
+T	Dùng Quyền Trượng(Lv 10)	Scepter Mastery (Lv 10)
+T	Dùng cho Pet mang theo nhận 5000 EXP, Lv Pet không vượt quá Lv nhân vật	Use on an equipped Pet to grant 5000 EXP. Pet Lv cannot exceed character Lv.
+T	Dùng trong túi, nhận thưởng phong phú.	Use from your bag to receive generous rewards.
+T	Dùng điểm phồn vinh đổi hoặc tặng Tặng Nạp Thẻ, có thể tăng Nhiệm vụ Vô Song các cấp.	Exchanged with Prosperity Points or gifted via Top-Up Bonus; can upgrade Peerless Quests of all tiers.
+T	Dũng Lượng(Overstep rank)	Valor & Might (Overstep)
+T	Dũng cảm	Courage
+T	Dực Kiếm Cụ Phong+1Cấp	Gale Wing Sword +1 Lv
+T	Gia Các Liên Nỏ	Zhuge Repeating Crossbow
+T	Giám định là thú Cưỡi full thuộc tính，Panda rất thích là trúc，đi đâu cũng mang theo cây trúc	Appraises into a full-stat Mount. Pandas love bamboo leaves and carry a bamboo stalk everywhere.
+T	Giáp Chiến Thần	War God Armor
+T	Giúp Pet mang theo nhận 30000 EXP, Lv Pet không vượt quá Lv nhân vật	Grants an equipped Pet 30000 EXP. Pet Lv cannot exceed character Lv.
+T	Giúp hồi độ bền của vật phẩm đã trang bị trên người	Restores the durability of currently equipped items.
+T	Giảo Sát Nha	Strangling Fang
+T	Giỏi Quân Phòng(Lv 10+12)	Military Defense Mastery (Lv 10+12)
+T	Giỏi Quân Phòng+13Cấp	Military Defense Mastery +13 Lv
+T	Găng Hỗn Độn	Chaos Gloves
+T	Găng Thất Tinh	Seven Stars Gloves
+T	Găng Thổ Năng	Earth Power Gloves
+T	Găng Vân Tiêu	Cloud-Soaring Gloves
+T	Găng Vạn Linh	Myriad Spirits Gloves
+T	Gấu Thủ Hộ	Guardian Bear
+T	Gỗ chắc, dùng làm vũ khí tốt	Sturdy wood, ideal for crafting weapons
+T	Hiểu Nguyên Tố(Lv 10)	Elemental Comprehension (Lv 10)
+T	Hoa Liệt Diễm	Blazing Flame Flower
+T	Hoan nghênh.	Welcome.
+T	Hoàng Kim Thánh Y	Gold Cloth
+T	Hoàng Kim Thần Y	Divine Gold Cloth
+T	Hoạt Động Huy Hiệu Mừng Năm Mới, Thu Thập Đủ Có Thể Đến Đại Sứ Mừng Năm Mới Đổi Thưởng	New Year Celebration Badge Event. Collect enough to redeem rewards from the New Year Envoy.
+T	Huy Chương Khiêu Chiến 10(quá hạn)	Challenge Medal 10 (Expired)
+T	Huy Chương Khiêu Chiến 11(quá hạn)	Challenge Medal 11 (Expired)
+T	Huy Chương Khiêu Chiến 12(quá hạn)	Challenge Medal 12 (Expired)
+T	Huy Chương Khiêu Chiến 13(quá hạn)	Challenge Medal 13 (Expired)
+T	Huy Chương Khiêu Chiến 14(quá hạn)	Challenge Medal 14 (Expired)
+T	Huy Chương Khiêu Chiến 32(quá hạn)	Challenge Medal 32 (Expired)
+T	Huy Chương Khiêu Chiến 9(quá hạn)	Challenge Medal 9 (Expired)
+T	Huy Hiệu Khiêu Chiến Anh Hùng 6	Hero Challenge Badge 6
+T	Huy Hiệu Khiêu Chiến Anh Hùng Cao	High Hero Challenge Badge
+T	Huy Hiệu Khiêu Chiến Anh Hùng Sơ	Basic Hero Challenge Badge
+T	Huy Hiệu Tử Cấm Thành (Chiến dịch Tùy Táng)	Forbidden City Badge (Funerary Campaign)
+T	Huy hiệu anh hùng đại diện cống hiến của mi, có thể vào Thành Cá Nhân đổi thưởng Lá.	The Hero Badge represents your contribution; enter your Personal City to exchange it for Gold Leaf rewards.
+T	Huyết Vũ	Blood Rain
+T	Huyết Yên Doanh	Blood Smoke Camp
+T	Huyền Vũ Giáp（Cấp 1）(Lv 1)	Black Tortoise Armor (Tier 1) (Lv 1)
+T	Hài Lục Đạo	Six Paths Boots
+T	Hàn Băng Phong Kết(Lv 22)	Frost Seal (Lv 22)
+T	Hùng Tượng Lực+4Cấp	Bear-Elephant Might +4 Lv
+T	Hấp Tinh(Overstep rank)	Star Absorption (Overstep)
+T	Hắc Bào Tử Thần	Death God Black Robe
+T	Hỏa Đặt(Overstep rank)	Flame Ward (Overstep)
+T	Hồi Mp Cực Hạn+1Cấp	Ultimate MP Recovery +1 Lv
+T	Hỗn Loạn Chú+10Cấp	Chaos Curse +10 Lv
+T	Hộ Vai Bạch Nguyệt x 1	White Moon Spaulders x 1
+T	Hộ Vai Chiến Thần	War God Spaulders
+T	Hộ Vai Càn Khôn	Heaven-Earth Spaulders
+T	Hộ Vai Khai Thiên	Heaven Cleaving Spaulders
+T	Hộ Vai Lang Ma x 1	Wolf Demon Spaulders x 1
+T	Hộ Vai Pháp Sư	Mage Spaulders
+T	Hộ Vai Tăng Hận	Taunt Spaulders
+T	Hộ Vai Yêu Thuật Sư	Sorcerer Spaulders
+T	Hộp Bí Bảo Hỏa Long	Fire Dragon Secret Treasure Box
+T	Hộp Kẹo Halloween (24h)	Halloween Candy Box (24h)
+T	Hộp Kẹo Halloween sẽ mất tác dụng vào ngày 4-11. Hãy mau dùng.	The Halloween Candy Box will expire on Nov 4. Please use it soon.
+T	Hợp thành đồ cấp 70	Synthesize Lv 70 Gear
+T	Innate Skill: Kim Cang Bất Hoại,Bì Thô	Innate Skill: Indestructible Vajra,Thick Hide
+T	Innate Skill: Life Elemental,Băng Sương Giáp	Innate Skill: Life Elemental,Frost Armor
+T	Innate Skill: Thiên Sinh Mị Lực,Vua của đêm	Innate Skill: Innate Charm,King of the Night
+T	Innate Skill: Vật Ma Pháp,Phi Tuyết	Innate Skill: Magic Creature,Drifting Snow
+T	Innate Skill: bán Meng,Linh Nha Lợi Trảo	Innate Skill: Acting Cute,Spirit Fang & Sharp Claw
+T	Innate Skill: bán Meng,sinh dễ thương	Innate Skill: Acting Cute,Born Cute
+T	Innate Skill: móng vuốt,Innate Agility	Innate Skill: Sharp Claws,Innate Agility
+T	Innate Skill: quyến rũ cô gái,trí tuệ bẩm sinh	Innate Skill: Charming Maiden,Innate Wisdom
+T	Innate Skill: sinh dũng cảm,Innate Agility	Innate Skill: Born Brave,Innate Agility
+T	Innate Skill: sinh nhỏ,Innate Agility	Innate Skill: Born Petite,Innate Agility
+T	Innate Skill: sinh nhỏ,Thiên Sinh Mị Lực	Innate Skill: Born Petite,Innate Charm
+T	Innate Skill: trí tuệ bẩm sinh,Ma thuật Chuyên ngành	Innate Skill: Innate Wisdom,Magic Specialization
+T	Javy(Female) Lv 31\nEastern Swordsman\nMap:  Thành của người khác\n	Javy(Female) Lv 31\nEastern Swordsman\nMap:  Other Player's City\n
+T	Khoáng Vụn Cấp 3	Lv 3 Scrap Ore
+T	Khí Triều Nguyên+8Cấp	Qi Convergence +8 Lv
+T	Kim Cương Khóa(Đổi tiền Bạc)	Bound Diamond (Exchange for Silver)
+T	Kim Hổ Vương (1 ngày)	Golden Tiger King (1 Day)
+T	Kim Mao Sư Vương	Golden-Haired Lion King
+T	Kiếm Chú(Overstep rank)	Sword Curse (Overstep)
+T	Kiếm Griffin	Gryphon Sword
+T	Kiếm Hồn Vô Danh	Nameless Soul Sword
+T	Kiếm dài bị phong ấn	Sealed Longsword
+T	Kĩ Xảo Tấn Công(Lv 22)	Attack Technique (Lv 22)
+T	KĩnăngdoThánhĐườngThươngKịSĩkếthợpvớiSưThứutạora	Skill created by Sanctuary Lancers together with Gryphons
+T	Kĩnăngquái	Monster Skill
+T	Kết Hôn	Marriage
+T	L*na(Female) Lv 31\nWestern Mage\nMap:  Thành của người khác\n	L*na(Female) Lv 31\nWestern Mage\nMap:  Other Player's City\n
+T	Lam Viêm Thủ Ấn	Blue Flame Hand Seal
+T	Linh Thú Chiến Đấu+5Cấp	Spirit Beast Combat +5 Lv
+T	Linh Tính Căn Cơ+5Cấp	Spiritual Foundation +5 Lv
+T	Long Mộc	Dragonwood
+T	Long Ngâm	Dragon Roar
+T	Luyện Cường Hóa(Lv 22)	Refinement Enhancement (Lv 22)
+T	Lv 70 trở lên mới có thể học Skill riêng ở đây	Only Lv 70 and above can learn exclusive skills here.
+T	Lâu rồi không gặp, /c00ff00{1}/p, Tộc Nguyệt Lang và Tộc Vạn Thú sẽ giúp mi đánh bại Yêu Vương!	Long time no see, /c00ff00{1}/p! The Moon Wolf Tribe and Myriad Beast Tribe will help you defeat the Demon King!
+T	Lính Đoàn Huyết Yên	Blood Smoke Legion Soldier
+T	Lôi Luyện+10Cấp	Thunder Mastery +10 Lv
+T	Lĩnh Hội-Chiêu Lôi(Lv 8)	Comprehend: Thunder Summon (Lv 8)
+T	Lạc Đăng Linh	Lantern Bell
+T	Lễ Phục Cưới(2 ngày)	Wedding Attire (2 Days)
+T	Lời mời của Tây Thành Chủ	Western City Lord's Invitation
+T	Lực Ca(Lv 22)	Song of Might (Lv 22)
+T	Lực Ca(Overstep rank)	Song of Might (Overstep)
+T	Lực Cự Dực	Mighty Wing
+T	Ma Hoàn Tùy Táng	Funerary Demon Ring
+T	Ma Pháp Học+2Cấp	Arcane Lore +2 Lv
+T	Ma Thiếu Nữ (Tiến hóa)	Demon Maiden (Evolved)
+T	Ma Thủ Tự Động	Auto Magic Hand
+T	Ma Tinh Thương(Lv 0+9)	Demon Crystal Spear (Lv 0+9)
+T	Ma Viêm Giáp	Demon Flame Armor
+T	Ma Vũ Khí+10Cấp	Magic Weapon +10 Lv
+T	Mi còn /cffff004 điểm thuộc tính/p chưa phân phối! Đi 4em không?	You still have /cffff004 attribute points/p unallocated! View now?
+T	Mi không có nhân vật nào có thể bán	You have no characters available to sell
+T	Mi là /c00FF00{1}/p? (/cFF0000Nguyệt Lang Tôn Chủ nhìn mi./p) Ở đây, mọi việc do ta chỉ huy, không được tự ý hành sự. (/cFF0000Nguyệt Lang Tôn Chủ nhìn Huyền Kiếm Khách./p)	Are you /c00FF00{1}/p? (/cFF0000The Moon Wolf Lord eyes you./p) Here, everything is under my command—do not act recklessly. (/cFF0000The Moon Wolf Lord glances at Mysterious Swordsman./p)
+T	Minh chứng cứu giúp thị trấn O Hara	Proof of Saving O'Hara Town
+T	Mùa Pháp Lực Cực Hạn x 1	Ultimate MP Charm x 1
+T	Mùa Đông Phẫn Nộ+3Cấp	Wrath of Winter +3 Lv
+T	Mũ Hắc Nguyệt x 1	Black Moon Helm x 1
+T	Mũ Khiếu Lang	Howling Wolf Helm
+T	Mũ Linh Thường	Spirit-Woven Helm
+T	Mũ Luyện Uyên	Refined Abyss Helm
+T	Mũ Thiên Lam	Azure Helm
+T	Mũ Tử Thần	Death God Helm
+T	Mưa Loạn Tiễn+12Cấp	Arrow Rain +12 Lv
+T	Mảnh Kết Giới Mê Cung	Labyrinth Barrier Shard
+T	Mỗi lần vung chùy là có kẻ mất mạng	Every swing of the hammer claims a life
+T	Name: Hắc Miêu Nữ	Name: Black Cat Girl
+T	Name: Hồng Miêu Nữ	Name: Red Cat Girl
+T	Name: Hồng Thiếu Nữ	Name: Red Maiden
+T	Name: Liệp Ưng	Name: Hunting Hawk
+T	Name: Manh Miêu	Name: Cute Cat
+T	Name: Thương Ưng	Name: War Hawk
+T	Name: Tiên Linh	Name: Fairy Spirit
+T	Ng.liệu cường hoá Thời Trang Kim Ngưu	Material for enhancing Taurus Outfit
+T	Nghề Pháp Thuật dùng	For Magic Classes
+T	Nguyên liệu để cường hóa Thời Trang Song Tử	Material for enhancing Gemini Outfit
+T	Nguyên tố tự nhiên của Sa Mạc Thất Hồn, dùng để hợp thành	Natural element of Lost Soul Desert, used for synthesis
+T	Nguyệt Phách Nhẫn	Moon Soul Ring
+T	Ngẫu nhiên tạo 1/c00FF00Pet Sử Thi, Hiếm hoặc Truyền Thuyết/ploại Trí Lực. Pet chứa toàn đặc tính mới	Randomly creates 1 /c00FF00Epic, Rare, or Legend Pet/p of Intelligence type. Pet comes with all-new traits.
+T	Nhiệm vụ của chúng ta là tiêu diệt binh đoàn Huyết Yên	Our mission is to wipe out the Blood Smoke Legion.
+T	Nhiệm vụ phu thuê	Couple Quest
+T	Nhà Buôn Lò Luyện	Forge Merchant
+T	Nhìn Yêu Tướng ở trước mặt {1} ngã xuống, Yêu Vương không hề lo lắng.	Seeing the Demon General fall before {1}, the Demon King showed no sign of worry.
+T	Nhìn rất ngon nhưng tiếc là vỏ dày quá	Looks delicious, but sadly the shell is too thick
+T	Nhẫn Chí Mạng	Crit Ring
+T	Nhẫn Hào Khách	Gallant Ring
+T	Nhẫn Ma Năng	Magic Power Ring
+T	Nhẫn Phòng Ma Yêu Vương	Demon King Anti-Magic Ring
+T	Nhẫn Tà Pháp	Dark Magic Ring
+T	Nhẫn Ám Ảnh	Shadow Ring
+T	Nạp thẻ thành công, nhận được Vàng 0, Kim Diệp 340, Số serial Nạp thẻ: 2913436	Top-up successful! Received Gold 0, Gold Leaf 340. Top-up Serial No.: 2913436
+T	Nạp thẻ thành công, nhận được Vàng 1700, Kim Diệp 150, Số serial Nạp thẻ: 2913438	Top-up successful! Received Gold 1700, Gold Leaf 150. Top-up Serial No.: 2913438
+T	Nỏ Huyết Yên	Blood Smoke Crossbow
+T	Nỏ Hôi Ưng	Ash Hawk Crossbow
+T	Nỏ Hắc Dạ[Hắc Phong]	Dark Night Crossbow [Black Wind]
+T	Nỏ Liên Xạ	Repeating Crossbow
+T	Nỏ Pháp Cơ Bản	Basic Magic Crossbow
+T	Nỏ được chiến sĩ trong truyền thuyết dùng	Crossbow wielded by legendary warriors
+T	Nữ Bộc Thủ Hộ	Guardian Maid
+T	Nữ Yêu Hào+7Cấp	Banshee Wail +7 Lv
+T	Panda Lá Trúc Hoàn Mỹ x 1	Perfect Bamboo Leaf Panda x 1
+T	Pet Sử Thi, Hiếm hoặc Truyền Thuyết	Epic, Rare, or Legend Pet
+T	Phu thê tổ đội tới chỗ ta yêu cầu là có thể kết hôn, sau khi kết hôn khi phu thê cùng online sẽ nhận 1.1 lần exp (Có tác dụng cả với exp thưởng nhiệm vụ) Trân thú cũng được tăng. Ngoài ra, phu thê thao tác trên giao diện xã giao cũng có thể tự do dịch chuyển tới bên bạn đời	Couples can form a party and come to me to request marriage. Once married, when both spouses are online together, you gain 1.1x EXP (including quest reward EXP), and Pets gain a bonus as well. Additionally, spouses can freely teleport to each other via the Social interface.
+T	Pháo Chúc Tết	New Year Firecracker
+T	Pháo Chấn Thiên+2Cấp	Heaven-Shaking Cannon +2 Lv
+T	Pháp Bào Hắc Nguyệt x 1	Black Moon Robe x 1
+T	Pháp Bào Yêu Thuật Sư	Sorcerer Robe
+T	Pháp Sư Đoàn Huyết Yên	Blood Smoke Legion Mage
+T	Phòng Phù Chú	Talisman Guard
+T	Phước lành kỳ diệu(Lv 1)	Miraculous Blessing (Lv 1)
+T	Phản Sát(Overstep rank)	Counter Kill (Overstep)
+T	Phần thưởng hoàn thành nhiệm vụ nửa đầu Mê Cung Anh Linh, bảo lưu và mở ra nhiệm vụ nửa sau.	Reward for completing the first half of the Heroic Spirit Labyrinth quest; keep it to unlock the second half.
+T	Phần thưởng nhiệm vụ (An táng)	Quest Reward (Burial)
+T	Phần thưởng nhiệm vụ (Anh hùng ra đời)	Quest Reward (Birth of a Hero)
+T	Phần thưởng nhiệm vụ (Báo thù cho các chiến sĩ đã chết)	Quest Reward (Avenge the Fallen Warriors)
+T	Phần thưởng nhiệm vụ (Bạo Tạc)	Quest Reward (Explosion)
+T	Phần thưởng nhiệm vụ (Chiến lược phản kích)	Quest Reward (Counterattack Strategy)
+T	Phần thưởng nhiệm vụ (Chủng tộc đối địch của Tinh Linh)	Quest Reward (Rival Race of the Elves)
+T	Phần thưởng nhiệm vụ (Cướp Tinh Anh)	Quest Reward (Elite Bandits)
+T	Phần thưởng nhiệm vụ (Cướp giảo hoạt)	Quest Reward (Cunning Bandits)
+T	Phần thưởng nhiệm vụ (Cướp tập kích)	Quest Reward (Bandit Ambush)
+T	Phần thưởng nhiệm vụ (Cổng Lớn đóng )	Quest Reward (The Great Gate Closes)
+T	Phần thưởng nhiệm vụ (Cứ điểm của Cướp)	Quest Reward (Bandit Stronghold)
+T	Phần thưởng nhiệm vụ (Cứ điểm khó tấn công)	Quest Reward (Impregnable Stronghold)
+T	Phần thưởng nhiệm vụ (Cửa vào phía tây)	Quest Reward (Western Entrance)
+T	Phần thưởng nhiệm vụ (Danh sách thành tựu)	Quest Reward (Achievement List)
+T	Phần thưởng nhiệm vụ (Di ngôn của Lợi Nhẫn)	Quest Reward (Sharp Blade's Last Words)
+T	Phần thưởng nhiệm vụ (Diệt Ma Ưng)	Quest Reward (Slay Demon Hawks)
+T	Phần thưởng nhiệm vụ (Diệt Vu Độc Sư)	Quest Reward (Slay Voodoo Masters)
+T	Phần thưởng nhiệm vụ (Dung binh tăng viện)	Quest Reward (Mercenary Reinforcements)
+T	Phần thưởng nhiệm vụ (Dã Lang tham ăn)	Quest Reward (Greedy Wild Wolves)
+T	Phần thưởng nhiệm vụ (Dư đảng Cướp)	Quest Reward (Bandit Remnants)
+T	Phần thưởng nhiệm vụ (Dực Thủ Tộc cản đường)	Quest Reward (Winged Tribe Blocks the Way)
+T	Phần thưởng nhiệm vụ (Dực Thủ Tộc không từ bỏ ý định)	Quest Reward (Relentless Winged Tribe)
+T	Phần thưởng nhiệm vụ (Dực thú tập kích)	Quest Reward (Winged Beast Ambush)
+T	Phần thưởng nhiệm vụ (Dực thú)	Quest Reward (Winged Beast)
+T	Phần thưởng nhiệm vụ (Giải cứu thương đội)	Quest Reward (Rescue the Caravan)
+T	Phần thưởng nhiệm vụ (Gọi đồng đội)	Quest Reward (Summon Allies)
+T	Phần thưởng nhiệm vụ (Hiểu nhầm)	Quest Reward (Misunderstanding)
+T	Phần thưởng nhiệm vụ (Hoàn thành  nhiệm vụ Rừng Tinh Linh sơ cấp)	Quest Reward (Complete Beginner Spirit Forest Quests)
+T	Phần thưởng nhiệm vụ (Hoàn thành loạt nhiệm vụ Rừng Tinh Linh)	Quest Reward (Complete Spirit Forest Questline)
+T	Phần thưởng nhiệm vụ (Hoàn thành n hiệm vụ Rừng Tinh Linh trung cấp)	Quest Reward (Complete Intermediate Spirit Forest Quests)
+T	Phần thưởng nhiệm vụ (Hoàn thành nhiêm vụ Mộ Phong Ân sơ cấp)	Quest Reward (Complete Beginner Sealed Tomb Quests)
+T	Phần thưởng nhiệm vụ (Hoàn thành nhiệm vụ Núi Nguyệt Nha sơ cấp )	Quest Reward (Complete Beginner Crescent Mountain Quests)
+T	Phần thưởng nhiệm vụ (Hoàn thành nhiệm vụ trung cấp Núi Nguyệt Nha)	Quest Reward (Complete Intermediate Crescent Mountain Quests)
+T	Phần thưởng nhiệm vụ (Huynh đệ tương tàn)	Quest Reward (Brothers at War)
+T	Phần thưởng nhiệm vụ (Hạ Người Sói)	Quest Reward (Defeat Werewolves)
+T	Phần thưởng nhiệm vụ (Hạ Tà Linh Giáo Chủ)	Quest Reward (Defeat Evil Spirit Patriarch)
+T	Phần thưởng nhiệm vụ (Hội hợp với chiến sĩ)	Quest Reward (Rendezvous with Warriors)
+T	Phần thưởng nhiệm vụ (Khiêu chiến Mộng Yểm)	Quest Reward (Challenge Nightmare)
+T	Phần thưởng nhiệm vụ (Khô Lâu Tinh)	Quest Reward (Skeleton Spirit)
+T	Phần thưởng nhiệm vụ (Khô Lâu Vương)	Quest Reward (Skeleton King)
+T	Phần thưởng nhiệm vụ (Kết bè kéo cánh)	Quest Reward (Forming Factions)
+T	Phần thưởng nhiệm vụ (Lai Ân phẫn nộ)	Quest Reward (Lyon's Wrath)
+T	Phần thưởng nhiệm vụ (Linh Thảo)	Quest Reward (Spirit Herb)
+T	Phần thưởng nhiệm vụ (Linh Xà)	Quest Reward (Spirit Serpent)
+T	Phần thưởng nhiệm vụ (Là bạn hay địch)	Quest Reward (Friend or Foe)
+T	Phần thưởng nhiệm vụ (Làm thế nào vào thành của mình)	Quest Reward (How to Enter Your City)
+T	Phần thưởng nhiệm vụ (Lãnh tiễn)	Quest Reward (Ice Arrow)
+T	Phần thưởng nhiệm vụ (Lãnh địa của Cướp)	Quest Reward (Bandit Territory)
+T	Phần thưởng nhiệm vụ (Lính Khô Lâu)	Quest Reward (Skeleton Soldier)
+T	Phần thưởng nhiệm vụ (Lông Ma Ưng)	Quest Reward (Demon Hawk Feather)
+T	Phần thưởng nhiệm vụ (Lợi Nhẫn Ma)	Quest Reward (Demonic Sharp Blade)
+T	Phần thưởng nhiệm vụ (Lợi Nhẫn)	Quest Reward (Sharp Blade)
+T	Phần thưởng nhiệm vụ (Ma lực kì quái)	Quest Reward (Strange Magic)
+T	Phần thưởng nhiệm vụ (Ma Ưng Sơn)	Quest Reward (Demon Eagle Mountain)
+T	Phần thưởng nhiệm vụ (Màu xanh xấu xa)	Quest Reward (Sinister Green)
+T	Phần thưởng nhiệm vụ (Mất hi vọng!)	Quest Reward (All Hope Lost!)
+T	Phần thưởng nhiệm vụ (Mộ Phong Ấn)	Quest Reward (Sealed Tomb)
+T	Phần thưởng nhiệm vụ (Mở Cổng Lớn)	Quest Reward (Open the Great Gate)
+T	Phần thưởng nhiệm vụ (Nguyệt Lang xuất hiện)	Quest Reward (Moon Wolf Appears)
+T	Phần thưởng nhiệm vụ (Nguyệt Lang ủy thác)	Quest Reward (Moon Wolf's Commission)
+T	Phần thưởng nhiệm vụ (Nguyệt Thạch)	Quest Reward (Moonstone)
+T	Phần thưởng nhiệm vụ (Ngăn cản Lợi Nhẫn)	Quest Reward (Stop Sharp Blade)
+T	Phần thưởng nhiệm vụ (Ngũ Linh Xà)	Quest Reward (Five Spirit Serpents)
+T	Phần thưởng nhiệm vụ (Ngũ xà hiện thân)	Quest Reward (Five Serpents Appear)
+T	Phần thưởng nhiệm vụ (Người Sói phục kích)	Quest Reward (Werewolf Ambush)
+T	Phần thưởng nhiệm vụ (Nhận thành mới)	Quest Reward (Claim a New City)
+T	Phần thưởng nhiệm vụ (Nói chuyện với Lợi Nhẫn)	Quest Reward (Talk to Sharp Blade)
+T	Phần thưởng nhiệm vụ (Núi Nguyệt Nha)	Quest Reward (Crescent Mountain)
+T	Phần thưởng nhiệm vụ (Nước Suối sạch)	Quest Reward (Pure Spring Water)
+T	Phần thưởng nhiệm vụ (Phong ấn bị mở)	Quest Reward (Broken Seal)
+T	Phần thưởng nhiệm vụ (Phong ấn của Sứ Đồ)	Quest Reward (Apostle's Seal)
+T	Phần thưởng nhiệm vụ (Phong ấn tầng 2)	Quest Reward (2F Seal)
+T	Phần thưởng nhiệm vụ (Phá Cổng Lớn)	Quest Reward (Break the Great Gate)
+T	Phần thưởng nhiệm vụ (Phá Tà Linh Trận bên phải)	Quest Reward (Destroy Right Evil Spirit Array)
+T	Phần thưởng nhiệm vụ (Phá Tà Linh Trận bên trái)	Quest Reward (Destroy Left Evil Spirit Array)
+T	Phần thưởng nhiệm vụ (Phá Tà Linh Trận)	Quest Reward (Destroy Evil Spirit Array)
+T	Phần thưởng nhiệm vụ (Phá hủy cứ điểm Cướp)	Quest Reward (Destroy the Bandit Outpost)
+T	Phần thưởng nhiệm vụ (Phá địch)	Quest Reward (Break the Enemy)
+T	Phần thưởng nhiệm vụ (Quá khứ của Lợi Nhẫn)	Quest Reward (Sharp Blade's Past)
+T	Phần thưởng nhiệm vụ (Quân đoàn Ác Ma)	Quest Reward (Demon Legion)
+T	Phần thưởng nhiệm vụ (Quân đội tiên phong của Yêu Vương)	Quest Reward (Demon King's Vanguard)
+T	Phần thưởng nhiệm vụ (Ra khỏi vòng vây)	Quest Reward (Break Out of the Encirclement)
+T	Phần thưởng nhiệm vụ (Song Xà Thủ Vệ)	Quest Reward (Twin Snake Guard)
+T	Phần thưởng nhiệm vụ (Song xà)	Quest Reward (Twin Snakes)
+T	Phần thưởng nhiệm vụ (Sói đói bao vây)	Quest Reward (Surrounded by Hungry Wolves)
+T	Phần thưởng nhiệm vụ (Sứ Ma cản trở)	Quest Reward (Familiar Hindrance)
+T	Phần thưởng nhiệm vụ (Sứ Ma đột nhiên xuất hiện)	Quest Reward (Familiars Appear)
+T	Phần thưởng nhiệm vụ (Sứ Đồ hung ác)	Quest Reward (Fierce Apostle)
+T	Phần thưởng nhiệm vụ (Sứ Đồ đang thi pháp)	Quest Reward (Apostle is casting a spell)
+T	Phần thưởng nhiệm vụ (Sức mạnh của Lợi Nhẫn)	Quest Reward (Power of Sharp Blade)
+T	Phần thưởng nhiệm vụ (Sự việc khẩn cấp)	Quest Reward (Urgent Matter)
+T	Phần thưởng nhiệm vụ (Tan tác)	Quest Reward (Scattered)
+T	Phần thưởng nhiệm vụ (Tham gia quân đoàn Thành Thái Dương)	Quest Reward (Join Sun City Legion)
+T	Phần thưởng nhiệm vụ (Thiếu niên thần bí)	Quest Reward (Mysterious Youth)
+T	Phần thưởng nhiệm vụ (Thăm dò)	Quest Reward (Scout)
+T	Phần thưởng nhiệm vụ (Thăng lên thành cấp 2)	Quest Reward (Upgrade to City Lv 2)
+T	Phần thưởng nhiệm vụ (Thương vong nghiêm trọng)	Quest Reward (Heavy Casualties)
+T	Phần thưởng nhiệm vụ (Thảo phạt Núi Nguyệt Nha)	Quest Reward (Crescent Mountain Expedition)
+T	Phần thưởng nhiệm vụ (Thật? Giả?)	Quest Reward (True or False?)
+T	Phần thưởng nhiệm vụ (Thời gian gấp gáp)	Quest Reward (Time Is Short)
+T	Phần thưởng nhiệm vụ (Thủ Vệ Yêu Xà)	Quest Reward (Demon Snake Guard)
+T	Phần thưởng nhiệm vụ (Tin bất ngờ)	Quest Reward (Surprise News)
+T	Phần thưởng nhiệm vụ (Tinh Linh tham lam)	Quest Reward (Greedy Spirit)
+T	Phần thưởng nhiệm vụ (Tiêu diệt Dã Lang)	Quest Reward (Eliminate Wild Wolves)
+T	Phần thưởng nhiệm vụ (Tiêu diệt chướng ngại)	Quest Reward (Clear the Obstacles)
+T	Phần thưởng nhiệm vụ (Tiến công)	Quest Reward (Attack)
+T	Phần thưởng nhiệm vụ (Tiếp tục chiến đấu)	Quest Reward (Continue Battle)
+T	Phần thưởng nhiệm vụ (Tiếp tục triệu tập nhân mã)	Quest Reward (Keep rallying the troops)
+T	Phần thưởng nhiệm vụ (Tiểu Ác Ma)	Quest Reward (Imp)
+T	Phần thưởng nhiệm vụ (Trong ứng ngoài hợp)	Quest Reward (Inside and Outside Attack)
+T	Phần thưởng nhiệm vụ (Trung tâm bị Ác Ma xâm thực)	Quest Reward (Center Overrun by Demons)
+T	Phần thưởng nhiệm vụ (Truy kích Tà Linh Giáo Chủ)	Quest Reward (Pursue Evil Spirit Patriarch)
+T	Phần thưởng nhiệm vụ (Trường thí luện)	Quest Reward (Trial Grounds)
+T	Phần thưởng nhiệm vụ (Trảm Sát Yêu Tướng)	Quest Reward (Slay the Demon General)
+T	Phần thưởng nhiệm vụ (Trảm SátMan Yêu Vương)	Quest Reward (Slay Barbarian Demon King)
+T	Phần thưởng nhiệm vụ (Trộm Bỏ Trốn)	Quest Reward (Fleeing Thief)
+T	Phần thưởng nhiệm vụ (Tâm nguyện của chiến hữu đã chết)	Quest Reward (Fallen Comrade's Last Wish)
+T	Phần thưởng nhiệm vụ (Tới Rừng Tinh Linh)	Quest Reward (Go to Spirit Forest)
+T	Phần thưởng nhiệm vụ (Tử Linh thối rữa)	Quest Reward (Rotting Undead)
+T	Phần thưởng nhiệm vụ (Viện quân)	Quest Reward (Reinforcements)
+T	Phần thưởng nhiệm vụ (Viện trợ)	Quest Reward (Reinforcements)
+T	Phần thưởng nhiệm vụ (Xung Phong)	Quest Reward (Charge)
+T	Phần thưởng nhiệm vụ (Xuất phát)	Quest Reward (Depart)
+T	Phần thưởng nhiệm vụ (Xà Xạ Thủ)	Quest Reward (Snake Archer)
+T	Phần thưởng nhiệm vụ (Xông vào)	Quest Reward (Charge In)
+T	Phần thưởng nhiệm vụ (Xương bao vây)	Quest Reward (Surrounded by Skeletons)
+T	Phần thưởng nhiệm vụ (Yêu Sư)	Quest Reward (Demon Shaman)
+T	Phần thưởng nhiệm vụ (Yêu Tóc Rắn đáng sợ)	Quest Reward (Terrifying Snake-Haired Demon)
+T	Phần thưởng nhiệm vụ (Yêu Vương bao vây)	Quest Reward (Demon King Besieged)
+T	Phần thưởng nhiệm vụ (Yêu Vương hiện thân)	Quest Reward (The Demon King Appears)
+T	Phần thưởng nhiệm vụ (Yêu doanh)	Quest Reward (Demon Camp)
+T	Phần thưởng nhiệm vụ ([Dung binh]Điều tra Mộ Phong Ấn)	Quest Reward ([Mercenary] Investigate Sealed Tomb)
+T	Phần thưởng nhiệm vụ ([Phụ mới]Vào Trung Tâm Rừng)	Quest Reward ([New Sub] Enter Forest Center)
+T	Phần thưởng nhiệm vụ ([Tinh anh]Quyết chiến!)	Quest Reward ([Elite] Decisive Battle!)
+T	Phần thưởng nhiệm vụ (Ác Ma bay trên không)	Quest Reward (Flying Demons)
+T	Phần thưởng nhiệm vụ (Ác Ma dư đảng)	Quest Reward (Demon Remnants)
+T	Phần thưởng nhiệm vụ (Ác Ma phi hành)	Quest Reward (Flying Demon)
+T	Phần thưởng nhiệm vụ (Ác Ma tập kích)	Quest Reward (Demon Ambush)
+T	Phần thưởng nhiệm vụ (Ác ma mê hoặc)	Quest Reward (Demonic Enchantment)
+T	Phần thưởng nhiệm vụ (Ám tiễn khó phòng)	Quest Reward (Arrows from the Shadows)
+T	Phần thưởng nhiệm vụ (Âm mưu Yêu Tôn Giả)	Quest Reward (Demon Venerable's Plot)
+T	Phần thưởng nhiệm vụ (Âm mưu của Sứ Đồ)	Quest Reward (Plot of the Apostles)
+T	Phần thưởng nhiệm vụ (Âm mưu của Đầu Lĩnh Sứ Đồ)	Quest Reward (Apostle Leader's Scheme)
+T	Phần thưởng nhiệm vụ (Điều tra địch tình)	Quest Reward (Scout Enemy Situation)
+T	Phần thưởng nhiệm vụ (Đánh bại Tướng Cướp)	Quest Reward (Defeat Bandit General)
+T	Phần thưởng nhiệm vụ (Đêm trước đại chiến)	Quest Reward (Eve of the Great War)
+T	Phần thưởng nhiệm vụ (Đường bí mật)	Quest Reward (Secret Path)
+T	Phần thưởng nhiệm vụ (Đường đi nguy hiểm)	Quest Reward (Dangerous Road)
+T	Phần thưởng nhiệm vụ (Đường đi)	Quest Reward (Path)
+T	Phần thưởng nhiệm vụ (Đất Yêu Vương)	Quest Reward (Demon King's Domain)
+T	Phần thưởng nhiệm vụ (Địa Linh Ác Ma)	Quest Reward (Earth Spirit Demon)
+T	Phần thưởng nhiệm vụ (Địa bàn của Cướp)	Quest Reward (Bandit Turf)
+T	Phần thưởng nhiệm vụ (Đốt Đạn Hiệu)	Quest Reward (Fire Signal Flare)
+T	Phần thưởng nhiệm vụ (Đồng minh)	Quest Reward (Alliance)
+T	Phần thưởng nhiệm vụ (Đồng đội)	Quest Reward (Teammates)
+T	Phần thưởng nhiệm vụ (Động tĩnh)	Quest Reward (Movement)
+T	Phần thưởng nhiệm vụ (Đột kích)	Quest Reward (Assault)
+T	Phần thưởng nhiệm vụ (Ưng Nhân Giận Dữ)	Quest Reward (Furious Hawkman)
+T	Phần thưởng nhiệm vụ (Ưng Nhân)	Quest Reward (Hawkman)
+T	Phần thưởng Đấu Anh Hùng, sau khi kết thúc có thể đổi thưởng.	Hero Arena reward; can be exchanged for rewards after the event ends.
+T	Quà của Hắc Ma	Black Demon's Gift
+T	Quái vật tầng 2 không dễ đối phó như mi tưởng tượng, /c00ff00{1}/p, hãy mạnh hơn lên đi.	Floor 2 monsters aren't as easy to handle as you imagine, /c00ff00{1}/p. Grow stronger!
+T	Quân Huyết Yên	Blood Smoke Trooper
+T	Quần Bạch Nguyệt x 1	White Moon Pants x 1
+T	Quần Chân Quân	True Sovereign Pants
+T	Quần Long Thánh	Dragon Saint Pants
+T	Quần Thanh Bạc	Cyan Silver Pants
+T	Quần Thần Sứ	Divine Envoy Pants
+T	Quần Xích Thiên Sứ	Crimson Angel Pants
+T	Quỷ Lực(Overstep rank)	Ghost Force (Overstep)
+T	Quỷ Ảnh+6Cấp	Ghost Shadow +6 Lv
+T	Quỷ Ảnh+9Cấp	Ghost Shadow +9 Lv
+T	Raclette(Male) Lv 40\nEastern Swordsman\nMap:  Tử Cấm Thành\n	Raclette(Male) Lv 40\nEastern Swordsman\nMap:  Forbidden City\n
+T	Required materials: \n/cffff00KNB5/p\n/cffa500Đá Ma Lực Cấp 4 x 5/p/cff0000 (Owned: 0)/p\n/cffa500Chùy Hủy Diệt x 1/p/cff0000 (Owned: 0)/p\n/c4bf842Mana Stone x 1/p/cff0000 (Owned: 0)/p\n\nEquipment enhancement after synthesis: \n/i00084/cffa500Chùy Hủy Diệt/p\n/cff0000Enhancing gear retains gems and stars./p	Required materials: \n/cffff00KNB5/p\n/cffa500Lv 4 Magic Stone x 5/p/cff0000 (Owned: 0)/p\n/cffa500Destruction Mace x 1/p/cff0000 (Owned: 0)/p\n/c4bf842Mana Stone x 1/p/cff0000 (Owned: 0)/p\n\nEquipment enhancement after synthesis: \n/i00084/cffa500Destruction Mace/p\n/cff0000Enhancing gear retains gems and stars./p
+T	Required materials: \n/cffff00KNB5/p\n/cffa500Đá Ma Lực Cấp 4 x 5/p/cff0000 (Owned: 0)/p\n/cffa500Kiếm Bạch Ngân x 1/p/cff0000 (Owned: 0)/p\n/c4bf842Mana Stone x 1/p/cff0000 (Owned: 0)/p\n\nEquipment enhancement after synthesis: \n/i00244/cffa500Kiếm Bạch Ngân/p\n/cff0000Enhancing gear retains gems and stars./p	Required materials: \n/cffff00KNB5/p\n/cffa500Lv 4 Magic Stone x 5/p/cff0000 (Owned: 0)/p\n/cffa500Silver Sword x 1/p/cff0000 (Owned: 0)/p\n/c4bf842Mana Stone x 1/p/cff0000 (Owned: 0)/p\n\nEquipment enhancement after synthesis: \n/i00244/cffa500Silver Sword/p\n/cff0000Enhancing gear retains gems and stars./p
+T	Required materials: \n/cffff00KNB5/p\n/cffa500Đá Ma Lực Cấp 4 x 5/p/cff0000 (Owned: 0)/p\n/cffa500Kiếm Ác Mộng x 1/p/cff0000 (Owned: 0)/p\n/c4bf842Mana Stone x 1/p/cff0000 (Owned: 0)/p\n\nEquipment enhancement after synthesis: \n/i00244/cffa500Kiếm Ác Mộng/p\n/cff0000Enhancing gear retains gems and stars./p	Required materials: \n/cffff00KNB5/p\n/cffa500Lv 4 Magic Stone x 5/p/cff0000 (Owned: 0)/p\n/cffa500Nightmare Sword x 1/p/cff0000 (Owned: 0)/p\n/c4bf842Mana Stone x 1/p/cff0000 (Owned: 0)/p\n\nEquipment enhancement after synthesis: \n/i00244/cffa500Nightmare Sword/p\n/cff0000Enhancing gear retains gems and stars./p
+T	Required materials: \n/cffff00KNB5/p\n/cffa500Đá Ma Lực Cấp 4 x 5/p/cff0000 (Owned: 0)/p\n/cffa500Peerless Ring x 1/p/cff0000 (Owned: 0)/p\n/c4bf842Mana Stone x 1/p/cff0000 (Owned: 0)/p\n\nEquipment enhancement after synthesis: \n/i00034/cffa500Peerless Ring/p\n/cff0000Enhancing gear retains gems and stars./p	Required materials: \n/cffff00KNB5/p\n/cffa500Lv 4 Magic Stone x 5/p/cff0000 (Owned: 0)/p\n/cffa500Peerless Ring x 1/p/cff0000 (Owned: 0)/p\n/c4bf842Mana Stone x 1/p/cff0000 (Owned: 0)/p\n\nEquipment enhancement after synthesis: \n/i00034/cffa500Peerless Ring/p\n/cff0000Enhancing gear retains gems and stars./p
+T	Rương Bí Bảo Cấp 40 (Khóa)	Lv 40 Secret Treasure Chest (Bound)
+T	Rương Vũ Khí Nhẹ Cấp 40 (Khóa)	Lv 40 Light Weapon Chest (Bound)
+T	Rương Vật Liệu III (Khoáng)	Material Chest III (Ore)
+T	Rương Vật Liệu III (Đá)	Material Chest III (Stone)
+T	Rớt trong phó bản Đoàn Tùy Táng	Drops in the Funerary Corps dungeon
+T	Sau khi dùng 50 RMB sẽ nhận được vật này. Thu thập 2 cái tới chỗ Thương Nhân Kì Bí đổi Túi Quà Nạp Thẻ Nhiều	Obtained after spending 50 RMB. Collect 2 and exchange them at the Mysterious Merchant for a Multi Top-Up Gift Pack.
+T	Sau khi sự kiện Nguyên Đán kết thúc, có thể đổi vật phẩm	After the New Year event ends, items can be exchanged.
+T	Sau Khi Mặc Lên Sẽ Nhận Được Buff Nhân Đôi Kinh Nghiệm, Giúp Bạn Mau Chóng Thăng Cấp	Once equipped, grants a Double EXP buff to help you level up quickly.
+T	Slot: /cc45712 Silver51500/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Ring    /cffa500Epic/p\n/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/pArmor:   MP 300\nRequirement: Lv 40\nDurability: 127/127\nThưởng khiêu chiến\n	Slot: /cc45712 Silver51500/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Ring    /cffa500Epic/p\n/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/pArmor:   MP 300\nRequirement: Lv 40\nDurability: 127/127\nChallenge Reward\n
+T	Slot: /cffff00 KNB100/p\nAuto-lock Appraisable    Mount    /c42adf8Rare/p\n/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cffff00Thuật Gia Tốc+15Cấp\n/pArmor:   Slash 400  Pierce 400  MP 200\nRequirement: /cff0000Lv 45/p\nDurability: 200/200\n/c00ff00Duration: 1 days\n/pXe cưới\n	Slot: /cffff00 KNB100/p\nAuto-lock Appraisable    Mount    /c42adf8Rare/p\n/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cffff00Haste +15 Lv\n/pArmor:   Slash 400  Pierce 400  MP 200\nRequirement: /cff0000Lv 45/p\nDurability: 200/200\n/c00ff00Duration: 1 days\n/pWedding Carriage\n
+T	Slot: /cffff00 KNB20/p/cc45712 Silver6000/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Mount    /cffa500Epic/p\n/c00ff00HP Regen per turn+200\n/p/cb0a67aSynthetic Stat\n/p/cb0a67aMax HP+1000(Requires Lock)\n/p/cb0a67aMax HP+10%(Requires Lock)\n/pRequirement: Lv 40\nDurability: 130/130\nVật phẩm thần bí, phân giải có thể nhận Hồn Kiếm Vô Danh\n	Slot: /cffff00 KNB20/p/cc45712 Silver6000/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Mount    /cffa500Epic/p\n/c00ff00HP Regen per turn+200\n/p/cb0a67aSynthetic Stat\n/p/cb0a67aMax HP+1000(Requires Lock)\n/p/cb0a67aMax HP+10%(Requires Lock)\n/pRequirement: Lv 40\nDurability: 130/130\nMysterious item; dismantling can yield Nameless Sword Soul\n
+T	Slot: /cffff00 KNB35/p/cc45712 Silver10500/p\nUnlocked    Normal Item\nNgẫu nhiên tạo 1/c00FF00Pet Sử Thi, Hiếm hoặc Truyền Thuyết/ploại Trí Lực. Pet chứa toàn đặc tính mới\n	Slot: /cffff00 KNB35/p/cc45712 Silver10500/p\nUnlocked    Normal Item\nRandomly creates 1 /c00FF00Epic, Rare, or Legendary/p Intelligence Pet with all-new traits\n
+T	Slot: /cffff00 KNB361/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Mount    /cffa500Epic/p\n/c00ff00Dodge +434/p    /cb0a67a\nInsight+215(Requires Lock)\n/p/cb0a67aAtk Speed+300(Requires Lock)\n/p/cffff00Phong Tấn Tiệp+10Cấp\n/pArmor:   Slash 200  Pierce 200  MP 700\nRequirement: /cff0000Lv 50/p\nDurability: 200/200\nMysterious Mount\n	Slot: /cffff00 KNB361/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Mount    /cffa500Epic/p\n/c00ff00Dodge +434/p    /cb0a67a\nInsight+215(Requires Lock)\n/p/cb0a67aAtk Speed+300(Requires Lock)\n/p/cffff00Wind Agility +10 Lv\n/pArmor:   Slash 200  Pierce 200  MP 700\nRequirement: /cff0000Lv 50/p\nDurability: 200/200\nMysterious Mount\n
+T	Slot: /cffff00 KNB5/p/cc45712 Silver1500/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Mount    /cffa500Epic/p\n/c00ff00Atk Speed+50/p /cb0a67a\nCrit Rate+30(Requires Lock)\n/p/cb0a67aMax HP+100(Requires Lock)\n/pArmor:   Slash 50  MP 50\nRequirement: Lv 15\nDurability: 100/100\nThú Cưỡi\n	Slot: /cffff00 KNB5/p/cc45712 Silver1500/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Mount    /cffa500Epic/p\n/c00ff00Atk Speed+50/p /cb0a67a\nCrit Rate+30(Requires Lock)\n/p/cb0a67aMax HP+100(Requires Lock)\n/pArmor:   Slash 50  MP 50\nRequirement: Lv 15\nDurability: 100/100\nMount\n
+T	Slot: /cffff00 KNB5/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Heavy Weapon    /cffa500Epic/p\nAttack: 1~1300\nAccuracy: 140 Melee Slash\n/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cffff00Synthesis Skill\n/pRequirement: /cff0000Lv 50/p/cff0000  250 Strength/p\nDurability: 150/150\nMỗi lần vung chùy là có kẻ mất mạng\n	Slot: /cffff00 KNB5/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Heavy Weapon    /cffa500Epic/p\nAttack: 1~1300\nAccuracy: 140 Melee Slash\n/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cffff00Synthesis Skill\n/pRequirement: /cff0000Lv 50/p/cff0000  250 Strength/p\nDurability: 150/150\nEvery swing of this mace claims a life\n
+T	Slot: /cffff00 KNB5/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Heavy Weapon    /cffa500Epic/p\nAttack: 250~1150\nAccuracy: 10   Melee Slash\n/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cb0a67aSynthetic Stat\n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cffff00Synthesis Skill\n/pRequirement: /cff0000Lv 50/p/cff0000  180 Strength/p\nDurability: 100/100\nVũ khí công phá ghê gớm\n	Slot: /cffff00 KNB5/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Heavy Weapon    /cffa500Epic/p\nAttack: 250~1150\nAccuracy: 10   Melee Slash\n/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cb0a67aSynthetic Stat\n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cffff00Synthesis Skill\n/pRequirement: /cff0000Lv 50/p/cff0000  180 Strength/p\nDurability: 100/100\nA devastating weapon of destruction\n
+T	Slot: /cffff00 KNB5/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Light Crossbow    /cffa500Epic/p\nAttack: 150~450\nAccuracy: 180 \nAttacks: 2 times\nRanged Pierce\n/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/c00ff00Ignore DMG Immunity+135\n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cffff00Synthesis Skill\n/pRequirement: /cff0000Lv 45/p  63 Agility\nDurability: 190/190\nVP nhiệm vụ Vô Song品\n/cffff00Set effect: /p\n/cb0a67a2 pcs: Ranged Atk Count+2/p/cb0a67a/p	Slot: /cffff00 KNB5/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked    Light Crossbow    /cffa500Epic/p\nAttack: 150~450\nAccuracy: 180 \nAttacks: 2 times\nRanged Pierce\n/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/c00ff00Ignore DMG Immunity+135\n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cffff00Synthesis Skill\n/pRequirement: /cff0000Lv 45/p  63 Agility\nDurability: 190/190\nPeerless Quest Item\n/cffff00Set effect: /p\n/cb0a67a2 pcs: Ranged Atk Count+2/p/cb0a67a/p
+T	Slot: /cffff00 KNB514/p\nUnlocked    Fashion    /cc63be9Legend/p\n/c00ff00Base HP Leech+30\n/p/c00ff00Base MP Leech+30\n/p/cb0a67aCombat EXP 1.5x(Requires Lock)\n/p/cb0a67aAuto-restore HP and MP after battle15%(Requires Lock)\n/pRequirement: Lv 1\nDurability: 130/130\nĐồ Batman, cần client 21.0\n	Slot: /cffff00 KNB514/p\nUnlocked    Fashion    /cc63be9Legend/p\n/c00ff00Base HP Leech+30\n/p/c00ff00Base MP Leech+30\n/p/cb0a67aCombat EXP 1.5x(Requires Lock)\n/p/cb0a67aAuto-restore HP and MP after battle15%(Requires Lock)\n/pRequirement: Lv 1\nDurability: 130/130\nBatman Outfit, requires client 21.0\n
+T	Sold successfully: \n/i00211/ce5e5e5Mũ Mãnh Phong/pX1\n/i00211/ce5e5e5Mũ Quyết Vũ/pX1\n/i00101/ce5e5e5Pure Brahma Pants/pX1\n/i00021/ce5e5e5Hộ Vai Nghi Tế/pX1\n/i00021/ce5e5e5Hundred-Spirit Shoulder Pads/pX1\n/i00131/ce5e5e5Sea-Gathering Belt/pX1\n/i00131/ce5e5e5Đai Mãnh Phong/pX1\n/i00011/ce5e5e5White Cliff Gloves/pX1\n/i00011/ce5e5e5Ceremonial Gloves/pX1\n/i00011/ce5e5e5Ceremonial Gloves/pX1\n/i00011/ce5e5e5Ceremonial Gloves/pX1\n/i00011/ce5e5e5Ceremonial Gloves/pX1\n/i00012/c4bf842Găng Ám Thủy/pX1\n/i00032/c4bf842Khổ Kiếm Thủy Nhẫn/pX1\n/i00162/c4bf842Cát Bụi/pX1\n/i00361/ce5e5e5Bảo Thạch/pX3\n/i00321/ce5e5e5Broken Bone/pX2\n/i00321/ce5e5e5Poison Tongue/pX2\n/i00321/ce5e5e5Hủ Thi/pX2\nReceived: 23630 Copper	Sold successfully: \n/i00211/ce5e5e5Fierce Wind Helm/pX1\n/i00211/ce5e5e5Jueyu Helm/pX1\n/i00101/ce5e5e5Pure Brahma Pants/pX1\n/i00021/ce5e5e5Ceremonial Spaulders/pX1\n/i00021/ce5e5e5Hundred-Spirit Shoulder Pads/pX1\n/i00131/ce5e5e5Sea-Gathering Belt/pX1\n/i00131/ce5e5e5Fierce Wind Belt/pX1\n/i00011/ce5e5e5White Cliff Gloves/pX1\n/i00011/ce5e5e5Ceremonial Gloves/pX1\n/i00011/ce5e5e5Ceremonial Gloves/pX1\n/i00011/ce5e5e5Ceremonial Gloves/pX1\n/i00011/ce5e5e5Ceremonial Gloves/pX1\n/i00012/c4bf842Dark Water Gloves/pX1\n/i00032/c4bf842Bitter Water Blade/pX1\n/i00162/c4bf842Dust/pX1\n/i00361/ce5e5e5Gem/pX3\n/i00321/ce5e5e5Broken Bone/pX2\n/i00321/ce5e5e5Poison Tongue/pX2\n/i00321/ce5e5e5Rotting Corpse/pX2\nReceived: 23630 Copper
+T	Sold successfully: \n/i00211/ce5e5e5Mũ Quyết Vũ/pX1\n/i00102/c4bf842Python Pants/pX1\n/i00132/c4bf842Xi King Belt/pX1\n/i00091/ce5e5e5Pure Brahma Boots/pX1\n/i00011/ce5e5e5Ceremonial Gloves/pX1\n/i00012/c4bf842Buddha Music Gloves/pX1\n/i00141/ce5e5e5Trượng Thiên Xà/pX1\n/i00121/ce5e5e5Thương Phục Ưng/pX1\n/i00151/ce5e5e5Ironwood Crossbow/pX1\n/i00361/ce5e5e5Bảo Thạch/pX3\n/i00321/ce5e5e5Broken Bone/pX2\n/i00321/ce5e5e5Poison Tongue/pX2\n/i00321/ce5e5e5Hủ Thi/pX2\nReceived: 14630 Copper	Sold successfully: \n/i00211/ce5e5e5Jueyu Helm/pX1\n/i00102/c4bf842Python Pants/pX1\n/i00132/c4bf842Xi King Belt/pX1\n/i00091/ce5e5e5Pure Brahma Boots/pX1\n/i00011/ce5e5e5Ceremonial Gloves/pX1\n/i00012/c4bf842Buddha Music Gloves/pX1\n/i00141/ce5e5e5Sky Snake Staff/pX1\n/i00121/ce5e5e5Falcon Spear/pX1\n/i00151/ce5e5e5Ironwood Crossbow/pX1\n/i00361/ce5e5e5Gem/pX3\n/i00321/ce5e5e5Broken Bone/pX2\n/i00321/ce5e5e5Poison Tongue/pX2\n/i00321/ce5e5e5Rotting Corpse/pX2\nReceived: 14630 Copper
+T	Sách Hiền Giả-Huyền Quang Thuật	Sage Book: Mystic Light Art
+T	Sách Hiền Giả-Ma Pháp Tăng	Sage Book: Magic Boost
+T	Sách Hiệp Khách-Toái Cốt Kình	Swordsman Book: Bone-Shattering Force
+T	Sách Hiệp Khách-Vấn Lưu Kiếm	Swordsman Book: Flowing Stream Sword
+T	Sách Pháp Sư-Dùng Trượng	Mage Book: Staff Mastery
+T	Sách Pháp Sư-Hỏa Tường Thuật	Mage Book: Fire Wall
+T	Sách Pháp Sư-Pháp Thuật Vô Hiệu	Mage Book: Magic Immunity
+T	Sách Pháp Sư-Sủng Hiệp Thủ (Phù chú)	Mage Book: Pet Guard (Talisman)
+T	Sát nhân tặng quan tài	Slayer's Coffin Gift
+T	Sói Gầm(Lv 0+1)	Wolf Roar (Lv 0+1)
+T	Sư Thứu x 1	Griffin x 1
+T	Sư Thứu Đột Kích(Lv 0+1)	Griffin Assault (Lv 0+1)
+T	Sợi Ma Vân	Demon Cloud Thread
+T	Tam Hoa Tụ+9Cấp	Three Flowers Gathering +9 Lv
+T	Tam Muội Chân Hỏa(Lv 21)	Samadhi True Fire (Lv 21)
+T	Tam Muội Chân Hỏa(Lv 22)	Samadhi True Fire (Lv 22)
+T	Tay Kỷ Niệm MJ(khóa) x 1	MJ Memorial Gloves (Bound) x 1
+T	Thanh Long Ấn（Cấp 1）(Lv 1)	Azure Dragon Seal (Lv 1) (Lv 1)
+T	Thiên Diệp Đao Pháp(Lv 22)	Thousand-Leaf Blade Art (Lv 22)
+T	Thiên Diệp Đao Pháp+6Cấp	Thousand-Leaf Blade Art +6 Lv
+T	Thiên Ma Đao 5(Lv 14+7)	Heavenly Demon Blade 5 (Lv 14+7)
+T	Thiên Ma Đao 5(Lv 21)	Heavenly Demon Blade 5 (Lv 21)
+T	Thiên Ma Đao+7Cấp	Heavenly Demon Blade +7 Lv
+T	Thiên Sinh Cường Tráng(Lv 3)	Innate Vigor (Lv 3)
+T	Thiên Sinh Cường Tráng(Lv 5)	Innate Vigor (Lv 5)
+T	ThiêuđốtSứcMạnhdosinhmệnhtạora	Burns power generated from life force
+T	Thiếu Nữ Ma Pháp	Magical Girl
+T	Thiểm Hộ(Overstep rank)	Flash Guard (Overstep)
+T	Thiểm Quang(Overstep rank)	Flash (Overstep)
+T	Thu thập những ấn kí này có thể nhận Quà Tử Thần	Collect these marks to receive the Death God Gift
+T	Thu thập " Tết Trung Thu" " Vui" "Vẻ" Để Đổi Thưởng	Collect "Mid-Autumn" "Happy" "Joy" to exchange for rewards
+T	Thuật Chiến Tranh+4Cấp	Art of War +4 Lv
+T	Thuật Chuyên Công+3Cấp	Focus Strike Art +3 Lv
+T	Thuật Ngự Phong(Lv 22)	Wind Riding Art (Lv 22)
+T	Thuốc Cảm Trí (1 Giờ)	Perception Potion (1 Hour)
+T	Thuốc Cảm Trí Cực Hiệu (1 Giờ)	Supreme Perception Potion (1 Hour)
+T	Thuốc HP Ưu Tú	Superior HP Potion
+T	Thuốc Trị Liệu Ưu Tú	Superior Healing Potion
+T	Thành Tường Thủ	City Wall Guard
+T	Thánh Hiền	Holy Sage
+T	Thánh Kỵ Sĩ	Paladin
+T	Thích hợp/c00FF00Pháp Sư/p	Suitable for /c00FF00Mage/p
+T	Thú Cưỡi của Thánh Đường Kiếm Sĩ	Mount of the Sanctuary Swordsman
+T	Thú cưỡi có tạo hình đặc biệt，Vịt Vàng khổng lồ，Cưỡi lên chụp hình，25.0 hiển thị	Mount with a special design, a giant Yellow Duck. Hop on and take a photo! Visible in 25.0.
+T	Thú cưỡi của Kỵ Sĩ Súng Thánh Đường	Mount of the Sanctuary Gunner Knight
+T	Thư Kích	Snipe
+T	Thư không tồn tại	Mail does not exist
+T	Thương Cương	Steel Spear
+T	Thương Huyết Yên	Blood Smoke Spear
+T	Thương Luyện Ma Tinh lv9 x 1	Demon Crystal Spear Lv 9 x 1
+T	Thương Phong Diệm	Windflame Spear
+T	Thưởng Sa Mạc Thất Hồn I	Lost Soul Desert Reward I
+T	Thưởng Thảo Phạt Sa Mạc	Desert Expedition Reward
+T	Thưởng hạ Raislin	Reward for defeating Raislin
+T	Thưởng rớt ra khi đánh bại Đọa Lang Ma	Reward dropped upon defeating Fallen Wolf Demon
+T	Thưởng tích điểm	Points Reward
+T	Thần Học(Lv 10)	Theology (Lv 10)
+T	Thần Học(Lv 15)	Theology (Lv 15)
+T	Thần Tướng(Overstep rank)	Divine General (Overstep)
+T	Thần Tốc:	Godspeed:
+T	Thật-Hòm Gỗ Ác Ma	True Demon Wooden Chest
+T	Thời Trang (Cánh)	Fashion (Wings)
+T	Thời Trang (Thân)	Fashion (Body)
+T	Thời Trang Nhân Đôi Kinh Nghiệm Của Hùng Vương.	Hung King's Double EXP Fashion.
+T	Thủ Hộ Hoàn	Guardian Ring
+T	Tiến Cấp Pháp Thuật(Lv 1)	Advanced Magic (Lv 1)
+T	Tiếng Tiêu Đêm	Night Flute
+T	Tiễn Tháp	Arrow Tower
+T	Tiễn Xuyên Thích+6Cấp	Piercing Arrow +6 Lv
+T	Trong Bãi Dung Nham, Tiểu Diêm Vương và Hắc Quỷ Vương đang tranh đoạt quyền thống trị địa ngục. Chúng ta có khả năng thay đổi cục diện của địa ngục và nhận được sức mạnh địa ngục giúp đỡ\n\n/cffff00Objective: /pComplete quest </cff0000Complete Advanced Lost Soul Desert Quest/p>\n/cffff00Reward:/pExp 1000  City Prosperity 850  City Military Power 1500  \n	In the Lava Grounds, Little Yama and the Black Demon King are fighting for dominion over the underworld. We have the chance to shift the tide of the underworld and gain its power to aid us.\n\n/cffff00Objective: /pComplete quest </cff0000Complete Advanced Lost Soul Desert Quest/p>\n/cffff00Reward:/pExp 1000  City Prosperity 850  City Military Power 1500  \n
+T	Trượng Thẩm Phán	Judgment Staff
+T	Trống Đại Địa	Earth Drum
+T	Trứng Duệ Trí Sử Thi	Epic Wise Pet Egg
+T	Trứng Linh Khuyển	Spirit Hound Egg
+T	Trứng Rùa Hỏa Nham	Lava Turtle Egg
+T	Tuyết Băng Nhẫn	Frost Blade
+T	Tuyết Ấu Khuyển	Snow Pup
+T	Tâm Hộ Thuẫn(Lv 10)	Mind Guard Shield (Lv 10)
+T	Tâm Hộ Thuẫn(Lv 15)	Mind Guard Shield (Lv 15)
+T	Tìm 3 bộ phận: cánh, thân, chân tới chỗ NPC Thẩm Mĩ Viện ở Tân Nguyệt Trấn đổi thời trang vĩnh viễn. Phần thừa có thể phân giải.	Collect 3 parts: wings, body, and legs, and visit the Beauty Salon NPC in Crescent Town to exchange for permanent fashion. Extra parts can be dismantled.
+T	Tình Báo Gián Điệp	Spy Intelligence
+T	Tín Trình(Overstep rank)	Faith Creed (Overstep)
+T	Tăng cấp nhận thuộc tính khiên miễn st	Level up to gain damage-immunity shield stats
+T	Tướng Đoàn Huyết Yên	Blood Smoke Legion General
+T	Tường 1	Wall 1
+T	Tường 2	Wall 2
+T	Tường 3	Wall 3
+T	Tấn công cổng trại	Attack the Camp Gate
+T	Tấn công trước	First Strike
+T	Tật Phi(Lv 22)	Swift Flight (Lv 22)
+T	Tật Phi(Overstep rank)	Swift Flight (Overstep)
+T	Tết Trồng Cây	Arbor Day
+T	Tề Thiên Đại Thánh	Great Sage Heaven's Equal
+T	Tộc Tinh Linh sẽ trở thành đồng minh của mi. /c00FF00Nhiệm vụ Rừng Tinh Linh đã kết thúc. Thành của chúng ta sẽ được sự trợ giúp hùng mạnh. Hãy về thàng, cần luật sự đội bà	The Spirit Tribe will become your ally. /c00FF00The Spirit Forest quest has ended. Our city will receive mighty aid. Return to the city—reinforcements are needed.
+T	Tử Luật Lệnh(Lv 0+5)	Death Decree (Lv 0+5)
+T	Tử Luật Lệnh+5Cấp	Death Decree +5 Lv
+T	Tử Thần tặng	Gift of the Death God
+T	Tử Điện Công+10Cấp	Purple Lightning Art +10 Lv
+T	Tự Nhiên Thủ Hộ(Lv 5)	Nature's Guardian (Lv 5)
+T	Tự lãnh ngộ	Self-Comprehended
+T	VP thưởng, đổi sau đại hội.	Reward item; exchange after the tournament.
+T	Viêm Nguyên Tố	Flame Elemental
+T	Vàng 1700, Kim Diệp 150, Số serial Nạp thẻ: 2913438	Gold 1700, Gold Leaf 150, Top-up Serial No.: 2913438
+T	Vé EXP Pet(5000）	Pet EXP Ticket (5000)
+T	Vé Quà Nguyên Đán	New Year Gift Ticket
+T	Vòng Vảy Rồng	Dragon Scale Ring
+T	Vô Danh Kiếm	Nameless Sword
+T	Vô Tượng Thương Pháp(Lv 22)	Boundless Spear Art (Lv 22)
+T	Vô Vi Thủ Hộ	Wuwei Guardian
+T	Võ Chú(Overstep rank)	Martial Curse (Overstep)
+T	Võ Thánh Phụ Thể(Lv 10)	Martial Saint Possession (Lv 10)
+T	Vật liệu hợp thành quý giá	Precious synthesis material
+T	Vật phẩm rớt ra khi hạ Long Vương. Tạm cứ cất giữ đi.	Item dropped upon defeating the Dragon King. Keep it safe for now.
+T	Vật phẩm thần bí, phân giải có thể nhận Hồn Kiếm Vô Danh	Mysterious item; dismantling can yield Nameless Sword Soul
+T	Về Tử Cấm Thành	Return to Forbidden City
+T	Với sức mình ta khó mà phong ấn lại /cff0000Mộng Yểm/p, mi có thể giúp ta không	With my strength alone, I can hardly reseal /cff0000Nightmare/p. Can you help me?
+T	Xe Cưới (1 ngày)	Wedding Carriage (1 Day)
+T	Xem ra, phong ấn của Mộng Yểm vẫn chưa bị phá. Nhưng rõ ràng sức mạnh của phong ấn đã giảm. (/cFFFF00Đột nhiên trong động vọng tới tiếng trẻ con khóc, lẽ nào có người khác ở đây?/p)	It seems Nightmare's seal hasn't been broken yet, but its power has clearly weakened. (/cFFFF00Suddenly, a baby's cry echoes through the cave—could someone else be here?/p)
+T	Xung Năng Thiết Tượng (Khóa)	Energy-Charged Iron Statue (Bound)
+T	Xung Phong Dũng Cảm	Brave Charge
+T	Xác nhận chức Thợ Săn	Confirm Hunter class
+T	Xương Rồng Ác	Evil Dragon Bone
+T	Xạ Thủ Đoàn Huyết Yên	Blood Smoke Legion Archer
+T	Yên Cỡ Lớn	Large Saddle
+T	[Tinh anh] Sa Mạc Thất Hồn	[Elite] Lost Soul Desert
+T	bản chất thông minh	Clever by nature
+T	thẻ không đúng, hãy liên lạc dịch vụ khách hàng	Invalid card; please contact customer service.
+T	trang bị với vũ khí tay đơn	Equip with a one-handed weapon
+T	vũ khí cổ xưa(Lv 1)	Ancient Weapon (Lv 1)
+T	{4}, cứu ta, ta bị ác ma vây ở đây.	{4}, save me! I'm surrounded by demons here.
+T	{5}, diệt được Viêm Ma và Pháp Sư Xương rồi. Mọi việc mi làm ta đều thấy, rốt cuộc kẻ nào sai bảo mi!	{5}, you defeated the Flame Demon and Skeleton Mage. I saw everything you did—who on earth sent you?!
+T	{5}, không lâu nữa trung tâm sẽ thuộc về ta.	{5}, before long the center will belong to me.
+T	{5}, mi muốn phản kháng sao?	{5}, do you intend to resist?
+T	Ác Ma Phệ Hồn+1Cấp	Demon Soul Devour +1 Lv
+T	Ánh Sáng Thế Giơi	Light of the World
+T	Ánh mắt hung tợn	Fierce Gaze
+T	Áo Choàng Huyết Yên Hoa Lệ x 1	Ornate Blood Smoke Cloak x 1
+T	Áo Choàng Huyết Yên Tất Hắc	Pitch-Black Blood Smoke Cloak
+T	Áo Choàng Tùy Táng	Funerary Cloak
+T	Áo Thiên Sứ Cứu Rỗi	Salvation Angel Armor
+T	Áo Tiềm Năng	Potential Armor
+T	Áo Xích Thiên Sứ	Crimson Angel Armor
+T	Đai Huyền Vũ	Black Tortoise Belt
+T	Đai Thần Sứ	Divine Envoy Belt
+T	Đai Tùy Táng Thuật Sĩ	Funerary Warlock Belt
+T	Đi tiếp vào trong chính là /cFFFFFFcửa vào mộ huyệt tầng 3/p phong ấn Mộng Yểm.	Further inside lies the /cFFFFFFentrance to Tomb Floor 3/p, where Nightmare is sealed.
+T	Đoàn Huyết Yên cướp bóc khắp nơi, giết người vô số. Chúng ta triệu tập anh hùng các nước tiêu diệt đoàn Huyết Yên.. Nhiệm vụ chia thành 4 giai đoạn, đều là nhiệm vụ tổ đội, hãy thông qua Trạm Phi Hành tới /c00FF00Trại Huyết Yên/p.	The Blood Smoke Legion pillages everywhere and slaughters countless people. We are rallying heroes from all nations to destroy them. The quest has 4 team stages—travel via the Flight Station to /c00FF00Blood Smoke Camp/p.
+T	Đá +20 MP	+20 MP Stone
+T	Đá Cường Hoá Thời Trang Kim Ngưu	Taurus Fashion Enhancement Stone
+T	Đá Cường Hóa Thời Trang Song Tử	Gemini Fashion Enhancement Stone
+T	Đình Nộ(Overstep rank)	Calm Fury (Overstep)
+T	Đại loại là như vậy đấy, hãy đi tìm bạn đời đi!	That's the gist of it—go find yourself a partner!
+T	Đại Địa Kích+10Cấp	Earth Strike +10 Lv
+T	Đạo Thiên Nhiên(Lv 21)	Nature Dao (Lv 21)
+T	Đạo Thiên Nhiên(Lv 22)	Nature Dao (Lv 22)
+T	Đầy Ảo Ảnh+1Cấp	Phantom Swarm +1 Lv
+T	Địa Thức(Overstep rank)	Earth Stance (Overstep)
+T	Đọa Lang Ma Trảo(Lv 0+1)	Corrupted Wolf Fiend Claw (Lv 0+1)
+T	Đọa Lang Trảo	Corrupted Wolf Claws
+T	Đọa Sói Nộ Hống(Lv 0+1)	Fallen Wolf Fury Roar (Lv 0+1)
+T	Đồ Hồ Yêu	Fox Demon Outfit
+T	Đồ Lực(Overstep rank)	Slaughter Force (Overstep)
+T	Đồ MJ 2 (Khóa	MJ Outfit 2 (Bound)
+T	Đồ của Kỵ Sĩ Không Đầu.	Headless Knight's Gear.
+T	Đồ kỷ niệm 2	Memorial Outfit 2
+T	Đồ vật của Yêu Vương	Demon King's Item
+T	Đồ Ám Đấu Sĩ(2 ngày)	Dark Fighter Gear (2 Days)
+T	Đồng x 1000	Copper x 1000
+T	Đổi được 30000 tiền Bạc	Exchanges for 30000 Silver
+T	Đợi phong ấn của/cff0000Mộng Yểm/p được mở, chúng ta sẽ lại tính sổ	Once /cff0000Nightmare/p's seal is broken, we'll settle the score!
+T	Đừng vui mừng quá sớm	Don't celebrate too soon
+T	ảo thuật thất bại	Illusion failed
+T	Ấn Tử Thần	Death God Seal
+T	Ủng Càn Khôn	Universe Boots
+T	Ủng Lê Minh	Dawn Boots
+T	Ủng Phụng Tiên	Fengxian Boots
+T	Ủng Thần Sứ	Divine Envoy Boots
+T	Ủng Thục Sơn	Mount Shu Boots
+T	Ủng Vảy Rồng	Dragon Scale Boots
+T	竹叶打击（远程）+1Cấp	Bamboo Leaf Strike (Ranged) +1 Lv
+T	竹叶打击（长柄）+1Cấp	Bamboo Leaf Strike (Polearm) +1 Lv
