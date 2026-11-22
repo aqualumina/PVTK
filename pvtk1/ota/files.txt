@@ -13,3 +13,11 @@ common/602.png
 common/604.png
 common/605.png
 common/606.png
+common/700.png
+common/528.png
+common/112.png
+common/110.png
+common/12.png
+common/310.png
+common/311.png
+common/ti_18.png
