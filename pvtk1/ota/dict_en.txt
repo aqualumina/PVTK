@@ -11343,3 +11343,61 @@ T	Ủng Thục Sơn	Mount Shu Boots
 T	Ủng Vảy Rồng	Dragon Scale Boots
 T	竹叶打击（远程）+1Cấp	Bamboo Leaf Strike (Ranged) +1 Lv
 T	竹叶打击（长柄）+1Cấp	Bamboo Leaf Strike (Polearm) +1 Lv
+T	/cFE5F5FL*na/p ấn tượng đầu về bạn không tồi, mau kết bạn với TA.	/cFE5F5FL*na/p has a good first impression of you—add them as a friend now!
+T	/cc63be9Nỏ Liên Xạ/p\n★×42 \nLocked Appraisable    Light Crossbow    /cc63be9Legend/p\nAttack: 375~1099\nAccuracy: 255 \nAttacks: 4 times\nRanged Pierce\n/c00ff00Atk Speed+1313\n/p/c00ff00Ignore Counter+394\n/p/c00ff00Base True Hit+8\n/p/c00ff00Dodge +217(Lock)\n/p/c00ff00Armor Pierce1206(Lock)\n/p/c00ff00Strength+14(Inlay Destroyed)\n/p/cffff00Đầy Ảo Ảnh+1Cấp\n/pRequirement: Lv 55  250 Agility\nDurability: 556/201\nNỏ được chiến sĩ trong truyền thuyết dùng\n	/cc63be9Repeating Crossbow/p\n★×42 \nLocked Appraisable    Light Crossbow    /cc63be9Legend/p\nAttack: 375~1099\nAccuracy: 255 \nAttacks: 4 times\nRanged Pierce\n/c00ff00Atk Speed+1313\n/p/c00ff00Ignore Counter+394\n/p/c00ff00Base True Hit+8\n/p/c00ff00Dodge +217(Lock)\n/p/c00ff00Armor Pierce1206(Lock)\n/p/c00ff00Strength+14(Inlay Destroyed)\n/p/cffff00Phantom Swarm +1 Lv\n/pRequirement: Lv 55  250 Agility\nDurability: 556/201\nCrossbow wielded by legendary warriors\n
+T	/cff99ff【Whisper】/p/c00e0fbGame Admin: /pGửi thất bại: Đối phương đã offline.	/cff99ff【Whisper】/p/c00e0fbGame Admin: /pFailed to send: Target is offline.
+T	/cffff00Thập Tự Trảm/p (Lv 3)    Active\nEnemy Cross    Melee Pierce\n/c00ff00Ignore 750target Physical Def\n/p/c00ff00Skill BonusPhysicalHit+24\n/p/c00ff00Target DMG Immunity-75\n/pAttacks: +1      \nSkill consumed:  270 MP\nChance to learn new skill and upgrade old skill upon leveling up.\n	/cffff00Cross Slash/p (Lv 3)    Active\nEnemy Cross    Melee Pierce\n/c00ff00Ignore 750target Physical Def\n/p/c00ff00Skill BonusPhysicalHit+24\n/p/c00ff00Target DMG Immunity-75\n/pAttacks: +1      \nSkill consumed:  270 MP\nChance to learn new skill and upgrade old skill upon leveling up.\n
+T	/i00023/c42adf8Hộ Vai Thổ Năng/p x 1\n	/i00023/c42adf8Earth Power Spaulders/p x 1\n
+T	/i00071/ce5e5e5Hộp Vũ Khí Nhẹ Cấp 20/p x 1\n/i00281/ce5e5e5Lv 20 Light Weapon Chest (Bound)/p x 1\n/i00071/ce5e5e5Material Chest I (Stone)/p x 1\n/i00203/c42adf8Knight Badge/p x 1\n	/i00071/ce5e5e5Lv.20 Light Weapon Box/p x 1\n/i00281/ce5e5e5Lv 20 Light Weapon Chest (Bound)/p x 1\n/i00071/ce5e5e5Material Chest I (Stone)/p x 1\n/i00203/c42adf8Knight Badge/p x 1\n
+T	/i00071/ce5e5e5Hộp Vũ Khí Nhẹ Cấp 20/p x 1\n/i00281/ce5e5e5Lv 20 Light Weapon Chest (Bound)/p x 1\n/i00071/ce5e5e5Material Chest I (Stone)/p x 1\n/i00203/c42adf8Knight Badge/p x 2\n	/i00071/ce5e5e5Lv.20 Light Weapon Box/p x 1\n/i00281/ce5e5e5Lv 20 Light Weapon Chest (Bound)/p x 1\n/i00071/ce5e5e5Material Chest I (Stone)/p x 1\n/i00203/c42adf8Knight Badge/p x 2\n
+T	/i00072/c4bf842Hộp Phục Sức Cấp 30/p x 1  /i02020100\nUnlocked    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nCan obtain Mage and Cultivator armor suitable for Lv 25-35. Chance to obtain epic gear.\n	/i00072/c4bf842Lv.30 Outfit Chest/p x 1  /i02020100\nUnlocked    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nCan obtain Mage and Cultivator armor suitable for Lv 25-35. Chance to obtain epic gear.\n
+T	/i00072/c4bf842Hộp Vũ Khí Nhẹ Cấp 30/p x 1  /i02020100\nUnlocked    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nCan obtain sword, blade, crossbow, staff, or bow suitable for Lv 25-35. Chance to obtain epic gear.\n	/i00072/c4bf842Lv.30 Light Weapon Chest/p x 1  /i02020100\nUnlocked    Normal Item\n/c00ff00Open directly/p        \nRange: Single Target\nCan obtain sword, blade, crossbow, staff, or bow suitable for Lv 25-35. Chance to obtain epic gear.\n
+T	/i00072/c4bf842Material Chest II (Ore)/p x 1\n/i00282/c4bf842Lv 30 Accessory Chest (Bound)/p x 1\n/i00072/c4bf842Hộp Phục Sức Cấp 30/p x 1\n/i00203/c42adf8Knight Badge/p x 3\n/i00343/c42adf8Earth Elemental/p x 3\n	/i00072/c4bf842Material Chest II (Ore)/p x 1\n/i00282/c4bf842Lv 30 Accessory Chest (Bound)/p x 1\n/i00072/c4bf842Lv.30 Outfit Chest/p x 1\n/i00203/c42adf8Knight Badge/p x 3\n/i00343/c42adf8Earth Elemental/p x 3\n
+T	/i00074/cffa500Trứng Duệ Trí Sử Thi/p x 1  /i02020100\nUnlocked    Normal Item\nNgẫu nhiên tạo 1/c00FF00Pet Sử Thi, Hiếm hoặc Truyền Thuyết/ploại Trí Lực. Pet chứa toàn đặc tính mới\n	/i00074/cffa500Epic Wise Pet Egg/p x 1  /i02020100\nUnlocked    Normal Item\nRandomly creates 1 /c00FF00Epic, Rare, or Legend Pet/p of Intelligence type. Pet comes with all-new traits.\n
+T	/i00074/cffa500Trứng Duệ Trí Sử Thi/p x 2  /i02020100\nUnlocked    Normal Item\nNgẫu nhiên tạo 1/c00FF00Pet Sử Thi, Hiếm hoặc Truyền Thuyết/ploại Trí Lực. Pet chứa toàn đặc tính mới\n	/i00074/cffa500Epic Wise Pet Egg/p x 2  /i02020100\nUnlocked    Normal Item\nRandomly creates 1 /c00FF00Epic, Rare, or Legend Pet/p of Intelligence type. Pet comes with all-new traits.\n
+T	/i00104/cffa500Quần  Lưu Ảnh /p x 1  /i020205000\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Legs    /cffa500Epic/p\n/c00ff00Mana Shield+86/p    /c00ff00Max MP+86/p\n/cb0a67aUnidentified Stat /p /cb0a67aUnidentified Stat /p\nArmor:   Slash 206  Pierce 206  MP 480\nRequirement: Lv 25  5 Constitution/cff0000  50 Wisdom/p\nDurability: 190/190\nEquipment suitable for /c00FF00Cultivators/p\n	/i00104/cffa500Shadow Flow Pants/p x 1  /i020205000\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Legs    /cffa500Epic/p\n/c00ff00Mana Shield+86/p    /c00ff00Max MP+86/p\n/cb0a67aUnidentified Stat /p /cb0a67aUnidentified Stat /p\nArmor:   Slash 206  Pierce 206  MP 480\nRequirement: Lv 25  5 Constitution/cff0000  50 Wisdom/p\nDurability: 190/190\nEquipment suitable for /c00FF00Cultivators/p\n
+T	/i00104/cffa500Quần  Lưu Ảnh /p x 1\n	/i00104/cffa500Shadow Flow Pants/p x 1\n
+T	/i00141/ce5e5e5Thập Tự Quân/p x 1\n	/i00141/ce5e5e5Crusader/p x 1\n
+T	/i00204/cffa500Top-Up Badge/p x 1  /i020205000\nAuto-lock    Quest Item\nSau khi dùng 50 RMB sẽ nhận được vật này. Thu thập 2 cái tới chỗ Thương Nhân Kì Bí đổi Túi Quà Nạp Thẻ Nhiều\n	/i00204/cffa500Top-Up Badge/p x 1  /i020205000\nAuto-lock    Quest Item\nObtained after spending 50 RMB. Collect 2 and exchange them with the Mysterious Merchant for a Multi Top-Up Gift Pack.\n
+T	/i00234/cffa500Pháp Bào Hỏa Hồng/p x 1  /i020207000\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Chest    /cffa500Epic/p\n/c00ff00Max MP+233/p          /c00ff00Constitution+5/p\n/cb0a67aUnidentified Stat /p /cb0a67aUnidentified Stat /p\nArmor:   Slash 192  Pierce 192  MP 886\nRequirement: Lv 35  7 Constitution/cff0000  35 Intelligence/p/cff0000  18 Wisdom/p\nDurability: 190/190\nEquipment suitable for ./c00FF00Mages/p\n	/i00234/cffa500Crimson Flame Robe/p x 1  /i020207000\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Chest    /cffa500Epic/p\n/c00ff00Max MP+233/p          /c00ff00Constitution+5/p\n/cb0a67aUnidentified Stat /p /cb0a67aUnidentified Stat /p\nArmor:   Slash 192  Pierce 192  MP 886\nRequirement: Lv 35  7 Constitution/cff0000  35 Intelligence/p/cff0000  18 Wisdom/p\nDurability: 190/190\nEquipment suitable for ./c00FF00Mages/p\n
+T	/i00234/cffa500Pháp Bào Hỏa Hồng/p x 1\n	/i00234/cffa500Crimson Flame Robe/p x 1\n
+T	/i00282/c4bf842Lv 30 Secret Treasure Chest (Bound)/p x 1\n/i00282/c4bf842Rương Vũ Khí Nặng Cấp 30 (Khóa)/p x 1\n/i00282/c4bf842Lv 30 Accessory Chest (Bound)/p x 1\n/i00203/c42adf8Knight Badge/p x 3\n	/i00282/c4bf842Lv 30 Secret Treasure Chest (Bound)/p x 1\n/i00282/c4bf842Lv 30 Heavy Weapon Chest (Bound)/p x 1\n/i00282/c4bf842Lv 30 Accessory Chest (Bound)/p x 1\n/i00203/c42adf8Knight Badge/p x 3\n
+T	/i00282/c4bf842Rương Vũ Khí Nhẹ Cấp 30 (Khóa)/p x 1\n/i00072/c4bf842Hộp Vũ Khí Nhẹ Cấp 30/p x 1\n/i00072/c4bf842Material Chest II (Stone)/p x 1\n/i00203/c42adf8Knight Badge/p x 3\n	/i00282/c4bf842Lv 30 Light Weapon Chest (Bound)/p x 1\n/i00072/c4bf842Lv.30 Light Weapon Chest/p x 1\n/i00072/c4bf842Material Chest II (Stone)/p x 1\n/i00203/c42adf8Knight Badge/p x 3\n
+T	4 điểm thuộc tính	4 attribute points
+T	Chiến Vương	War King
+T	Có thể nhận được kiếm, đao, vũ khí dài, nỏ nặng, vũ khí năng thích hợp cấp 25-35. Có cơ hội nhận được trang bị sử thi.	Can obtain sword, blade, polearm, heavy crossbow, heavy weapon suitable for Lv 25-35. Chance to obtain epic gear.
+T	Găng Thiên Mã	Pegasus Gloves
+T	Gửi thất bại: Đối phương đã offline.	Failed to send: Target is offline.
+T	Ha!/cffffffzzzbadaozzz/pMay quá, từ /c42adf8Rương Phỉ Hồng Bí Mật/p mở được /cC63BE9Vòng Long Bảo Ngọc/p cấp truyền thuyết, mọi người mau tới kiếm lì xì đi!	Ha!/cffffffzzzbadaozzz/pSo lucky, from /c42adf8Secret Crimson Chest/p opened legendary /cC63BE9Dragon Jade Ring/p, everyone come grab red packets!
+T	Ha!/cffffffzzzbadaozzz/pMay quá, từ /c42adf8Rương Phỉ Hồng Bí Mật/p mở được /cC63BE9Đồ Ma Tinh Nguyệt/p cấp truyền thuyết, mọi người mau tới kiếm lì xì đi!	Ha!/cffffffzzzbadaozzz/pSo lucky, from /c42adf8Secret Crimson Chest/p opened legendary /cC63BE9Star Moon Demon Gear/p, everyone come grab red packets!
+T	Hộ Vai Lang Ma	Wolf Demon Spaulders
+T	Hộ giáp trong truyền thuyết	Legendary armor
+T	Hộp Phục Sức Cấp 20	Lv.20 Outfit Chest
+T	Khicótrạngtháinày,saukhitửvongsẽhồisinhvàcòn1điểmHP.Mộttrậnđấuchỉcótácdụng1lần.	While under this status, upon death you revive with 1 HP. Only takes effect once per battle.
+T	Không có Vé Giám Định tương ứng	No matching Appraisal Ticket
+T	Lĩnh Hội-Cách Đỡ Đòn(Lv 2)	Comprehend: Block (Lv 2)
+T	Lưu Tinh Quyền+1Cấp	Meteor Fist +1 Lv
+T	Mùa Pháp Lực Cực Hạn	Ultimate MP Charm
+T	Pháp Bào Hỏa Hồng x 1	Crimson Flame Robe x 1
+T	Phước lành kỳ diệu(Lv 4)	Miraculous Blessing (Lv 4)
+T	Quyển	Scroll
+T	Quần  Lưu Ảnh  x 1	Shadow Flow Pants x 1
+T	Sao Băng (Thủy)	Meteor (Water)
+T	Sell /i00104/cffa500Quần  Lưu Ảnh /p?	Sell /i00104/cffa500Shadow Flow Pants/p?
+T	Sold successfully/i00023/c42adf8Hộ Vai Thổ Năng/p x 1	Sold successfully/i00023/c42adf8Earth Power Spaulders/p x 1
+T	Sold successfully/i00104/cffa500Quần  Lưu Ảnh /p x 1	Sold successfully/i00104/cffa500Shadow Flow Pants/p x 1
+T	Sold successfully/i00282/c4bf842Rương Vũ Khí Nặng Cấp 30 (Khóa)/p x 1	Sold successfully/i00282/c4bf842Lv 30 Heavy Weapon Chest (Bound)/p x 1
+T	Sold successfully: \n/i00221/ce5e5e5White Wolf/pX1\n/i00111/ce5e5e5Butterfly Blossom (2 Days)/pX1\n/i00141/ce5e5e5Thập Tự Quân/pX1\n/i00051/ce5e5e5Guardian Bow/pX1\nReceived: 7600 Copper	Sold successfully: \n/i00221/ce5e5e5White Wolf/pX1\n/i00111/ce5e5e5Butterfly Blossom (2 Days)/pX1\n/i00141/ce5e5e5Crusader/pX1\n/i00051/ce5e5e5Guardian Bow/pX1\nReceived: 7600 Copper
+T	Thập Tự Trảm(Lv 3)	Cross Slash (Lv 3)
+T	Trân thú cấp 40 trở nên không cho phép dùng vật phẩm này	Pets Lv 40 and above cannot use this item
+T	Trứng Duệ Trí Sử Thi x 1	Epic Wise Pet Egg x 1
+T	Trứng Duệ Trí Sử Thi x 2	Epic Wise Pet Egg x 2
+T	Tử Điện Công+6Cấp	Purple Lightning Art +6 Lv
+T	Vô Ảnh Giả	Shadowless One
+T	bản chất thông minh(Lv 1)	Clever by Nature (Lv 1)
+T	vũ khí cổ xưa(Lv 2)	Ancient Weaponry (Lv 2)
+T	Điều Kiện Phản Xạ+3Cấp	Conditioned Reflex +3 Lv
+T	Đọa Sói Nộ Hống+1Cấp	Fallen Wolf Roar +1 Lv
+T	Đối phương đã offline không thể xem	Target is offline, cannot view
+T	Đồ Batman, cần client 21.0	Batman Outfit, requires client 21.0
+T	【Cấp Ác Mộng】Quyết chiến Nữ Bạo Lực	【Nightmare】Decisive Battle: Violent Maiden
