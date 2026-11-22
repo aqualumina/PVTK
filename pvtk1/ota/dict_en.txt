@@ -10371,3 +10371,143 @@ T	Đừng tha đám /cFF0000Tiểu Ác Ma/p, chúng sẽ gọi tới nhiều k�
 T	Đừng tưởng thứ gì trong mộ địa cũng dễ đối phó như đám Xương này.	Do not assume everything in the graveyard is as easy to handle as these Skeletons.
 T	Đựng khá nhiều vật liệu kiến trúc	Contains plenty of construction materials
 T	Ở phía Tháp Trấn Yêu liên tiếp có 6 đạo thiên lôi, không đúng sao không phải 7 đạo? Lẽ nào có vấn đề? Chúng ta phải tới Tháp Trấn Yêu xem tình hình!	Six bolts of heavenly thunder just struck near Demon Subduing Pagoda—wait, why not seven? Could something be wrong? We must go to Demon Subduing Pagoda and check!
+T	A Bảo	A Bao
+T	Băng Nguyên Tố	Ice Elemental
+T	Băng Tuyết Linh	Ice Snow Spirit
+T	Bạch Hổ Hống（Cấp 1）	White Tiger Roar (Lv 1)
+T	Chiến Nữ Bộc	Battle Maid
+T	Chỉ Lệnh Thư	Order Book
+T	Chủa nhân thành cấp 30 trở lên mới có thể nhận nhiệm vụ này.	City Lords Lv 30 or above can accept this quest.
+T	Cung Ma Tướng	Demon General Bow
+T	Cung của thần Cupid, bị bắng trúng sẽ bị thiêu đốt bởi ái tình, không thể khống chế	Bow of Cupid. Anyone struck is burned by uncontrollable love.
+T	Cường Hóa Trang Bị	Enhance Equipment
+T	Dung Nham Nguyên Tố	Lava Elemental
+T	Găng Vảy Rồng	Dragon Scale Gloves
+T	Gỗ Vụn Cấp 3	Lv 3 Scrap Wood
+T	Hoa Điệp (2 ngày)	Butterfly Blossom (2 Days)
+T	Huyền Vũ Giáp（Cấp 3）	Black Tortoise Armor (Lv 3)
+T	Hồng Viêm Thiếu Nữ (Tiến hóa)	Crimson Flame Maiden (Evolved)
+T	Hộ Vai Nguyệt Minh	Bright Moon Spaulders
+T	Luyện ngục chân hỏa	Purgatory True Fire
+T	Lâm Chiến Ưng	Battle Falcon
+T	Ma Dực Tùy Táng	Funerary Demon Wings
+T	Ma Kiếm	Demon Sword
+T	Ma Thương truyền thuyết	Legendary Demon Spear
+T	Manh Nữ Bộc	Cute Maid
+T	Miêu Nữ	Cat Girl
+T	Nhiệm Vụ Hàng Ngày Cao Cấp	Advanced Daily Quest
+T	Nhiệm vụ cao cấp Đồng Tuyệt Vọng	Despair Plains Advanced Quest
+T	Nỏ Lang Nha[Độc]	Wolf Fang Crossbow [Poison]
+T	Nỏ Vân Linh[Đạn Vũ]	Cloud Spirit Crossbow [Feather Bolt]
+T	Nữ Bộc Chiến (Tiến hóa)	Battle Maid (Evolved)
+T	Phần thưởng nhiệm vụ (Bùa chú Ác Ma)	Quest Reward (Demon Talisman)
+T	Phần thưởng nhiệm vụ (Bẫy của mộ huyệt)	Quest Reward (Catacomb Trap)
+T	Phần thưởng nhiệm vụ (Bẫy)	Quest Reward (Trap)
+T	Phần thưởng nhiệm vụ (Chuẩn bị)	Quest Reward (Ready)
+T	Phần thưởng nhiệm vụ (Cương Thi hồi sinh)	Quest Reward (Jiangshi Revives)
+T	Phần thưởng nhiệm vụ (Cương Thi)	Quest Reward (Jiangshi)
+T	Phần thưởng nhiệm vụ (Cấp bách)	Quest Reward (Urgent)
+T	Phần thưởng nhiệm vụ (Cổ mộ kịch biến)	Quest Reward (Cataclysm in Ancient Tomb)
+T	Phần thưởng nhiệm vụ (Cửa vào mộ huyệt tầng 3)	Quest Reward (Catacombs F3 Entrance)
+T	Phần thưởng nhiệm vụ (Gác Mộ)	Quest Reward (Tomb Guard)
+T	Phần thưởng nhiệm vụ (Hiền Giả bị thương)	Quest Reward (The Sage is Injured)
+T	Phần thưởng nhiệm vụ (Hoàn thành giai đoạn Núi Nguyệt Nha cao cấp)	Quest Reward (Complete Advanced Crescent Mountain Stage)
+T	Phần thưởng nhiệm vụ (Hoàn thành nhiệm vụ Mộ Phong Ấn trung cấp)	Quest Reward (Complete Intermediate Sealed Tomb Quest)
+T	Phần thưởng nhiệm vụ (Hoàn thành nhiệm vụ sơ cấp Mộ Hán Vương)	Quest Reward (Complete Novice Han King Tomb Quest)
+T	Phần thưởng nhiệm vụ (Huyết ấn của Kị Sĩ Chết)	Quest Reward (Death Knight's Blood Seal)
+T	Phần thưởng nhiệm vụ (Huyết ấn của Mỹ Lạp Hai Đầu)	Quest Reward (Two-Headed Mira's Blood Seal)
+T	Phần thưởng nhiệm vụ (Huyết ấn của Pháp Sư Quên)	Quest Reward (Forgotten Mage's Blood Seal)
+T	Phần thưởng nhiệm vụ (Huyết ấn Ác Ma)	Quest Reward (Demon Blood Seal)
+T	Phần thưởng nhiệm vụ (Hạ Xương)	Quest Reward (Defeat Skeletons)
+T	Phần thưởng nhiệm vụ (Hỗn Loạn)	Quest Reward (Confusion)
+T	Phần thưởng nhiệm vụ (Hợp lực)	Quest Reward (Join Forces)
+T	Phần thưởng nhiệm vụ (Khống chế sức mạnh Ác Ma)	Quest Reward (Control Demon Power)
+T	Phần thưởng nhiệm vụ (Kẻ địch bất ngờ)	Quest Reward (Unexpected Enemy)
+T	Phần thưởng nhiệm vụ (Lăng mộ tuẫn táng)	Quest Reward (Sacrificial Tomb)
+T	Phần thưởng nhiệm vụ (Mộ cung tầng 2)	Quest Reward (Tomb Palace 2F)
+T	Phần thưởng nhiệm vụ (Mộ huyệt nguy hiểm)	Quest Reward (Dangerous Tomb)
+T	Phần thưởng nhiệm vụ (Mộ huyệt tối đen)	Quest Reward (Pitch-Black Tomb)
+T	Phần thưởng nhiệm vụ (Mộ địa Cổ Thi)	Quest Reward (Ancient Corpse Graveyard)
+T	Phần thưởng nhiệm vụ (Mộ địa Tướng Quân)	Quest Reward (General's Graveyard)
+T	Phần thưởng nhiệm vụ (Mộ địa)	Quest Reward (Graveyard)
+T	Phần thưởng nhiệm vụ (Ngăn cản Sứ Đồ)	Quest Reward (Stop the Apostle)
+T	Phần thưởng nhiệm vụ (Phi Đầu Man)	Quest Reward (Flying-Head Savage)
+T	Phần thưởng nhiệm vụ (Phong thủy)	Quest Reward (Feng Shui)
+T	Phần thưởng nhiệm vụ (Phong ấn Mộng Yểm)	Quest Reward (Seal Nightmare)
+T	Phần thưởng nhiệm vụ (Phá bẫy)	Quest Reward (Disarm Trap)
+T	Phần thưởng nhiệm vụ (Pháp Sư Xương)	Quest Reward (Skeleton Mage)
+T	Phần thưởng nhiệm vụ (Pháp sư hắc ám)	Quest Reward (Dark Mage)
+T	Phần thưởng nhiệm vụ (Quái vật không ngừng phân tách)	Quest Reward (The monsters keep splitting endlessly!)
+T	Phần thưởng nhiệm vụ (Sư Phụ Bẫy)	Quest Reward (Trap Master)
+T	Phần thưởng nhiệm vụ (Sứ Đồ ngông cuồng)	Quest Reward (Arrogant Apostle)
+T	Phần thưởng nhiệm vụ (Sứ Đồ quấy nhiễu)	Quest Reward (Troublesome Apostle)
+T	Phần thưởng nhiệm vụ (Thi biến)	Quest Reward (Corpse Mutation)
+T	Phần thưởng nhiệm vụ (Thiên huyền xuất hiện)	Quest Reward (Tian Xuan appears)
+T	Phần thưởng nhiệm vụ (Thiếu Niên Bị Khóa)	Quest Reward (Chained Youth)
+T	Phần thưởng nhiệm vụ (Thiếu niên bị bắt)	Quest Reward (Captured Youth)
+T	Phần thưởng nhiệm vụ (Thuộc hạ của Mộng Yểm)	Quest Reward (Nightmare's Subordinate)
+T	Phần thưởng nhiệm vụ (Thủ Hộ Giả phẫn nộ)	Quest Reward (Furious Guardian)
+T	Phần thưởng nhiệm vụ (Thủ hạ của Mộng Yểm)	Quest Reward (Nightmare's Subordinate)
+T	Phần thưởng nhiệm vụ (Trận chiến cuối cùng)	Quest Reward (Final Battle)
+T	Phần thưởng nhiệm vụ (Tìm Hiền Giả)	Quest Reward (Find the Sage)
+T	Phần thưởng nhiệm vụ (Tìm cửa vào khác)	Quest Reward (Find another entrance)
+T	Phần thưởng nhiệm vụ (Tướng Thủ Mộ)	Quest Reward (Grave Guard General)
+T	Phần thưởng nhiệm vụ (Tập hợp)	Quest Reward (Gather)
+T	Phần thưởng nhiệm vụ (Tới Cổ Mộ Tầng 2)	Quest Reward (Go to Ancient Tomb 2F)
+T	Phần thưởng nhiệm vụ (Tới Mộ Phong Ấn Tầng 2)	Quest Reward (Go to Sealed Tomb Floor 2)
+T	Phần thưởng nhiệm vụ (Viện trợ của phe ta)	Quest Reward (Our Faction's Reinforcements)
+T	Phần thưởng nhiệm vụ (Vùng hung ác)	Quest Reward (Fierce Region)
+T	Phần thưởng nhiệm vụ (Xạ Thủ Xương)	Quest Reward (Skeleton Archer)
+T	Phần thưởng nhiệm vụ (Yêu Tóc Rắn)	Quest Reward (Snake-Haired Demon)
+T	Phần thưởng nhiệm vụ (Ác Ma Hút Máu)	Quest Reward (Bloodsucking Demon)
+T	Phần thưởng nhiệm vụ (Ác Ma bỏ trốn)	Quest Reward (Fleeing Demon)
+T	Phần thưởng nhiệm vụ (Ác Ma hút máu)	Quest Reward (Bloodsucking Demon)
+T	Phần thưởng nhiệm vụ (Ác Ma trong mộ huyệt)	Quest Reward (Demons in the Tomb)
+T	Phần thưởng nhiệm vụ (Ác Ma uy hiếp)	Quest Reward (Demonic Threat)
+T	Phần thưởng nhiệm vụ (Ác ma Khu Dung Nham)	Quest Reward (Lava Zone Demon)
+T	Phần thưởng nhiệm vụ (Âm mưu của kẻ địch)	Quest Reward (Enemy Plot)
+T	Phần thưởng nhiệm vụ (Âm thanh trong mộ huyệt)	Quest Reward (Sounds in the Tomb)
+T	Phần thưởng nhiệm vụ (Đuổi theo)	Quest Reward (Pursuit)
+T	Phần thưởng nhiệm vụ (Đào Mộ bị vây)	Quest Reward (Tomb Raider Surrounded)
+T	Phần thưởng nhiệm vụ (Đào mộ)	Quest Reward (Grave Digging)
+T	Phần thưởng nhiệm vụ (Đám đông Sứ Đồ)	Quest Reward (Horde of Apostles)
+T	Phần thưởng nhiệm vụ (Đại quân hành động)	Quest Reward (Grand Army Advances)
+T	Phần thưởng nhiệm vụ (Đẩy lui Cổ Thi)	Quest Reward (Repel Ancient Corpses)
+T	Raclette(Male) Lv 40\nEastern Swordsman\nMap:  Thành của mình\n	Raclette(Male) Lv 40\nEastern Swordsman\nMap:  My City\n
+T	Slot: /cc45712 Silver1030000/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Back    /cffa500Epic/p\n/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/pArmor:   Slash 300  Pierce 300  MP 100\nRequirement: /cff0000Lv 50/p\nDurability: 127/127\nRớt trong phó bản Đoàn Tùy Táng\n	Slot: /cc45712 Silver1030000/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Back    /cffa500Epic/p\n/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/pArmor:   Slash 300  Pierce 300  MP 100\nRequirement: /cff0000Lv 50/p\nDurability: 127/127\nDrops in Funerary Corps dungeon\n
+T	Slot: /cffff00 KNB1030/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Offhand    /cffa500Epic/p\n/c00ff00Max HP+1000/p /cb0a67a\nUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/pArmor:   Slash 700  Pierce 700  MP 900\nRequirement: /cff0000Lv 50/p\nDurability: 200/200\n trang bị với vũ khí tay đơn\n	Slot: /cffff00 KNB1030/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Offhand    /cffa500Epic/p\n/c00ff00Max HP+1000/p /cb0a67a\nUnidentified Stat \n/p/cb0a67aUnidentified Stat \n/pArmor:   Slash 700  Pierce 700  MP 900\nRequirement: /cff0000Lv 50/p\nDurability: 200/200\n Equip with a one-handed weapon\n
+T	Slot: /cffff00 KNB155/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Mount    /cc63be9Legend/p\n/c00ff00Max MP+1364/p /c00ff00Wisdom+49/p\n/cb0a67aArmor Pierce+21%(Requires Lock)\n/p/cb0a67aStrength+32(Requires Lock)\n/p/cffff00Lực Ngũ Hành+6Cấp\n/pArmor:   Slash 700  Pierce 700  MP 400\nRequirement: /cff0000Lv 50/p\nDurability: 195/200\nMatures from dragon hatchling\n	Slot: /cffff00 KNB155/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Mount    /cc63be9Legend/p\n/c00ff00Max MP+1364/p /c00ff00Wisdom+49/p\n/cb0a67aArmor Pierce+21%(Requires Lock)\n/p/cb0a67aStrength+32(Requires Lock)\n/p/cffff00Five Elements Power +6 Lv\n/pArmor:   Slash 700  Pierce 700  MP 400\nRequirement: /cff0000Lv 50/p\nDurability: 195/200\nMatures from dragon hatchling\n
+T	Slot: /cffff00 KNB50/p/cc45712 Silver15000/p\nUnlocked    Normal Item\nRange: Square\nTrận hình tốc độ，tổ đổi trên 3，phiên bản 24.0 có thể dùng\n	Slot: /cffff00 KNB50/p/cc45712 Silver15000/p\nUnlocked    Normal Item\nRange: Square\nSpeed formation, team of 3+, usable in version 24.0\n
+T	Slot: /cffff00 KNB515/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Mount    /cc63be9Legend/p\n/c00ff00Atk Count+1/p   /c00ff00Strength+9%/p\n/cb0a67aIgnore DMG Immunity+172(Requires Lock)\n/p/cb0a67aAtk Count+1(Requires Lock)\n/p/c00ff00Wisdom+6(Inlay 3)\n/p/cffff00Bùa Thần Bí+8Cấp\n/pArmor:   Slash 1600  Pierce 1600  MP 1600\nRequirement: /cff0000Lv 50/p\nDurability: 159/200\nEvolved from Dreadbeast, enhanced at New Moon Square.\n	Slot: /cffff00 KNB515/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Mount    /cc63be9Legend/p\n/c00ff00Atk Count+1/p   /c00ff00Strength+9%/p\n/cb0a67aIgnore DMG Immunity+172(Requires Lock)\n/p/cb0a67aAtk Count+1(Requires Lock)\n/p/c00ff00Wisdom+6(Inlay 3)\n/p/cffff00Mysterious Talisman +8 Lv\n/pArmor:   Slash 1600  Pierce 1600  MP 1600\nRequirement: /cff0000Lv 50/p\nDurability: 159/200\nEvolved from Dreadbeast, enhanced at New Moon Square.\n
+T	Slot: /cffff00 KNB72100/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Mount    /cc63be9Legend/p\n/c00ff00Atk Speed+1320\n/p/c00ff00Status Resist+200\n/p/cb0a67aIgnore Status Resist+90(Requires Lock)\n/p/cb0a67aDMG Immune Shield+3(Requires Lock)\n/p/c00ff00Agility+52(Inlay Destroyed)\n/p/cffff00Chu Tước Phạn Thiên+22Cấp\n/pArmor:   Slash 3000  Pierce 3000  MP 3000\nRequirement: /cff0000Lv 75/p\nDurability: 79/200\nTồn tại trong truyền thuyết\n	Slot: /cffff00 KNB72100/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Mount    /cc63be9Legend/p\n/c00ff00Atk Speed+1320\n/p/c00ff00Status Resist+200\n/p/cb0a67aIgnore Status Resist+90(Requires Lock)\n/p/cb0a67aDMG Immune Shield+3(Requires Lock)\n/p/c00ff00Agility+52(Inlay Destroyed)\n/p/cffff00Vermilion Bird Skyburn +22 Lv\n/pArmor:   Slash 3000  Pierce 3000  MP 3000\nRequirement: /cff0000Lv 75/p\nDurability: 79/200\nExists in legend\n
+T	Slot: /cffff00 KNB73/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Mount    /cc63be9Legend/p\n/c00ff00Max HP+694/p   /cb0a67a\nSynthetic Stat\n/p/cb0a67aCounter+86(Requires Lock)\n/p/cb0a67aCounter+42(Requires Lock)\n/pArmor:   Slash 1500  Pierce 1500  MP 1500\nRequirement: /cff0000Lv 55/p\nDurability: 70/200\nQuà nạp thẻ.\n	Slot: /cffff00 KNB73/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Mount    /cc63be9Legend/p\n/c00ff00Max HP+694/p   /cb0a67a\nSynthetic Stat\n/p/cb0a67aCounter+86(Requires Lock)\n/p/cb0a67aCounter+42(Requires Lock)\n/pArmor:   Slash 1500  Pierce 1500  MP 1500\nRequirement: /cff0000Lv 55/p\nDurability: 70/200\nTop-Up Gift.\n
+T	Slot: /cffff00 KNB824/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Offhand    /cffa500Epic/p\n/c00ff00Max HP+1000/p /cb0a67a\nBlock+185(Requires Lock)\n/p/cb0a67aMagic Reflect+152(Requires Lock)\n/pArmor:   Slash 700  Pierce 700  MP 900\nRequirement: /cff0000Lv 50/p\nDurability: 200/200\n trang bị với vũ khí tay đơn\n	Slot: /cffff00 KNB824/p\n/cb0a67a☆  (Star Up Locked)\n/pUnlocked Appraisable    Offhand    /cffa500Epic/p\n/c00ff00Max HP+1000/p /cb0a67a\nBlock+185(Requires Lock)\n/p/cb0a67aMagic Reflect+152(Requires Lock)\n/pArmor:   Slash 700  Pierce 700  MP 900\nRequirement: /cff0000Lv 50/p\nDurability: 200/200\n Equip with a one-handed weapon\n
+T	Sách Hiền Giả-Hiểu Nguyên Tố	Sage Book: Elemental Comprehension
+T	Sách Pháp Sư-Sủng Khế Ước	Mage Book: Pet Pact
+T	Sách Pháp Sư-Thấu Ma Pháp	Mage Book: Magic Penetration
+T	Sách Tu Chân-Luyện Khí Thuật	Taoist Book: Qi Refining
+T	Thanh Long Ấn（Cấp 1）	Azure Dragon Seal (Lv 1)
+T	Thiên Sinh Cường Tráng(Lv 1)	Innate Vigor (Lv 1)
+T	Thuẫn Tháp Sáng	Bright Tower Shield
+T	Thông qua Trạm Phi Hành tới Thánh Vực, giúp họ giải quyết vấn đề của thương hội	Travel to Sanctuary via the Flight Station and help them resolve the merchant guild's trouble.
+T	Thú Cưỡi Mãnh Hổ	Fierce Tiger Mount
+T	Thương Phá Diệt	Destruction Spear
+T	Thương đội từ Đồng Tuyệt Vọng tới Thánh Vực thường bị Dã Nhân tập kích, có thể thông qua Trạm Phi Hành tới Thánh Vực giúp họ giải quyết vấn đề này.	Caravans traveling from Despair Plains to Sanctuary are often ambushed by Savages. You can go to Sanctuary via the Flight Station to help them resolve this.
+T	Thưởng Hành Động Thích Sát II	Assassination Operation II Reward
+T	Thưởng Mộ Hán Vương III	Han King's Tomb Reward III
+T	Thưởng Mộ Phong Ấn III	Sealed Tomb Reward III
+T	Tiên Linh (Tiến hóa)	Fairy Spirit (Evolved)
+T	Trận hình phòng ngự，tổ đổi trên 3，phiên bản 24.0 có thể dùng	Defense formation, team of 3+, usable in version 24.0
+T	Trận hình tấn công，tổ đổi trên 3，phiên bản 24.0 có thể dùng	Attack formation, team of 3+, usable in version 24.0
+T	Trận hình tốc độ，tổ đổi trên 3，phiên bản 24.0 có thể dùng	Speed formation, team of 3+, usable in version 24.0
+T	Tên Cupid+1Cấp	Cupid's Arrow +1 Lv
+T	Tường Vi Tất Diệt+1Cấp	Rose Annihilation +1 Lv
+T	Tự Nhiên Thủ Hộ(Lv 1)	Nature's Guardian (Lv 1)
+T	Viêm Nha Liệt Phá	Flame Fang Cleave
+T	Vương Nha Giảo+1Cấp	Royal Fang Bite +1 Lv
+T	Xem ra tà linh đã tập kích toàn Thế Giới. Chúng ta phải tăng cường phòngthủ, chúng ta không biết rồi sẽ phải đối diện với những việc gì.	It seems evil spirits have attacked the entire world. We must strengthen our defenses—we don't know what we'll have to face next.
+T	Xích Diệm Chu Tước	Scarlet Flame Vermilion Bird
+T	Đai Sư Tâm	Master Heart Belt
+T	Đai Tinh Nguyệt	Star Moon Belt
+T	Đai Viêm Văn	Flame Pattern Belt
+T	Đại Dực Thú	Great Winged Beast
