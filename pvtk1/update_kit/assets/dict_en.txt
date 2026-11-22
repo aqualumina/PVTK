@@ -10511,3 +10511,183 @@ T	Đai Sư Tâm	Master Heart Belt
 T	Đai Tinh Nguyệt	Star Moon Belt
 T	Đai Viêm Văn	Flame Pattern Belt
 T	Đại Dực Thú	Great Winged Beast
+T	/c00FF00Cấp quái của bản đồ này là LV16/p. Chân Núi Nguyệt Nha, thường có Dã Lang và Ma Ưng ẩn nấp.	/c00FF00Monster level of this map is Lv 16/p. Crescent Mountain Foot, where Wild Wolves and Demon Hawks often lurk.
+T	/c00FF00Cấp quái của bản đồ này là LV30/p. Sói Tuyết và Vong Linh vô số, sẵn sàng hạ bất cứ kẻ nào. Ngoài những Thương Nhân cần tiền hơn mạng ra, nếu gặp quái khác đều khó tưởng tượng hậu quả.	/c00FF00Monster level of this map is Lv 30/p. Countless Snow Wolves and Undead stand ready to strike down anyone. Except for Merchants who value coin over life, encountering monsters here brings unimaginable consequences.
+T	/c00FF00Cấp quái của bản đồ này là LV34/p. Các dã thú và nguyên tố trong sa mạc trở lên điên cuồng. Tới loài người ở đây cũng vậy. Chắc phải có nguyên do…	/c00FF00Monster level of this map is Lv 34/p. The beasts and elementals in the desert have gone berserk, and even the humans here too. There must be a reason…
+T	/c00FF00Cấp quái của bản đồ này là LV34/p. Quái vật ở sa mạc ngày một nhiều, Lính Du Kỵ liên tục phải chiến đấu đã rất mệt mỏi. Họ đang cầu cứu các thế lực khác\n/cFFFF00(Teleport Stone required)/p	/c00FF00Monster level of this map is Lv 34/p. Monsters in the desert are growing in number; the Desert Rangers are exhausted from constant fighting and are calling on other factions for aid.\n/cFFFF00(Teleport Stone required)/p
+T	/c00FF00Cấp quái của bản đồ này là LV39/p. Quỷ Giới nhiễu loạn, Tiểu Diêm Vương và Hắc Quỷ Vương quyết chiến, vô vàn Quỷ Giới ngục tốt chờ nổi dậy	/c00FF00Monster level of this map is Lv 39/p. The Demon Realm is in turmoil; Little Yama and the Black Demon King clash in decisive battle, while countless Demon Realm jailers await uprising.
+T	/c00FF00Cấp quái của bản đồ này là LV39/p. Địa ngục rửa lửa. Nơi này có các khí tức đọa lạc và hủ lạn…	/c00FF00Monster level of this map is Lv 39/p. Hell cleansed in fire. This place reeks of corruption and decay…
+T	/c00FF00Cấp quái của bản đồ này là LV39/p. Địa ngục rực lửa là nơi ở của Hỏa Nguyên Tố và Ưng Nhân	/c00FF00Monster level of this map is Lv 39/p. The blazing inferno is home to Fire Elementals and Hawkmen.
+T	/c00FF00Cấp quái của bản đồ này là LV4/p.Quảng Trường Thần Kiếm là quảng trường trước điện nghị sự của Thục Sơn, ở giữa có trấn yêu kiếm, là nơi mở Thiên Lôi Trận	/c00FF00Monster level of this map is Lv 4/p. Divine Sword Square lies before the council hall of Mount Shu, with a demon-sealing sword at its center—where the Heavenly Thunder Array is activated.
+T	/c00FF00Cấp quái của bản đồ này là LV40/p. Nơi này là điểm dừng chân của các nhà mạo hiểm mặc dù có nhiều mãnh thú và những bộ lạc ăn thịt người chưa được khai hóa.	/c00FF00Monster level of this map is Lv 40/p. A resting spot for adventurers, despite ferocious beasts and uncivilized cannibal tribes.
+T	/c00FF00Cấp quái của bản đồ này là LV40/p. Trong rừng chứa đựng những hiểm nguy mà mi khó lòng tưởng tượng.	/c00FF00Monster level of this map is Lv 40/p. In the forest lie perils beyond your imagination.
+T	/c00FF00Cấp quái của bản đồ này là LV45/p. Mỗi tầng của nơi này đều phong ấn những sinh vật tà ác tột cùng…	/c00FF00Monster level of this map is Lv 45/p. Each floor here seals supremely evil creatures…
+T	/c00FF00Cấp quái của bản đồ này là LV45/p.Thực Thi Quỷ điên cuồng tấn công mi, mi không nghĩ được cách nào để tiến thêm 1 bước	/c00FF00Monster level of this map is Lv 45/p. Ghouls attack you frantically; you cannot find any way to advance another step.
+T	/c00FF00Cấp quái của bản đồ này là LV45/p.“Không kẻ nào ngăn được ta hồi sinh thê tử!” Hắc Ma Đạo Sư gầm lên, “Cho dù phải hủy diệt cả thế giới cũng cam lòng."	/c00FF00Monster level of this map is Lv 45/p. “No one can stop me from reviving my wife!” the Dark Archmage roared, “Even if I must destroy the entire world!”
+T	/c00FF00Cấp quái của bản đồ này là LV50/p. Núi Nguyệt Nha gần đây yêu khí ngút trời. Liên minh Đông phương kêu gọi hiệp sĩ tới thảo phạt. Đây là nhiệm vụ phó bản tinh anh cấp 50.	/c00FF00Monster level of this map is Lv 50/p. Demonic energy soars at Crescent Mountain. The Eastern Alliance calls knights to crusade. This is an elite Lv 50 dungeon quest.
+T	/c00FF00Cấp quái của bản đồ này là LV50/p. Đông Hại không vui, quân của y bị quái vật ở Sa Mạc Thất Hồn tập kích, hàng hóa tổn thất. Đông Hại Nộ thông báo nhiệm vụ ở Tử Cấm Thành. Ai giúp y hạ được quái vật sẽ có thưởng.	/c00FF00Monster level of this map is Lv 50/p. Dong Hai is displeased—his troops were ambushed by monsters in Lost Soul Desert, losing cargo. Enraged Dong Hai posted a quest in Forbidden City; anyone who helps slay the monsters will be rewarded.
+T	/c00FF00Cấp quái của bản đồ này là LV7/p. Sau Thục Sơn là 1 trong các cấm địa của Thục Sơn, có nhiều thủ hộ thú canh gác con đường tới Tháp Trấn Yêu.	/c00FF00Monster level of this map is Lv 7/p. Behind Mount Shu is one of Mount Shu's forbidden grounds, where many guardian beasts watch over the road to the Demon Subduing Pagoda.
+T	/c00FF00Phó bản đoàn thể chỉ 15 lần chiến đấu thắng đầu tiên nhận được tích điểm/p. Vì thế hãy chọn quái cấp cao chiến đấu để nhận phần thưởng lớn nhất. Tiệm Tích Điểm sẽ mở sau. Lần này chiến đấu có thể nhận /c00FF00Nhẫn Lang Vương, Nhẫn Nữ Yêu, trang bị loại Vô Đầu, các bảo thạch./p	/c00FF00In the Guild Dungeon, only the first 15 victorious battles grant points/p. Choose high-level monsters to fight for the greatest rewards. The Points Shop will open later. This battle can drop /c00FF00Wolf King Ring, Banshee Ring, Headless-series gear, and various gems./p
+T	/cffff00Objective: /pComplete quest </cff0000Hoàn thành nhiệm vụ Đồng Tuyệt Vọng/p>\nTravel to Sanctuary via the Flight Station and help them resolve the merchant guild's trouble.\n	/cffff00Objective: /pComplete quest </cff0000Complete Despair Plains Quest/p>\nTravel to Sanctuary via the Flight Station and help them resolve the merchant guild's trouble.\n
+T	/i00294/cffa500{}Ước nguyện - Phá thủ/p	/i00294/cffa500{}Wish - Break Defense/p
+T	170Lá	170 Leaves
+T	4CấpThành	Lv 4 City
+T	Báo Danh Phong Thần Bảng	Register for Gods Ranking
+T	Báo danh tham gia PK Team LSV	Register for Cross-Server Team PK
+T	Bãi Dung Nham Tầng 1 (Cấp 39)	Lava Grounds Floor 1 (Lv 39)
+T	Bãi Dung Nham Tầng 2 (Cấp 39)	Lava Grounds Floor 2 (Lv 39)
+T	Bãi Dung Nham Tầng 3 (Cấp 39)	Lava Grounds Floor 3 (Lv 39)
+T	Bản đồ Mạo Hiếm ( lv 10-35)	Adventure Map (Lv 10-35)
+T	Bảng Treo Thưởng	Bounty Board
+T	Chào! Lò luyện có thể luyện chế vật phẩm, trong  đây có khả năng mở ngẫu nhiên đại sư, mỗi đại sư có tác dụng khác nhau, cũng có thể chủ động mở. Sau khi mở đại sư, sẽ bảo lưu 24 giờ. Cấp 65 trở lên mới dùng được (chỉ có client 18.0 trở lên mới sử dụng được)	Hello! The Furnace can refine items and has a chance to randomly unlock a Master, each with different effects—you can also unlock one manually. Once unlocked, a Master lasts 24 hours. Available at Lv 65+ (requires client v18.0 or higher).
+T	Chân Núi Tử Vân	Purple Cloud Mountain Foot
+T	Chính Thái Trần Hồng	Shota Chen Hong
+T	Chúc phúc tân hôn	Wedding Blessing
+T	Chơi thử trò chơi trí nhớ (dễ)	Try Memory Game (Easy)
+T	Chơi thử trò chơi trí nhớ (khó)	Try Memory Game (Hard)
+T	Chơi thử trò chơi trí nhớ (thường)	Try Memory Game (Normal)
+T	Chỗ ta có nhiều đồ để mua, hãy chọn đi.	I have plenty of goods for sale—take your pick.
+T	Chỗ ta có rất nhiều đồ	I have lots of goods here
+T	Chủ nhân của thành cấp 30 trở lên mới có thể nhận nhiệm vụ này	Only City Lords of Lv 30 or higher can accept this quest
+T	Chủ nhân thành cấp 39 trở lên mới có thể nhận nhiệm vụ này	Only City Lords of Lv 39 or higher can accept this quest
+T	Complete quest </cff0000Hoàn thành nhiệm vụ Sa Mạc Thất Hồn cao cấp/p>	Complete quest </cff0000Complete Advanced Lost Soul Desert Quest/p>
+T	Complete quest </cff0000Hoàn thành nhiệm vụ Đồng Tuyệt Vọng/p>	Complete quest </cff0000Complete Despair Plains Quest/p>
+T	Cuộn Giám Định (10)	Appraisal Scroll (10)
+T	Cách Kết Hôn	How to Get Married
+T	Có thể tới các thành chính	Can travel to major cities
+T	Cường hóa trang bị	Enhance Equipment
+T	Cấp 30 trở lên mới có thể tham gia.	Lv 30 or higher required to participate.
+T	Cấp 40 trở lên mới có thể nhận nhiệm vụ này. Cấp mi thấp quá	Lv 40 or higher required to accept this quest. Your level is too low.
+T	Cấp báo! Đội 3, 4, 5 của Đoàn Tùy Táng đang tập kết ở phía đông Tử Cấm Thành hãy tới tăng viện. (Đoàn Tùy Táng là quân đoàn thần bí và nổi tiếng ác độc. Các nước đã nhiều lần phái quân tiêu diệt nhưng đều thất bại.)	Urgent report! Squads 3, 4, and 5 of the Funerary Corps are assembling east of Forbidden City—head there to reinforce! (The Funerary Corps is a mysterious, notoriously vicious legion. Many nations have sent armies to destroy them, yet all have failed.)
+T	Dân du mục ở Sa Mạc Thất Hồn cầu xin thành của chúng ta giúp đỡ. Lính Du Kỵ trên sa mạc nghe nói đang bảo vệ một kho báu. Hãy tới Sa Mạc Thất Hồn xem sao.	Nomads in Lost Soul Desert have begged our city for help. Word is the Desert Rangers are guarding a treasure there. Go to Lost Soul Desert and investigate.
+T	Go to shop to buy Không có Vé Giám Định tương ứng\n?	No matching Appraisal Ticket. Go to shop to buy\n?
+T	Góc Sa Mạc Thất Hồn (Nhiệm vụ Nguyên Đán)	Lost Soul Desert Corner (New Year Quest)
+T	Gần đây ăn quá nhiều bánh, đường trong máu tăng cao, nhìn cái gì cũng chướng mắt.	I've eaten too many cakes lately—my blood sugar is so high that everything is an eyesore.
+T	Hi! Lò luyện có thể chế được VP, khi luyện chế có thể mở ra Đại Sư với những vai trò khác nhau, cũng có thể mở thủ công. Sau khi mở sẽ tồn tại 24h. Lv65 trở lên được dùng chức năng này. (Client bản 18.0 mới dùng được chức năng này)	Hi! The Furnace can craft items and may unlock Masters with different roles during refining—or you can unlock them manually. Once unlocked, they last 24h. Available at Lv 65+ (requires client v18.0 or higher).
+T	Hiện tại chỉ mở tính năng hợp thành trang bị vũ khí cấp 45. Một số vũ khí có kĩ năng thuộc tính. Tiệm Phòng Cụ và Tiệm Thủ Sức 2 ngày nữa mới mở, phải đợi sau khi server bảo trì./c00FF00Giống cường hóa hợp thành trang bị, không ảnh hưởng tới thuộc tính giám định và bảo thạch khảm nạm/p	Currently only Lv 45 weapon synthesis is open; some weapons have elemental skills. The Armor Shop and Accessory Shop will open in 2 days after server maintenance./c00FF00Like gear enhancement synthesis, this does not affect appraised stats or inlaid gems./p
+T	Hoàn thành nhiệm vụ Sa Mạc Thất Hồn cao cấp	Complete Advanced Lost Soul Desert Quest
+T	Hoàn thành nhiệm vụ Đồng Tuyệt Vọng	Complete Despair Plains Quest
+T	Hoạt Động Thăng Cấp Nhận Thưởng	Level-Up Reward Event
+T	Huấn Luyện Viên Thợ Săn	Hunter Trainer
+T	Huấn luyện skill Pet nhạy bén	Train Agile Pet Skills
+T	Huấn luyện skill pet duệ trí	Train Wise Pet Skills
+T	Huấn luyện skill pet dũng mãnh	Train Valiant Pet Skills
+T	Hàm Đông Hải Bán Diêm	Salty Donghai Sells Salt
+T	Hãy thông qua Trạm Phi Hành tới /c00FF00Trại Huyết Yên/p.	Travel via the Flight Station to /c00FF00Blood Smoke Camp/p.
+T	HĐ Nguyên Đán kết thúc rồi, đến chỗ ta đổi quà đi	The New Year event has ended—come to me to exchange your gifts.
+T	Học Skill bị động	Learn Passive Skills
+T	Học Skill chủ động	Learn Active Skills
+T	Học Skill nghề	Learn Class Skills
+T	Học Skill tự động	Learn Auto Skills
+T	Hợp Thành Pet Duệ Trí	Synthesize Wise Pet
+T	Hợp Thành Pet Dũng Manh	Synthesize Valiant Pet
+T	Hợp thành Pet Nhạy Bén	Synthesize Agile Pet
+T	Hợp thành Pet, dùng Pet quý hợp thành phẩm chất hiếm. 100% thành công, /cFFDE00Sau khi hợp thành Pet có lv1/p.\nTiến hóa pet cần/cFFDE00Phẩm chát thường/ptăng dần từng bước. Có thể tăng đến lv truyền thuyết. Pet tiến hóa có lv Thiên Phú và tính trưởng thành cao hơn. Học skill giống như pet thường.	Pet Synthesis: Combine Fine pets to synthesize a Rare quality pet. 100% success; /cFFDE00after synthesis, the pet is Lv 1/p.\nPet Evolution requires /cFFDE00Normal quality/p and upgrades step by step up to Legendary. Evolved pets have higher Talent Lv and growth, and learn skills like normal pets.
+T	Hợp thành vũ khí cấp 45	Synthesize Lv 45 Weapons
+T	Hợp thành vật liệu	Synthesize Materials
+T	Kỹ năng thợ săn chính thức ra mắt, trong thời gian ra mắt nếu phát hiện bug hay kỹ năng quá mạnh thì hãy liên hệ chúng tôi, chúng tôi sẽ cân nhắc điều chỉnh theo ý kiến của các bạn, cám ơn các bạn, chúc các bạn chơi pvtk vui vẻ	Hunter skills are now officially live! During launch, if you discover any bugs or overpowered skills, please contact us—we will consider adjustments based on your feedback. Thank you, and enjoy playing PVTK!
+T	Ly Hôn	Divorce
+T	Là viện binh? Ngày tàn của Huyết Yên tới rồi.	Reinforcements? Blood Smoke's end is near.
+T	Lục Nhỉ Ni Hầu	Six-Eared Macaque
+T	Lục Tử	Lu Zi
+T	Mi chính là người liên quân cử tới sao?	Are you the one sent by the allied forces?
+T	Mi là người tình nguyện đó ư?	So you're the volunteer?
+T	Mua nhân vật.	Buy Character.
+T	Mở chế tạo Kiếm Nhẹ	Unlock Light Sword Crafting
+T	Mở chế tạo Pháp Trượng	Unlock Staff Crafting
+T	Mở chế tạo Thương	Unlock Spear Crafting
+T	Mở chế tạo vũ khí nặng	Unlock Heavy Weapon Crafting
+T	Mở hỏa thương luyện chế vũ khí	Unlock Firearm Weapon Refining
+T	Mở luyện chế vũ khí pháp khí	Unlock Talisman Weapon Refining
+T	Nguyên Tố Khế Ước	Contract Elemental
+T	Nguyên Tố Sinh Mệnh	Life Elemental
+T	Người ủy thác: Núi Nguyệt Nha xuất hiện yêu quái. Chúng ta cần người tới giúp diệt yêu	Client: Demons have appeared at Crescent Mountain. We need help exterminating them.
+T	Người ủy thác: Thương Nhân Sa Mạc. Sa Mạc Thất Hồn có nhiều quái vật tấn công thương nhân. Hãy tới Sa Mạc Thất Hồn tiêu diệt quái vật	Client: Desert Merchant. Many monsters are attacking merchants in Lost Soul Desert. Go to Lost Soul Desert and slay the monsters.
+T	Nhiệm vụ cao cấp Sa Mạc Thất Hồn	Lost Soul Desert Advanced Quest
+T	Nhiệm vụ sơ cấp Sa Mạc Thất Hồn	Lost Soul Desert Novice Quest
+T	Nhiệm vụ sơ cấp Đồng Tuyệt Vọng	Novice Despair Plains Quest
+T	Nhà Buôn Lò Luyện①	Furnace Merchant ①
+T	Nhà Buôn Lò Luyện②	Furnace Merchant ②
+T	Nhà Buôn Vũ Khí+Phòng Cụ	Weapon & Armor Merchant
+T	Nhân vật cấp 34 trở lên, mới có thể nhận nhiệm vụ này.	Characters Lv 34 or higher required to accept this quest.
+T	Nhân vật cấp 40 trở lên mới có thể nhận nhiệm vụ này	Characters Lv 40 or higher required to accept this quest
+T	Nhân vật cấp 45 trở lên mới có thể nhận nhiệm vụ này.	Characters Lv 45 or higher required to accept this quest.
+T	Nhân vật cấp 50 trở lên mới có thể giao dịch. Sau khi giao dịch trong vòng 10 ngày không thể bán lại. Treo bán sau 3 ngày nếu không bán được sẽ tự động gỡ xuống. Người chơi có thể tự hủy gỡ xuống. Sau khi mua nhân vật, nhân vật này sẽ trực tiếp vào trong tài khoản người chơi. Sau khi mua nhân vật sẽ có 1 lần quyền lợi đổi tên, đổi tên cần 500 Vàng	Characters must be Lv 50 or higher to trade. After trading, they cannot be resold for 10 days. Unsold listings are automatically removed after 3 days, or players may cancel them manually. Purchased characters are added directly to the buyer's account and include 1 name-change privilege (costs 500 Gold).
+T	Nhân vật cấp 50 trở lên mới có thể nhận nhiệm vụ này.	Characters Lv 50 or higher required to accept this quest.
+T	Núi Bát Quái	Eight Trigrams Mountain
+T	Núi Tử Vân tiên khí ngút ngàn, thu hút nhiều du khách và người tu tiên\n/cFFFF00(Teleport Stone required)/p	Purple Cloud Mountain is filled with immortal aura, attracting many travelers and cultivators.\n/cFFFF00(Teleport Stone required)/p
+T	Phụ nữ nhận quà	Claim Women's Gift
+T	Quest </cffff00[Tinh anh] Sa Mạc Thất Hồn/p> requirements not met.\nNhân vật cấp 45 trở lên mới có thể nhận nhiệm vụ này.	Quest </cffff00[Elite] Lost Soul Desert/p> requirements not met.\nCharacters Lv 45 or higher required to accept this quest.
+T	Quái vật ở sa mạc ngày một nhiều, Lính Du Kỵ liên tục phải chiến đấu đã rất mệt mỏi. Họ đang cầu cứu các thế lực khác	Monsters in the desert are growing in number; the Desert Rangers are exhausted from constant fighting and are calling on other factions for aid.
+T	Quản Hôn Nhân	Marriage Manager
+T	Quảng Trường Thần Kiếm (Cấp 4)	Divine Sword Square (Lv 4)
+T	Rừng Viễn Cổ (Cấp 40)	Ancient Forest (Lv 40)
+T	Sa Mạc Xích Viêm (Cấp 34)	Crimson Flame Desert (Lv 34)
+T	Sau Thục Sơn (Cấp 7)	Behind Mount Shu (Lv 7)
+T	Sau khi mở sẽ nhận 10 Cuộn Giám Định	Opening grants 10 Appraisal Scrolls
+T	Slot: /cffff00 KNB300/p\nAuto-lock    Normal Item\n/c00ff00Open directly/p    \nSau khi mở sẽ nhận 10 Cuộn Giám Định \n	Slot: /cffff00 Gold 300/p\nAuto-lock    Normal Item\n/c00ff00Open directly/p    \nOpening grants 10 Appraisal Scrolls \n
+T	Sửa ống nước (dễ)	Pipe Repair (Easy)
+T	Sửa ống nước (khó)	Pipe Repair (Hard)
+T	Sửa ống nước (thường)	Pipe Repair (Normal)
+T	Sửatrang bị	Repair Gear
+T	T.Gia phụ bản	Join Dungeon
+T	Ta ra đời để đối phó với nguy cơ lương thực của loài người, nhưng ta không muốn bị ăn nên đã trốn khỏi sở nghiên cứu. Ta cần bảo vệ những đồng đội giống ta.	I was created to solve humanity's food crisis, but I didn't want to be eaten so I escaped the lab. I must protect comrades like me.
+T	Tham Gia Võ Đấu Cá Nhân	Join Solo Arena
+T	Tham Gia Võ Đấu Toàn Đội	Join Team Arena
+T	Thành Thái Dương ( lv 35)	Sun City (Lv 35)
+T	Thành của mình	My City
+T	Tháp Trấn Yêu (Cấp 10)	Demon Subduing Pagoda (Lv 10)
+T	Thông qua Trại Sa Mạc vào Bãi Dung Nham	Enter Lava Grounds via Desert Camp
+T	Thông qua Trạm Phi Hành của Tử Cấm Thành, tới Góc Sa Mạc Thất Hồn, giúp sa mạc thảo phạt quái vật.	Travel via Forbidden City's Flight Station to Lost Soul Desert Corner and help slay the desert monsters.
+T	Thông qua Trạm Phi Hành góc trái bên trên Tử Cấm Thành tới Góc Động Nguyệt Nha, thảo phạt yêu ma	Travel via the Flight Station at the top-left of Forbidden City to Crescent Cave Corner and slay the demons.
+T	Thông qua Tân Nguyệt Trấn vào Sa Mạc Xích Viêm, hoàn thành nhiệm vụ sơ cấp Sa Mạc Thất Hồn	Enter Crimson Flame Desert via Crescent Town and complete the Lost Soul Desert Novice Quest.
+T	Thông qua đây có thể tới các bản đồ nhiệm vụ	Can travel to quest maps from here
+T	Thưởng Mộ Hán Vương II	Han King's Tomb Reward II
+T	Thưởng Mộ Phong Ấn II	Sealed Tomb Reward II
+T	Thưởng Núi Nguyệt Nha III	Crescent Mountain Reward III
+T	Thầy Pet	Pet Master
+T	Thợ Hợp Thành	Synthesis Master
+T	Thủ Vệ	Guard
+T	Tiến hóa Pet	Pet Evolution
+T	Tiểm điểm	Points Shop
+T	Tiểu Kỳ	Xiao Qi
+T	Trong Bãi Dung Nham, Tiểu Diêm Vương và Hắc Quỷ Vương đang tranh đoạt quyền thống trị địa ngục. Chúng ta có khả năng thay đổi cục diện của địa ngục và nhận được sức mạnh địa ngục giúp đỡ\n\n/cffff00Objective: /pComplete quest </cff0000Hoàn thành nhiệm vụ Sa Mạc Thất Hồn cao cấp/p>\n/cffff00Reward:/pExp 1000  City Prosperity 850  City Military Power 1500  \n	In the Lava Grounds, Little Yama and the Black Demon King are fighting for dominion over the underworld. We have the chance to shift the tide of the underworld and gain its power to aid us.\n\n/cffff00Objective: /pComplete quest </cff0000Complete Advanced Lost Soul Desert Quest/p>\n/cffff00Reward:/pExp 1000  City Prosperity 850  City Military Power 1500  \n
+T	Trong hộp có 99 Q. Cường Hóa TB Cố Định	Contains 99 Bound Gear Enhance Scrolls
+T	Trí nhớ	Memory
+T	Trại Sa Mạc (Cấp 34)	Desert Camp (Lv 34)
+T	Tân Nguyệt Trấn ( lv 35)	Crescent Town (Lv 35)
+T	Tây Truyền Lệnh	Western Edict
+T	Tương truyền Núi Tử Vân là tiên sơn, có thần tiên tu luyện.	Legend says Purple Cloud Mountain is an immortal peak where deities cultivate.
+T	Tết Trồng Cây đã tới, có thể tới chỗ ta để vào bản đồ sự kiện	Arbor Day has arrived—talk to me to enter the event map.
+T	Tới Núi Tử Vân (Nhiệm vụ cấp 40)	Go to Purple Cloud Mtn (Lv 40 Quest)
+T	Tới Sa Mạc Thất Hồn ( phó bản lv 45)	Go to Lost Soul Desert (Lv 45 Dungeon)
+T	Tới Trại Huyết Yên ( phó bản lv 40)	Go to Blood Smoke Camp (Lv 40 Dungeon)
+T	Tới bản đồ mạo hiểm ( lv 10-35)	Go to Adventure Map (Lv 10-35)
+T	Tới sơn động núi Nguyệt Nha	Go to Crescent Mountain Cave
+T	Tử Cấm Thành Vệ Binh Tuần Tra	Forbidden City Patrol Guard
+T	Tử Kim Công Chúa	Purple Gold Princess
+T	Vé Cường Hóa(99)	Enhance Ticket (99)
+T	Vấn đề của Sa Mạc Thất Hồn đã được giải quyết. Nhưng hiện chúng ta chưa đủ thực lực để đi khám phá thế giới khác. Hãy thăng lên cấp 39 rồi tính	The crisis in Lost Soul Desert has been resolved, but we are not yet strong enough to explore another realm. Reach Lv 39 first, then we'll see.
+T	Với thực lực hiện tại của chúng ta, e rằng khó có thể giỉai quyết vấn đề này. Hãy tăng tới cấp 35 đã	With our current strength, this problem will be hard to resolve. Reach Lv 35 first.
+T	Xem ra mi đã lôi kéo được thế lực của địa ngục, sức mạnh hủy diệt của địa ngục chính là thứ ta cần	So you've enlisted the underworld's forces—hell's destructive power is just what I need.
+T	Xương rồng xuất kích!	Cactus Strike!
+T	Yêu cầu: \nLever 40-49 và Level 90-97 \nLực chiến 2500\nMỐC THỜI GIAN\n1. Thời gian ghi danh: 3.8 - 17.8.2026\n2. Thời gian lấy data vào server Đấu Trường: 19/8/2026.\n3. Thời gian thi đấu: 20:00 ngày 22.8: bắt đầu thi đấu\n/c009ad6Lưu ý: Các chiến binh cần đăng ký đồng thời trong game và xác nhận tại Fanpage Phong Vân Truyền Kỳ 1/p	Requirements: \nLevel 40-49 and Level 90-97 \nCombat Power 2500\nSCHEDULE\n1. Registration: Aug 3 - Aug 17, 2026\n2. Arena Server Snapshot: Aug 19, 2026\n3. Match Start: 20:00 on Aug 22\n/c009ad6Note: Warriors must both register in-game and confirm on the Phong Van Truyen Ky 1 Fanpage./p
+T	[Tinh Anh] Đoàn Huyết Yên	[Elite] Blood Smoke Legion
+T	[Tinh anh] yêu ma núi Nguyệt Nha	[Elite] Crescent Mountain Demons
+T	[Tinh anh] Đoàn Tùy Táng	[Elite] Funerary Corps
+T	Điện Đón Khách (Tân thủ)	Reception Hall (Novice)
+T	Đoàn Huyết Yên cướp bóc khắp nơi, giết người vô số. Chúng ta triệu tập anh hùng các nước tiêu diệt đoàn Huyết Yên.. Nhiệm vụ chia thành 4 giai đoạn, đều là nhiệm vụ tổ đội, hãy thông qua Trạm Phi Hành tới /c00FF00Trại Huyết Yên/p.\n\n	The Blood Smoke Legion pillages everywhere and slaughters countless people. We are rallying heroes from all nations to destroy them. The quest has 4 team stages—travel via the Flight Station to /c00FF00Blood Smoke Camp/p.\n\n
+T	Đánh bại truy binh!	Defeat the Pursuers!
+T	Đánh bại Đoàn Tùy Táng	Defeat the Funerary Corps
+T	Đây là Hoàng Cung.	This is the Imperial Palace.
+T	Đây là là bản đồ tân thủ của Hiệp Khách và Tu Chân Đông phương. Ma Giáo đang có mưu đồ. Phái Thục Sơn mời các tiên sĩ tập trung tại Thục Sơn bàn bạc, Điện Đón Khách ở bên núi Thục Sơn.	This is the novice map for Eastern Swordsmen and Taoists. The Demon Cult is plotting in secret. Mount Shu Sect invites cultivators to gather at Mount Shu for council; Reception Hall is beside Mount Shu.
+T	Đông Hại Ăn No	Well-Fed Dong Hai
+T	Đông Hải Gian Thương	Donghai Profiteer
+T	Đại Lực Thần	Mighty God
+T	Đấu Trường Thiên Hạ sẽ mở từ 20:00 tới 21:00 mỗi ngày	World Arena opens daily from 20:00 to 21:00
+T	Đến Thái Hoa Thôn	Go to Taihua Village
+T	Đồ Thánh Kị	Holy Paladin Gear
+T	Đổi thưởng Nguyên Đán	New Year Reward Exchange
+T	Ở chỗ ta có thể huấn luyện trân thú	You can train rare pets here
+T	Ở đây có thể kết hôn, ta không thích giải quyết việc ly hôn, nhưng nếu mi kiên quyết, ta cũng sẽ giúp	You can get married here. I don't like handling divorces, but if you insist, I will still help.
+T	Ở đây có thể nhận các loại nhiệm vụ	You can accept various quests here
